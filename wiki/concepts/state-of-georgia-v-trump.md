@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [georgia, rico, 2020-election, lawfare, fulton-county]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-ee8.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-040.md, raw/badlands-news-brief-0ec.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-62d.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9de.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c05.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-ee8.md, raw/grand-jury-testimony-from-senator.md]
 confidence: medium
 ---
 
@@ -137,3 +137,11 @@ Badlands contributor [[ashe-in-america|Ashe in America]] wrote that no further m
 16. Badlands News Brief — "Bicameral Jailings, Russian Trolling and Retribution ...", URL: https://badlands.substack.com/p/badlands-news-brief-c05
 17. Badlands Brief — "Badlands News Brief: Ukrai-NATO Spins Up as Wokeness Spirals", URL: https://badlands.substack.com/p/badlands-news-brief-d00
 18. Badlands Media — "Badlands News Brief: Cohen Clown Show Continues as the Iranian Blame Game Begins", URL: https://badlands.substack.com/p/badlands-news-brief-ee8
+
+## Unsealing of the special grand jury transcripts
+
+Badlands Media characterized the case as having been manufactured by Fulton County District Attorney [[fani-willis|Fani Willis]] and [[nathan-wade|Nathan Wade]], and noted that it was ultimately dismissed on November 25, 2025.[19] The prosecution originated with [[donald-trump|Donald Trump]]'s surrender at the Fulton County Jail on August 24, 2023, after his indictment on racketeering and other charges tied to the 2020 election results in Georgia — the occasion of his widely circulated booking mugshot.[19]
+
+In January 2026, Judge [[scott-mcafee|Scott McAfee]] lifted the protective order over the special grand jury transcripts, releasing material that continued to shape public understanding of the 2020 election in Georgia even after the case's dismissal.[19] Among the released records was the September 6, 2022 transcribed interview of former U.S. Senator [[david-perdue|David Perdue]], in which he alleged that [[georgia-bureau-of-investigation|GBI]] Director [[vic-reynolds|Vic Reynolds]] declined to investigate [[ballot-harvesting|ballot harvesting]] evidence at the direction of Governor [[brian-kemp|Brian Kemp]].[19]
+
+19. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator

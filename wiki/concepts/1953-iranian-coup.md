@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, iran, regime-change, oil, britain]
-sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md]
+sources: [raw/badlands-news-brief-24e.md, raw/does-the-cia-still-control-iran.md, raw/how-to-rent-a-riot-the-plausible.md]
 confidence: medium
 ---
 
@@ -25,3 +25,9 @@ Writing for [[badlands-media|Badlands Media]] in July 2023, [[erik-carlson|Erik 
 
 Carlson identified the coup's director as [[kermit-roosevelt-jr|Kermit Roosevelt Jr.]], grandson of Theodore Roosevelt, and framed the British role in stronger terms than the standard account: with Iranian oil fields forming a large part of British Petroleum's production, the British — described as the CIA's "puppet masters" — asked the United States to remove the popular prime minister and install a CIA-, US- and British-friendly leader, [[mohammad-reza-pahlavi|the Shah of Iran]].[2] [[mohammad-mosaddegh|Mossadegh]] was tried for treason and placed under house arrest, and the Shah ruled for 26 years until the [[iranian-revolution|Iranian Revolution]] of 1979.[2] Carlson situated this within a broader claim that the [[city-of-london|City of London]] has always controlled America and still controls its banking system, and observed that the release of the film [[argo-film|*Argo*]] shortly preceded the CIA's admission about 1953.[2]
 2. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
+
+## Origin point of the rent-a-riot model
+
+In its survey of engineered civil unrest, Badlands Media dates the practice of intentionally manufacturing and directing protest to 1953, when the CIA and British MI6 orchestrated the overthrow of Iran's democratically elected Prime Minister Mohammad Mossadegh in Operation Ajax, also known as TPAJAX.[3] The article calls this the first major documented instance of Western intelligence agencies using paid and staged protests as the core mechanism for regime change, and argues that the tactic was subsequently employed countless times abroad before being turned inward on domestic populations through programs such as COINTELPRO and, later, the NGO cut-outs of the plausible deniability network.[3]
+
+3. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible

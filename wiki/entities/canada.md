@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [canada, trade, globalism, tariffs, north-america]
-sources: [raw/badlands-brief-a84.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-cf8.md, raw/canadas-transition-to-collectivist.md]
+sources: [raw/badlands-brief-a84.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-ae1.md, raw/badlands-news-brief-cf8.md, raw/canadas-transition-to-collectivist.md, raw/gender-ideology-has-become-law.md]
 confidence: medium
 ---
 
@@ -60,3 +60,12 @@ Ehret also recounts that American plans [[war-plan-red|War Plan Red]] and War Pl
 3. Badlands News Brief — "Defiant Deportations & Canadian Freeloaders", URL: https://badlands.substack.com/p/badlands-news-brief-ae1
 4. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
 5. Badlands Brief — "Canada's Transition to Collectivist Green Dystopia", URL: https://badlands.substack.com/p/canadas-transition-to-collectivist
+6. Badlands Brief — "Gender Ideology Has Become Law", URL: https://badlands.substack.com/p/gender-ideology-has-become-law
+
+## Gender ideology in Canadian law
+
+A February 2024 Badlands Media essay by [[justin-deschamps|Justin Deschamps]], assisted by [[simon-esler|Simon Esler]], argued that in Canada [[gender-ideology|gender ideology]] has been made "the supreme law" through decades of incremental [[lawfare|lawfare]] and [[social-engineering|social engineering]].[6] The Northwest Territories became the first Canadian jurisdiction to add "gender identity" as a prohibited ground of discrimination in its human rights legislation in 2002, and in 2016 the government of [[justin-trudeau|Justin Trudeau]] amended federal human rights legislation to make it a national framework — see [[bill-c-16|Bill C-16]] and the [[canadian-human-rights-act|Canadian Human Rights Act]].[6] The essay credits [[ontario|Ontario]] and the [[ontario-human-rights-commission|Ontario Human Rights Commission]] with supplying the policy template.[6]
+
+The essay traced the flashpoint back to the February 2007 complaint by [[kimberly-nixon|Kimberly Nixon]] against [[vancouver-rape-relief|Vancouver Rape Relief]], and argued that public acceptance was engineered by conflating gender ideology with gay rights while the Pride acronym expanded from LGB to 2SLGBTQIA+.[6] It cited federal employee benefits of roughly $75,000 per person for sex-change procedures as a downstream consequence.[6] Because all three main federal parties contributed to gender-identity lawmaking — including an [[ontario-new-democratic-party|Ontario NDP]] bill of April 4, 2023 that would have banned protest at [[drag-queen-story-hour|drag queen story hour]] — the author described the situation as a [[uniparty|Uniparty]] problem rather than a genuine partisan conflict.[6]
+
+In medicine, the essay stated that [[gender-affirming-care|gender affirmative care]] promoted by [[wpath|WPATH]] has been fully adopted in Canada by legislators, politicians, and medical professionals, in contrast to restrictions imposed by the [[nhs|NHS]] in England and by Sweden, Norway, and Finland.[6] The nationwide [[1-million-march-for-children|1 Million March for Children]] was cited as evidence that Canadian parents had awakened to the issue and to the erosion of [[parental-rights|parental rights]].[6]

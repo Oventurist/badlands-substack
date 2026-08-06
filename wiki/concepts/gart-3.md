@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, events, great-awakening, conferences]
-sources: [raw/badlands-news-brief-49d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-bd6.md, raw/exclusive-gart-3-live-stream-thursday.md]
+sources: [raw/badlands-news-brief-49d.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-8cb.md, raw/badlands-news-brief-bd6.md, raw/exclusive-gart-3-live-stream-thursday.md, raw/last-call-for-gart-3-irvine.md]
 confidence: medium
 ---
 
@@ -44,10 +44,18 @@ In-person tickets included a Welcome Reception with [[badlands-media|Badlands Me
 
 The December 2023 promotion listed the expected speaker roster as [[jon-herold|Jon Herold]], Kate Buckley, [[zak-paine|Zak Paine]], [[brad-getz|Brad Getz]], [[chris-paul|Chris Paul]], [[just-human|Just Human]], [[patrick-gunnels|Patrick Gunnels]], [[burning-bright|Burning Bright]], [[gmoney|GMoney]], [[patriots-in-progress|Patriots in Progress]], [[jordan-sather|Jordan Sather]], [[alpha-warrior|Alpha Warrior]], [[ashe-in-america|Ashe in America]], [[ghost-of-patrick-henry|Ghost of BPH]] and [[jaytriot|Jaytriot]].[5]
 
+## January 2024 call-in show and Telegram group
+
+A final "Last Call for GART 3: Irvine!" announcement published January 6, 2024 set out the closing event schedule, ticketing and a dedicated call-in show.[6] It stated that on Sunday, January 7, several GART 3 speakers would host an exclusive live stream at approximately 4pm ET in anticipation of the conference, then five days away.[6] The stream was again described as a fun, informal hang-out session between ticket-buyers and speakers that often included a call-in element from the Irvine audience.[6] To receive the direct link by email on Sunday afternoon, readers had to purchase either an in-person or digital live stream ticket, and those unable to watch live could use the same link to view an exclusive replay at their convenience, with a warning to enter a regularly used email address at purchase.[6]
+
+All GART ticket-buyers also received an invitation to the GART 3 Telegram chat group, promoted as a place to interact with fellow in-person and virtual attendees, with occasional speaker visits and exclusive footage throughout the weekend.[6] The same notice repeated the expected speaker roster, the in-person ticket inclusions (Friday night Welcome Reception, breakfast and lunch all weekend), the VIP package adding a Thursday night dinner and meet-and-greet, and the availability of single-day tickets for those with limited time.[6] It confirmed the January 11-14, 2024 dates, the [[marriott-irvine-spectrum|Marriott Irvine Spectrum]] as the venue, and separate TicketSpice links for in-person and virtual tickets.[6]
+
 ## References
+
 
 1. Badlands Brief — "Badlands News Brief: Shenanigans Shall Continue Until Morale Improves ...", URL: https://badlands.substack.com/p/badlands-news-brief-49d
 2. Badlands Brief — "Musk the Peacemaker, Constitutional Overreach & POTATUS", URL: https://badlands.substack.com/p/badlands-news-brief-670
 3. Badlands Brief — "SCOTUS Enters the Fray as Biden Barks at MAGA Hats", URL: https://badlands.substack.com/p/badlands-news-brief-8cb
 4. Badlands Brief — "Badlands News Brief: Houthi's War is it, Anyway?", URL: https://badlands.substack.com/p/badlands-news-brief-bd6
 5. Badlands Brief — "Exclusive GART 3 Live Stream Thursday!", URL: https://badlands.substack.com/p/exclusive-gart-3-live-stream-thursday
+6. Badlands Brief - "Last Call for GART 3: Irvine!", URL: https://badlands.substack.com/p/last-call-for-gart-3-irvine

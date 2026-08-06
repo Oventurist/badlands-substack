@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [regime-change, propaganda, communism, elections]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-fbc.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-blitz-episode-4.md, raw/badlands-news-brief-508.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-6e3.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-e3e.md, raw/badlands-news-brief-fbc.md, raw/how-to-rent-a-riot-the-history-of.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md]
 confidence: low
 ---
 
@@ -50,6 +50,14 @@ Badlands writers argued in July 2024 that the international reaction to Venezuel
 
 Writing in July 2023 about the [[2023-french-riots|French riots]], [[badlands-media|Badlands Media]] contributor [[burning-bright|Burning Bright]] argued that "the enemy thrives on chaos, especially when that chaos is kinetic," and stated that while patriots had used game theory and [[fifth-generation-warfare|fifth-generation warfare]] within information warfare, color revolutions are "ALWAYS the work of Globalist power structures."[8] He read the French unrest as a mirror of similar destabilization attempts made in Israel months earlier and as a sign of desperation on the part of those structures.[8]
 
+## The Gene Sharp template
+
+In September 2025 Badlands contributor [[ryan-delarme|Ryan DeLarme]] devoted the second installment of the "How to Rent a Riot" series to the intellectual and institutional history behind color revolutions, opening with the formulation "Nonviolent action = engineered mob violence."[9] The article traces the template to [[gene-sharp|Gene Sharp]], whose catalogue of 198 methods and pamphlet *[[from-dictatorship-to-democracy|From Dictatorship to Democracy]]* supplied the operational content, and to his [[albert-einstein-institution|Albert Einstein Institution]], founded in 1984, the same year the [[national-endowment-for-democracy|National Endowment for Democracy]] was created.[9]
+
+DeLarme identifies a recurring funding and training network behind the uprisings — NED, [[usaid|USAID]], the [[united-states-institute-of-peace|United States Institute of Peace]], the [[international-republican-institute|International Republican Institute]], the [[national-democratic-institute|National Democratic Institute]], [[freedom-house|Freedom House]], the [[solidarity-center|Solidarity Center]], the [[eurasia-foundation|Eurasia Foundation]] and [[internews|Internews]] — describing it as the apparatus erected to perform functions once ascribed openly to the [[cia|CIA]].[9] The canonical cases he examines are the [[arab-spring|Arab Spring]], the Serbian movement [[otpor|Otpor!]] and its [[bulldozer-revolution|Bulldozer Revolution]] against [[slobodan-milosevic|Slobodan Milosevic]], and Ukraine's [[orange-revolution|Orange Revolution]] and subsequent Maidan uprising.[9] He lists Georgia's Rose Revolution, Kyrgyzstan's Tulip Revolution, Lebanon's Cedar Revolution, Tunisia's Jasmine Revolution and Armenia's Velvet Revolution as further instances of the same template.[9]
+
+The article also documents the professionalization of the model: Otpor veterans founded consulting bodies including the Center for Nonviolent Resistance and [[canvas|CANVAS]], and trained Ukrainian [[pora|Pora]] organizers, with scholar [[mark-r-beissinger|Mark R. Beissinger]] describing revolution export as "an international business."[9]
+
 ## References
 1. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
 2. Badlands Brief — "Badlands Blitz Episode 4: Color Revolutions Come Home to Roost", URL: https://badlands.substack.com/p/badlands-blitz-episode-4
@@ -59,3 +67,18 @@ Writing in July 2023 about the [[2023-french-riots|French riots]], [[badlands-me
 6. Badlands Brief — "Afghanis Activate, Witch Hunts End, & Hitler Launches Re-Election Campaign", URL: https://badlands.substack.com/p/badlands-news-brief-747
 7. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
 8. Badlands Brief — "Freedom Reigns, France Burns & Biden Bluffs", URL: https://badlands.substack.com/p/badlands-news-brief-fbc
+9. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
+
+## Nonviolent action as the core ingredient
+
+Badlands Media describes organized "nonviolent action" as the primary ingredient in foreign color revolutions and domestic "rent-a-riots," a technique deployed in the Middle East, the former Yugoslavia and Ukraine before being turned inward against the rise of populism in the United States.[10] The article argues that although the military can run comparable operations through special forces, the work is far more deniable when it appears to originate in "civil society" rather than the US military — the rationale for the [[plausible-deniability-network|plausible deniability network]] of NGOs surrounding the [[national-endowment-for-democracy|National Endowment for Democracy]] and the [[united-states-institute-of-peace|United States Institute of Peace]].[10]
+
+10. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
+
+## Application to the 2025 U.S. campus protests
+
+Badlands Media applied the color revolution framework domestically in its April 2025 analysis of pro-Palestine campus demonstrations, arguing that many were funded and coordinated by NGOs that work directly with NATO — the [[open-society-foundations|Open Society Foundation]] and its spin-offs among them — while public attention was directed at impressionable students swept up by forces they could not conceive of.[11] [[jewish-voice-for-peace|Jewish Voice for Peace]] was named as one such organizer, funded by [[george-soros|George Soros]]' foundations, the [[tides-foundation|Tides Foundation]] and the [[rockefeller-brothers-fund|Rockefeller Brothers Fund]].[11]
+
+The article characterized the objective as the construction of a "rent-a-riot mob" for future use, following the [[gene-sharp|Gene Sharp]] playbook and citing the Arab Spring as the template, financed through the same tax-exempt cut-outs that support the [[censorship-industrial-complex|censorship apparatus]].[11] It nonetheless insisted that ordinary student protesters retain [[first-amendment|First Amendment]] protection.[11]
+
+11. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

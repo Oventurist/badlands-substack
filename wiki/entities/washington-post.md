@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-d5c.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/america-has-a-cia-run-economy.md, raw/assad-day-in-damascus.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-25f.md, raw/badlands-news-brief-3e8.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-a60.md, raw/badlands-news-brief-a69.md, raw/badlands-news-brief-d5c.md, raw/four-pillars-of-government-control.md]
 confidence: medium
 ---
 
@@ -86,3 +86,9 @@ Badlands writer [[burning-bright|Burning Bright]] called the Post one of the mos
 11. Badlands Brief — "Badlands News Brief: Trump Takes Over as the Info War Nears a Crescendo", URL: https://badlands.substack.com/p/badlands-news-brief-a60
 12. Badlands News Brief — "Shadow Feds, Activist Courts, & Lasting Peace", URL: https://badlands.substack.com/p/badlands-news-brief-a69
 13. Badlands Media — "Badlands News Brief: Colorado Fallout (and Exposure) Continues", URL: https://badlands.substack.com/p/badlands-news-brief-d5c
+
+## Alleged CIA ties
+
+Badlands contributor [[erik-carlson|Erik Carlson]] notes the irony that [[carl-bernstein|Carl Bernstein]], whose 1977 [[rolling-stone|Rolling Stone]] article exposed the [[central-intelligence-agency|CIA]]'s involvement in the American press, was himself a Washington Post journalist — the Post being considered by some to be one of the news outlets the CIA controlled at the time he worked there, and still today.[14] In Carlson's reading, Bernstein exposed the relationship only after the fact, once the cat was already out of the bag, in a manner that lent the media borrowed credibility.[14]
+
+14. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [epstein, doj, europe, corruption, disclosure]
-sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f6e.md]
+sources: [raw/badlands-brief-fbb.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-50f.md, raw/badlands-news-brief-574.md, raw/badlands-news-brief-5f2.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-ac6.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f6e.md, raw/has-everyone-completely-lost-their.md]
 confidence: medium
 ---
 
@@ -111,3 +111,10 @@ Congress voted on November 18, 2025 to require public release of the Epstein fil
 11. Badlands Brief — "Badlands News Brief: Epsteinian Psyops, Mortgage Madness and Caribbean Chaos", URL: https://badlands.substack.com/p/badlands-news-brief-ac6
 12. Badlands Brief — "Badlands News Brief: Traversing Judicial Coups & Raw-Dogging the Conclave", URL: https://badlands.substack.com/p/badlands-news-brief-ee6
 13. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
+14. Badlands Brief — "Has Everyone Completely Lost Their Minds?", URL: https://badlands.substack.com/p/has-everyone-completely-lost-their
+
+## Debate over release timing
+
+Among the demands made of the second Trump administration by parts of its own base was that the Epstein files be released on day one and arrests made on day two.[14] Badlands contributor [[erik-carlson|Erik Carlson]] criticized this position in April 2025 as showing no concern for victims or for the possibility of false accusations, amounting to releasing the material and letting both rational and mentally unstable readers do with it what they will.[14]
+
+Carlson argued that [[donald-trump|Donald Trump]] had instead chosen a sequenced approach: first cut off [[deep-state|Deep State]] funding such as [[usaid|USAID]], then expose and remove corrupt judges, and only once the judicial system has been cleaned out release the files and make arrests.[14] He likened premature release to fetching water with a leaking bucket, citing Trump's own treatment by what he called a corrupt judiciary, and criticized those calling for [[pam-bondi|Pam Bondi]] and [[kash-patel|Kash Patel]] to be fired over the delay.[14]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [journalism, russiagate, rico]
-sources: [raw/badlands-brief-625.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e0a.md]
+sources: [raw/badlands-brief-625.md, raw/badlands-brief-b56.md, raw/badlands-brief-da2.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e0a.md, raw/irregular-warfare.md]
 confidence: low
 ---
 
@@ -43,6 +43,11 @@ In August 2025, Solomon said the overriding charge in the anticipated [[russiaga
 
 In June 2023, Solomon disclosed that a leaked document had given him the cell phone number of a line that [[hunter-biden|Hunter Biden]] was paying for, which he called in an attempt to obtain fair comment from Hunter Biden.[6] Speaking to *Real America's Voice*, Solomon recounted that [[joe-biden|Joe Biden]] personally answered the phone, said the president was shocked to find it was him on the line, and added that Biden "hung up pretty quickly."[6] The number had been identified by [[peter-schweizer|Peter Schweizer]] as belonging to a roughly $300-per-month global [[at-and-t|AT&T]] phone paid for by Hunter Biden's business and used by Joe Biden while vice president, documented on the [[hunter-biden-laptop|Hunter Biden laptop]].[6]
 
+## Uranium One reporting
+
+In "[[irregular-warfare|Irregular Warfare]]," Joe Lange singles out Solomon as a key figure in exposing corruption within the [[barack-obama|Obama]] administration and as an example of how truth reached the public through trusted independent outlets during the narrative war.[7] Solomon was the journalist who first revealed that the [[fbi|FBI]], under [[robert-mueller|Robert Mueller]], had been running an undercover investigation into [[uranium-one-deal|Uranium One]] before the Obama administration approved the sale to Rosatom.[7] His 2018 piece in The Hill broke a follow-on story: eight years after the bureau's informant uncovered criminal wrongdoing in Russia's nuclear industry, the FBI had identified 37 pages of memos that might reveal what agents told the administration and then-Secretary of State [[hillary-clinton|Hillary Clinton]], but insisted the records must stay secret.[7] Solomon reported that the withheld list, filed in the FBI's [[freedom-of-information-act|FOIA]] vault under the title "Uranium One Transaction," was accompanied by the release only of already-public congressional letters, and he compared the stance to the bureau's earlier reluctance over [[peter-strzok|Peter Strzok]]'s texts and the [[steele-dossier|Steele dossier]]'s funding.[7]
+
+
 ## References
 1. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
 2. Badlands Brief — "A Communist Uprising & A Globalist Humiliation Ritual", URL: https://badlands.substack.com/p/badlands-brief-b56
@@ -50,3 +55,4 @@ In June 2023, Solomon disclosed that a leaked document had given him the cell ph
 4. Badlands Brief — "Badlands News Brief: Funding Freezes, Russian Oil, & Imminent Exposes", URL: https://badlands.substack.com/p/badlands-news-brief-7d4
 5. Badlands Brief — "Global Struggles, Civil Alliances, & the Penalty for Treason", URL: https://badlands.substack.com/p/badlands-news-brief-d04
 6. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a
+7. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare

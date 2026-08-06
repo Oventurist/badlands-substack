@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, broadcasting, show]
-sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-9b2.md]
+sources: [raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule.md, raw/badlands-media-weekly-show-schedule.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-9b2.md, raw/kekistani-code-talkers.md]
 confidence: medium
 ---
 
@@ -22,9 +22,15 @@ A second Badlands Media schedule post, published January 3, 2023 to open the 202
 
 Episode 94 of Rugpull Radio featured [[michael-saylor|Michael Saylor]] as a special guest, secured by hosts GMONEY and Patriots In Progress and distributed on Rumble.[5] Badlands Media commentary recommended the episode as an entry point for new viewers, praising the hosts for taking a first-principles approach rather than dwelling on market "actuals," asking no softball questions and producing what the writer called a great deal of signal.[5] The discussion's emphasis on "natural frequency" was described as its major takeaway.[5]
 
+## Role in the Covfefe research
+
+The Badlands Brief article "Kekistani Code Talkers" cites roughly seventy-five episodes of Rugpull Radio as part of the evidentiary base for the claim that [[covfefe|Covfefe]] is both ciphertext and a cryptographic key.[6] The show is also identified as the venue in which Lt. General [[steven-kwast|Steven Kwast]] described humanity's transition from the Industrial Age to the Network Age, in an episode on Bitcoin as counterinsurgency.[6]
+
+
 ## References
 1. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule
 3. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule
 4. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
 5. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
+6. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers

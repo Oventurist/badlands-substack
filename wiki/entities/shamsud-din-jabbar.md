@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [terrorism, new-orleans, isis, fbi]
-sources: [raw/badlands-news-brief-215.md, raw/badlands-news-brief-25f.md]
+sources: [raw/badlands-news-brief-215.md, raw/badlands-news-brief-25f.md, raw/hysteria-and-error.md]
 confidence: medium
 ---
 
@@ -32,6 +32,13 @@ In early January 2025 the [[fbi|FBI]] released a nearly four-minute silent compi
 
 The first clip, dated October 31, shows Jabbar filming from his glasses while riding a bicycle through the French Quarter; a second October clip shows him testing the glasses by recording himself looking into a mirror at the home he rented.[2] Badlands contributor [[ashe-in-america|Ashe in America]] observed that the resulting footage could double as an advertisement for [[meta-platforms|Meta]] glasses, part of a pattern of emerging technology featuring in mass trauma events.[2]
 
+## Citizenship and the border narrative
+
+In "Hysteria and Error," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] emphasized that Jabbar was identified as a 42-year-old United States citizen and Army veteran, a fact he said was obscured by conservative commentary linking the attack to illegal immigration.[3] DeLarme noted that the perpetrators of both New Year's incidents — Jabbar in New Orleans and [[matthew-alan-livelsberger|Matthew Livelsberger]] in Las Vegas — were American citizens who had served in the armed forces.[3]
+
+DeLarme described Jabbar as a previously banal figure who worked as a manager of residential apartment buildings, served in the Army and held paper-pushing jobs, with family members saying his focus on extremist versions of Islam had emerged only within the previous year.[3] He criticized a [[fox-news|Fox News]] report, echoed by Louisiana attorney general [[liz-murrill|Liz Murrill]], claiming the suspect had driven across the border; the vehicle in fact never crossed, having merely been driven around Eagle Pass more than a month earlier, and Fox subsequently corrected the report.[3] DeLarme also observed that at the time of writing [[isis|ISIS]] had not claimed responsibility for the attack, and mocked the [[fbi|FBI]] under [[christopher-wray|Christopher Wray]] for a press conference he said replayed the righteous outrage act of the post-9/11 era.[3]
+
 ## References
 1. Badlands Brief — "Islamic Reruns, Fortune 500 Cartels, & The 119th Speaker", URL: https://badlands.substack.com/p/badlands-news-brief-215
 2. Badlands Brief — "Badlands News Brief: City States, Sabotage, & Soliloquies On Sanctions", URL: https://badlands.substack.com/p/badlands-news-brief-25f
+3. Badlands Media — "Hysteria and Error", URL: https://badlands.substack.com/p/hysteria-and-error

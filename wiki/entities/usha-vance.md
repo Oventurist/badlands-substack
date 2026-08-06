@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [second-lady, greenland, diplomacy, arctic]
-sources: [raw/badlands-news-brief-b0d.md]
+sources: [raw/badlands-news-brief-b0d.md, raw/jd-vance-sidley-austin-and-q-post.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ Waltz and Vance were scheduled to arrive in Greenland during the week of March 2
 
 Trump told reporters after a cabinet meeting the same Monday: "I think Greenland is going to be something that maybe is in our future."[1]
 
+## Yale, clerkships, and Trump-era connections
+
+Usha Vance met her husband [[jd-vance|JD Vance]] at [[yale-law-school|Yale Law School]], where they were introduced by their mentor, professor [[amy-chua|Amy Chua]].[2] A lawyer herself, she clerked for Supreme Court Justice [[brett-kavanaugh|Brett Kavanaugh]], Chief Justice [[john-roberts|John Roberts]], and [[amul-thapar|Amul Thapar]], who was [[donald-trump|Donald Trump]]'s first court of appeals appointee in 2017.[2] Badlands contributor [[erik-carlson|Erik Carlson]] cites this cluster of clerkships as evidence that the Vances' ties to the Trump orbit predate JD Vance's political career.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Unexpected Allies, Rogue Judges, & Stacked Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-b0d
+2. Badlands Brief — "JD Vance, Sidley Austin, & Q Post #238", URL: https://badlands.substack.com/p/jd-vance-sidley-austin-and-q-post

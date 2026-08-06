@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [history, founding-fathers, democratic-party, france]
-sources: [raw/cultural-warfare-and-the-american.md, raw/do-we-have-a-contract-with-the-federal.md]
+sources: [raw/cultural-warfare-and-the-american.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-federal-reserve-a-british.md]
 confidence: low
 ---
 
@@ -26,3 +26,21 @@ Badlands Media's March 2023 analysis of the American monetary system cites Jeffe
 The article treats Jefferson's choice of the word "bastard" as deliberate, taking it to denote a blending of previously separate systems of law, and argues the plot largely succeeded — noting that four of the first five [[supreme-court-of-the-united-states|Supreme Court]] justices were trained at [[middle-temple|the Middle Temple]] in London and that Delaware still practices eighteenth-century English equity law.[2] On this reading, the Jeffersonian warning is the key to understanding how [[federal-reserve|the Federal Reserve]], a private credit issuer, became America's central bank.[2]
 
 2. Badlands Brief — "Do We Have a Contract With the Federal Reserve?", URL: https://badlands.substack.com/p/do-we-have-a-contract-with-the-federal
+
+## Author of the Declaration
+
+A March 14, 2023 Badlands Media essay treats Jefferson as the principal author of the [[declaration-of-independence|Declaration of Independence]] and asks why "Jefferson and company" went to the trouble of grounding independence in eternal principles derived from God rather than simply sending [[king-george-iii|King George]] a letter announcing that he was no longer their king.[3] The essay's answer is that Jefferson and his colleagues did not take God out of government but declared that mankind is inherently free because that is how God created him.[3]
+
+On this account Jefferson's framework holds that [[unalienable-rights|unalienable rights]] come from the Creator and therefore cannot be revoked by any temporal power, a premise the essay regards as incompatible with [[secularism|secularism]].[3] The article closes by asserting that if Jefferson were alive today he would certainly tell Americans that their real problem is a lack of sufficient deference to God.[3]
+
+3. Badlands Brief — "God and the Declaration of Independence", URL: https://badlands.substack.com/p/god-and-the-declaration-of-independence
+
+## Warnings about British reinfiltration (1797-1804)
+
+A February 16, 2023 Badlands Media essay on the legal origins of [[federal-reserve|the Federal Reserve]] treats Jefferson's correspondence as the key contemporary evidence that the [[british-crown|British Crown]]'s influence returned to America after the Revolution.[4] Writing to Colonel Arthur Campbell on September 1, 1797, Jefferson warned that a party had come up "which is endeavoring to separate us from all friendly connection with France, to unite our destinies with those of Great Britain, and to assimilate our government to theirs," a party swelled by the return of the old tories, by large importations of British merchants and factors, by American merchants dealing on British capital, and by stock dealers and banking companies who, "by the aid of a paper system," were enriching themselves and swaying the government through their possession of the printing presses.[4]
+
+In a letter to William Johnson of June 6, 1823, Jefferson described the original objects of the [[federalist-party|federalists]] as warping the government toward the form and principles of monarchy and weakening the barriers of state government as coordinated powers, adding that having been foiled in the first they were, "under the pseudo-republican mask," advancing fast towards ascendency in the second.[4] The essay draws a parallel between those federalists and modern globalists who likewise seek to dissolve nation-state borders in favor of centralized power.[4]
+
+Writing to Gideon Granger on April 16, 1804, Jefferson predicted that the federalists, knowing they were gone forever, would return to power under another form by dividing the republicans, joining the minority and bartering for "the cloak of their name," so that "a bastard system of federo-republicanism will rise on the ruins of the true principles of the revolution."[4] Badlands Media treats this [[bastard-system-of-laws|"bastard system"]] as the key to understanding how a privately owned corporation became the nation's central bank.[4] The essay also notes that during Jefferson's presidential campaign the opposition press frequently smeared him as an atheist, which the author finds ironic given Jefferson's direct reference to God in the [[declaration-of-independence|Declaration of Independence]] as the source of all inalienable rights.[4]
+
+4. Badlands Brief — "Is the Federal Reserve a British Institution?", URL: https://badlands.substack.com/p/is-the-federal-reserve-a-british

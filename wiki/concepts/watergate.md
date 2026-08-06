@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [watergate, richard-nixon, cia, george-hw-bush, war-on-drugs]
-sources: [raw/dope-inc.md]
+sources: [raw/dope-inc.md, raw/four-pillars-of-government-control.md]
 confidence: low
 ---
 
@@ -24,3 +24,8 @@ Carlson points to two television series, *Gaslit* and *White House Plumbers*, as
 
 ## References
 1. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
+2. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
+
+## As a CIA operation against Nixon
+
+Badlands contributor [[erik-carlson|Erik Carlson]] characterizes Watergate as a badly botched break-in run by the [[central-intelligence-agency|CIA]] to remove [[richard-nixon|Richard Nixon]] from power, motivated by the agency's recognition that Nixon was not its friend after Director [[richard-helms|Richard Helms]] refused to give him access to the [[bay-of-pigs|Bay of Pigs]] and [[john-f-kennedy|JFK]] assassination files.[2] George Bush Sr. is described as heavily involved in the plan to remove Nixon.[2]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, finance, litigation, retail]
-sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e81.md]
+sources: [raw/badlands-news-brief-12a.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-d04.md, raw/badlands-news-brief-e81.md, raw/george-soros-a-british-creation.md]
 confidence: medium
 ---
 
@@ -41,3 +41,11 @@ In July 2025 Wexner bought Blue Heron Farm, the Martha's Vineyard estate that fo
 In August 2025 a trust tied to Wexner bought [[blue-heron-farm|Blue Heron Farm]], the 28.5-acre Chilmark estate on Martha's Vineyard once rented by the Obamas as a summer retreat, for $37 million — $2 million below its May asking price.[4] Wexner was identified by the Real Deal as the longtime head of L Brands and founder of Victoria's Secret.[4] The property had been off the market for more than a decade after an extensive transformation by its previous owners, British architect Norman Foster and his wife, Elena Ochoa Foster.[4] Badlands contributor CannCon highlighted the timing given Wexner's association with [[jeffrey-epstein|Jeffrey Epstein]], remarking, "What are the odds after all this Epstein talk?"[4]
 
 4. Badlands Brief — "Surprise Subpoenas, Assailing Settlers, & Special Envoys", URL: https://badlands.substack.com/p/badlands-news-brief-e81
+
+## The Manhattan townhouse and the "British Cabal" thesis
+
+In research conducted in 2018, Badlands contributor [[erik-carlson|Erik Carlson]] found that Wexner gave [[jeffrey-epstein|Jeffrey Epstein]] his Manhattan townhouse in 2011 — three years after Epstein pleaded guilty to procuring a child for prostitution — a property valued at an estimated $77 million.[5] Carlson describes this as "a generous gift indeed" and says the two seemed close, while acknowledging he cannot tell whether the friendship involved blackmail on one side, shared interests, or both.[5]
+
+Attempting to tie Wexner to what he calls the British Satanic Cabal, Carlson reports that the only English connection he could find was the $30 million shooting estate in the United Kingdom that Wexner bought in 2015 — thin enough evidence that he leans instead toward the theory that Wexner was being blackmailed over his perversions rather than being a principal of the network.[5] Wexner is also named as a link to the financier [[leon-black|Leon Black]].[5]
+
+5. Badlands Brief — "George Soros, A British Creation", URL: https://badlands.substack.com/p/george-soros-a-british-creation

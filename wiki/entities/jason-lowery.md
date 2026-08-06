@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bitcoin, space-force, military, softwar, power-projection]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/kekistani-code-talkers.md]
 confidence: medium
 ---
 
@@ -30,7 +30,13 @@ In an April 2023 Badlands Media essay, the contributor known as [[patriots-in-pr
 
 Lowery was also cited in the same essay for the argument that the decisive countermeasure against AI bot farms is a mechanism able to impose "severe physical costs" on them — a resource the AI cannot replicate or acquire at scale — which the author identified as [[bitcoin|Bitcoin]] micro-transactions recording an auditable energy expenditure.[3]
 
+## Cited in Kekistani Code Talkers
+
+The Badlands Brief article "Kekistani Code Talkers" cites Major Jason Lowery for his discussion of a transition to a new war-fighting domain in space and of the national strategic significance of [[bitcoin|Bitcoin]], as set out in [[softwar|Softwar]].[4] The author links this thesis to Q's definition of the "stone" as the capability of projecting power.[4]
+
+
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
 3. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
+4. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers

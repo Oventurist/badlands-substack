@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, conservative, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-948.md, raw/brazil-breaking.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-948.md, raw/brazil-breaking.md, raw/im-not-a-biologist.md]
 confidence: low
 ---
 
@@ -43,3 +43,11 @@ On December 5, 2023, The Daily Wire joined [[the-federalist|The Federalist]] and
 Ahead of the [[2022-brazilian-general-election|2022 Brazilian general election]], The Daily Wire conducted an interview with Brazilian president [[jair-bolsonaro|Jair Bolsonaro]] that became a key source for Badlands Media's analysis of the contest.[5] In it Bolsonaro said the [[brazilian-armed-forces|armed forces in Brazil]] had been invited to join in electoral transparency and that they had told him it was impossible to grant a seal of credibility or reliability to the voting system given its many vulnerabilities, and he described appointing his own cabinet with one third drawn from the military.[5] The Badlands author cited the outlet with a wry aside acknowledging his readers' mixed feelings about it, while treating the interview's content as significant.[5]
 
 5. Badlands Brief — "Brazil Breaking", URL: https://badlands.substack.com/p/brazil-breaking
+
+## "What Is a Woman?" and the 2023 Twitter suppression
+
+The Daily Wire released the documentary [[what-is-a-woman|"What Is a Woman?"]], hosted by [[matt-walsh|Matt Walsh]], on June 1, 2022.[6] A year later, as the company prepared to stream the film on Twitter, the platform limited its visibility with a notice stating the tweet "may violate Twitter's rules against Hateful Conduct," which Badlands contributor [[ashe-in-america|Ashe in America]] called a bad look for a platform marketed under new ownership as a free speech venue.[6] The majority of right-leaning America briefly coalesced behind the outlet, the suppression was lifted within twenty-four hours, and [[elon-musk|Elon Musk]] tweeted the film himself — an outcome the reviewer described as publicity that money cannot buy.[6]
+
+The same reviewer used the episode to restate a broader critique of the outlet, writing that she does not care for The Daily Wire because it "waters down their reporting to protect their business interests," reporting on COVID, elections and primary politics only what safely keeps it uncancelable, and then manufacturing controversy about being canceled.[6] She grouped it under the label "Conservative, Incorporated."[6] While praising the film's substance, she faulted The Daily Wire for stopping short of indicting the global order and the financial establishment behind medical transition — omitting, for instance, the United Nations' [[sustainable-development-goals|Sustainable Development Goal #5]] — which she called a classic earmark of the outlet's reporting.[6]
+
+6. Badlands Brief — "I'm Not a Biologist!", URL: https://badlands.substack.com/p/im-not-a-biologist

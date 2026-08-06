@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, uk, legislation, 5gw, internet-regulation]
-sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-f94.md]
+sources: [raw/5gw-counter-offensive-the-censorship.md, raw/badlands-news-brief-f94.md, raw/is-the-censorship-war-over.md]
 confidence: medium
 ---
 
@@ -37,3 +37,9 @@ Badlands contributor Ryan DeLarme wrote that the bill set "tougher standards" fo
 ## References
 1. Badlands Brief — "5GW Counter-Offensive - The Censorship Regime and the Road to 2024", URL: https://badlands.substack.com/p/5gw-counter-offensive-the-censorship
 2. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
+
+## Position among multinational censorship instruments
+
+Badlands Media grouped the United Kingdom's Online Safety Bill with Canada's [[online-streaming-act|Online Streaming Act]] (Bill C-11) and the European Union's [[digital-services-act|Digital Services Act]] as the principal legislative tools in what contributor [[ryan-delarme|Ryan DeLarme]] described, in a piece written before the 2024 U.S. election, as a multinational attack on free speech.[3] Revisiting that survey in April 2025, he judged that of the three the Digital Services Act was the instrument with the most teeth and the vehicle in which recently dismissed disinformation practitioners had placed their remaining hope — Europe, he argued, having been the true progenitor of the [[censorship-industrial-complex|censorship apparatus]] in the first place.[3]
+
+3. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

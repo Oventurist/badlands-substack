@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [united-nations, globalism, esg, education, agenda-2030]
-sources: [raw/badlands-news-brief-299.md]
+sources: [raw/badlands-news-brief-299.md, raw/im-not-a-biologist.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ With [[donald-trump|Donald Trump]]'s 2024 victory and the collapse of ESG's poli
 ## References
 
 1. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
+
+## Goal 5 and gender theory
+
+In a June 2023 review of the documentary [[what-is-a-woman|"What Is a Woman?"]], Badlands contributor [[ashe-in-america|Ashe in America]] argued that the film's most significant omission was any mention of the United Nations' Sustainable Development Goal #5, which she said explicitly enshrines [[gender-ideology|gender theory]] as a global imperative.[2] She noted that the UN SDGs "are showing up in every American classroom," and used the point to argue that the spread of gender ideology is not an organic social contagion but "a change program, being commissioned and propagated by the most powerful entities on earth."[2] Her criticism of [[daily-wire|The Daily Wire]] was that it stopped short of indicting this global order, which she characterised as a classic earmark of the outlet's reporting.[2]
+
+2. Badlands Brief - "I'm Not a Biologist!", URL: https://badlands.substack.com/p/im-not-a-biologist

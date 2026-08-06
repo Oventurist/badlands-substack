@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [white-house, immigration, trump-administration]
-sources: [raw/badlands-brief-144.md, raw/badlands-brief-6f4.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ed9.md]
+sources: [raw/badlands-brief-144.md, raw/badlands-brief-6f4.md, raw/badlands-brief-c07.md, raw/badlands-news-brief-0b0.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-222.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-942.md, raw/badlands-news-brief-9bc.md, raw/badlands-news-brief-ed9.md, raw/hysteria-and-error.md]
 confidence: medium
 ---
 
@@ -59,6 +59,12 @@ Badlands writer [[ashe-in-america|Ashe in America]] called this "the winning mes
 
 On Monday, November 11, 2024, President-elect [[donald-trump|Donald Trump]] named Miller, a longtime adviser, as deputy chief of policy for the incoming administration, announced alongside the selection of former Representative [[lee-zeldin|Lee Zeldin]] to lead the [[environmental-protection-agency|Environmental Protection Agency]].[10] Badlands writer [[burning-bright|Burning Bright]] described "'silent-running' Stephen Miller" as one of the supposed "lesser" names carrying the real significance of the second Trump administration — alongside [[kash-patel|Kash Patel]], [[tom-homan|Tom Homan]], [[mike-waltz|Mike Waltz]] and [[susie-wiles|Susie Wiles]] — arguing that such names meant nothing to normies but a great deal to the Truth Community and even more to the Deep State.[10]
 
+## Response to the January 2025 attacks
+
+Writing in "Hysteria and Error," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] identified Miller as the incoming president's senior immigration counselor and criticized his response to the New Year's 2025 attacks in New Orleans and Las Vegas.[12] According to DeLarme, Miller said the incident should make Americans more fearful of both Islam and immigration.[12]
+
+DeLarme treated the statement as a prime example of his frustration with the movement's discourse, arguing that it contradicted the historical record.[12] He contended that Islamist terror was demonstrably a United States-sponsored creation, holding that [[al-qaeda|al-Qaeda]] and [[isis|ISIS]] did not exist until the Western hegemon and its intelligence apparatus, with support from Saudi Arabia and Pakistan, began grooming future enemies during the Soviet-Afghan war.[12] He argued that the public deserved to be told this truth rather than "weak ass Bush-era rhetoric," while stressing that he did not deny the existence of a violent extremist current within Islam.[12]
+
 ## References
 1. Badlands Brief — "MLKKK Day, Peace Boards and Power Paradigms", URL: https://badlands.substack.com/p/badlands-brief-144
 2. Badlands Brief — "Illegal Psychological Warfare Campaigns & Misprision of Treason", URL: https://badlands.substack.com/p/badlands-brief-6f4
@@ -76,3 +82,4 @@ On Monday, November 11, 2024, President-elect [[donald-trump|Donald Trump]] name
 Miller featured indirectly in the September 2025 controversy over Attorney General [[pam-bondi|Pam Bondi]]'s "hate speech" remarks, which Bondi made on the podcast of his wife, [[katie-miller|Katie Miller]], and later walked back after broad criticism.[11] Separately, Miller was announced by [[turning-point-usa|Turning Point USA]] as one of the administration speakers at the Arizona memorial service for [[charlie-kirk|Charlie Kirk]], where he appeared on a program alongside President [[donald-trump|Donald Trump]], Vice President [[jd-vance|JD Vance]], and Kirk's widow [[erika-kirk|Erika Kirk]].[11]
 
 11. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+12. Badlands Media — "Hysteria and Error", URL: https://badlands.substack.com/p/hysteria-and-error

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [neuroscience, hemispheric-specialization, philosophy, psychology]
-sources: [raw/expand-your-thinking.md]
+sources: [raw/expand-your-thinking.md, raw/how-your-western-brain-exposes-you.md]
 confidence: medium
 ---
 
@@ -28,3 +28,11 @@ The author, writing under the pen name [[american-hypnotist|American Hypnotist]]
 
 ## References
 1. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking
+
+## *The Master and His Emissary* in Badlands commentary (March 2024)
+
+McGilchrist's earlier book *[[the-master-and-his-emissary|The Master and His Emissary]]* supplied the framework for [[simon-esler|Simon Esler]]'s March 2024 essay "How Your Western Brain Exposes You to 5G Warfare," which described the work as monumental for outlining, with an incredible amount of empirical evidence, a Western population living entrenched in the left hemisphere and unable to perceive its own entrapment.[2] Esler drew particularly on McGilchrist's account of the left hemisphere as designed to aid "grabbing stuff" in the service of utility, on the contrast between a hemisphere concerned with what it knows and one concerned with what it experiences, and on the right hemisphere's tolerance of ambiguity as the basis of metaphor, irony and humour.[2]
+
+The essay also relied on McGilchrist's treatment of [[anthony-giddens|Anthony Giddens]]'s [[disembedding-mechanisms|disembedding mechanisms]], on his "homeless mind" passage regarding attachment to place, and on his argument that the Industrial Revolution was the left hemisphere's most daring assault on the world of the right.[2] McGilchrist's characterization of left-hemisphere thinking as prizing consistency and offering mechanistic models — a mode common to naive reductionist science or [[scientism|scientism]], technological solutionism and bureaucratic design — was used by Esler to map the tendencies of the brain onto the tactics he attributes to the enemy on the [[cognitive-battlefield|cognitive battlefield]].[2]
+
+2. Badlands Brief — "How Your Western Brain Exposes You to 5G Warfare", URL: https://badlands.substack.com/p/how-your-western-brain-exposes-you

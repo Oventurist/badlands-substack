@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, tiktok, republican-donors, bytedance]
-sources: [raw/badlands-news-brief-a15.md]
+sources: [raw/badlands-news-brief-a15.md, raw/massie-maximalists.md]
 confidence: medium
 ---
 
@@ -18,5 +18,10 @@ Yass entered the center of the March 2024 fight over the House-passed TikTok div
 
 Badlands writer [[simon-esler|Simon Esler]] framed the episode as a "very thick fog of war," arguing that both a "black hat" reading (the Deep State building a pretext for new systems of information control) and a "white hat" reading (a repositioning of platform ownership) remained live possibilities.[1]
 
+## Alleged donations to Thomas Massie
+
+In his March 2025 essay "Massie Maximalists," Badlands contributor [[erik-carlson|Erik Carlson]] asserted that Yass — whom he described as a "Zionist billionaire" — appears to be the largest financial donor to Rep. [[thomas-massie|Thomas Massie]], offering the claim as a rejoinder to Massie supporters who treat the congressman's refusal of [[aipac|AIPAC]] money as proof that no outside interest could influence him.[2] Carlson did not document the donation figures, instead inviting readers to "look it up."[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+2. Badlands Brief — "Massie Maximalists", URL: https://badlands.substack.com/p/massie-maximalists

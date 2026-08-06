@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, culture-war, white-lives-matter]
-sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-ec8.md, raw/from-ye-to-oy-vey.md]
+sources: [raw/badlands-brief-282.md, raw/badlands-brief-5ba.md, raw/badlands-brief-805.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-b98.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-ec8.md, raw/from-ye-to-oy-vey.md, raw/has-everyone-completely-lost-their.md]
 confidence: low
 ---
 
@@ -87,3 +87,8 @@ Owens appeared alongside [[kanye-west|Ye (Kanye West)]] at the Yeezy Season 9 fa
 10. Badlands Brief — "Badlands News Brief: Trump Surges While Biden Baffles", URL: https://badlands.substack.com/p/badlands-news-brief-e0a
 11. Badlands Brief — "Badlands News Brief: Mandate Cultivation, Uppity Government, & the Dawn of Mam", URL: https://badlands.substack.com/p/badlands-news-brief-ec8
 12. Badlands Brief — "From Ye to Oy Vey!", URL: https://badlands.substack.com/p/from-ye-to-oy-vey
+13. Badlands Brief — "Has Everyone Completely Lost Their Minds?", URL: https://badlands.substack.com/p/has-everyone-completely-lost-their
+
+## Allegations of controlled opposition (2025)
+
+In April 2025 Badlands contributor [[erik-carlson|Erik Carlson]] named Owens, alongside [[ian-carroll|Ian Carroll]], among influencers he suspects of being paid shills — figures paid to support the Trump administration until the moment arrives to turn on it.[13] Carlson noted that Owens's husband is British and Oxford-educated, and argued that while she attacks Israel "for good reason," she never attacks what he called the people who actually run and control Israel, the [[city-of-london|City of London]].[13] On his reading, blaming Israel for everything conveniently takes the heat off the City of London, which he said some believe also runs the American pharmaceutical industry.[13] He further observed that both Owens and Carroll had lately been attacking [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]].[13]

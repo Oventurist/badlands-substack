@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [dissident, communism, czechoslovakia, philosophy]
-sources: [raw/badlands-brief-f02.md]
+sources: [raw/badlands-brief-f02.md, raw/generational-dependence-syndrome.md]
 confidence: medium
 ---
 
@@ -20,3 +20,9 @@ Badlands commentator [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] descr
 
 ## References
 1. Badlands Brief — "Davos Elites Prepare ... for TRUMP-A-MANIA!", URL: https://badlands.substack.com/p/badlands-brief-f02
+
+## Quoted on refusing to live the lie (February 2025)
+
+A February 11, 2025 Badlands Media essay on [[generational-dependence-syndrome|Generational Dependence Syndrome]] quoted Havel's dictum that "the power of the powerless is in refusing to live the lie."[2] The author invoked the line to argue that systems built on control and manufactured consensus inevitably collapse under the weight of their own contradictions, and that awareness is the first step in dismantling inherited cycles of dependence on centralized authority.[2]
+
+2. Badlands Brief — "Generational Dependence Syndrome", URL: https://badlands.substack.com/p/generational-dependence-syndrome

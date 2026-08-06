@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [banking, housing, bailouts, citigroup, 2008]
-sources: [raw/friends-in-high-places.md]
+sources: [raw/friends-in-high-places.md, raw/generational-dependence-syndrome.md, raw/has-trumps-whole-life-been-a-sting.md]
 confidence: low
 ---
 
@@ -18,3 +18,16 @@ Citigroup received what Lange calls the biggest bailout in world history: accord
 
 ## References
 1. Badlands Brief — "Friends in High Places", URL: https://badlands.substack.com/p/friends-in-high-places
+
+## Cited as a driver of generational dependence (February 2025)
+
+A February 11, 2025 Badlands Media essay cited the 2008 financial crisis as a case study in what it called [[generational-dependence-syndrome|Generational Dependence Syndrome]].[2] The author argued that the collapse of small banks during the crisis forced populations toward "too big to fail" institutions, further concentrating financial power.[2] This consolidation was said to have entrenched generational reliance on centralized banking systems and reshaped societal perceptions of financial security, with families increasingly equating stability with alignment to those monolithic institutions while decentralized alternatives were marginalized or discredited.[2] In the essay's framework, the episode illustrates how economic policy functions as one arm of a self-reinforcing feedback loop of dependency alongside media and education.[2]
+
+2. Badlands Brief — "Generational Dependence Syndrome", URL: https://badlands.substack.com/p/generational-dependence-syndrome
+
+
+## Effect on the Atlantic City casino sector
+
+A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] noted that the 2008 financial crisis caused a sudden decline in [[donald-trump|Donald Trump]]'s hotel and casino business, and that within five years he was seeking to exit the casino space altogether.[3] Trump's 2013 attempt to sell the Trump Plaza Hotel and Casino in Atlantic City was blocked by [[carl-icahn|Carl Icahn]], the senior lender on its mortgage; the property closed in 2014 and was demolished in 2021.[3]
+
+3. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting

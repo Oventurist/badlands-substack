@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [nato, intelligence, stay-behind, turkey, deep-state]
-sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-7c6.md]
+sources: [raw/badlands-news-brief-099.md, raw/badlands-news-brief-7c6.md, raw/john-bobby-and-marilyn.md]
 confidence: low
 ---
 
@@ -24,6 +24,11 @@ The same commentary linked the Gladio framework to the pipeline by which Secreta
 
 Following the May 2024 shooting of Slovak Prime Minister [[robert-fico|Robert Fico]] and the widening of the police investigation beyond a lone-wolf theory, Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] wrote that his money was on 'the Ukrainian puppet-masters from Langley, Virginia using Operation Gladio networks and tactics.'[2]
 
+## Lemnitzer and the stay-behind apparatus
+
+Historian [[anton-chaitkin|Anton Chaitkin]], quoted by [[matthew-ehret|Matthew Ehret]], described General [[lyman-lemnitzer|Lyman Lemnitzer]]'s move to Paris as head of [[nato|NATO]] military forces after being sacked as Joint Chiefs' chairman, where he inherited "a continent-wide covert apparatus of Mafia killers, Hitler Nazis and Mussolini fascists, French colonial diehards, and white mercenaries fuming about the loss of Africa."[3] Chaitkin wrote that this was the stay-behind network constructed after World War II by the British Secret Service with help from Dulles and logistical support from Lemnitzer himself, and that its existence was not publicly revealed until October 1990, when Italian Prime Minister Giulio Andreotti disclosed the network later named after its Italian section, Gladio.[3] Ehret attributed to this apparatus the murders of [[ngo-dinh-diem|Diem]], Trujillo, Lumumba, Mattei, [[john-f-kennedy|JFK]], [[robert-f-kennedy|RFK]] and Martin Luther King Jr.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 2. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
+3. Badlands Brief — "John, Bobby ... and Marilyn", URL: https://badlands.substack.com/p/john-bobby-and-marilyn

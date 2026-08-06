@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [welfare, food-policy, public-health, federal-programs]
-sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a31.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-a31.md, raw/has-everyone-completely-lost-their.md]
 confidence: medium
 ---
 
@@ -52,3 +52,8 @@ The six waivers brought to twelve the number of states that had sought to restri
 3. Badlands Brief — "Badlands News Brief: Victim Cards, Foreign Inference, & Chessboard Stans", URL: https://badlands.substack.com/p/badlands-news-brief-448
 4. Badlands Brief — "Badlands News Brief: MAGA Cracks, Fund Funnels, & Devilish Bees", URL: https://badlands.substack.com/p/badlands-news-brief-817
 5. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
+6. Badlands Brief — "Has Everyone Completely Lost Their Minds?", URL: https://badlands.substack.com/p/has-everyone-completely-lost-their
+
+## Soda restrictions and the MAHA agenda
+
+In April 2025 Badlands contributor [[erik-carlson|Erik Carlson]] described the [[make-america-healthy-again|MAHA]] effort to prohibit the use of SNAP benefits for sugary sodas, asking how anyone could justify the purchase of Coke or Pepsi with taxpayer funds unless those companies were paying them to call the restriction an infringement of recipients' rights.[6] He predicted the policy would eventually extend to junk food generally, argued SNAP should be limited to necessities and foods with nutritional value, and summarized the position as: if you want Pepsi and Doritos, buy them with your own money.[6] Carlson placed the soda restriction within a broader MAHA sequencing strategy that prioritizes cleaning up the food supply — citing that 74% of Americans are overweight and 42% obese — over an immediate confrontation with vaccines.[6]

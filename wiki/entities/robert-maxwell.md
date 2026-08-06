@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [mossad, promis, money-laundering, credit-suisse, publishing]
-sources: [raw/badlands-brief-9ac.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-071.md]
+sources: [raw/badlands-brief-9ac.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-071.md, raw/george-soros-a-british-creation.md]
 confidence: low
 ---
 
@@ -33,3 +33,9 @@ Discussing [[elon-musk|Elon Musk]]'s March 2025 proposal to sanction Ukraine's t
 1. Badlands Brief — "Nazi-Related Cover Ups & Formerly Secret Treason", URL: https://badlands.substack.com/p/badlands-brief-9ac
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
 3. Badlands Brief — "Badlands News Brief: Hot Wars Wind Down. Trade & Meme Wars Heat Up.", URL: https://badlands.substack.com/p/badlands-news-brief-071
+
+## Origins and British career
+
+Badlands contributor [[erik-carlson|Erik Carlson]] recounts that Maxwell, father of [[ghislaine-maxwell|Ghislaine Maxwell]], was born in what is now Ukraine and fled his homeland when the Nazis invaded, joining the British Army and becoming a British citizen in 1946.[4] Carlson notes it has been said Maxwell was invaluable in the creation of the State of Israel in 1948 and that he was rumoured to have been a Mossad spy, and that he later became a Member of the British Parliament.[4] Maxwell was murdered in 1991, which Carlson cites as evidence that he too was a "string" used by the puppet masters rather than a figure at the top of the pyramid.[4]
+
+4. Badlands Brief — "George Soros, A British Creation", URL: https://badlands.substack.com/p/george-soros-a-british-creation

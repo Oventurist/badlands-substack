@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, voting-machines, venezuela, election-integrity, badlands-brief]
-sources: [raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-f18.md]
+sources: [raw/badlands-brief-25c.md, raw/badlands-brief-b34.md, raw/badlands-news-brief-153.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-5aa.md, raw/badlands-news-brief-5ff.md, raw/badlands-news-brief-8fd.md, raw/badlands-news-brief-f18.md, raw/george-soros-a-british-creation.md]
 confidence: medium
 ---
 
@@ -88,3 +88,9 @@ In late January 2025, [[fox-news|Fox News]] sued Los Angeles County to obtain pu
 6. Badlands Brief — "Red States Align While the MSM Craters", URL: https://badlands.substack.com/p/badlands-news-brief-5ff
 7. Badlands Brief — "Badlands News Brief: Manic Midterms, Menopausal Marxists, & Musical Pipe Bombs", URL: https://badlands.substack.com/p/badlands-news-brief-8fd
 8. Badlands Brief — "Corruption, Mad Science & Colombian Defiance", URL: https://badlands.substack.com/p/badlands-news-brief-f18
+
+## Mark Malloch Brown chairmanship
+
+In 2014 [[mark-malloch-brown|Mark Malloch Brown]] became chairman of the board of directors of SGO Corporation Limited, a holding company whose primary asset is Smartmatic.[9] Badlands contributor [[erik-carlson|Erik Carlson]] treats this as the most damning link between Smartmatic and [[george-soros|George Soros]], because in December 2020 Malloch Brown was announced as succeeding [[patrick-gaspard|Patrick Gaspard]] as president of the [[open-society-foundations|Open Society Foundations]] effective 1 January 2021 — immediately after the 2020 election.[9] Carlson asks whether the appointment was intended to distance Barack Obama from the Biden presidency, or to place Malloch Brown where he could more easily censor election fraud information and debate.[9]
+
+9. Badlands Brief — "George Soros, A British Creation", URL: https://badlands.substack.com/p/george-soros-a-british-creation

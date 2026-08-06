@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [founding-documents, natural-rights, law, united-states]
-sources: [raw/a-startling-contradiction-at-the.md, raw/badlands-news-brief-7c5.md, raw/combating-the-transhumanist-religion.md, raw/do-we-have-a-contract-with-the-federal.md]
+sources: [raw/a-startling-contradiction-at-the.md, raw/badlands-news-brief-7c5.md, raw/combating-the-transhumanist-religion.md, raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md]
 confidence: medium
 ---
 
@@ -53,3 +53,15 @@ Badlands Media's March 2023 analysis of the American monetary system treats the 
 That framing sets up the article's central tension: whether the government works for the people under Natural Law, or the people work for [[federal-reserve|the Federal Reserve]] under contract via Corporate Law.[4] The author resolves it with [[emerich-de-vattel|Emerich de Vattel]]'s maxim from [[law-of-nations|The Law of Nations]] that men naturally free and independent cannot lose those blessings without their consent, and closes by urging readers to do as the Declaration commands and institute systems of governance that truly serve the people.[4]
 
 4. Badlands Brief — "Do We Have a Contract With the Federal Reserve?", URL: https://badlands.substack.com/p/do-we-have-a-contract-with-the-federal
+
+## God as the founding authority
+
+A March 14, 2023 Badlands Media essay devoted to the document argues that, whether one is an atheist, agnostic or believer, the Declaration clearly asserts that God is the authority under which America was founded.[5] On this reading the [[unalienable-rights|unalienable rights]] it proclaims were not given by any Pope or King but inherited from God Almighty, and are therefore not subject to revocation by any man or woman however great that person's temporal power.[5] Without at least the concept of God, the essay contends, there would be no Declaration at all — the document says so on its face.[5]
+
+The essay asks why [[thomas-jefferson|Jefferson]] and company went to the effort of declaring independence upon eternal principles from God rather than simply writing [[king-george-iii|King George]] a letter saying he was no longer their king.[5] Its answer is that the founders did not take God out of government; they declared that mankind is inherently free because that is how God created him, with [[separation-of-church-and-state|separation of church and state]] meaning only that government is not the proper entity to prescribe forms of worship.[5]
+
+## Contrast with a secular declaration
+
+The essay quotes the Declaration's preamble — self-evident truths, men created equal, endowed by their Creator with unalienable rights to Life, Liberty and the pursuit of Happiness, and governments deriving their just powers from the consent of the governed — and sets it against a constructed secular alternative holding that rights are agreed upon between people as a matter of collective preference.[5] It asks which version would produce the more stable society and which could win the hearts of men.[5] [[secularism|Secularism]] is judged utterly antithetical to the spirit and philosophy of the Declaration and therefore heretical to the political system as the founders designed it.[5] The piece closes by suggesting the real problem is insufficient deference to God, and that Jefferson would say as much if he were alive today.[5]
+
+5. Badlands Brief — "God and the Declaration of Independence", URL: https://badlands.substack.com/p/god-and-the-declaration-of-independence

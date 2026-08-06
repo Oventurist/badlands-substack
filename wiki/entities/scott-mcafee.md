@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, judiciary, 2020-election]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-df8.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-ba4.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d00.md, raw/badlands-news-brief-df8.md, raw/grand-jury-testimony-from-senator.md]
 confidence: medium
 ---
 
@@ -90,3 +90,11 @@ On April 4, 2024, McAfee, a Fulton County Superior Court judge, rejected [[donal
 As the House GOP opened its inquiry into contacts between the House January 6 committee and [[fani-willis|Fani Willis]], McAfee said over the weekend of March 9–10, 2024 that he was on track to rule that week on whether Willis should be disqualified from the Georgia prosecution of [[donald-trump|Donald Trump]].[13] [[ashe-in-america|Ashe in America]] wrote that while the various probes of Willis might resemble political theatrics, McAfee was operating in a real courtroom with real consequences, and predicted she would be stunned if Willis and [[nathan-wade|Nathan Wade]] were both permitted to remain on the case given sworn testimony that the prosecution had netted the pair several hundred thousand dollars.[13]
 
 13. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8
+
+## Inspector General role and the Coovert referral
+
+Before his judicial career, McAfee served as Georgia's Inspector General.[14] Georgia resident [[bob-coovert|Bob Coovert]] said he brought evidence of 28 alleged instances of 2020 election fraud to Governor [[brian-kemp|Brian Kemp]]'s office, where executive deputy counsel Evan Meyers referred the matter to McAfee.[14] According to Coovert, McAfee said he could pursue only one allegation — that the [[pro-v-and-v|Pro V&V]] audit had never taken place — and then stopped communicating with him after receiving open-records evidence that the audits had not occurred in the six named counties.[14] McAfee was subsequently appointed a Superior Court judge by Kemp, part of a pattern Badlands Media identified alongside [[vic-reynolds|Vic Reynolds]] and [[alison-sosebee|Alison Sosebee]].[14]
+
+McAfee's January 2026 order lifting the protective order over the special grand jury transcripts in [[state-of-georgia-v-trump|State of Georgia v. Trump, et al.]] made public the testimony of former Senator [[david-perdue|David Perdue]] describing the alleged suppression of a GBI inquiry.[14]
+
+14. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator

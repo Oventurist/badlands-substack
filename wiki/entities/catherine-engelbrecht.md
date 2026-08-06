@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [election-integrity, true-the-vote, georgia, litigation]
-sources: [raw/badlands-news-brief-7a1.md]
+sources: [raw/badlands-news-brief-7a1.md, raw/grand-jury-testimony-from-senator.md]
 confidence: medium
 ---
 
@@ -24,3 +24,11 @@ Badlands Media commentator [[ashe-in-america|Ashe in America]] framed the decisi
 
 ## References
 1. Badlands News Brief — "Epstein Resurfaces ... And the 'Elites' Don't Like It", URL: https://badlands.substack.com/p/badlands-news-brief-7a1
+
+## Statement on the Georgia GBI investigation
+
+In a statement to Badlands Media published in February 2026, Engelbrecht disputed the account given by former [[georgia-bureau-of-investigation|GBI]] Director [[vic-reynolds|Vic Reynolds]] of how [[true-the-vote|True the Vote]]'s Georgia [[ballot-harvesting|ballot harvesting]] material was handled.[2] She wrote that the group met Reynolds and his team once, in the Governor's office in early 2021, walked them through its initial findings, and then "made repeated attempts to re-engage with the GBI and never received a response."[2]
+
+Engelbrecht said the FBI offered to host a secure database so the GBI and other law enforcement agencies could access the information and preserve chain of custody across the states involved, while stating clearly that it was not conducting an investigation or collecting evidence.[2] She said the next time Reynolds surfaced was when a letter he had addressed to True the Vote appeared in the Atlanta Journal-Constitution, which the organization had not received at the time of publication; it later responded directly to the Governor.[2] She rejected the claim that the matter stalled because the group failed to name an informant, writing, "We were shut out early, and as public pressure mounted, the focus shifted to blaming us rather than examining the evidence."[2]
+
+2. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator

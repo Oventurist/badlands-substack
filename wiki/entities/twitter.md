@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, free-speech, elon-musk, big-tech]
-sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-news-brief-090.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-3e5.md, raw/badlands-news-brief-3f8.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-908.md, raw/badlands-news-brief-b76.md, raw/badlands-news-brief-d50.md, raw/has-trumps-whole-life-been-a-sting.md]
 confidence: medium
 ---
 
@@ -77,3 +77,10 @@ In August 2024 a federal judge ordered [[x-corp|X]] to unseal the roster of shar
 8. Badlands Brief — "Badlands News Brief: Satanic Idols, COVID Crimes & Twitter's Sins", URL: https://badlands.substack.com/p/badlands-news-brief-908
 9. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
 10. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+
+
+## The 2022 acquisition in Carlson's "sting operation" thesis
+
+A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] argued that [[elon-musk|Elon Musk]]'s purchase of Twitter formed part of a decades-long operation against the [[deep-state|Deep State]].[11] Carlson asked whether Musk "was asked to buy Twitter," and wrote that in buying it Musk released "a major free speech platform from its chains, while gaining access to all of its Deep State secrets."[11] He added that since Musk announced the acquisition in 2022 he had become Deep State public enemy number two behind [[donald-trump|Donald Trump]], and may briefly have taken the top spot that year.[11]
+
+11. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting

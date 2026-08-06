@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [dhs, immigration, trump-administration, congress]
-sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-7ed.md, raw/badlands-brief-9ea.md, raw/badlands-brief-990.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cf3.md]
+sources: [raw/badlands-brief-165.md, raw/badlands-brief-4ec.md, raw/badlands-brief-7ed.md, raw/badlands-brief-9ea.md, raw/badlands-brief-990.md, raw/badlands-brief-a20.md, raw/badlands-brief-b74.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-020.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-0ef.md, raw/badlands-news-brief-26f.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-520.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7ed.md, raw/badlands-news-brief-93e.md, raw/badlands-news-brief-94b.md, raw/badlands-news-brief-a34.md, raw/badlands-news-brief-b63.md, raw/badlands-news-brief-bd7.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-c9b.md, raw/badlands-news-brief-cf3.md, raw/is-the-censorship-war-over.md]
 confidence: medium
 ---
 
@@ -169,3 +169,11 @@ In February 2025, Homeland Security Secretary Noem called the [[fbi|FBI]] "corru
 Sharing the article on X, Noem wrote: "The FBI is so corrupt. We will work with any and every agency to stop leaks and prosecute these crooked deep state agents to the fullest extent of the law."[25] ICE sources told Fox News they did not know where Noem obtained the information or what she was basing it on.[25] Badlands contributor [[ashe-in-america|Ashe in America]] used the episode to argue for the immediate confirmation of [[kash-patel|Kash Patel]] as FBI Director, noting the committee vote had slipped by a week to February 13 and warning that delay risked chaos, sabotage and even lives.[25]
 
 25. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
+
+## "Hide behind the First Amendment" controversy (2025)
+
+Badlands Media criticized the Department of Homeland Security under Noem for using what it called the same language as the Biden administration to justify censorship of speech.[26] A departmental statement declared that there is "no room in the United States for the rest of the world's terrorist sympathizers," that the government is "under no obligation to admit them or let them stay here," and warned that anyone who thinks they can come to America and "hide behind the [[first-amendment|First Amendment]]" to advocate anti-Semitic violence and terrorism should "think again."[26]
+
+[[mike-benz|Mike Benz]] responded that a federal government agency should never use the phrase "hide behind the First Amendment," an assessment the article endorsed.[26] While Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued that many campus protests were funded and coordinated by NGOs such as [[jewish-voice-for-peace|Jewish Voice for Peace]] operating with establishment backing, he maintained that ordinary students critical of Israel's conduct should still be allowed a voice, since there is no "Israel exception" to the First Amendment.[26] The episode was grouped with the denial of press access to [[associated-press|The Associated Press]] over the [[gulf-of-america-renaming|Gulf of America renaming]] as evidence that the administration's application of free speech protections was selective.[26]
+
+26. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

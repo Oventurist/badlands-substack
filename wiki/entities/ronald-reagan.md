@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [presidents, hollywood, cold-war, military]
-sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-cf8.md, raw/dope-inc.md]
+sources: [raw/a-new-hollywood.md, raw/badlands-news-brief-a71.md, raw/badlands-news-brief-cf8.md, raw/dope-inc.md, raw/has-trumps-whole-life-been-a-sting.md, raw/is-generation-x-saving-america.md]
 confidence: medium
 ---
 
@@ -35,3 +35,20 @@ In October 2025, the government of [[ontario|Ontario]] aired an [[ontario-reagan
 2. Badlands News Brief — "Can You Predict October Surprises?", URL: https://badlands.substack.com/p/badlands-news-brief-a71
 3. Badlands Brief — "Badlands News Brief: B-Ball Bets, Bomber Busts, & 'Bipartisan' Bill Blockage", URL: https://badlands.substack.com/p/badlands-news-brief-cf8
 4. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
+
+
+## Appointment of Rudy Giuliani (1981)
+
+A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] noted that Reagan appointed [[rudy-giuliani|Rudy Giuliani]] United States Associate Attorney General in 1981, a post Giuliani held until 1983 before taking a voluntary demotion to serve as U.S. Attorney for the Southern District of New York.[5]
+
+5. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
+
+## Cultural legacy and Generation X
+
+A December 21, 2024 Badlands essay by [[erik-carlson|Erik Carlson]] argued that Reagan's presidency defined the formative years of [[generation-x|Generation X]], which was aged 2 to 16 when he took office in 1981 and 10 to 24 when he left in 1989.[6] Carlson wrote that Reagan reignited a message of positivity and pride in America after a 1970s decade of gas lines, inflation, unemployment, high interest rates and distrust of the presidency, noting that his term began with the release of the hostages from Iran and ended with the crumbling of the Soviet Union.[6]
+
+Two months after taking office Reagan survived an assassination attempt that Carlson attributes to a [[deep-state|Deep State]] plan to install his vice president, former [[cia|CIA]] Director George Bush; surviving it, Carlson writes, made Reagan "an indestructible grandpa figure" to many in Gen X, the first president they had seen treated with respect.[6] Carlson criticizes Reagan as naive for believing deals could be made with evil people and for accepting Bush as running mate, contrasting him with [[donald-trump|Donald Trump]], whom he calls "Reagan 2.0" — where Reagan sought to subdue the Deep State, Trump plans to annihilate it.[6]
+
+Carlson credits the Reagan era with a wholesale cultural shift after the 1984 Los Angeles Olympics: upbeat music, more masculine movie heroes, the normalization of TV sitcoms, and even fluorescent color fads, with *Rambo* replacing *The Deer Hunter*, *The Cosby Show* replacing *Good Times*, *Vacation* replacing *Kramer vs. Kramer*, and *Red Dawn* replacing *All the President's Men*.[6] He asserts that the movie studios were commissioned by the Reagan administration to make films that inspired Americans, while the 1983 nuclear-war telefilm *The Day After* served the opposite purpose of instilling fear.[6] Carlson adds that he does not consider Reagan perfect, only that the decade before and the decade after his presidency were markedly darker.[6]
+
+6. Badlands Brief — "Is Generation X Saving America?", URL: https://badlands.substack.com/p/is-generation-x-saving-america

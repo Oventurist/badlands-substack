@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, european-union, regulation, free-speech]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-e8f.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-news-brief-254.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-810.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-e8f.md, raw/is-the-censorship-war-over.md]
 confidence: low
 ---
 
@@ -57,3 +57,15 @@ Senior U.S. officials joined the criticism: Secretary of State [[marco-rubio|Mar
 In December 2025 the [[european-commission|European Commission]] announced a €120 million ($140 million) fine against X for several violations of the Digital Services Act, singling out the "deceptive" design of the platform's blue checkmark for verified accounts, "non-compliance with transparency obligations," and its failure to provide researchers with access to public data.[7] The penalty drew an angry response from [[elon-musk|Elon Musk]], who replied "Bulls***" under a Commission post about the fine and then called for the [[european-union|European Union]] itself to be abolished and sovereignty returned to individual countries.[7] Several top Trump administration officials joined the criticism, consistent with the administration's position that regulation of American tech platforms in Europe amounts to an attack on free speech.[7]
 
 7. Badlands News Brief — "Turkish Delight, Somali Expansion, & The Racist History of Jingle Bells", URL: https://badlands.substack.com/p/badlands-news-brief-e8f
+
+## The DSA as the censors' remaining instrument (2025 assessment)
+
+Badlands Media's April 2025 analysis argued that with the U.S. portion of the [[censorship-industrial-complex|censorship-industrial complex]] being gutted by the Trump administration, the primary hub for censorship had become centralized within the European Union and NATO, and that of the available legal instruments the Digital Services Act had "the most teeth."[8] The article situated the DSA alongside Canada's [[online-streaming-act|Online Streaming Act]] (Bill C-11) and the UK's [[online-safety-bill|Online Safety Bill]] as the tools catalogued in a pre-2024-election piece on the multinational offensive against free speech.[8]
+
+Fully in effect across the EU since February 17, 2024, the DSA is officially presented as regulating online platforms to enhance "user safety, transparency, and accountability"; Badlands characterized this as a whitewashed mission statement for a regime that imposes "obligations" on digital services, particularly Very Large Online Platforms (VLOPs) and Very Large Online Search Engines (VLOSEs).[8] The article noted that the law was used to apply pressure to [[elon-musk|Elon Musk]] following the October 7 Hamas attack on Israel.[8]
+
+## Reliance on the DSA by displaced disinformation researchers
+
+A panel of censorship-industry figures — [[rebekah-tromble|Rebekah Tromble]], [[katie-harbath|Katie Harbath]] of the [[atlantic-council|Atlantic Council]] and the [[international-republican-institute|International Republican Institute]], and [[dean-jackson|Dean Jackson]] of the [[carnegie-endowment-for-international-peace|Carnegie Endowment]] and the [[national-endowment-for-democracy|National Endowment for Democracy]] — was quoted saying that "if it weren't for Europe right now, I think that I would feel pretty defeated and despondent in this moment," and that without the European Union and the DSA there would be little hope of "rectifying this situation."[8] The speakers anticipated that the DSA coming into full force would lead to "a sort of re-staffing of some of these positions."[8] Badlands framed this as American practitioners welcoming a foreign entity's censorship law — backed by fines potentially reaching billions of dollars — as leverage to compel U.S. companies, namely X, to rehire the moderators Musk had dismissed.[8]
+
+8. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, substack]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-810.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-5ec.md, raw/badlands-news-brief-810.md, raw/in-defense-of-q-we-were-never-told.md]
 confidence: medium
 ---
 
@@ -25,8 +25,13 @@ Writing in the Badlands News Brief for December 18, 2023, Fleuret addressed the 
 Fleuret asked why comparable clusters of collapses had not appeared in the United States, speculating that owners or leagues might have gone along with vaccine policy on condition that their athletes receive a placebo to protect their investments.[3] While acknowledging the speculative nature of the question, he characterized the collapses as side effects of what he called a deadly poison foisted upon society and rejected the framing of the incidents as coincidence.[3]
 
 
+## Q for Dummies
+
+Fleuret is the author of [[q-for-dummies|"Q for Dummies"]], a serialized introductory primer on the [[q-operation|Q]] drops published on Substack.[4] In July 2024 the [[american-hypnotist|American Hypnotist]] author recommended the series to readers of his [[in-defense-of-q-series|In Defense of Q]] essay as the place to "gain a solid footing with regards to the drops themselves," positioning his own series as a supplement to Fleuret's primer.[4]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
 2. Badlands Brief — "It's Raining Red Pills ... And We Like It", URL: https://badlands.substack.com/p/badlands-news-brief-5ec
 3. Badlands Brief — "Badlands News Brief: Trump 2024 Has the Deep State a Little Testy …", URL: https://badlands.substack.com/p/badlands-news-brief-810
+4. Badlands Brief — "In Defense of Q - We Were Never Told to Sit Still", URL: https://badlands.substack.com/p/in-defense-of-q-we-were-never-told

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [crt, education, neo-marxism, ideology]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-6db.md, raw/death-to-dei.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-6db.md, raw/death-to-dei.md, raw/how-to-stop-civil-war-20.md]
 confidence: low
 ---
 
@@ -26,8 +26,13 @@ Badlands contributor [[justin-deschamps|Justin Deschamps]] used the episode to a
 
 Badlands contributor [[erik-carlson|Erik Carlson]] wrote that critical race theory and [[political-correctness|political correctness]] were not introduced to America "to nurture respect for one another," but were created in pre-Nazi Germany at the [[frankfurt-school|Frankfurt School]] for the purpose of infiltrating and destroying an enemy state from within — defeating an adversary "without a shot being fired."[3] In that account CRT belongs to the same lineage as [[affirmative-action|affirmative action]] and [[diversity-equity-and-inclusion|DEI]], all described as instruments of division deployed by the [[deep-state|Deep State Cabal]].[3]
 
+## Cited as a driver of right-wing radicalisation
+
+Badlands contributor [[matthew-ehret|Matthew Ehret]] concedes that white Christian culture has genuinely come under attack over decades of woke and Critical Race Theory infiltration of education and political institutions.[4] His argument is that this real grievance is then harvested: movements such as the [[unite-the-kingdom-rally|Unite the Kingdom]] rallies channel it into tribal conflict with immigrants rather than toward the financier oligarchy he identifies as the actual oppressor.[4]
+
 ## References
 
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands News Brief: Mostly Peaceful Riots and Billionaire Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-6db
 3. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
+4. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20

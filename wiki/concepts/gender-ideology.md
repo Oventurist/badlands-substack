@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [gender-ideology, canada, lawfare, human-rights-law, culture-war]
-sources: [raw/gender-ideology-has-become-law.md]
+sources: [raw/gender-ideology-has-become-law.md, raw/im-not-a-biologist.md]
 confidence: medium
 ---
 
@@ -38,3 +38,13 @@ Gender ideology in law is paired in the essay with [[gender-affirming-care|gende
 
 ## References
 1. Badlands Brief — "Gender Ideology Has Become Law", URL: https://badlands.substack.com/p/gender-ideology-has-become-law
+
+## The "What Is a Woman?" debate (2022-2023)
+
+Badlands Media contributor [[ashe-in-america|Ashe in America]] treated the [[daily-wire|Daily Wire]] documentary [[what-is-a-woman|"What Is a Woman?"]] as a case study in the logical structure of gender theory, observing that the advocates interviewed by [[matt-walsh|Matt Walsh]] repeatedly became trapped in logical fallacies and threatened to end their interviews, accusing him of hatred and bigotry for asking simple questions.[2] The emblematic moment came when a self-described "social scientist" was asked whether he could define "woman" without using the word "woman" and stared slack-jawed into the distance.[2]
+
+She identified specific claims of gender theory as myths: that pronoun changes and cross-dressing carry no lasting impact on a child's mental health and development, and that pausing puberty with Lupron - a drug known for its use in the chemical castration of sex offenders - is completely reversible.[2] She also noted that advocates in the film denied any male athletic advantage on the grounds that transgender athletes have also lost contests, without presenting evidence, and wrote sardonically that "this is what passes for 'science' these days."[2]
+
+Ashe argued that the phenomenon is not an organic social contagion but "a change program, being commissioned and propagated by the most powerful entities on earth," pointing to the United Nations' [[sustainable-development-goals|Sustainable Development Goal #5]] as explicitly enshrining gender theory as a global imperative, and to the appearance of the UN SDGs in American classrooms.[2] She described the "rainbow terrorist coalition" as having successfully reframed any pushback as the claim that transgender people have no right to exist, a framing she said had become the debate itself and had killed nuance.[2] Her concluding position was that "biology isn't just reality, it's actuality," and that truth remains true even if the entire global establishment disputes it.[2]
+
+2. Badlands Brief - "I'm Not a Biologist!", URL: https://badlands.substack.com/p/im-not-a-biologist

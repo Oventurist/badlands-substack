@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [veterans, media, badlands, obituary]
-sources: [raw/badlands-news-brief-1c3.md, raw/child-sacrifice-as-a-pillar-of-deep.md]
+sources: [raw/badlands-news-brief-1c3.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/how-your-western-brain-exposes-you.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ In March 2024, contributor [[simon-esler|Simon Esler]] applied these definitions
 ## References
 1. Badlands Brief — "Badlands News Brief: International Antifa, Hezbollah Strongholds, & Nuclear Options", URL: https://badlands.substack.com/p/badlands-news-brief-1c3
 2. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
+
+## The digital domain and physical domain doctrine
+
+*[[the-citizens-guide-to-fifth-generation-warfare|The Citizen's Guide to 5GW]]*, co-authored by Cutler with [[michael-flynn|General Michael Flynn]], states that the majority of fifth-generation warfare occurs in the [[digital-domain|digital domain]], and on that basis its authors advocate that readers "dominate the [[physical-domain|physical domain]]" as a direct means of cutting through mind control and censorship.[3] [[simon-esler|Simon Esler]] cited this doctrine in his March 2024 essay on left-hemisphere entrenchment, pairing it with [[iain-mcgilchrist|Iain McGilchrist]]'s neurology as the practical response to conditioning on the [[cognitive-battlefield|cognitive battlefield]].[3]
+
+3. Badlands Brief — "How Your Western Brain Exposes You to 5G Warfare", URL: https://badlands.substack.com/p/how-your-western-brain-exposes-you

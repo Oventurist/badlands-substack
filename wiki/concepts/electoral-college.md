@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, us-politics, constitution, 2024-election]
-sources: [raw/badlands-news-brief-914.md, raw/badlands-news-brief-ac8.md]
+sources: [raw/badlands-news-brief-914.md, raw/badlands-news-brief-ac8.md, raw/inside-the-modern-elections-casino.md]
 confidence: high
 ---
 
@@ -28,7 +28,12 @@ In the closing week of the 2024 campaign, [[politico|Politico]] published a colu
 
 Earlier in October 2024, Minnesota Governor [[tim-walz|Tim Walz]], the Democratic Party's vice presidential nominee, suggested at two West Coast fundraisers that the Electoral College should be abolished.[2] In Seattle he told donors that "because of our system of the Electoral College, that puts a few states in real focus," adding, "I'm a national popular vote guy, but that's not the world we live in."[2] Later the same day in Sacramento, while discussing the battleground states that would decide the election, he said plainly, "I think all of us know, the Electoral College needs to go. We need a national popular vote" — before conceding again that this was not the world he lived in and pivoting to the need to win Beaver County and York, Pennsylvania, western Wisconsin and Reno, Nevada.[2] The [[donald-trump|Trump]] campaign responded on X, suggesting Walz's remarks showed that he hates the U.S. Constitution.[2]
 
+## The 2024 popular-vote narrative
+
+Election analyst [[seth-keshel|Seth Keshel]] argued in April 2025 that media messaging shortly before the [[2024-us-general-election|2024 election]] — that [[kamala-harris|Kamala Harris]] would lose the popular vote but win the Electoral College — was "teasing the plan" to let safe red and blue states behave normally while battleground states were manipulated.[3] Had that outcome materialized, he wrote, it would have carried the additional effect of driving conservatives to curse the Electoral College and demand a national popular vote, an outcome he called "antithetical to the wellbeing of the Republic" and "another safety measure for the casino to have in the rulebook."[3] Keshel calculated that subtracting Georgia, Nevada, Wisconsin and North Carolina from [[donald-trump|Donald Trump]]'s column would have left him at 264 electoral votes, short of the 270 required.[3]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Trump Tours, Bannon Breaks Out & Israel Hesitates", URL: https://badlands.substack.com/p/badlands-news-brief-914
 2. Badlands Brief — "Storms both Real and Political Converge in October", URL: https://badlands.substack.com/p/badlands-news-brief-ac8
+3. Badlands Brief — "Inside the Modern Elections Casino", URL: https://badlands.substack.com/p/inside-the-modern-elections-casino

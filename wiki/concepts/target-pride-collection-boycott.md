@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [boycott, consumer-activism, culture-war, retail, transgender-issues]
-sources: [raw/badlands-news-brief-79c.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-db9.md]
+sources: [raw/badlands-news-brief-79c.md, raw/badlands-news-brief-98c.md, raw/badlands-news-brief-db9.md, raw/im-not-a-biologist.md]
 confidence: medium
 ---
 
@@ -44,3 +44,11 @@ Reporting on May 24, 2023 described Target as "terrified of a Bud Light situatio
 Badlands contributor [[justin-deschamps|Justin Deschamps]] described the phenomenon as being "Budlighted," argued that some critics dismissed the boycott as mere conservative prudishness in a way that served propagandists by pushing uninformed centrists toward sympathy for activists, and questioned whether a company employing thousands should torpedo revenue for a small number of activist employees.[3]
 
 3. Badlands Brief — "Badlands News Brief: DeSimps Assemble, Committees Convene & Target Tantrums", URL: https://badlands.substack.com/p/badlands-news-brief-db9
+
+## Use in the 2023 Republican primary fight
+
+In June 2023, Twitter influencers who appeared to work for the [[ron-desantis|DeSantis]] campaign circulated images of adult pride clothing sold on [[donald-trump|Donald Trump]]'s website, presenting it as a gotcha against MAGA's response to the Target boycott.[4] Badlands contributor [[ashe-in-america|Ashe in America]] rejected the comparison, arguing that Trump was not selling chest-binding or tuck-friendly merchandise to children, which was the actual cause of parental pushback and "the foundation of Target's woes."[4]
+
+She characterised the attack as an attempt to assert that [[maga-coalition|MAGA]] holds that gay people - not even transgender people - have no right to exist and should be disinvited from society, calling this a political narrative and noting that MAGA means America First and counts many LGBT patriots among its ranks.[4] She described the effort as one more misstep from the DeSantis crowd that backfired almost immediately, observed that the DeSantis influencers were using the same lines of attack as what she termed the "rainbow terrorist coalition," and warned that politics must not be allowed to co-opt a legitimate cultural debate about the protection of children in public society.[4]
+
+4. Badlands Brief - "I'm Not a Biologist!", URL: https://badlands.substack.com/p/im-not-a-biologist

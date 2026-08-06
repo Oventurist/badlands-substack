@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [psychology, information-war, epistemology]
-sources: [raw/dont-be-symbol-minded.md]
+sources: [raw/dont-be-symbol-minded.md, raw/generational-dependence-syndrome.md]
 confidence: low
 ---
 
@@ -20,3 +20,11 @@ Ehret linked the acceptance of NLP to a wider epistemological failure: the habit
 
 ## References
 1. Badlands Brief — "Don't Be Symbol-Minded", URL: https://badlands.substack.com/p/dont-be-symbol-minded
+
+## NLP in fifth-generation warfare (February 2025)
+
+A February 11, 2025 Badlands Media essay on [[generational-dependence-syndrome|Generational Dependence Syndrome]] presented Neuro-Linguistic Programming in a positive light, describing it as a technique woven into [[fifth-generation-warfare|Fifth-Generation Warfare]] strategies to activate what the author called the mind-body-soul complex.[2] NLP was defined there as a framework exploring the connection between neurological processes, language and behavior, said to help individuals reframe limiting beliefs, enhance self-awareness and build resilience against manipulation.[2]
+
+Techniques named include anchoring positive states, modeling empowering behaviors and refining internal dialogue, which the essay argued foster coherence between thought, emotion and intuition and thereby shield individuals from external manipulation.[2] Combined with energetic practices such as guided meditation, sound healing and community-based engagement, these methods were said to elevate collective vibrational states and counter the fragmentation tactics of [[fourth-generation-warfare|Fourth-Generation Warfare]].[2]
+
+2. Badlands Brief — "Generational Dependence Syndrome", URL: https://badlands.substack.com/p/generational-dependence-syndrome

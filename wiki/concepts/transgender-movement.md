@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [transgender, tavistock, wokeism, population-control]
-sources: [raw/death-to-dei.md]
+sources: [raw/death-to-dei.md, raw/is-generation-x-saving-america.md]
 confidence: low
 ---
 
@@ -22,5 +22,12 @@ Carlson wrote that, unlike other narratives that can be abandoned with little pe
 
 Alongside abortion, climate change, [[diversity-equity-and-inclusion|DEI]] and [[black-lives-matter|BLM]], the trans agenda is listed among the causes defining the [[democratic-party|Democrat Party]] in Carlson's account.[1]
 
+## Generational identification data
+
+A December 21, 2024 Badlands essay by [[erik-carlson|Erik Carlson]] dated the start of the trans movement to 2012 and argued that the age of a person when the LGBTQ and transgender movements peaked correlates directly with how they identify sexually.[2] He cited LGBTQ+ identification of 4% among [[baby-boomers|Baby Boomers]], 7% among [[generation-x|Generation X]], 11.2% among [[millennials|Millennials]] and 19.7% among [[generation-z|Generation Z]], and transgender identification of 0.2%, 0.3%, 1% and 1.9% respectively.[2]
+
+Carlson argued that a near-doubling between Millennials and Gen Z, only one generation apart, cannot be genetic — writing that "even Charles Darwin wouldn't make the claim that genetic evolution could occur this fast" — and concluded the alternative is a choice heavily influenced by society and the media.[2] He stated that he does not care what adults identify as "as long as they leave the kids alone," and accused advocates of conveniently ignoring science when making genetic claims about sexuality and identity.[2] He also described Gen X as the last generation to avoid the LGBTQ movement, which he says spawned in 1969 but did not hit its stride until most of Gen X were adults.[2]
+
 ## References
 1. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
+2. Badlands Brief — "Is Generation X Saving America?", URL: https://badlands.substack.com/p/is-generation-x-saving-america

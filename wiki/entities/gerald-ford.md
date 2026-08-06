@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [us-presidency, pardons, watergate]
-sources: [raw/badlands-news-brief-099.md, raw/clowns-in-america.md]
+sources: [raw/badlands-news-brief-099.md, raw/clowns-in-america.md, raw/henry-kissinger-british-cabal-puppet.md]
 confidence: medium
 ---
 
@@ -26,3 +26,11 @@ In 1976, with the [[central-intelligence-agency|Central Intelligence Agency]] un
 According to a CIA biography quoted by Badlands, Bush insisted upon direct access to Ford on becoming director, usually editing the [[presidents-daily-brief|President's Daily Brief]] or briefing at National Security Council meetings so as to convey the agency's analysis directly to the president.[2] Ford frequently included Bush in high-level meetings, and Bush's practice of bringing Agency officers along to brief the president in person impressed Ford and contributed to a morale boost at Langley.[2] Badlands treats Ford's receptiveness as the mechanism by which the CIA gained lasting influence within the executive branch and the seed of an unaccountable [[shadow-government|shadow government]].[2] A New York Times report cited in the same article noted that a spokesman for Bush maintained he had no involvement with the agency before Ford named him its director in 1975.[2]
 
 2. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
+
+## Badlands commentary: succession and the Warren Commission
+
+Badlands contributor [[erik-carlson|Erik Carlson]] described Ford as a "CIA puppet" installed as vice president after the resignation of Spiro Agnew, becoming president when [[richard-nixon|Richard Nixon]] resigned less than a year later under what Carlson characterized as a CIA operation designed to oust him, known as [[watergate|Watergate]].[3] Cabal family member [[nelson-rockefeller|Nelson Rockefeller]] was then made Ford's vice president.[3] Carlson compared Ford's nominal leadership to that of Joe Biden, arguing Ford was a puppet regardless of his greater mental capacity.[3]
+
+Carlson also noted that Ford had headed the government committee — the [[warren-commission|Warren Commission]] — which determined that the JFK assassination happened exactly as portrayed to the American public, in effect absolving the [[central-intelligence-agency|CIA]] of its theorized role in the killing.[3] Under Ford, [[george-hw-bush|George H.W. Bush]] replaced [[william-colby|William Colby]] as Director of the CIA in 1976, and [[henry-kissinger|Henry Kissinger]] served as Secretary of State through the Ford presidency.[3]
+
+3. Badlands Brief — "Henry Kissinger: British Cabal Puppet", URL: https://badlands.substack.com/p/henry-kissinger-british-cabal-puppet

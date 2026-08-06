@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [china, ccp, communism, infiltration]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md, raw/empires-enigma.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-efd.md, raw/biden-inc-flips.md, raw/empires-enigma.md, raw/glimpses-into-hell-part-2.md]
 confidence: low
 ---
 

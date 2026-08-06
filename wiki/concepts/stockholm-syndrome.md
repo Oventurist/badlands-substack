@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [psychology, propaganda, control, commentary]
-sources: [raw/americas-greatest-threat.md]
+sources: [raw/americas-greatest-threat.md, raw/generational-dependence-syndrome.md]
 confidence: medium
 ---
 
@@ -30,3 +30,9 @@ Alongside the clinical metaphor, the essay argues that discernment and self-awar
 
 ## References
 1. Badlands Brief — "America's Greatest Threat", URL: https://badlands.substack.com/p/americas-greatest-threat
+
+## Contrast with Generational Dependence Syndrome (February 2025)
+
+A February 11, 2025 Badlands Media essay used Stockholm Syndrome as a point of contrast when defining [[generational-dependence-syndrome|Generational Dependence Syndrome]] (GDS).[2] The author characterized Stockholm Syndrome as marked by short-term emotional bonds between captor and captive, whereas GDS was said to operate on a far broader scale, entrenching societal dependence on oppressive systems through fear, manipulation and generational conditioning.[2] By embedding compliance into cultural, economic and psychological frameworks, GDS was described as transforming passive submission into a deeply ingrained norm spanning entire communities rather than an individual captive relationship.[2]
+
+2. Badlands Brief — "Generational Dependence Syndrome", URL: https://badlands.substack.com/p/generational-dependence-syndrome

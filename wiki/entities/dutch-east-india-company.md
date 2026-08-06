@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [colonialism, netherlands, trading-companies, history]
-sources: [raw/badlands-news-brief-099.md, raw/control-the-financial-system-control.md, raw/false-flags-and-the-occult.md]
+sources: [raw/badlands-news-brief-099.md, raw/control-the-financial-system-control.md, raw/false-flags-and-the-occult.md, raw/is-the-federal-reserve-a-british.md]
 confidence: low
 ---
 
@@ -32,3 +32,11 @@ Carlson further claims that in 1688 the Dutch East India Company created the [[c
 ## Association with fractional reserve banking
 
 In "False Flags and the Occult" (March 2023), [[justin-deschamps|Justin Deschamps]] noted that the first fractional reserve bank was launched within a decade of the Dutch East India Company's founding, and characterized the company as involved in black-market cartel activities including the drug trade, weapons trading, early analogues of color revolutions, slavery and high finance.[3] The pairing supports his broader argument that modern banking depends on manufactured instability — a dynamic he links to [[chaos-sorcery|chaos sorcery]] and to the use of [[false-flag-operation|false flag]] events.[3]
+
+## Role in the colonial American economy
+
+A February 16, 2023 Badlands Media essay on the legal origins of [[federal-reserve|the Federal Reserve]] holds that during the eighteenth century the American colonies were treated much like slave states by the [[british-crown|British Crown]], with colonists disempowered by statutes of Westminster that gave egregiously unfair advantages to Crown agents and to wealthy Dutch merchants in all manner of American trade and commerce.[4] These parties saw America as their own private cash crop, and the Dutch East India Company was, in the essay's account, responsible for the lion's share of the slave trade — citing [[anthony-napoleon|Anthony Napoleon]]'s book *Shadow Men* — while seeking a monopoly in every conceivable sphere of economic activity.[4]
+
+The article adds that it was the Dutch merchants who founded Wall Street in New Amsterdam, later renamed New York.[4] It argues that for the Crown and the Dutch merchants the loss of the colonies meant the loss of some of their most precious investments and real estate, giving them a standing motive to recapture American commerce by other means.[4]
+
+4. Badlands Brief — "Is the Federal Reserve a British Institution?", URL: https://badlands.substack.com/p/is-the-federal-reserve-a-british

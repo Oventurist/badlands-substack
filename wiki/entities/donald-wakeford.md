@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fulton-county, prosecutor, rico, 2020-election]
-sources: [raw/badlands-news-brief-4c3.md]
+sources: [raw/badlands-news-brief-4c3.md, raw/grand-jury-testimony-from-senator.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ Wakeford also pointed out that similar arguments had been raised and rejected in
 ## References
 
 1. Badlands News Brief — "Trump Counters, SBF Pleads & Disney Dies?", URL: https://badlands.substack.com/p/badlands-news-brief-4c3
+
+## Questioning of David Perdue (September 2022)
+
+Wakeford was among the attorneys present when former U.S. Senator [[david-perdue|David Perdue]] testified before the Fulton County special grand jury on September 6, 2022.[2] Toward the end of the session he sought confirmation of Perdue's central claim, asking: "You said that although Mr. Reynolds had received evidence that he felt was compelling enough to open an investigation, that he was not going to investigate because the governor had told him not to?"[2] Perdue replied, "That's one of the things he said, yeah."[2] The exchange, unsealed in 2026, became the most directly quoted corroboration of the allegation that Governor [[brian-kemp|Brian Kemp]] had steered [[georgia-bureau-of-investigation|GBI]] Director [[vic-reynolds|Vic Reynolds]] away from an inquiry.[2]
+
+2. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator

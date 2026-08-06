@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, military-industrial-complex, war-planning]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-e14.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-news-brief-bb3.md, raw/badlands-news-brief-e14.md, raw/how-to-rent-a-riot-the-history-of.md]
 confidence: low
 ---
 
@@ -34,3 +34,8 @@ In September 2024 Badlands described the RAND Corporation as "one of the great v
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "All Eyes on the US as the World Shifts", URL: https://badlands.substack.com/p/badlands-news-brief-bb3
 3. Badlands Brief — "Another One Tries ... Another One Fails", URL: https://badlands.substack.com/p/badlands-news-brief-e14
+4. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
+
+## Link to Gene Sharp
+
+Badlands Media lists the RAND Corporation among the U.S. institutions with which [[gene-sharp|Gene Sharp]], the theorist of [[nonviolent-action|nonviolent action]], maintained strong links — alongside the [[central-intelligence-agency|Central Intelligence Agency]], the [[pentagon|Pentagon]], the [[international-republican-institute|International Republican Institute]] and the [[national-endowment-for-democracy|National Endowment for Democracy]].[4] The connection supports the article's contention that Sharp is better understood as a Cold War defense intellectual than as a grassroots people's champion.[4]

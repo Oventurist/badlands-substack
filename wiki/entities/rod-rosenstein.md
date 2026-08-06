@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [justice-department, russiagate, nso-group, pegasus, litigation]
-sources: [raw/badlands-news-brief-e3e.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md]
+sources: [raw/badlands-news-brief-e3e.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md]
 confidence: medium
 ---
 
@@ -36,7 +36,20 @@ In "Disinformation is Necessary," [[joe-lange|Joe Lange]] presents Rosenstein an
 
 Lange argues that [[donald-trump|Trump]] never called for either man's recusal because allowing the enemy to place its pawns in full control of the special counsel created the opportunity to flip them.[3] Q drop 1287 noted that Rosenstein had signed off on the FBI raid of [[michael-cohen|Michael Cohen]]'s office, which Lange frames as the mechanism for legally introducing evidence into criminal investigations.[3] By April 27, 2018, per Q drop 1286, Rosenstein had told Trump he was not being investigated.[3] These claims reflect Badlands Media interpretation rather than established fact.
 
+## The Whitewater and Barsoomian connections
+
+In "[[irregular-warfare|Irregular Warfare]]," Lange develops Rosenstein's Clinton ties in detail, drawing on the Rush Limbaugh Show: Rosenstein served on the [[whitewater-controversy|Whitewater]] prosecution team that cleared the Clintons, handled the FBI travel office files case, and saw his wife [[lisa-barsoomian|Lisa Barsoomian]] represent [[bill-clinton|Bill Clinton]] in a 1998–99 federal civil case shortly after he cleared [[hillary-clinton|Hillary Clinton]].[4] Q drops 4784 and 3035 highlight the marriage under the headings "follow the wives" and "PAY-FOR-PLAY SPIDER WEB."[4] Barsoomian's practice, conducted largely alongside R. Craig Lawrence, involved defending the government against [[freedom-of-information-act|Freedom of Information Act]] suits and representing [[robert-mueller|Mueller]], [[james-comey|Comey]], [[barack-obama|Obama]] and the Clintons.[4] Lange argues this constituted a conflict of interest far larger than the one that led [[jeff-sessions|Jeff Sessions]] to recuse, and asks why Rosenstein never recused himself.[4]
+
+## Rosenstein in the Comey firing
+
+The article reconstructs the timeline: Trump nominated Rosenstein as Deputy Attorney General on February 1, 2017; Sessions recused from the Russia matter on March 5, 2017; and the Senate confirmed Rosenstein overwhelmingly on April 25, 2017.[4] At a May 8, 2017 meeting, Trump informed Sessions and Rosenstein that he intended to fire Comey, and Rosenstein was required to "memorialize" the meeting in a memo laying out Comey's mishandling of the 2016 Clinton email investigation.[4] Lange treats the memo's silence on Russian collusion as proof the subject was never raised — otherwise Democrats would have accused Sessions of breaching his recusal.[4] Rosenstein appointed Mueller as Special Counsel on May 17, 2017, and later told senators in a closed-door Senate briefing that he had known Trump wanted Comey gone before he wrote the letter.[4]
+
+## Why Trump chose him
+
+Lange contends Trump nominated Rosenstein knowing he was compromised, because [[mike-rogers|Admiral Mike Rogers]] — the only three-letter agency head Trump did not replace — vetted all nominees and would have surfaced the Clinton connections.[4] Two purposes are proposed: giving the enemy a false sense of security, in keeping with Sun Tzu's "look weak when you are strong," and installing a figure who could be leveraged.[4] Lange suggests Rosenstein and Barsoomian, parents of two daughters, faced the same choice he attributes to [[huma-abedin|Huma Abedin]], and concludes that Rosenstein flipped.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Secrets of the Secret Service and Venezuelan PsyOps", URL: https://badlands.substack.com/p/badlands-news-brief-e3e
 2. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
 3. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+4. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare

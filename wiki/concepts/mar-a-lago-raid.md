@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, doj, donald-trump, classified-documents, lawfare]
-sources: [raw/badlands-news-brief-109.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-news-brief-109.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-d50.md, raw/has-trumps-whole-life-been-a-sting.md]
 confidence: medium
 ---
 
@@ -38,3 +38,10 @@ After the [[fbi|FBI]] recovered government documents including classified papers
 1. Badlands Brief — "Badlands News Brief: Trump and Elon Break the Internet", URL: https://badlands.substack.com/p/badlands-news-brief-109
 2. Badlands Brief — "The Wall Are Closing in Again! (And Other Stories)", URL: https://badlands.substack.com/p/badlands-news-brief-7ad
 3. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+
+
+## Reported authorisation of lethal force (Carlson, 2024)
+
+A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] noted reporting that the Biden administration had authorised lethal force against the Trump family during the Mar-a-Lago raid, adding that readers could "make of that what they will," and setting it beside what he described as the same administration's sustained effort to destroy [[elon-musk|Elon Musk]].[4]
+
+4. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting

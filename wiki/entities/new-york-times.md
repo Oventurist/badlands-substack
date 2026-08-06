@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, mainstream-media, newspapers, intelligence-community]
-sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f1d.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/assad-day-in-damascus.md, raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-08c.md, raw/badlands-news-brief-07e.md, raw/badlands-news-brief-2a2.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-8f4.md, raw/badlands-news-brief-9ae.md, raw/badlands-news-brief-a82.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-bfb.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f1d.md, raw/missed-opportunities.md]
 confidence: medium
 ---
 
@@ -155,3 +155,11 @@ In September 2025, President [[donald-trump|Donald Trump]] announced that he had
 
 21. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
 22. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
+
+## December 2025 Epstein wealth investigation
+
+On December 16, 2025, the Times published what it billed as an "exhaustive investigation" into the origins of [[jeffrey-epstein|Jeffrey Epstein]]'s wealth, portraying him as a cunning opportunist who rose through scams, theft and relentless self-promotion.[23] The piece traced his abrupt entry into Wall Street at [[bear-stearns|Bear Stearns]] in the late 1970s, his 1981 departure amid regulatory scrutiny, and his partnerships with [[steven-hoffenberg|Steven Hoffenberg]] and [[les-wexner|Les Wexner]].[23] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] criticized the article for omitting Epstein's 1980s immersion in arms dealing, money laundering for covert operations and intelligence-adjacent financial flows, reducing him to a mere grifter.[23]
+
+DeLarme catalogued specific gaps: [[douglas-leese|Douglas Leese]] was described only as a "defense contractor with extensive connections in the arms industry and the British government," with no mention of his ties to [[adnan-khashoggi|Adnan Khashoggi]]; [[j-stanley-pottinger|J. Stanley Pottinger]] appeared merely as an "early office-sharing partner," omitting his 1980–1981 advisory role to Iranian arms exporters; Khashoggi was framed as an eccentric client rather than a pivotal [[iran-contra-affair|Iran-Contra]] player; the firm's [[bank-of-credit-and-commerce-international|BCCI]] trades at Bear Stearns went unmentioned entirely; and the paper avoided Epstein's repurposing of [[southern-air-transport|Southern Air Transport]] aircraft.[23] He also faulted the piece for constant editorializing and for inserting opinion as though it were fact, arguing the selective narrative perpetuates a sanitized history that pins the ills on a dead man while obscuring institutional corruption.[23]
+
+23. Badlands Brief — "Missed Opportunities", URL: https://badlands.substack.com/p/missed-opportunities

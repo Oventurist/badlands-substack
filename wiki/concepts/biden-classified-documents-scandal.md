@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [classified-records, joe-biden, national-archives, special-counsel]
-sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f4c.md]
+sources: [raw/badlands-news-brief-082.md, raw/badlands-news-brief-0be.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-8f1.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f39.md, raw/badlands-news-brief-f4c.md, raw/how-do-you-remove-a-potus.md]
 confidence: medium
 ---
 
@@ -61,6 +61,16 @@ Badlands contributor [[just-human|Just Human]] argued that the extended, multi-h
 ## January 18, 2023 press briefing
 
 On January 18, 2023, reporters bombarded White House press secretary [[karine-jean-pierre|Karine Jean-Pierre]] with questions about the classified documents stored in President Biden's garage.[9] NBC's Peter Alexander pressed her on why the [[white-house|White House]] could not discuss the facts underlying the special counsel investigation given that the Justice Department had not barred it from doing so, and accused the administration of withholding information; Jean-Pierre said "we've been clear" and referred him to the White House counsel's office.[9]
+
+## Alternative-media interpretation as a planned removal operation
+
+In a January 19, 2023 Badlands Media feature titled "How Do You Remove a POTUS?", contributor [[erik-carlson|Erik Carlson]] argued that the discovery of classified documents in Biden's University of Pennsylvania office closet, in the garage of his Delaware house and elsewhere was not organic but a contrived, pre-planned operation to remove Biden from the White House.[10] Carlson wrote that accepting the timing and the players involved as coincidence would require also believing that Big Pharma's chief goal is public health and that the US government's goal is protecting individual Americans' rights.[10]
+
+He placed particular weight on the sequence of events: documents were said to have been stumbled upon in the U-Penn closet on November 2, 2022, yet [[cbs-news|CBS]] reported the story only in January 2023, immediately after [[kevin-mccarthy|Kevin McCarthy]] was elected [[2023-speaker-of-the-house-election|Speaker of the House]] and accepted the concessions demanded of him, including the appointment of committees to investigate [[deep-state|Deep State]] corruption.[10] Carlson asked why, if CBS were reporting honestly, it had not run the story before the 2022 election.[10]
+
+Carlson offered four competing explanations for the leak.[10] In the first, the [[democratic-party|Democrats]] genuinely believed Biden would make a good president and hoped he would seek re-election, but discovered his mental capacity made him unfit and needed a way to move on.[10] In the second, the [[white-hats|White Hats]] allowed Biden to steal the 2020 election in order to use his presidency to discredit the Democratic Party and, through it, the Deep State — something that could not have been accomplished with [[donald-trump|Donald Trump]] in office because voters had to experience the consequences rather than be told about them by a figure they despised.[10] In the third, the Democrats always intended to install Biden for two years and then replace him as a "fall guy," using his cognitive decline plus public scandals as cover and timing the swap so that a recovering economy would flatter his successor ahead of the 2024 election.[10] In the fourth, the White Hats anticipated precisely that plan and countered it by tethering the Deep State to Biden, so that as they attempted to jettison him they would fail to see the rope tying them to him.[10]
+
+Carlson concluded that the Deep State had realized [[congress|Congress]] was about to investigate it and needed to get ahead of the story with a new narrative, while the [[white-hats|Patriots]] had been laying traps for two years; the more the Democrats, [[rino|RINOs]] and Deep State players tried to distance themselves from the Biden family, he wrote, the more they would be sucked in.[10]
 
 ## References
 

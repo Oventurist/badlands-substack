@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [university, research, physics, massachusetts]
-sources: [raw/badlands-news-brief-60c.md, raw/badlands-news-brief-cad.md]
+sources: [raw/badlands-news-brief-60c.md, raw/badlands-news-brief-cad.md, raw/has-trumps-whole-life-been-a-sting.md]
 confidence: medium
 ---
 
@@ -26,3 +26,10 @@ Badlands commentators framed the killing as "fusion-adjacent," juxtaposing the l
 
 1. Badlands Brief — "Fusion Mergers & Fusion-Adjacent Murders", URL: https://badlands.substack.com/p/badlands-news-brief-60c
 2. Badlands Brief — "A Christmas Bonus, War “With” Venezuela, & Prime Time Rugs", URL: https://badlands.substack.com/p/badlands-news-brief-cad
+
+
+## John G. Trump and the Rad Lab (Carlson, 2024)
+
+A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] recounted MIT's role in the career of [[john-g-trump|John G. Trump]], a professor at the institute from 1936 to 1973 and uncle of [[donald-trump|Donald Trump]].[3] During the Second World War he joined the National Defense Research Committee as technical aide to MIT president Karl Compton, became secretary of its microwave committee in 1942, and worked within the MIT Radiation Laboratory — the "Rad Lab" — which absorbed British radar researchers as wartime shortages deepened in Britain.[3] From February 1944 to the end of the war in Europe he directed the British Branch of the Radiation Laboratory at Malvern, Worcestershire.[3] After the war he returned to MIT to teach and direct research for three decades, heading the MIT High Voltage Research Laboratory from 1946 to 1980, where work included using electron beams from a high-voltage accelerator to disinfect municipal wastewater sludge in a prototype tested at a Boston treatment plant.[3]
+
+3. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting

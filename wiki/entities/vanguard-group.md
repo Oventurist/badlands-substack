@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-579.md, raw/badlands-news-brief-d46.md, raw/blackrock-inc-and-the-vanguard-group.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-brief-579.md, raw/badlands-news-brief-d46.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/get-woke-go-broke.md]
 confidence: medium
 ---
 
@@ -34,6 +34,10 @@ DeLarme traced the pair's position across the packaged food industry — [[pepsi
 
 Asked who owns the largest shares of Vanguard and BlackRock themselves, the article answers that the largest holders of each are Vanguard and BlackRock, closing the ownership loop.[5] DeLarme concludes that Vanguard- and BlackRock-owned media persuaded the public of the efficacy of Vanguard- and BlackRock-owned experimental drugs, and that COVID-19 produced the largest upward transfer of wealth in human history, a claim supported with [[oxfam|Oxfam]]'s "Power, Profits and the Pandemic" report.[5]
 
+## Role in ESG enforcement (2023 commentary)
+
+[[erik-carlson|Erik Carlson]] named Vanguard, alongside [[blackrock|BlackRock]] and [[state-street|State Street]], as one of the investment giants whose funds a corporation can be barred from if it fails to satisfy [[esg|ESG]] scoring organizations such as the Soros-funded Human Rights Campaign.[6] Exclusion from these managers' ETFs and mutual funds, in his analysis, reduces the number of holders of a company's stock and thereby drives down its price and valuation — the mechanism by which ESG functions as corporate control rather than investor choice.[6]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -41,3 +45,4 @@ Asked who owns the largest shares of Vanguard and BlackRock themselves, the arti
 3. Badlands Brief — "Two Cartels, Imminent Indictments, & A French Nun", URL: https://badlands.substack.com/p/badlands-brief-579
 4. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
 5. Badlands Brief — "BlackRock, Inc. And the Vanguard Group", URL: https://badlands.substack.com/p/blackrock-inc-and-the-vanguard-group
+6. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke

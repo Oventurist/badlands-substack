@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [regulator, sec, trump-media, dwac]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md, raw/did-israel-possess-foreknowledge.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-news-brief-066.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-0c1.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-447.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-d73.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-f94.md, raw/control-through-language.md, raw/did-israel-possess-foreknowledge.md, raw/is-jamie-dimon-directing-the-priorities.md]
 confidence: low
 ---
 
@@ -101,3 +101,9 @@ On October 5, 2023, the SEC sued [[elon-musk|Elon Musk]] in the Northern Distric
 13. Badlands Brief — "Badlands News Brief: The Proof is in the Proxy ...", URL: https://badlands.substack.com/p/badlands-news-brief-f94
 14. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
 15. Badlands Brief — "Did Israel Possess Foreknowledge of Recent Attacks?", URL: https://badlands.substack.com/p/did-israel-possess-foreknowledge
+
+## Dimon's call for short-seller enforcement (May 2023)
+
+In a Bloomberg interview published May 11, 2023, [[jpmorgan-chase|JPMorgan Chase]] chief executive [[jamie-dimon|Jamie Dimon]] said the SEC "has the enforcement capability to look at what people are doing by name in options, derivatives, short sales," and that such actors "should be punished to the full extent the law allows it."[16] Dimon acknowledged that his own team had concluded [[short-selling|short sellers]] were not the primary driver of the [[2023-banking-crisis|2023 banking crisis]], but urged the commission to enforce existing regulations against anyone engaged in "wrong practices," collusion, or the spreading of false information about banks.[16] Badlands contributor [[ashe-in-america|Ashe in America]] argued that this amounted to a demand for enforcement against potential rather than proven wrongdoing, and questioned whether "wrong practices" was a legal standard at all.[16]
+
+16. Badlands Brief — "Is Jamie Dimon a Prophet?", URL: https://badlands.substack.com/p/is-jamie-dimon-directing-the-priorities

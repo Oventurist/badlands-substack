@@ -1,0 +1,24 @@
+---
+title: "Pro V&V"
+created: 2026-08-06
+updated: 2026-08-06
+type: entity
+tags: [elections, voting-systems, georgia, 2020-election, audits]
+sources: [raw/grand-jury-testimony-from-senator.md]
+confidence: medium
+---
+
+# Pro V&V
+
+Pro V&V is a voting systems testing laboratory, accredited by the U.S. Election Assistance Commission, that certifies election equipment for use by states. It became a subject of controversy in Georgia after Secretary of State [[brad-raffensperger|Brad Raffensperger]] announced that the firm had audited voting machines in five counties following the 2020 presidential election.[1]
+
+## The disputed Georgia audit
+
+Around November 17, 2020, Raffensperger stated that an audit of five counties had been performed by Pro V&V using forensic techniques and found no sign of foul play; the counties named were Cobb, Douglas, Floyd, Morgan, Paulding and Spalding.[1] Critics noted that Pro V&V is not a certified auditing firm and that its participation would present a conflict of interest, since it had certified the same equipment before the election.[1]
+
+Open records requests filed by Georgia resident [[bob-coovert|Bob Coovert]] to several of the named counties returned responses that did not substantiate the audit having occurred.[1] A memo from Pro V&V president Jack Cobb to Michael Barnes of the Secretary of State's office, acknowledging the request to perform the audit, was dated July 16, 2021 — more than eight months after the audit had allegedly been carried out — and image metadata confirmed the document was created on that date on Cobb's device.[1]
+
+The independent journalist [[canncon|CannCon]] publicized the records findings, reporting that the audit of five Georgia counties likely never took place.[1]
+
+## References
+1. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator

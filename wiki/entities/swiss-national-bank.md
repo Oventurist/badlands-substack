@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [central-bank, switzerland, banking-crisis, finance]
-sources: [raw/badlands-news-brief-eca.md]
+sources: [raw/badlands-news-brief-eca.md, raw/master-and-commander.md]
 confidence: medium
 ---
 
@@ -22,6 +22,13 @@ The SNB's willingness to make a public statement of support was itself treated a
 
 Within [[badlands-media|Badlands Media]] commentary, the SNB intervention was framed less as a technical liquidity operation and more as evidence that the fiat monetary system as a whole was approaching a stress point, with "more and more big banks inching closer to their very own precipice."[1]
 
+## Record 2022 loss
+
+In January 2023 the SNB projected the biggest loss in its 116-year history, an annual loss of about 132 billion francs ($143 billion), more than five times the previous record, according to preliminary results published on Monday, January 9.[2] The largest part of this — 131 billion francs — stemmed from collapsed valuations of its large pile of foreign-currency holdings, accrued through decade-long purchases intended to weaken the franc.[2] As a consequence the Swiss government would not receive a payout from the central bank for 2022.[2]
+
+Writing for [[badlands-media|Badlands Media]], [[joe-lange|Joe Lange]] presented the SNB result, alongside the loss reported by Sweden's [[riksbank|Riksbank]], as one of two "huge stories" demonstrating that cracks were showing in the [[global-debt-system|global central bank debt system]].[2] He attributed both losses to the [[federal-reserve|Federal Reserve]]'s aggressive rate increases and the resulting strength of the US dollar, arguing that foreign central banks could no longer manipulate the dollar and could only react to Fed policy.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+2. Badlands Brief — "Master and Commander", URL: https://badlands.substack.com/p/master-and-commander

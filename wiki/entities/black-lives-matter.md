@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [activism, race, democratic-party, 2024-election]
-sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-e44.md, raw/death-to-dei.md]
+sources: [raw/badlands-news-brief-06e.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-3b2.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-e44.md, raw/death-to-dei.md, raw/get-woke-go-broke.md, raw/glimpses-into-hell.md]
 confidence: medium
 ---
 
@@ -44,6 +44,16 @@ Badlands contributor [[erik-carlson|Erik Carlson]] wrote in March 2025 that BLM 
 
 Carlson used BLM as his central illustration of the gap between the elites who create and fund such movements and the "foot soldier" supporters who back them in good faith, describing sign-holding activists at a local intersection who he assumed were unaware of the organization's alleged corruption, or who had been persuaded by CNN and MSNBC that reports of it were fake news.[6] He grouped BLM with [[diversity-equity-and-inclusion|DEI]], [[climate-change-narrative|climate change]] and LGBTQ+ agendas as causes created, funded or promoted by the [[deep-state|Deep State Cabal]] to launder money and maintain control.[6]
 
+## Corporate funding after the 2020 riots (Carlson analysis)
+
+[[erik-carlson|Erik Carlson]] identified corporate support for BLM as the point at which he first vividly noticed the pattern he later called "get woke, go broke."[7] While inner cities were still burning from the BLM and [[antifa|Antifa]] riots of 2020, he wrote, corporations were sending billions of dollars to the BLM organization.[7] In Carlson's account none of those donations reached Black Americans; the money instead funded Joe Biden's presidential run, while several BLM executives bought houses in predominantly white neighborhoods.[7] He characterized BLM as a money-laundering operation created and used by the [[deep-state|deep state]] to advance an agenda of chaos, confusion and division.[7]
+
+## Statement on the Cuban protests
+
+During the [[2021-cuban-protests|2021 Cuban protests]], BLM issued a statement that, in the account of "Glimpses into Hell — Part 1," condemned not the authoritarian regime in [[cuba|Cuba]] for violently suppressing its people but the United States for its long-standing sanctions on the communist state.[8] The statement read: "Black Lives Matter condemns the U.S. federal government's inhumane treatment of Cubans, and urges it to immediately lift the economic embargo. This cruel and inhumane policy, instituted with the explicit intention of destabilizing the country and undermining Cubans' right to choose their own government, is at the heart of Cuba's current crisis."[8]
+
+[[ryan-delarme|Ryan DeLarme]] called the statement "exactly backward," arguing that the United States sanctions Cuba precisely because its communist dictators deny Cubans the right to choose their own government.[8] He described BLM as "one of several Marxist proxy armies" and cited its reaction to the Cuban uprising as evidence that the group has nothing to do with actual racial justice in America.[8] The essay further notes that BLM did not object to the [[rapid-reaction-brigades|Rapid Reaction Brigades]] carrying out government-sanctioned police brutality, and groups BLM with [[nikole-hannah-jones|Nikole Hannah-Jones]] among Americans praising the Cuban government for personal benefit — even as the [[washington-post|Washington Post]] reported on the plight of Black Cubans.[8]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Fake Electionception, Sovereign Alliance Digs & Chick Fights", URL: https://badlands.substack.com/p/badlands-news-brief-06e
@@ -52,3 +62,5 @@ Carlson used BLM as his central illustration of the gap between the elites who c
 4. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
 5. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
 6. Badlands Brief — "Death to DEI", URL: https://badlands.substack.com/p/death-to-dei
+7. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke
+8. Badlands Brief — "Glimpses into Hell - Part 1", URL: https://badlands.substack.com/p/glimpses-into-hell

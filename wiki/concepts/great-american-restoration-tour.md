@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, events, badlands-news-brief]
-sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f1a.md, raw/badlands-news-brief-f99.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fbd.md, raw/gart-myrtle-beach-is-almost-here.md]
+sources: [raw/badlands-news-brief-001.md, raw/badlands-news-brief-095.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-357.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-448.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-62c.md, raw/badlands-news-brief-6aa.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c5.md, raw/badlands-news-brief-7e6.md, raw/badlands-news-brief-8a4.md, raw/badlands-news-brief-8f0.md, raw/badlands-news-brief-a43.md, raw/badlands-news-brief-a40.md, raw/badlands-news-brief-ccd.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f1a.md, raw/badlands-news-brief-f99.md, raw/badlands-news-brief-fbc.md, raw/badlands-news-brief-fbd.md, raw/gart-myrtle-beach-is-almost-here.md, raw/join-us-in-nashville-for-gart-11.md, raw/last-call-for-gart-2.md, raw/last-call-for-gart-deadwood-101.md, raw/join-us-in-deadwood-for-gart-12.md, raw/join-us-in-cocoa-beach-for-gart-10.md, raw/last-call-for-gart-nashville.md, raw/last-call-for-gart-las-vegas.md, raw/last-call-for-gart-myrtle-beach.md]
 confidence: medium
 ---
 
@@ -147,3 +147,59 @@ Virtual tickets were offered separately for those who had never attended a GART 
 The announcement noted the timing of the stop relative to a "certain national event" — the November 2024 United States general election, held on November 5 — which organizers said would set up discussion of "all manner of shenanigans … or red wave winnings."[26] A full schedule of panels and activities was promised for later release, alongside a published list of which Badlands contributors would appear in Myrtle Beach or on stream, described as "most of us."[26]
 
 26. Badlands Brief — "GART Myrtle Beach is Almost Here!", URL: https://badlands.substack.com/p/gart-myrtle-beach-is-almost-here
+
+## GART 11 announcement (March 2026)
+
+On March 16, 2026, [[badlands-media|Badlands Media]] published an announcement by [[burning-bright|Burning Bright]] promoting the eleventh GART, to be held in Nashville, Tennessee — the tour's first Nashville stop and, by the network's count, the fifth GART of "the new American Golden Age."[27] The post reiterated the tour's standing rationale that the events create "an awakening pressure cooker where a natural sifting toward sovereignty, nationalism and community-building takes place."[27] VIP tickets were sold out, Full Weekend General Admission tickets remained available with a Friday night Welcome Party and meet-and-greet plus three days of panels, and virtual tickets offered streaming, long-term DVR access to panel replays, and membership in an exclusive GART Telegram chat that organizers said continues thriving for months between tour stops.[27] See [[gart-nashville|GART Nashville]].[27]
+
+27. Badlands Brief — "Join us in Nashville for GART 11!", URL: https://badlands.substack.com/p/join-us-in-nashville-for-gart-11
+
+## GART 2 last call (August 2023)
+
+On August 28, 2023, [[badlands-media|Badlands Media]] published a dedicated "Last Call for GART 2!" post confirming that the second stop on the tour would run September 7–10, 2023 in Cocoa Beach, Florida, with the conference held at the [[hilton-cocoa-beach-oceanfront|Hilton Cocoa Beach Oceanfront]].[28] The post opened with the movement slogan "We are the news, now," which Badlands said had come to define a growing current within the Truth and America First communities, and credited reader support for the network's growth into one of the most-watched independent outlets online with dozens of citizen journalists, podcasters and personalities across its shows.[28]
+
+Attendees were promised live in-person versions of Badlands Media shows, participation in live Q&A sessions with Badlands panels, and the chance to meet show hosts in person.[28] General Admission included a Friday night Welcome Reception, breakfast and lunch all weekend, and the opportunity to socialize with hosts and fellow Badlanders while attempting to "level up in the [[information-war|Information War]] together."[28] The VIP package was sold out at the time of the post, but newly released single-day tickets were available; speakers were listed on the event poster.[28]
+
+Virtual tickets were also on sale to stream the entirety of GART 2 from home, which Badlands recommended after the digital success of the first tour stop as a way to sample the experience before committing to in-person attendance.[28] Purchasers of any package were invited into a live [[telegram|Telegram]] chat with fellow GART 2 attendees and virtual viewers that organizers said would continue long after the event concluded.[28] See [[gart-2|GART 2]].[28]
+
+28. Badlands Brief — "Last Call for GART 2!", URL: https://badlands.substack.com/p/last-call-for-gart-2
+
+## GART 9 last call (August 2025)
+
+On August 13, 2025, [[burning-bright|Burning Bright]] published a "Last Call for GART: Deadwood" post announcing that single-day and virtual tickets were on sale for the ninth stop, held that week in [[deadwood-south-dakota|Deadwood, South Dakota]] — the network's second event not far from the Badlands region that gave the company its name, and the third GART of the new American Golden Age.[29] VIP and full weekend General Admission tickets were still available, alongside a limited number of single-day tickets for those living close to the area who wanted to attend on one or two of Friday, Saturday or Sunday.[29] Virtual tickets covered the full three days of panels with long-term DVR replay access and admission to the exclusive GART [[telegram|Telegram]] chat, and — uniquely for GART 9 — the Saturday premiere of [[brad-zerbo|Brad Zerbo]]'s feature-length documentary [[codex-911|Codex 9/11]].[29] See [[gart-9-deadwood|GART 9 Deadwood]].[29]
+
+29. Badlands Brief — "Last Call for GART: Deadwood", URL: https://badlands.substack.com/p/last-call-for-gart-deadwood-101
+
+## GART 12: Deadwood (June 2026)
+
+The twelfth stop on the tour was announced on April 26, 2026 for Deadwood, South Dakota, beginning June 25.[30] Written by [[burning-bright|Burning Bright]], the announcement billed it as the sixth GART "of the new American Golden Age" and the network's third visit to [[deadwood-south-dakota|Deadwood]], which it said "might as well be official Badlands HQ at this point."[30] VIP tickets were nearly sold out at announcement while Full Weekend General Admission passes — covering a Friday-night welcome party and meet-and-greet with [[badlands-media|Badlands Media]] personalities plus three days of panels — remained on sale through the network's TicketSpice page.[30] Virtual tickets streamed all three days of panels with long-term DVR replay access and admission to the exclusive GART [[telegram|Telegram]] chat, discounted to $25 from $35 under an Early Bird Virtual Special running through May 15.[30] See [[gart-12-deadwood|GART 12 Deadwood]].[30]
+
+30. Badlands Brief — "Join us in Deadwood for GART 12!", URL: https://badlands.substack.com/p/join-us-in-deadwood-for-gart-12
+
+## GART 10: Cocoa Beach (2025)
+
+The tenth stop of the tour was held in Cocoa Beach, Florida, and was announced by [[burning-bright|Burning Bright]] on October 6, 2025 as the fourth GART of "the new American Golden Age" and the tour’s second visit to Florida.[31] The announcement recalled that the tour’s earlier Cocoa Beach stop had been "absolutely fantastic" and a favorite among both hosts and attendees, and restated the tour’s standing framing as "an awakening pressure cooker where a natural sifting toward sovereignty, nationalism and community-building takes place."[31] Because the venue was smaller than the one used for the preceding Deadwood event, organizers warned GART 10 could sell out and would not guarantee single-day tickets.[31] VIP tickets included a Thursday night dinner and meet-and-greet with [[badlands-media|Badlands Media]] personalities, General Admission covered the Friday welcome reception and three days of panels, and heavily discounted virtual tickets provided full streaming, long-term DVR replay access and entry to the exclusive GART Telegram chat, which the post described as becoming a long-running community hub for months after each event.[31] See [[gart-10-cocoa-beach|GART 10 Cocoa Beach]].[31]
+
+31. Badlands Brief — "Join us in Cocoa Beach for GART 10!", URL: https://badlands.substack.com/p/join-us-in-cocoa-beach-for-gart-10
+
+## GART 11 Nashville last call (March 2026)
+
+A March 29, 2026 post by [[burning-bright|Burning Bright]] titled "Last Call for GART: Nashville!" announced that single-day and virtual tickets were on sale for the eleventh stop of the tour, held in Nashville, Tennessee — the tour's first visit to the city and the fifth GART of what the network called "the new American Golden Age."[32] The post restated the tour's standing description as an opportunity to meet and network with fellow patriots and as "an awakening pressure cooker where a natural sifting toward sovereignty, nationalism and community-building takes place."[32]
+
+VIP tickets were expected to be sold out by the time the mailer reached readers, while Full Weekend General Admission tickets remained available and granted access to a Friday night Welcome Party and meet-and-greet with [[badlands-media|Badlands Media]] personalities plus three days of panels; newly released single-day tickets offered full access to one day of the buyer's choice for attendees living nearer Nashville, with in-person sales handled through TicketSpice.[32] Virtual tickets streamed the full Friday, Saturday and Sunday panel slate with long-term DVR replay access and admitted buyers to an exclusive GART [[telegram|Telegram]] chat, described as persisting for months after each event as a hub for behind-the-scenes photos and video and for documenting the journey to the next GART.[32] See [[gart-nashville|GART Nashville]].[32]
+
+32. Badlands Brief — "Last Call for GART: Nashville!", URL: https://badlands.substack.com/p/last-call-for-gart-nashville
+
+## Seventh stop: Las Vegas (March 2025)
+
+The seventh stop on the Great American Restoration Tour was held in Las Vegas, Nevada in early March 2025 and was promoted by [[badlands-media|Badlands Media]] host [[burning-bright|Burning Bright]] in a March 2, 2025 post headlined "Last Call for GART: Las Vegas."[33] Burning Bright described the tour's events as an opportunity for attendees to meet and network with fellow patriots and as "an awakening pressure cooker where a natural sifting toward sovereignty, nationalism and community-building takes place," and billed the Las Vegas weekend as the first GART "of the new American Golden Age."[33]
+
+Ticketing for the Las Vegas event included VIP packages, full-weekend general admission, and a limited allocation of single-day tickets covering Friday, Saturday or Sunday for attendees near the area, sold through the network's TicketSpice storefront.[33] A separate virtual ticket allowed remote viewers to stream the entirety of the event, including the Friday, Saturday and Sunday panels, with long-term DVR access to replays afterward and admission to an exclusive GART Telegram chat where purchasers could interact with hundreds of fellow Badlanders and with Badlands hosts and view behind-the-scenes photos and video.[33]
+
+33. Badlands Brief — "Last Call for GART: Las Vegas", URL: https://badlands.substack.com/p/last-call-for-gart-las-vegas
+
+## Sixth stop: Myrtle Beach (November 2024)
+
+A same-day "last call" post published on November 14, 2024 by [[burning-bright|Burning Bright]] announced that day-of and virtual tickets were on sale for the sixth stop of the tour, held in Myrtle Beach, South Carolina.[34] The post again described the tour as offering "a great opportunity to meet and network with fellow patriots" and creating "an awakening pressure cooker where a natural sifting toward sovereignty, nationalism and community-building takes place."[34] VIP and full weekend General Admission tickets had sold out, leaving a limited number of single-day tickets for local attendees on Saturday, Sunday or both, alongside a virtual ticket covering all three days of panels with long-term DVR replay access and entry to the exclusive GART [[telegram|Telegram]] chat.[34] The announced programme spanned "the Inflection Election" and "Navigating [[trump-derangement-syndrome|Trump Derangement Syndrome]]," with "some [[softwar|Softwar]] and Q Drops sprinkled in."[34] See [[gart-6-myrtle-beach|GART 6 (Myrtle Beach)]].[34]
+
+34. Badlands Brief — "Last Call for GART: Myrtle Beach", URL: https://badlands.substack.com/p/last-call-for-gart-myrtle-beach

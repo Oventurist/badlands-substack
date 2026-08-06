@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, cuba, covert-operations, 1961]
-sources: [raw/a-family-affair.md]
+sources: [raw/a-family-affair.md, raw/four-pillars-of-government-control.md]
 confidence: medium
 ---
 
@@ -18,3 +18,8 @@ The operation is also presented as the origin point of the Cuban exile force the
 
 ## References
 1. Badlands Brief — "A Family Affair", URL: https://badlands.substack.com/p/a-family-affair
+2. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
+
+## Nixon's blocked file request
+
+When [[richard-nixon|Richard Nixon]] took office in 1968, one of the first things he wanted to do was review the [[central-intelligence-agency|CIA]]'s documents on the Bay of Pigs and the assassination of [[john-f-kennedy|John F. Kennedy]].[2] Director [[richard-helms|Richard Helms]] was very reluctant and essentially refused to allow the standing president access, despite Nixon's clear right to it — an episode Badlands contributor [[erik-carlson|Erik Carlson]] reads as evidence that the agency understood Nixon was not its friend, and as the motive for the [[watergate|Watergate]] break-in that removed him from power.[2]

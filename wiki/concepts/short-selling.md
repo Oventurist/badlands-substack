@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [finance, markets, short-selling, insider-trading]
-sources: [raw/did-israel-possess-foreknowledge.md]
+sources: [raw/did-israel-possess-foreknowledge.md, raw/is-jamie-dimon-directing-the-priorities.md]
 confidence: medium
 ---
 
@@ -22,3 +22,11 @@ The authors concluded that trading of this kind occurs in gaps in U.S. and inter
 
 ## References
 1. Badlands Brief — "Did Israel Possess Foreknowledge of Recent Attacks?", URL: https://badlands.substack.com/p/did-israel-possess-foreknowledge
+
+## Short sellers and the 2023 banking crisis
+
+During the [[2023-banking-crisis|2023 banking crisis]] short sellers of regional bank shares became a focus of official attention.[2] [[jamie-dimon|Jamie Dimon]] told Bloomberg on May 11, 2023 that the [[securities-and-exchange-commission|SEC]] should use its enforcement powers over options, derivatives and short sales and pursue offenders "vigorously," while conceding that his team did not regard short sellers as the primary problem.[2] On May 24, 2023 Reuters reported that a senior [[department-of-justice|Department of Justice]] official expected U.S. action against short sellers "in the next few months," noting that the rout in regional bank shares had brought fresh criminal and regulatory scrutiny to short sellers, who had previously been reviewed after the 2021 "meme stock" episode.[2]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] argued that short selling is a legitimate investment strategy and that criticising a bank online is protected First Amendment activity, warning that the emerging theory — combining a short position with online commentary to allege manipulation or collusion — would criminalise lawful conduct.[2]
+
+2. Badlands Brief — "Is Jamie Dimon a Prophet?", URL: https://badlands.substack.com/p/is-jamie-dimon-directing-the-priorities

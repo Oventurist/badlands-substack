@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, philanthropy, grantmaking, usaid, funding]
-sources: [raw/days-of-thunder.md]
+sources: [raw/days-of-thunder.md, raw/is-the-censorship-war-over.md]
 confidence: medium
 ---
 
@@ -21,3 +21,9 @@ The Tides structure — in which a single grantmaking intermediary sponsors and 
 ## References
 
 1. Badlands Brief — "Days of Thunder", URL: https://badlands.substack.com/p/days-of-thunder
+
+## Role in campus protest funding (2025)
+
+Badlands Media named the Tides Foundation, alongside [[george-soros|George Soros]]' [[open-society-foundations|Open Society Foundations]] and the [[rockefeller-brothers-fund|Rockefeller Brothers Fund]], as a funder of [[jewish-voice-for-peace|Jewish Voice for Peace]] and other NGOs organizing pro-Palestine campus protests in the United States.[2] Contributor [[ryan-delarme|Ryan DeLarme]] argued that these tax-exempt "cut-outs" are used by the same intelligence and civil society interests that stand behind the [[censorship-industrial-complex|censorship apparatus]], and that the purpose of the funding was to build a reusable protest mobilization capacity on the model of the [[gene-sharp|Gene Sharp]] [[color-revolution|color revolution]] playbook rather than to stop atrocities in Palestine.[2]
+
+2. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

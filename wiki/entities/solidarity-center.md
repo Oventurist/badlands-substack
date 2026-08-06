@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor, solidarity-center, ned, usaid, regime-change]
-sources: [raw/a-more-perfect-labor-union.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md]
 confidence: medium
 ---
 
@@ -38,3 +38,14 @@ The article's closing argument is that unmasking the Solidarity Center and its N
 
 ## References
 1. Badlands Brief — "A More Perfect (Labor) Union", URL: https://badlands.substack.com/p/a-more-perfect-labor-union
+
+## Position in the NED structure
+
+Badlands Media lists the Solidarity Center as one of the four specialized surrogates created beneath the [[national-endowment-for-democracy|National Endowment for Democracy]], responsible for CIA/NED influence over unions and the workforce and affiliated with the [[afl-cio|AFL-CIO]].[2] Its sibling institutions are the [[international-republican-institute|International Republican Institute]], the [[national-democratic-institute|National Democratic Institute]] and the [[center-for-international-private-enterprise|Center for International Private Enterprise]], each assigned a distinct sector of society within the [[plausible-deniability-network|plausible deniability network]].[2]
+
+2. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
+3. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
+
+## Role in the Orange Revolution
+
+The Solidarity Center is listed by Badlands Media among the U.S. organizations sponsored by [[usaid|USAID]], the [[national-endowment-for-democracy|National Endowment for Democracy]] and allied foundations during Ukraine's [[orange-revolution|Orange Revolution]], alongside [[freedom-house|Freedom House]], the [[international-republican-institute|International Republican Institute]], the [[national-democratic-institute|National Democratic Institute]], the [[eurasia-foundation|Eurasia Foundation]] and [[internews|Internews]].[3]

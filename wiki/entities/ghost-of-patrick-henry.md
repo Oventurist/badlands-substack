@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, author, citizen-journalism]
-sources: [raw/arabian-nights.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-21.md]
+sources: [raw/arabian-nights.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-15.md, raw/badlands-blitz-episode-18.md, raw/badlands-blitz-episode-19.md, raw/badlands-blitz-episode-21.md, raw/horseshoe-theory-part-1.md, raw/introducing-the-patriot-chronicles.md]
 confidence: medium
 ---
 
@@ -52,6 +52,22 @@ Credited again as GhostofBasedPatrickHenry, he co-hosted the nineteenth episode 
 
 Credited again as GhostofBasedPatrickHenry, he co-hosted the twenty-first episode of The Blitz, published 13 June 2026 under the title "Exploring Trump's Trap ... And Who's Fallen Into It."[8] With [[burning-bright|Burning Bright]] — the pair described as getting "a little fiery, but mostly peaceful" — he discussed the ongoing and amplified effects of [[donald-trump|Donald Trump]]'s "glorious discombobulator," the real reason for the perpetuation of the [[fake-iran-war|Fake Iran War]], and how the [[multipolar-world|Multipolar World]] is being constructed before viewers' eyes for those who cultivate the eyes to see it.[8]
 
+## Horseshoe Theory series (2023)
+
+On 14 July 2023 he published "Horseshoe Theory - Part 1: Uniting the Tribes Against Our Common Enemy," the opening installment of a series proposing that the American Right and Left can be united into a single coalition — though not a single ideology — against what he calls the [[uniparty|Uniparty]].[9] He designed the essay's lead graphic himself, joking that it had the crude craftsmanship of the mill-saw sabers Francis Marion's blacksmiths forged in the forest, a reference to his [[patriot-chronicles|Patriot Chronicles]] series.[9]
+
+Writing as a father of three young children, he said it was heartbreaking to read older members of the Badlands chats describe relationships with their adult children broken by politics, and he invoked the veterans' code that nobody is left behind as the purpose of all his writing.[9] He restated in this article the account of his older brother's August 2017 murder by a "friend," a few months after that brother served as Best Man at his wedding, and said the ensuing open conflict with a very corrupt government set him on his current path — having seen firsthand that when corruption permeates a community, politics are set aside and people come together.[9]
+
+He excluded from the proposed reconciliation the bad-faith actors who knowingly abused public trust, citing a discussion of that distinction between [[burning-bright|Burning Bright]] and [[chris-paul|Chris Paul]] on the 4 July 2023 episode of [[badlands-story-hour|Badlands Story Hour]], while holding that most opponents are victims of psychological warfare who should be received back with open arms if genuinely remorseful.[9] The essay set out his Logical Mind / Bleeding Heart framework, drew on [[just-human|Just Human]] regarding binary paradigms and on [[patrick-gunnels|Patrick Gunnels]]' term "heterodox thinkers" for the [[truth-movement|Truth Movement]], and concluded that Inspiration is the cognitive bridge between logic and emotion.[9] He directed readers to follow him on Twitter and Truth Social at Ghostof_P_Henry and Ghostof_PatrickHenry.[9]
+
+## Launch of The Patriot Chronicles (2023)
+
+On 6 June 2023 he published "Introducing 'The Patriot Chronicles': Reclaiming Our Past, Present, and Future," announcing the [[patriot-chronicles|Patriot Chronicles]] series for [[badlands-media|Badlands Media]].[10] In it he described himself as having composed short heroic histories for friends and family by email and social media as far back as 2015, and disclosed that his professional background is in architecture — naming the restoration of Classical Architecture to federal buildings, alongside the [[garden-of-heroes|Garden of Heroes]], as the two aspects of [[donald-trump|Donald Trump]]'s [[1776-commission|1776 Commission]] that most excited him.[10]
+
+The essay laid out his editorial method under the repeated refrain that "all history is interpretation," distinguishing primary from secondary sources, praising [[jon-herold|Jon Herold]]'s [[devolution|Devolution Series]] for its reliance on primary documents and [[ryan-delarme|Ryan Delarme]] for appending works-cited sections, while insisting his own series would read as oral history rather than an academic journal.[10] He was sharply critical of modern academic PhDs, describing them as opportunistic grifters or delusional fanatics loyal to their financiers and serving the eradication of Western Civilization through Cultural Marxism.[10]
+
+He opened the piece with the [[2019-hong-kong-anti-extradition-protests|2019 Hong Kong anti-extradition protests]], citing the December 2019 demonstration at which protesters waved American flags and sang the American national anthem as an attempt to invoke the American Spirit in modern Americans, and noting that the protests were ended by the arrival of COVID-19 within months.[10] He also invoked [[thomas-jefferson|Thomas Jefferson]]'s [[declaration-of-independence|Declaration of Independence]] as a signal that the [[divine-right-of-kings|Divine Right of Kings]] was a lie.[10] The article closed by thanking Jon, Kate and the Badlands crew, teasing [[francis-marion|Francis Marion]] as the subject of Part 1, and listing his handles as Ghostof_P_Henry on Twitter and Ghostof_PatrickHenry on Truth Social.[10]
+
 ## References
 
 1. Badlands Brief — "Arabian Nights", URL: https://badlands.substack.com/p/arabian-nights
@@ -62,3 +78,5 @@ Credited again as GhostofBasedPatrickHenry, he co-hosted the twenty-first episod
 6. Badlands Brief — "Badlands Blitz Episode 11: Iran, NATO and the Invisible Enemy", URL: https://badlands.substack.com/p/badlands-blitz-episode-11
 7. Badlands Brief — "Badlands Blitz Episode 19", URL: https://badlands.substack.com/p/badlands-blitz-episode-19
 8. Badlands Brief — "Badlands Blitz Episode 21", URL: https://badlands.substack.com/p/badlands-blitz-episode-21
+9. Badlands Brief — "Horseshoe Theory - Part 1", URL: https://badlands.substack.com/p/horseshoe-theory-part-1
+10. Badlands Brief — "Introducing 'The Patriot Chronicles'", URL: https://badlands.substack.com/p/introducing-the-patriot-chronicles

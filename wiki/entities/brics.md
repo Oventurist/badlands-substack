@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brics, gold, dollar, international-finance]
-sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/brics-vs-the-wef.md, raw/chips-and-dips.md, raw/empires-enigma.md]
+sources: [raw/a-week-to-remember.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-bb1.md, raw/badlands-news-brief-07f.md, raw/badlands-news-brief-051.md, raw/badlands-news-brief-175.md, raw/badlands-news-brief-27c.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-4b1.md, raw/badlands-news-brief-779.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-881.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-b5f.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d21.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e6c.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-f4c.md, raw/bric-by-bric.md, raw/brics-vs-the-wef.md, raw/chips-and-dips.md, raw/empires-enigma.md, raw/is-jerome-powell-a-patriot.md]
 confidence: medium
 ---
 
@@ -183,3 +183,11 @@ Writing in December 2022, [[burning-bright|Burning Bright]] listed the continued
 In the China series feature "Empire's Enigma," [[burning-bright|Burning Bright]] argued that the mainstream turn against [[xi-jinping|Xi Jinping]] and China was indicative of a larger BRICS-opposed play by globalists, leading him to conclude that BRICS "is very much in the interest of sovereigns the world over."[25] He tied the bloc's prospects to Xi's stated intention of joining [[vladimir-putin|Vladimir Putin]] in ushering in a multipolar international order to replace a Western hegemony the piece describes as damaging to Chinese, Russian and American citizens alike while enriching the oligarchies of all lands.[25]
 
 25. Badlands Brief — "Empire's Enigma", URL: https://badlands.substack.com/p/empires-enigma
+
+## Carlson on BRICS and the cabal (April 2023)
+
+In "Is Jerome Powell a Patriot?", [[erik-carlson|Erik Carlson]] rejected the reading of BRICS as an anti-American project, writing that "the BRICS nations aren't coming together to destroy America; they are creating an alternative currency to destroy the foreign cabal bankers who run the world."[26] He added that the world will always need the United States as "the center of innovation and technology," and that no one is abandoning America or leaving it behind.[26]
+
+The claim fits Carlson's larger argument that the true adversary is not a rival bloc of nations but the [[city-of-london|City of London]]-centered financial order, and that moves such as the [[libor|LIBOR]]-to-[[sofr|SOFR]] transition and [[jerome-powell|Jerome Powell]]'s interest-rate hikes are parallel attacks on the same target.[26]
+
+26. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot

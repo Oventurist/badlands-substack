@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [qanon, obama, hillary-clinton, alwaleed, succession]
-sources: [raw/america-for-sale-part-2.md, raw/bad-actors.md]
+sources: [raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/infiltration-not-invasion.md]
 confidence: low
 ---
 
@@ -29,3 +29,9 @@ Lange distinguishes the plan from what followed 2020: what [[joe-biden|Biden]] i
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
+
+## The Sharia and Muslim Brotherhood component
+
+Badlands contributor Joe Lange treats the promotion of the [[muslim-brotherhood|Muslim Brotherhood]] and of [[sharia-law|Sharia law]] as an explicit stage of the sixteen year plan.[3] In his account the plan required removing Arab leaders — [[hosni-mubarak|Hosni Mubarak]], [[muammar-gaddafi|Muammar Gaddafi]], Zine El Abidine Ben Ali, [[bashar-al-assad|Bashar al-Assad]] and others — who were suppressing the Brotherhood in their own countries, which was accomplished through the [[arab-spring|Arab Spring]] uprisings organized by U.S. government-financed NGOs.[3] Simultaneously, the [[barack-obama|Obama]] administration worked to weaken the First Amendment at home: signing [[un-resolution-16-18|UN Resolution 16/18]], blaming the [[benghazi-attack|Benghazi attack]] on an [[innocence-of-muslims|anti-Islam video]], and jailing the video's maker, [[nakoula-basseley-nakoula|Nakoula Basseley Nakoula]].[3] Lange describes the domestic component as the Brotherhood's [[civilization-stealth-jihad|civilization jihad]] — infiltration rather than invasion — with Brotherhood-linked figures placed in key administration positions and [[huma-abedin|Huma Abedin]] serving at [[hillary-clinton|Hillary Clinton]]'s side at the [[state-department|State Department]].[3]
+
+3. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion

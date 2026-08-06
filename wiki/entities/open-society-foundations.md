@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngo, soros, funding, clinton-email-investigation]
-sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f44.md]
+sources: [raw/badlands-news-brief-168.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-f54.md, raw/badlands-news-brief-f44.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md]
 confidence: low
 ---
 
@@ -67,6 +67,31 @@ Badlands Media's coverage of the August 2024 disorder in Britain names the Open 
 
 In August 2023 Irish journalist [[ben-scallan|Ben Scallan]] reported that NGOs backed by the Open Society Foundations were pushing a "censorship agenda" in Ireland and Scotland that extended to police searches of homes and personal electronic devices.[7] Scallan argued that Irish authorities had encouraged citizens to report hate-based incidents, producing an increase in recorded statistics without a corresponding rise in actual offences, and that this served as a pretext for stricter laws restricting free expression.[7] [[elon-musk|Elon Musk]] responded that X would file legal action to stop the practice, writing, "Can't wait for discovery to start!"[7] [[ashe-in-america|Ashe in America]] of [[badlands-media|Badlands Media]] framed the episode as evidence that governments use NGOs and corporate partners to accomplish what constitutional protections forbid them from doing directly.[7]
 
+## Role in the Soros "shadow network" (2023 analysis)
+
+A June 2023 Badlands Media essay by [[ryan-delarme|Ryan DeLarme]] listed the Open Society Foundations first among the private organizations comprising what it called the [[soros-shadow-network|Soros shadow network]], a cluster said to exert hidden influence over the [[democratic-national-committee|Democratic Party]] alongside [[black-lives-matter|Black Lives Matter]], [[actblue|ActBlue]], the [[gill-foundation|Gill Foundation]] and [[moveon-org|MoveOn PAC]].[10] The essay described the foundations' branding as philanthropic cover, citing William Engdahl's 1996 Executive Intelligence Review argument that what [[george-soros|Soros]] means by an "open society" is one that allows him and his financial-predator friends to loot the assets of former Warsaw Pact economies, with economists such as [[jeffrey-sachs|Jeffrey Sachs]] and Sweden's Anders Aslund bringing shock therapy that let whole regions be bought at dirt-cheap prices.[10]
+
+The article also traced institutional overlaps: Melissa Hagemann, a senior program manager of the foundations' Information Program, previously sat on the advisory board of the [[wikimedia-foundation|Wikimedia Foundation]], and Ethan Zuckerman, another former Wikimedia adviser, sat on the Open Society Foundations' Global Board.[10] It further reported that 2016 WikiLeaks disclosures showed the Open Society Foundations spending hundreds of thousands of dollars to shape [[pope-francis|Pope Francis]]' 2015 visit to the United States, seeking to create a "critical mass" of American bishops and lay Catholics supportive of the pope's priorities.[10]
+
 7. Badlands Brief — "Badlands News Brief: Trump's Trap, Musk's Decree & Obama's Secrets", URL: https://badlands.substack.com/p/badlands-news-brief-d7d
 8. Badlands Brief — "Meta vs. Twitter, Shark Fins, Popes & Clintons", URL: https://badlands.substack.com/p/badlands-news-brief-f54
 9. Badlands Brief — "Markets Crash as Tensions Rise Abroad", URL: https://badlands.substack.com/p/badlands-news-brief-f44
+10. Badlands Brief — "George Soros' Shadow Network", URL: https://badlands.substack.com/p/george-soros-shadow-network
+
+## Asset transfers and leadership change (2023 analysis)
+
+Badlands contributor [[erik-carlson|Erik Carlson]] reported that from 1984 to 2017 [[george-soros|George Soros]] donated $32 billion to his Open Society Foundation charities, which he characterised as pushing progressive ideas, funding Democrat progressives and progressive district attorneys across the United States, and financing progressive media including [[media-matters-for-america|Media Matters of America]] — a body he says poses as a watchdog group but appears more focused on controlling the media narrative.[11] Many believe Soros also helped fund the [[black-lives-matter|BLM]] movement and [[antifa|Antifa]].[11]
+
+Carlson highlighted that in 2017 — the same year [[donald-trump|Donald Trump]] signed [[executive-order-13818|Executive Order 13818]], which blocks the property of persons involved in serious human rights abuse or corruption — Soros moved $18 billion of his assets into the Open Society charities, a step he suggests could be read as getting assets out of his own name.[11] He notes Soros's net worth has since fallen to a "svelte" $6.7 billion.[11]
+
+In December 2020 [[mark-malloch-brown|Mark Malloch Brown]] was announced as succeeding [[patrick-gaspard|Patrick Gaspard]] as president of the Open Society Foundations, effective 1 January 2021.[11] Carlson asks why Soros would replace a man with Obama administration and DNC ties with the former chairman of the board of the holding company behind the voting machine maker [[smartmatic|Smartmatic]] immediately after the 2020 election.[11]
+
+11. Badlands Brief — "George Soros, A British Creation", URL: https://badlands.substack.com/p/george-soros-a-british-creation
+
+## Alleged funding of campus protest organizing (2025)
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] identified [[george-soros|George Soros]]' Open Society Foundations, together with the [[tides-foundation|Tides Foundation]] and the [[rockefeller-brothers-fund|Rockefeller Brothers Fund]], as funders of [[jewish-voice-for-peace|Jewish Voice for Peace]] and comparable NGOs organizing pro-Palestine campus protests.[12] The article contended that this funding trail meant the protests carried "CIA fingerprints," and that the ultimate objective was a domestic one — assembling a mobilizable protest capability, described as a "rent-a-riot mob," along the lines of the [[gene-sharp|Gene Sharp]] [[color-revolution|color revolution]] playbook.[12]
+
+The piece also noted that many of these protest-organizing NGOs — the Open Society Foundation and its various spin-offs — work directly with NATO, a connection it said conservative media rarely mentions, preferring to focus on impressionable students.[12] Such foundations are placed within the "civil society" third sector that the article says underwrites the [[censorship-industrial-complex|censorship-industrial complex]].[12]
+
+12. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

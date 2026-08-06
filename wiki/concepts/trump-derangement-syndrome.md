@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [political-culture, trump, media-narrative]
-sources: [raw/donald-trump-and-george-washington.md]
+sources: [raw/donald-trump-and-george-washington.md, raw/has-everyone-completely-lost-their.md]
 confidence: low
 ---
 
@@ -21,3 +21,10 @@ Carlson also claimed the incident forced a reassessment among Trump's detractors
 ## References
 
 1. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington
+2. Badlands Brief — "Has Everyone Completely Lost Their Minds?", URL: https://badlands.substack.com/p/has-everyone-completely-lost-their
+
+## Spring 2025 resurgence
+
+Writing in April 2025, [[erik-carlson|Erik Carlson]] described a sharp revival of anti-Trump panic roughly a week after the president's early-March address to Congress, with liberals who had been dormant since the election "coming out swinging" over claims that [[donald-trump|Donald Trump]] would kill Social Security, end Medicaid and Medicare, destroy the economy and expel non-white residents, that [[elon-musk|Elon Musk]] had access to personal data, and that [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] would confiscate medicines.[2] He argued that a stock-market dip of barely 1% was all the proof these fears required.[2]
+
+Carlson said he personally encountered the phenomenon through clients convinced a massive recession was imminent, and through celebrity examples such as a Netflix talk show on which [[joan-baez|Joan Baez]] and [[michael-keaton|Michael Keaton]] appeared and the audience applauded Baez's claim that Musk and Trump were attacking democracy.[2] He also cited Q's assertion that 4–6% of the population would be "lost forever" to conditioning, propaganda, toxins, drugs and abuse, while warning that a society cannot function if 10, 20 or 30% of Americans panic each time mainstream media announces the sky is falling.[2] He judged that although as much as 80% of the country appeared awake, half of those were still "half asleep" and liable to jump ship at any change in the tide — a fragility he said the [[tesla-vandalism-attacks|Tesla vandalism attacks]] and the backlash to [[doge|DOGE]] made visible.[2]

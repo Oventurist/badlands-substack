@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative-warfare, trump, media, information-war]
-sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-f6e.md, raw/balance-necessary-for-control.md]
+sources: [raw/badlands-brief-0a2.md, raw/badlands-news-brief-09e.md, raw/badlands-news-brief-2a9.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-f1f.md, raw/badlands-news-brief-f6e.md, raw/balance-necessary-for-control.md, raw/jd-vance-sidley-austin-and-q-post.md]
 confidence: medium
 ---
 
@@ -58,6 +58,10 @@ Badlands contributor [[burning-bright|Burning Bright]] cited the November 2025 [
 
 Carlson argued the show is staged so people believe a democratic process is occurring; without belief that their votes count, the system fails and the Cabal's power, which rests entirely on the [[illusion-of-democracy|illusion]], ceases to exist.[10] He identified [[donald-trump|Donald Trump]] as the figure who broke the work: Trump actually was different, did not work for "the pro-wrestling league's owner," and was not paid to pull his punches or overreact to vicious slaps.[10]
 
+## Application to JD Vance
+
+Badlands contributor [[erik-carlson|Erik Carlson]] invoked kayfabe to explain [[jd-vance|JD Vance]]'s past critical statements about [[donald-trump|Donald Trump]], suggesting the animosity may have been staged to create an illusion of distance between the two men.[11] In that reading, appearing to be an anti-Trumper gave Vance an easier path past Democrats and Neocons on the way to a Senate seat, while the underlying working relationship — which Carlson argues dates back at least a decade — continued out of view.[11]
+
 ## References
 1. Badlands Brief — "A Virtual Smash & Grab & Another Impeachment Hoax", URL: https://badlands.substack.com/p/badlands-brief-0a2
 2. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
@@ -74,3 +78,4 @@ Commenting on June 16, 2025 reporting that Russian diplomats faced a "nerve-wrac
 8. Badlands Brief — "Badlands News Brief: Chinese Election Interference & Evasive Ceasefires", URL: https://badlands.substack.com/p/badlands-news-brief-f1f
 9. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
 10. Badlands Brief — "Balance, Necessary for Control", URL: https://badlands.substack.com/p/balance-necessary-for-control
+11. Badlands Brief — "JD Vance, Sidley Austin, & Q Post #238", URL: https://badlands.substack.com/p/jd-vance-sidley-austin-and-q-post

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [satanic-ritual-abuse, occult, child-abuse, dissociation, psychological-operations]
-sources: [raw/child-sacrifice-as-a-pillar-of-deep.md]
+sources: [raw/child-sacrifice-as-a-pillar-of-deep.md, raw/gazing-into-the-abyss.md]
 confidence: medium
 ---
 
@@ -28,5 +28,12 @@ Alongside psychological operations concerning Satanism, Sinason has confronted w
 
 Within the framing of [[fifth-generation-warfare|fifth-generation warfare]], the Satanic and occult element is presented as an opportunity to understand why the enemy deploys its best psychological weaponry to keep hidden its need to sacrifice the minds and lives of children — through either death or trauma.[1]
 
+## Clinical corroboration
+
+Clinical psychologist [[alison-miller|Alison Miller]] reported that at an early workshop on dissociation she learned that many patients suffering from multiple personality disorder had been severely abused throughout childhood by organized groups, including Satanic and other "dark-side" religious cults, and that a number remained involved without conscious awareness because dissociated parts of them attended the rituals.[2] Her four earliest such clients were found to belong to the same cult group along with their families, with one client's mother serving as high priestess and his stepfather as a kind of regional manager.[2]
+
+The group is described as actively working to counteract therapy through [[mind-control-programming|programming]] and abduction, and as threatening the lives of both clients and the therapist.[2] Related [[ritual-abuse|ritual abuse]] material cited by the article includes a Ted Gunderson presentation on FBI files concerning alleged CIA involvement in satanic ritual abuse, a [[60-minutes|60 Minutes]] special, and Miller's 2017 Survivorship Conference talk.[2]
+
 ## References
 1. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
+2. Badlands Brief — "Gazing Into the Abyss pt.2: a Therapist's Tale", URL: https://badlands.substack.com/p/gazing-into-the-abyss

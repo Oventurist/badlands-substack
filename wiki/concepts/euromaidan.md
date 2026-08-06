@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ukraine, 2014, coup, russia, donbass]
-sources: [raw/badlands-news-brief-561.md]
+sources: [raw/badlands-news-brief-561.md, raw/how-to-rent-a-riot-the-history-of.md]
 confidence: medium
 ---
 
@@ -26,3 +26,8 @@ Contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] endorsed Putin
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Pro Putin Propaganda & A Parisian Proxy President", URL: https://badlands.substack.com/p/badlands-news-brief-561
+2. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
+
+## Sequel to the Orange Revolution
+
+Badlands Media's "How to Rent a Riot" series treats the 2013 Maidan uprising as the sequel to the [[orange-revolution|Orange Revolution]] of 2004–05, describing both as U.S.-sponsored regime-change efforts that used the power of [[nonviolent-action|nonviolent action]] to undermine the democratic process, and as precursors to the ongoing Russian invasion of Ukraine.[2] Contributor [[ryan-delarme|Ryan DeLarme]] argues the Orange Revolution's success was pyrrhic — [[viktor-yushchenko|Viktor Yushchenko]]'s government fractured through infighting, paving the way for [[viktor-yanukovych|Viktor Yanukovych]]'s 2010 return and the 2014 Maidan events, which he calls "yet another U.S. orchestrated coup using the exact same tactics and funding mechanisms."[2] The article situates both episodes within the Western foreign policy establishment's undeclared second Cold War against Russia and cites [[gene-sharp|Gene Sharp]]'s 1985 advocacy of civilian-based methods for [[nato|NATO]] as their doctrinal origin.[2]

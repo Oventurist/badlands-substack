@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [labor-union, strike, waste-management]
-sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-f25.md]
+sources: [raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-421.md, raw/badlands-news-brief-69b.md, raw/badlands-news-brief-f25.md, raw/four-pillars-of-government-control.md]
 confidence: medium
 ---
 
@@ -36,3 +36,9 @@ Teamsters president [[sean-obrien|Sean O'Brien]] was challenged to a physical fi
 2. Badlands Brief — "'Iran Iran Iran!' Is the New 'Russia Russia Russia!'", URL: https://badlands.substack.com/p/badlands-news-brief-421
 3. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
 4. Badlands Brief — "Badlands News Brief: House Passes Gas & Country Refuses to Rejoice", URL: https://badlands.substack.com/p/badlands-news-brief-f25
+
+## Alleged Mafia influence and the 1960 election
+
+In [[erik-carlson|Erik Carlson]]'s account of the capture of the American election system, the Mafia — which some believe still wields influence over the Teamsters — is said to have steered the largest union in America to vote for [[john-f-kennedy|John F. Kennedy]] on a national level in 1960.[5] The claim forms part of a broader argument that the Chicago Mob bargained with [[joseph-p-kennedy|Joseph Kennedy]] to deliver the [[1960-united-states-presidential-election|1960 election]] in exchange for lenient Justice Department treatment.[5]
+
+5. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control

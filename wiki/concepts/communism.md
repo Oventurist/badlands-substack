@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [ideology, politics, collectivism, information-war]
-sources: [raw/badlands-brief-2b2.md]
+sources: [raw/badlands-brief-2b2.md, raw/glimpses-into-hell.md]
 confidence: medium
 ---
 
@@ -26,5 +26,12 @@ The piece quoted Winston Churchill's description of socialism as "the philosophy
 
 Elsewhere in the same edition, the Brief asserted that Russia is not a communist country while [[israel|Israel]] is, citing [[naftali-bennett|Naftali Bennett]]'s Israeli premiership campaign platform of opening the marketplace to reduce government control, and claiming that Soviet oligarchs fled to Israel when the Soviet Union collapsed.[1]
 
+## Historical record in Cuba
+
+In "Glimpses into Hell — Part 1," [[ryan-delarme|Ryan DeLarme]] argues that communism and [[socialism|socialism]], despite the utopian light in which they are often painted, have historically been the source of untold death and suffering, and that the global trauma they inflicted continues to haunt large portions of the human mass psyche.[2] He lists Nazi Germany, Mao's China, the Marxism-Leninism of the Soviet Union, and Maduro's Venezuela as the only precedents available when imagining a socialist future.[2] Contemporary examples cited include Venezuela, [[cuba|Cuba]], Nicaragua, Zimbabwe and North Korea.[2]
+
+DeLarme uses Cuba as his principal case study, describing a monolithic state in which almost all enterprise is nationalized, dissenters risk becoming [[desaparecidos|desaparecidos]], and the party deployed [[rapid-reaction-brigades|Rapid Reaction Brigades]] and an internet blackout to crush the [[2021-cuban-protests|2021 protests]].[2] He quotes the Cuban writer [[reinaldo-arenas|Reinaldo Arenas]] to the effect that both communism and capitalism kick you, but only under capitalism may you scream.[2] Americans should care, he writes, about the ten million people living under communism just 90 miles from US territory.[2]
+
 ## References
 1. Badlands Brief — "God Bless The USA", URL: https://badlands.substack.com/p/badlands-brief-2b2
+2. Badlands Brief — "Glimpses into Hell - Part 1", URL: https://badlands.substack.com/p/glimpses-into-hell

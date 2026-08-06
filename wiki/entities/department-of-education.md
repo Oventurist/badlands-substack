@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [government, agency, education, civil-rights]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-f23.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-079.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-1e6.md, raw/badlands-news-brief-42b.md, raw/badlands-news-brief-6af.md, raw/badlands-news-brief-795.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-ce5.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-f23.md, raw/has-everyone-completely-lost-their.md]
 confidence: medium
 ---
 
@@ -101,3 +101,8 @@ In February 2025 the [[doge|Department of Government Efficiency]], led by [[elon
 
 13. Badlands Brief — "Badlands News Brief: Soaring Eagles & Terminal USAIDs", URL: https://badlands.substack.com/p/badlands-news-brief-cf3
 14. Badlands Brief — "Badlands News Brief: Narrow Confirmations & Unaccountable Cops", URL: https://badlands.substack.com/p/badlands-news-brief-f23
+15. Badlands Brief — "Has Everyone Completely Lost Their Minds?", URL: https://badlands.substack.com/p/has-everyone-completely-lost-their
+
+## Commentary on the 2025 cuts
+
+Badlands contributor [[erik-carlson|Erik Carlson]] defended the 2025 downsizing of the department against critics who treated any program cut as a travesty, framing the debate in the context of $36 trillion in national debt.[15] He mocked the assumption that if a remote worker in the Washington, D.C. area lost a $250,000-a-year Department of Education job, children would no longer be taught to read, arguing instead that the freed salary could pay actual classroom teachers.[15] Carlson asserted that American education has declined since the department's creation in 1980 and claimed a direct correlation between its founding and falling student test scores.[15] He grouped fears about the department alongside claims that [[donald-trump|Donald Trump]] would end Social Security, Medicaid and Medicare as examples of media-amplified panic.[15]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, air-force, general, gart, badlands-media]
-sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-a5d.md]
+sources: [raw/a-mysterious-masterclass-in-multi.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-860.md, raw/badlands-news-brief-988.md, raw/badlands-news-brief-a5d.md, raw/lt-general-steve-kwast-usaf-ret-on.md]
 confidence: low
 ---
 
@@ -44,6 +44,12 @@ Kwast viewed [[codex-911|CODEX 9/11]] in August 2025 at a [[badlands-media|Badla
 
 In May 2025, podcaster [[shawn-ryan|Shawn Ryan]] posted an official preview announcing Kwast as his next guest on the Shawn Ryan Show, with the episode expected to air that Thursday.[6] The May 21, 2025 [[badlands-news-brief|Badlands News Brief]] led with the announcement, and [[jon-herold|Jon Herold]] wrote that he had been looking forward to the interview "for a while," noting that Kwast and his wife attend every Great American Restoration Tour conference and calling him "absolutely brilliant and a huge asset to our community."[6]
 
+## Shawn Ryan Show interview promotion (May 23, 2025)
+
+On May 23, 2025 [[badlands-media|Badlands Media]] published a short notice telling readers that the [[shawn-ryan-show|Shawn Ryan Show]] had released its interview with Kwast earlier that day and that it was "worth the investment of your time."[7] The notice said the concepts and ideas presented by Kwast were not new to the Badlands Media audience, because "General Kwast is a Badlander" who often appears on the network's shows and attends its events.[7] It framed the interview as a sweeping conversation about unleashing innovation, triangulating truth, and "the art of the possible for humanity in the Golden Age."[7]
+
+Badlands said it had been discussing the art of the possible in the Golden Age with Kwast for years and that it was exciting to see the conversation now happening more broadly, adding simply, "The future is amazing."[7] Readers were urged to watch the interview, like the episode, share it, and tell the Shawn Ryan Show's comment section that Badlands Media had sent them.[7] The same post invited readers to attend the network's next event, a return to [[deadwood-south-dakota|Deadwood, South Dakota]] in August.[7]
+
 ## References
 1. Badlands Brief — "A Mysterious Masterclass in Multi Sensory Deception", URL: https://badlands.substack.com/p/a-mysterious-masterclass-in-multi
 2. Badlands News Brief — "The Walz Cycle Consumes Itself as Tensions Pause", URL: https://badlands.substack.com/p/badlands-news-brief-0ad
@@ -51,3 +57,4 @@ In May 2025, podcaster [[shawn-ryan|Shawn Ryan]] posted an official preview anno
 4. Badlands Brief — "Harris Gets Rattled as Storms Gather", URL: https://badlands.substack.com/p/badlands-news-brief-860
 5. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988
 6. Badlands Brief — "Badlands News Brief: Our Boy Victim & Friends Without Benefits", URL: https://badlands.substack.com/p/badlands-news-brief-a5d
+7. Badlands Brief — "Lt. General Steve Kwast (USAF, Ret.) on The Shawn Ryan Show", URL: https://badlands.substack.com/p/lt-general-steve-kwast-usaf-ret-on

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, newsletter, citizen-journalism]
-sources: [raw/a-look-at-recent-features-84d.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-44c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-efd.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/badlands-blitz-episode-1.md, raw/badlands-blitz-episode-13.md, raw/badlands-blitz-episode-2.md, raw/badlands-news-brief-017.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-024.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-082.md, raw/badlands-news-brief-0f0.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-423.md, raw/badlands-news-brief-44c.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-e40.md, raw/badlands-news-brief-efd.md, raw/happy-thanksgiving-badlands.md]
 confidence: medium
 ---
 
@@ -118,6 +118,12 @@ The February 1, 2023 edition of the Badlands News Brief covered news items from 
 
 The May 17, 2024 edition, subtitled "Cohen Crumbles, Borders Bleed & Proxies Plead," covered news from Thursday, May 16 and drew commentary from [[burning-bright|Burning Bright]], [[ashe-in-america|Ashe in America]] and [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]].[23] Lead items included the collapse of [[michael-cohen|Michael Cohen]]'s testimony under cross-examination by [[todd-blanche|Todd Blanche]], the surge of Chinese nationals crossing the U.S. border, [[south-africa|South Africa]]'s emergency application to the [[international-court-of-justice|ICJ]] over [[rafah|Rafah]], the [[vladimir-putin|Putin]]–[[xi-jinping|Xi Jinping]] Beijing summit, the confinement of the [[dali|Dali]] crew in Baltimore, and the rupture between [[yoav-gallant|Yoav Gallant]] and [[benjamin-netanyahu|Benjamin Netanyahu]] over post-war Gaza.[23] Bonus items covered [[joe-biden|Joe Biden]]'s executive privilege claim over the [[robert-hur|Robert Hur]] recordings, the chaotic [[merrick-garland|Merrick Garland]] contempt hearing, [[francis-collins|Francis Collins]]'s admissions on Covid origins and social distancing, and [[peru|Peru]]'s classification of trans people as mentally ill.[23]
 
+## November 27, 2025 Thanksgiving edition
+
+The Brief similarly paused for the American Thanksgiving holiday. The post dated November 27, 2025, headlined "Happy Thanksgiving, Badlands!", carried the standfirst that "The Badlands News Brief Will Return Tomorrow" and recorded 71 likes.[24] It restated the publication's standing description of itself: that every Monday through Friday the outlet brings readers hand-picked news items with original commentary from members of its growing team of citizen journalists, and that this curated news experience is exclusive to Badlands, intended to provide an overview of the biggest goings-on relevant to the [[truth-community|Truth Community]].[24]
+
+In place of the daily roundup, the note explained that the [[badlands-media|Badlands Media]] team was "off red-pilling their family members" for the holiday, and expressed the outlet's gratitude to its audience.[24] It characterised the Badlands Community as comprising "a wide array of ideas, beliefs, and personalities that reflect the irreplicable diversity of the Truth Community," adding that the team was grateful for "every single one of you. Even the haters."[24] The post closed with the Brief's customary matter: a reminder that the Badlands Substack is free but can be supported through paid subscription, an appeal to "[h]elp our collective of citizen journalists take back the narrative," and the slogan "We are the news now."[24]
+
 ## References
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
 2. Badlands Brief — "Badlands Blitz Episode 1", URL: https://badlands.substack.com/p/badlands-blitz-episode-1
@@ -142,3 +148,4 @@ The May 17, 2024 edition, subtitled "Cohen Crumbles, Borders Bleed & Proxies Ple
 21. Badlands Brief — "Badlands News Brief: Trump’s Defense Rests, but the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-7c6
 22. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
 23. Badlands News Brief — "Cohen Crumbles, Borders Bleed & Proxies Plead", URL: https://badlands.substack.com/p/badlands-news-brief-efd
+24. Badlands Brief — "Happy Thanksgiving, Badlands!", URL: https://badlands.substack.com/p/happy-thanksgiving-badlands

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands, newsletter, substack, media]
-sources: [raw/badlands-blitz-episode-6.md, raw/badlands-brief-6f0.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bb1.md, raw/badlands-brief-cfa.md]
+sources: [raw/badlands-blitz-episode-6.md, raw/badlands-brief-6f0.md, raw/badlands-brief-a1a.md, raw/badlands-brief-bb1.md, raw/badlands-brief-cfa.md, raw/happy-new-year.md]
 confidence: high
 ---
 
@@ -37,9 +37,17 @@ The June 10, 2026 edition, "Peaceful Retaliations, Futuristic Fusions and Based 
 
 The May 4, 2026 edition, "Cartel & Comey Indictments Plus War Ripples & Election Fraud," opened with a survey of federal and state election cases across New Jersey, Ohio, New Mexico, Pennsylvania, Washington, Georgia, Michigan, Wyoming and California, followed by [[ashe-in-america|Ashe in America]]'s argument that only the [[election-fraud-rico|election fraud RICO]] ultimately matters.[5] Subsequent segments covered the [[suicide-dolphins-narrative|"suicide dolphins" media narrative]], the [[iran-war|Iran war]]'s second-order pressure on [[germany|Germany]] and on U.S. fuel prices, the resignations of Mexican officials amid the [[indictment-of-mexican-officials-in-the-sinaloa-cartel-case|Sinaloa cartel indictments]] and the deaths of two [[cia|CIA]] officers in Chihuahua, and Acting Attorney General [[todd-blanche|Todd Blanche]]'s comments on the [[comey-8647-indictment|Comey 8647 indictment]].[5] Commentary came from [[ashe-in-america|Ashe in America]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] and [[burning-bright|Burning Bright]].[5] Bonus items included [[the-blitz|Badlands Blitz]] Episode 15, the [[federal-organ-donation-review-2026|federal organ donation review]], and a Weather Channel clip of iridescent clouds in Indonesia, alongside sponsored placements for MeWe and the Great American Restoration Tour in Deadwood.[5]
 
+
+## 2026 relaunch
+
+On January 1, 2026, the publication paused for New Year's Day and announced that it would return the following day as a "new and improved" Badlands Brief.[6] Three editorial changes were set out. Under "Straight to the Source," the team said it would prioritise original sourcing and stories from news makers rather than narrative makers, limiting what it called regime opinion with "an extreme bias for Truth."[6] Under "Just the Facts," it undertook to give readers a just-the-facts summary of each story before the accompanying take, in place of relaying legacy media narratives.[6] Under "Rotating Bylines," it confirmed that the Brief would continue to carry takes from across Badlands hosts, with [[burning-bright|Burning Bright]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] and [[ashe-in-america|Ashe in America]] taking turns compiling and publishing the newsletter through the week.[6] The same post announced the launch of [[badlands-blitz|Badlands Blitz]] as a Substack-exclusive week-in-review show.[6]
+
+The New Year's post restated the outlet's standing framing: readers were asked to share the brief widely and to comment, the opinions expressed were those of the authors rather than [[badlands-media|Badlands Media]], and the Brief remained free while inviting paid subscriptions to "help our collective of citizen journalists take back the narrative."[6] It closed with the slogan "We are the news now."[6]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 6: The Info War Ouroboros", URL: https://badlands.substack.com/p/badlands-blitz-episode-6
 2. Badlands Brief — "The Bibi Break-Up Begins, As Does The IC Purge...", URL: https://badlands.substack.com/p/badlands-brief-6f0
 3. Badlands Brief — "American Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-a1a
 4. Badlands Brief — "Peaceful Retaliations, Futuristic Fusions and Based Puritans", URL: https://badlands.substack.com/p/badlands-brief-bb1
 5. Badlands Brief — "Cartel & Comey Indictments Plus War Ripples & Election Fraud", URL: https://badlands.substack.com/p/badlands-brief-cfa
+6. Badlands Brief — "Happy New Year!", URL: https://badlands.substack.com/p/happy-new-year

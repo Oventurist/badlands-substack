@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cuba, diplomacy, regime-change]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-686.md, raw/badlands-news-brief-c0a.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-686.md, raw/badlands-news-brief-c0a.md, raw/glimpses-into-hell.md]
 confidence: medium
 ---
 
@@ -26,7 +26,14 @@ In mid-March 2026 Díaz-Canel confirmed the existence of largely undisclosed tal
 
 In March 2024 Díaz-Canel responded to a rare public protest by hundreds of residents in Santiago, [[cuba|Cuba]]'s second-largest city, where demonstrators chanted "power and food" amid blackouts lasting 18 hours or more a day and severe food shortages.[3] He confirmed the protest on X shortly after the rally concluded and called for dialogue in an "atmosphere of tranquility and peace," while also alleging that "terrorists" from the United States were seeking to foment further uprisings.[3] "This context will be taken advantage of by the enemies of the Revolution, for destabilizing purposes," he wrote.[3] See [[2024-santiago-de-cuba-protests|2024 Santiago de Cuba protests]].[3]
 
+## Rise to power and the 2021 protests
+
+Díaz-Canel rose through the ranks of the communist party before assuming the position of head of state, taking over after the tenure of [[raul-castro|Raúl Castro]], which the Badlands essay "Glimpses into Hell — Part 1" says ended roughly halfway through [[donald-trump|Donald Trump]]'s presidency.[4] The essay argues that hopes of a return to the pre-revolutionary "golden age" after the Castros were "a naive fairy tale," since the Cuban state is a monolithic system in which "business continues as usual" regardless of who occupies the seat of power.[4]
+
+During the [[2021-cuban-protests|2021 protests]], Díaz-Canel openly called for violence, instructing his followers that "the order to combat has been given. Revolutionaries need to be on the streets."[4] The party deployed [[rapid-reaction-brigades|Rapid Reaction Brigades]] to suppress dissent, and the state cut internet access nationwide.[4]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "To Infinity & Iran!", URL: https://badlands.substack.com/p/badlands-brief-686
 3. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a
+4. Badlands Brief — "Glimpses into Hell - Part 1", URL: https://badlands.substack.com/p/glimpses-into-hell

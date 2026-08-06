@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [state-department, censorship, disinformation, government]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-ea1.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-79f.md, raw/badlands-news-brief-890.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-e38.md, raw/badlands-news-brief-ea1.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md]
 confidence: medium
 ---
 
@@ -63,3 +63,17 @@ The Global Engagement Center, launched in 2016 under President Obama, was succee
 
 6. Badlands Brief — "Badlands News Brief: War Time Presidents & The Brink of Peace", URL: https://badlands.substack.com/p/badlands-news-brief-e38
 7. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
+
+## Position in the plausible deniability network
+
+Badlands Media lists the Global Engagement Center among the agencies and organizations outside the [[national-endowment-for-democracy|National Endowment for Democracy]] umbrella that nonetheless form part of the [[plausible-deniability-network|plausible deniability network]], assigning it the function of propaganda and messaging.[8] It appears alongside the [[united-states-institute-of-peace|United States Institute of Peace]], which specializes in [[nonviolent-action|nonviolent action]], and [[freedom-house|Freedom House]], which legitimizes regime-change efforts through academia — all operating within the triangle formed by the [[state-department|State Department]], the [[central-intelligence-agency|CIA]] and the Department of Defense, with [[usaid|USAID]] as funder.[8]
+
+8. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
+
+## Rebranding as R/FIMI and its termination
+
+Badlands Media reported that the Global Engagement Center has been summarized as a "de facto U.S. government propaganda operation," and that it was used by the UK's [[institute-for-statecraft|Institute for Statecraft]] to pump out anti-Russian, pro-war propaganda.[9] The center eventually changed its mission statement from a focus on "countering terrorist and extremist groups" to countering "foreign state and non-state propaganda and disinformation efforts" — a shift the article framed as part of an effort to control the narrative and bolster calls for a "Cold War 2.0," including the censorship of material contradicting the "unprovoked Russian invasion" framing.[9]
+
+In November 2024, a continuing resolution for the federal budget attempted to reauthorize the GEC's censorship capacity.[9] The attempt became a public scandal, and [[elon-musk|Elon Musk]] threatened to primary any Republican who voted for the resolution; the budget was killed and, without reauthorization, the GEC was set to expire.[9] As one of its final acts the Biden administration created the [[counter-foreign-information-manipulation-and-interference-hub|R/FIMI]] hub at the [[state-department|State Department]], keeping the same staff and continuing the GEC's function — a continuation terminated in March 2025 by [[marco-rubio|Marco Rubio]] and [[darren-beattie|Darren Beattie]].[9]
+
+9. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

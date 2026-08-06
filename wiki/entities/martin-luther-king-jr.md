@@ -1,10 +1,10 @@
 ---
-title: Martin Luther King Jr.
+title: "Martin Luther King Jr."
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [civil-rights, assassination, ballistics, history]
-sources: [raw/badlands-brief-282.md]
+sources: [raw/badlands-brief-282.md, raw/how-to-stop-civil-war-20.md]
 confidence: medium
 ---
 
@@ -22,5 +22,16 @@ The recovered projectile was a deformed .30-06 caliber rifle slug designated exh
 
 [[ashe-in-america|Ashe in America]] highlighted that the bullet said to have killed King was a .30-06, and that in both the King and Kirk cases "matching the bullet to the rifle proved far more difficult than investigators hoped."[1] She noted a commenter's framing of Kirk as "the 'conservative' Martin Luther King Jr in 30 years... a reboot," and pointed skeptically to the committee finding that no U.S. government agency participated in the assassination.[1] Both killings were characterized as strikes on prominent liberty activists at transformational moments of American populism.[1]
 
+## Collaboration with Robert Kennedy
+
+In the summer of 1967 King began a close collaboration with Senator [[robert-f-kennedy|Robert F. Kennedy]], telling his associates that the civil rights movement would put its full support behind Kennedy in the run-up to the 1968 elections.[2] Kennedy had earlier intervened in King's October 1960 arrest in Atlanta for driving with an invalid licence in racist territory, and both men advanced civil rights on their separate paths before their peak collaboration began as each made his resistance to the war in [[vietnam-war|Vietnam]] public.[2]
+
+## Aftermath of the assassination
+
+King's death on April 4, 1968 set off a wave of urban race riots that swept 120 cities, killed 39 people — mostly black — injured 2,600 and drew more than 75,000 troops onto American streets.[2] Kennedy's unprotected speech in the Indianapolis ghetto that night is credited with making Indianapolis the only major city to avoid rioting.[2] King's associate Ralph Abernathy later recalled telling Kennedy that he had a chance to be a prophet, "but prophets get shot."[2]
+
+Badlands Media argues that in the vacuum left by King's murder, covert intelligence operations under [[cointelpro|COINTELPRO]] transplanted his movement of peaceful civil disobedience with the violence-prone "New Left" and bomb-building outfits such as the [[weather-underground|Weather Underground]].[2] It holds up King's wisdom, alongside that of [[john-f-kennedy|JFK]], [[malcolm-x|Malcolm X]] and Robert Kennedy, as the antidote to the engineered civil conflict of the present day.[2]
+
 ## References
 1. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
+2. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20

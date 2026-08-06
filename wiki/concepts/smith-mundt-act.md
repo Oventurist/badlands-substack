@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [propaganda, information-warfare, state-department, media, legislation]
-sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-c4f.md]
+sources: [raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-c4f.md, raw/four-pillars-of-government-control.md]
 confidence: medium
 ---
 
@@ -50,6 +50,10 @@ Badlands host [[chris-paul|Chris Paul]] argued on Devolution Power Hour that "yo
 
 Badlands commentator [[chris-paul|Chris Paul]] grouped congressional term limits with "the Smith-Mundt Act stuff," describing both as "non-solutions that sound like good solutions to people who don't understand the problems."[5] He made the remark in response to a push to certify term limits and a balanced budget requirement through state legislatures under [[article-v|Article V]], warning that term limits would be used to argue on behalf of the [[twenty-second-amendment-third-term-loophole|22nd Amendment]], which he argued must be dismantled.[5]
 
+## Cited in the "four pillars" framework
+
+Badlands contributor [[erik-carlson|Erik Carlson]] cites [[barack-obama|Barack Obama]]'s 2012 repeal of the Smith-Mundt Act as a decisive escalation in the government's control of the media, arguing it allowed the government to propagandize its own citizens with no repercussions and that "things have only gotten worse … much worse."[6] He places the repeal within his account of the media pillar of the [[four-pillars-of-government-control|four pillars of government control]], which runs from the [[central-intelligence-agency|CIA]]'s [[operation-mockingbird|Operation Mockingbird]] through the 1975 [[church-committee|Church Committee]] disclosures, and notes that only 31% of Americans still say they trust the media while many of the remaining 69% unknowingly repeat its talking points.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
@@ -57,3 +61,4 @@ Badlands commentator [[chris-paul|Chris Paul]] grouped congressional term limits
 3. Badlands News Brief — "Media Apologies, Fake & Gay Drones and Trump Appointments", URL: https://badlands.substack.com/p/badlands-news-brief-86f
 4. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 5. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
+6. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [supreme-court, case-law, federalism, sovereignty]
-sources: [raw/a-startling-contradiction-at-the.md]
+sources: [raw/a-startling-contradiction-at-the.md, raw/is-the-united-states-a-nation.md]
 confidence: medium
 ---
 
@@ -22,5 +22,12 @@ The essay reproduces the following language from the decision:[[1]](https://badl
 
 The author treats the passage as case-law confirmation of a hierarchy of authority: the people create the states, the states create the federal government, and no entity may exceed the authority of that which created it.[[1]](https://badlands.substack.com/p/a-startling-contradiction-at-the) This chain is the premise on which the essay's broader claim about the [[united-states-federal-corporation|corporate "United States"]] rests — namely that even if a corporate entity was later installed, it cannot displace the antecedent authority of the people.[[1]](https://badlands.substack.com/p/a-startling-contradiction-at-the) The author frames the quotation as "remarkable," emphasising that "the voluntary and deliberate choice of the people *is* the source of state authority, from which all else flows."[[1]](https://badlands.substack.com/p/a-startling-contradiction-at-the)
 
+## Cited in the "nation" debate
+
+A later Badlands Media essay, "Is the United States a Nation?" (November 1, 2023), cites the same case for a different passage, reporting the reporter citation as *Chisholm, Ex'r v. Georgia*, 2 Dall. 419, 1 L.Ed. 440 (1794).[2] The quoted language asks "whether this State, so respectable, and whose claim soars so high, is amenable to the jurisdiction of the Supreme Court of the United States?" and reduces that question to a more radical one: "do the people of the United States form a NATION?"[2] The opinion continues that "[b]y that law the several States and Governments spread over our globe, are considered as forming a society, not a NATION."[2]
+
+[[american-hypnotist|American Hypnotist]] treats this passage as case-law support for the claim that the federal union is a society or compact of sovereign states rather than a nation in its own right, reading it alongside [[cherokee-nation-v-georgia|Cherokee Nation v. Georgia]], [[people-ex-rel-attorney-general-v-naglee|People ex rel. Attorney General v. Naglee]], [[robinson-v-norato|Robinson v. Norato]], and the definitions of Congress and of national versus federal government in [[blacks-law-dictionary|Black's Law Dictionary]].[2]
+
 ## References
 1. Badlands Brief — "A Startling Contradiction at the Heart of 'Our' Legal System", URL: https://badlands.substack.com/p/a-startling-contradiction-at-the
+2. Badlands Brief — "Is the United States a Nation?", URL: https://badlands.substack.com/p/is-the-united-states-a-nation

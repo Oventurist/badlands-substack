@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [substack, badlands-media, citizen-journalism, bitcoin, prophecy]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-e40.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/happy-thanksgiving.md, raw/kekistani-code-talkers.md]
 confidence: medium
 ---
 
@@ -42,17 +42,24 @@ The essay argued that the information war splits into a group exposing corruptio
 
 Its conclusion was that [[bitcoin|Bitcoin]] already constitutes both the indictment and the arrest of that system, citing [[jason-lowery|Jason Lowery]]'s [[softwar|Softwar]], [[julian-assange|Julian Assange]], [[edward-snowden|Edward Snowden]]'s NOSTR post on [[charlie-munger|Charlie Munger]], and Sun Tzu's maxim that every battle is won before it is fought.[5] A postscript directed readers still "bloodthirsty for gallows" at [[guantanamo-bay|GITMO]] to Deuteronomy 32:35, closing with "GOD WINS!"[5] The article carried the standard Badlands disclaimer that contributor pieces represent the author's own opinions, and pointed readers to more of PIP's free work at the Patriots in Progress Substack.[5]
 
+## Thanksgiving 2023 reflection
+
+Patriots in Progress contributed a reflection to the [[badlands-media|Badlands Media]] Thanksgiving Day post of November 23, 2023.[7] The message said the author was "thankful God chose each and every one of us for this particular time in history," describing every honest participant as valuable to the movement and bringing unique skills to what was called the community's "biological super computer."[7] It observed that "the deeper we go, the more unrealistic it all becomes," reassured readers that "the future is bright orange," and closed with the [[great-awakening|Great Awakening]]-associated slogan "WWG1WGA!" and a blessing to fellow Badlanders.[7]
+
+## Kekistani Code Talkers
+
+Patriots in Progress authored the April 2024 Badlands Brief essay [[kekistani-code-talkers|"Kekistani Code Talkers"]], subtitled "Understandably Irregular, Totally Misunderstood ... Entirely Expected."[8] The piece surveys five historical case studies in [[information-warfare|information warfare]] — the parables of [[jesus|Jesus]], the ciphers of [[mary-queen-of-scots|Mary, Queen of Scots]], the [[culper-spy-ring|Culper Spy Ring]], the [[enigma-machine|Enigma machine]], and the [[navajo-code-talkers|Navajo Code Talkers]] — before arguing that [[covfefe|Covfefe]] functions as both ciphertext and cryptographic key.[8] Readers are directed to more of the author's work on the Patriots in Progress Substack.[8]
+
+
 ## References
 1. Badlands Brief — "Are We Entering the Millennial Reign?", URL: https://badlands.substack.com/p/are-we-entering-the-millennial-reign
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 3. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
 4. Badlands News Brief — "Trump Lawsuits, Media Amnesty and Biden's Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-e40
 5. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
-
 ## "Don't Bring Shiny Rocks to Digital Gunfights" (April 2023)
-
 On April 7, 2023, Patriots in Progress published a Badlands Media essay subtitled "Using Bitcoin to Impose Severe Physical Costs on AI," which opened with the greeting "Shadilay, Pepes!" and framed itself as a summary of a thought exercise about converging technological breakthroughs.[6] The author identified himself professionally as an Aerospace System Safety Engineer who had spent tens of thousands of hours identifying, prioritising and mitigating hazards on highly complex systems, and applied that discipline to [[artificial-intelligence|artificial intelligence]].[6]
-
 The essay listed decentralised and centralised blockchains, AI, virtual reality, 3D printing, big data, the internet of things and advanced autonomous robotics as technologies converging on the same period of history, and argued that humanity must either harness and mitigate them or risk being enslaved in "a digital prison from which there is no escape."[6] It drew on Major Jason Lowery's [[softwar|Softwar]] and Jeff Booth's *The Price of Tomorrow*, and closed by proposing [[bitcoin|Bitcoin]] micro-transactions — including a Counterparty-protocol asset the author himself minted — as a filter imposing "severe physical costs" on AI-generated data.[6] The author noted his work with GMONEY on [[rugpull-radio|Rugpull Radio]] discussing the interconnections of Q, Trump, Bitcoin and Pepe, and directed readers to his own Patriots in Progress Substack.[6]
-
 6. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
+7. Badlands Brief — "Happy Thanksgiving!", URL: https://badlands.substack.com/p/happy-thanksgiving
+8. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers

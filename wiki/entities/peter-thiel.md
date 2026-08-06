@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [technology, thiel-network, pcast, technocracy]
-sources: [raw/badlands-brief-143.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-ec8.md, raw/dark-equation.md]
+sources: [raw/badlands-brief-143.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-d50.md, raw/badlands-news-brief-ec8.md, raw/dark-equation.md, raw/jd-vance-sidley-austin-and-q-post.md]
 confidence: medium
 ---
 
@@ -42,6 +42,10 @@ In commentary on the August 2024 unsealing of [[x-corp|X]]'s shareholder list, [
 
 Badlands commentary in December 2025 traced the career of HHS Deputy Secretary and Acting CDC Director [[jim-oneill|Jim O'Neill]] through Thiel's institutions: Managing Director of [[clarium-capital|Clarium Capital]] from 2008 to 2012, CEO of the Thiel Foundation and co-founder of the [[thiel-fellowship|Thiel Fellowship]] over the same period, and Managing Director of [[mithril-capital-management|Mithril Capital Management]] from 2012 to 2019.[5] The commentary framed O'Neill's subsequent return to the [[department-of-health-and-human-services|Department of Health and Human Services]] as an illustration of the revolving door between Thiel-linked finance, health-tech and biotech boards, and federal health administration.[5]
 
+## Mentorship of JD Vance
+
+Thiel met [[jd-vance|JD Vance]] at [[yale-law-school|Yale Law School]] in 2011 and took an immediate liking to him, becoming his mentor.[7] Vance joined Thiel's [[mithril-capital|Mithril Capital]] in 2015, where he learned the Big Tech and venture capital world, before departing to found [[narya-capital|Narya Capital]], which funded [[rumble|Rumble]].[7] An editor's note to the Badlands article observed that Thiel names his ventures after Lord of the Rings lore: mithril is the mythical light-yet-durable metal, and Narya is one of the elven rings of power of which Gandalf becomes steward.[7]
+
 ## References
 1. Badlands Brief — "All the Classic Earmarks of Discombobulation", URL: https://badlands.substack.com/p/badlands-brief-143
 2. Badlands Brief — "Badlands News Brief: IC Ignitions & Double Detonations", URL: https://badlands.substack.com/p/badlands-news-brief-1a0
@@ -54,3 +58,4 @@ Badlands commentary in December 2025 traced the career of HHS Deputy Secretary a
 Peter Thiel was among the co-founders of [[openai|OpenAI]] in 2015, joining [[elon-musk|Elon Musk]], LinkedIn co-founder Reid Hoffman, Y Combinator founding partner Jessica Livingston and machine-learning researcher Ilya Sutskever.[6] The Badlands Media article "Dark Equation" identified him as a co-founder of both PayPal and [[palantir|Palantir]], and listed him among the attendees of the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, where artificial intelligence dominated the agenda.[6]
 
 6. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+7. Badlands Brief — "JD Vance, Sidley Austin, & Q Post #238", URL: https://badlands.substack.com/p/jd-vance-sidley-austin-and-q-post

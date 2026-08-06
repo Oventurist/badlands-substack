@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [jfk, us-president, bretton-woods, deep-state]
-sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-fcb.md, raw/combating-the-transhumanist-religion.md]
+sources: [raw/a-gateway-to-a-new-world-of-cooperation.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-4ab.md, raw/badlands-news-brief-cba.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-dae.md, raw/badlands-news-brief-fcb.md, raw/combating-the-transhumanist-religion.md, raw/four-pillars-of-government-control.md, raw/heroes-of-the-great-awakening.md, raw/john-bobby-and-marilyn.md]
 confidence: low
 ---
 
@@ -45,6 +45,16 @@ In June 2023 his nephew [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] told [[joe
 
 Badlands Media recounts that in the 1960s Kennedy and his brother [[robert-f-kennedy|Robert F. Kennedy]] formed an unofficial advisory council, the [[executive-committee-of-the-national-security-council|Executive Committee of the National Security Council]], to keep peacemaking efforts siloed from the [[joint-chiefs-of-staff|Joint Chiefs]] and the intelligence agencies.[6] Officials excluded from it derided the circle of Kennedys and Boston-area friends, including [[kenneth-odonnell|Kenneth O'Donnell]], as the "Irish Mafia."[6] Going around the [[military-industrial-complex|Military Industrial Complex]] and the press, the group opened backchannels to Soviet leader [[nikita-khrushchev|Nikita Khrushchev]] to avert war — a precedent the outlet invoked in 2024 to interpret [[donald-trump|Donald Trump]]'s appointments.[6]
 
+## Heroes of the Great Awakening
+
+Badlands Media's February 2023 essay "Heroes of the Great Awakening" presents John F. Kennedy as the emblem of an earlier awakening that the outlet regards as the direct ancestor of the present one, describing the 1960s as a period when "the American people were waking up to the sham that was the Military Industrial Complex and more."[10] The article quotes Kennedy's warning that "the very word 'secrecy' is repugnant in a free and open society; and we are as a people inherently and historically opposed to secret societies, to secret oaths and secret proceedings," and that "the dangers of excessive and unwarranted concealment of pertinent facts far outweighed the dangers which are cited to justify it."[10]
+
+The essay argues that Kennedy's assassination followed from his having crossed two specific lines: "when JFK threatened the central banking system and the intelligence apparatus, he wrote his own death warrant."[10] It frames the Kennedys as a political family "willing to stand up to the Establishment," standing for "true justice and 'people power'," and draws an explicit parallel to the treatment of Donald Trump, his family and his allies.[10] The author's closing argument is that Kennedy's significance is not dynastic but inherited by ordinary citizens — "his lineage is more than just a bloodline" — and that victory "will not be one man in the current epoch either."[10]
+
+## The Marilyn Monroe narrative
+
+A large body of popular media has promoted the claim that Kennedy and his brother [[robert-f-kennedy|Robert]] conspired to murder the actress [[marilyn-monroe|Marilyn Monroe]], whose body was found on August 4, 1962.[11] Writing for Badlands Media, [[matthew-ehret|Matthew Ehret]] rejected the thesis, arguing that its supposed evidence consists of anecdotal testimony, an unseen secret diary held only by anonymous sources, and wiretap recordings that only [[fred-otash|Fred Otash]] claims to possess.[11] Ehret noted the irony of claims that Kennedy sought to topple Fidel Castro, escalate in Vietnam and stage a false flag, when Kennedy in fact worked to subvert the [[bay-of-pigs|Bay of Pigs]] operation, issued [[nsam-263|NSAM 263]] in October 1963 to begin a full withdrawal from Southeast Asia, and rejected [[operation-northwoods|Operation Northwoods]] before firing its author, General [[lyman-lemnitzer|Lyman Lemnitzer]].[11] Kennedy's June 10, 1963 speech "What Kind of Peace Do We Seek?" set out his opposition to a new forever war.[11] He was reportedly furious when President [[ngo-dinh-diem|Ngo Dinh Diem]] was murdered on November 2, 1963, three weeks before his own assassination.[11] Ehret also documented Kennedy's engagement in the fight over Hollywood, including granting director John Frankenheimer access to White House grounds to film Seven Days in May, and his association with Judy Garland.[11] Ehret concluded that both Kennedy brothers suffered a second wave of character assassination after their deaths, tied to the [[fbi|FBI]], [[cia|CIA]] and British intelligence.[11]
+
 ## References
 1. Badlands Brief — "A Gateway to a New World of Cooperation", URL: https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation
 2. Badlands Brief — "The Reckoning of Fake Elections, Fake Wars and Fake Allies", URL: https://badlands.substack.com/p/badlands-brief-b62
@@ -66,3 +76,13 @@ In a November 2025 essay, [[matthew-ehret|Matthew Ehret]] recalled Kennedy's 196
 Ehret writes that from 1787 to Kennedy's 1963 murder the general trend of the US republic and the wider western world was turbulent and often self-destructive, due in large measure to the subversive hand of London-centered deep state operations, yet an ethic founded on love for technological progress, God, nation, truth and family prevailed.[8] He groups Kennedy with [[benjamin-franklin|Benjamin Franklin]] and [[henry-c-carey|Henry C. Carey]] as representatives of America's forgotten anti-[[malthusianism|Malthusian]] heritage, and as the counter-tradition to the [[transhumanism|transhumanist]] doctrine of [[useless-eaters|useless eaters]].[8]
 
 8. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
+
+## The 1960 election and the Mob thesis
+
+Some believe the Chicago Mob cut a deal with Kennedy's father, [[joseph-p-kennedy|Joseph Kennedy]], in 1960 to throw the election in his favor, with the Justice Department agreeing in return to go easy on the Mafia during his presidency.[9] The Mafia's asserted influence over the [[teamsters|Teamsters Union]] is said to have delivered the largest union in America to Kennedy nationally.[9] In the [[1960-united-states-presidential-election|1960 election]], ten states were decided by fewer than 10,000 votes; Kennedy carried Illinois by under 9,000 while running a 450,000-vote margin in Cook County, and won the national popular vote by 113,000 — so the Cook County result delivered both Illinois and the popular vote.[9]
+
+It is also believed the Kennedys did not keep their side of that bargain, which Badlands contributor [[erik-carlson|Erik Carlson]] offers as the reason for Mafia involvement in Kennedy's assassination three years later and in that of Robert F. Kennedy five years after.[9] He notes that the Mafia had worked with the FBI and the [[central-intelligence-agency|CIA]] (then the OSS) since World War II, and that both agencies are believed to have been involved in the Kennedy assassinations.[9] When [[richard-nixon|Nixon]] later sought the CIA's files on the [[bay-of-pigs|Bay of Pigs]] and the Kennedy assassination, Director [[richard-helms|Richard Helms]] refused him access.[9]
+
+9. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
+10. Badlands Brief — "Heroes of the Great Awakening", URL: https://badlands.substack.com/p/heroes-of-the-great-awakening
+11. Badlands Brief — "John, Bobby ... and Marilyn", URL: https://badlands.substack.com/p/john-bobby-and-marilyn

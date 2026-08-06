@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, ngo, usaid, information-war]
-sources: [raw/badlands-news-brief-7b8.md, raw/days-of-thunder.md]
+sources: [raw/badlands-news-brief-7b8.md, raw/days-of-thunder.md, raw/how-to-rent-a-riot-the-history-of.md]
 confidence: medium
 ---
 
@@ -26,3 +26,8 @@ WikiLeaks further asserted that the relationship between Bourgault and Jennings 
 [[usaid|USAID]] has been a significant funder of Internews, providing roughly $473 million to the organization, which is described by critics as a U.S. intelligence-linked body created to promote "press freedom" and "train journalists."[2] Internews has been accused of supporting online censorship efforts, notably through its "Countering Disinformation Guide" and other initiatives intended to shape media narratives both abroad and domestically.[2] The relationship became a focal point of criticism in February 2025 during the [[days-of-thunder|days of thunder]], when USAID's role in the [[censorship-industrial-complex|censorship industrial complex]] came under scrutiny alongside the agency's internal [[usaid-disinformation-primer|Disinformation Primer]].[2]
 
 2. Badlands Brief — "Days of Thunder", URL: https://badlands.substack.com/p/days-of-thunder
+3. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
+
+## Role in the Orange Revolution
+
+Badlands Media names Internews — "our old friend," in [[ryan-delarme|Ryan DeLarme]]'s phrasing — among the U.S. organizations sponsored by [[usaid|USAID]], the [[national-endowment-for-democracy|National Endowment for Democracy]] and other foundations during Ukraine's [[orange-revolution|Orange Revolution]], alongside [[freedom-house|Freedom House]], the [[international-republican-institute|International Republican Institute]], the [[national-democratic-institute|National Democratic Institute]], the [[solidarity-center|Solidarity Center]] and the [[eurasia-foundation|Eurasia Foundation]].[3] The article refers readers back to its earlier treatment of the organization in the piece "The Information Imperium."[3]

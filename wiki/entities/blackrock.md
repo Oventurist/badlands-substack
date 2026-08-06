@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/dont-bring-shiny-rocks-to-digital.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-49a.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/get-woke-go-broke.md]
 confidence: medium
 ---
 
@@ -63,6 +63,12 @@ The article catalogues BlackRock and Vanguard's position at the top of the insti
 
 He argues that holding a monopoly over any one of Big Media, Big Tech or Big Pharma would be significant, but that a simultaneous stranglehold on all three creates the potential for the world's first truly global totalitarian dictatorship — a prospect he links to the normalization of individual social credit scores and corporate [[esg|ESG]] scores.[10] The concluding evidence offered for BlackRock's role in such a project is Fink's membership in both the [[world-economic-forum|World Economic Forum]] and the [[council-on-foreign-relations|Council on Foreign Relations]], organizations DeLarme says have made clear their goal of creating a [[one-world-government|one-world government]].[10]
 
+## "Get Woke, Go Broke" (2023 commentary)
+
+In an April 2023 essay, Badlands Media contributor [[erik-carlson|Erik Carlson]] described BlackRock as the enforcement end of the [[esg|ESG]] system: companies that fail to satisfy the scoring organizations are barred from funds run by investment giants such as BlackRock, [[vanguard-group|Vanguard]] and [[state-street|State Street]], which drives their share prices and valuations down.[12] Carlson noted that BlackRock's founder [[larry-fink|Larry Fink]] built the firm from its late-1980s founding into the world's largest asset manager, overtaking what he called blue-blood cabal families that had been exploiting the world for a thousand years — a rise he considered impossible unless Fink were a member of the elite club and BlackRock's assets ultimately cabal-owned.[12]
+
+Carlson highlighted an apparent contradiction he classed as fifth-generation warfare: when [[donald-trump|Donald Trump]] was president and was said to have merged the [[federal-reserve|Federal Reserve]] into the [[us-department-of-the-treasury|US Treasury]], it was BlackRock and Fink who were appointed to administer the arrangement.[12] He asked whether this made Fink a "grey hat," a former black hat working with white hats, or a deep state actor being forced by Trump to buy up soon-to-be-worthless government assets — in effect the deep state being made to destroy the deep state.[12] Carlson also observed the irony that BlackRock, the corporate face of ESG, was by 2023 being attacked for not being woke enough, which he read either as the woke eating the woke or as a system losing its mind.[12]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
@@ -85,3 +91,4 @@ At the January 2024 [[world-economic-forum|World Economic Forum]] gathering in D
 An April 2023 Badlands Media essay on the hazards of [[artificial-intelligence|artificial intelligence]] pointed readers to a video highlighting BlackRock's Aladdin risk-management tool as evidence of "how long AI has been in the works and how much control some AI tools have already amassed."[11] The author invoked Aladdin to argue that the point at which mitigations against AI-driven data saturation were needed may already lie in the past, and that solutions such as imposing energy costs through [[bitcoin|Bitcoin]] must be implemented immediately.[11]
 
 11. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
+12. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke

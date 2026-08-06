@@ -1,16 +1,21 @@
-import sys, re
-# usage: append_merge.py <path> <n> <bodyfile>
-path, n, bodyfile = sys.argv[1], sys.argv[2], sys.argv[3]
-raw = open(path, 'r', encoding='utf-8', newline='').read()
-body = open(bodyfile, 'r', encoding='utf-8').read().rstrip() + "\n\n"
-ref = '%s. Badlands Brief — "Badlands News Brief: Trump Immunity, FED Panic & #MeToo Whiplash", URL: https://badlands.substack.com/p/badlands-news-brief-bad\n' % n
-nl = '\r\n' if '\r\n' in raw else '\n'
-body = body.replace('\n', nl)
-ref = ref.replace('\n', nl)
-i = raw.rindex('## References')
-raw = raw[:i] + body + raw[i:]
-if not raw.endswith(nl):
-    raw += nl
-raw += ref
-open(path, 'w', encoding='utf-8', newline='').write(raw)
-print('OK', path)
+import sys, re, io
+path, basename, title, url = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4]
+body = sys.stdin.read()
+t = io.open(path, encoding='utf-8').read()
+m = re.search(r'^sources: \[(.*?)\]\s*$', t, re.M)
+srcs = [s.strip() for s in m.group(1).split(',') if s.strip()]
+src = 'raw/%s.md' % basename
+if src in srcs:
+    n = srcs.index(src) + 1
+    newsrcs = srcs
+else:
+    newsrcs = srcs + [src]
+    n = len(newsrcs)
+t = t[:m.start()] + 'sources: [' + ', '.join(newsrcs) + ']' + t[m.end():]
+t = re.sub(r'^updated: .*$', 'updated: 2026-08-06', t, count=1, flags=re.M)
+t = t.rstrip() + '\n\n' + body.replace('[n]', '[%d]' % n).rstrip() + '\n'
+ref = '%d. Badlands Brief — "%s", URL: %s' % (n, title, url)
+if ref not in t:
+    t += '\n' + ref + '\n'
+io.open(path, 'w', encoding='utf-8').write(t)
+print('merged as [%d] -> %s' % (n, path))

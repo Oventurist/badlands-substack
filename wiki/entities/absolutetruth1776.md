@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, citizen-journalism, commentary, substack]
-sources: [raw/badlands-news-brief-38f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8c5.md]
+sources: [raw/badlands-news-brief-38f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-8c5.md, raw/happy-thanksgiving.md]
 confidence: medium
 ---
 
@@ -32,7 +32,12 @@ In the same brief he criticised the refusal to grant [[novak-djokovic|Novak Djok
 
 In the February 23, 2023 Badlands News Brief, AbsoluteTruth1776 commented on the [[north-carolina-supreme-court|North Carolina Supreme Court]]'s decision to rehear two voting cases, opening with the assertion that "voting matters."[3] He recounted that the court had flipped from a Democratic majority to a Republican supermajority in November 2022 and that, on their way out, the Democratic justices had "legislated from the bench" by holding [[north-carolina-voter-id-law|voter ID]] unconstitutional and finding that Republicans had unfairly gerrymandered districts in [[harper-v-hall|Harper v. Hall]].[3] He wrote that neither assertion was accurate and argued that the high likelihood of both rulings being overturned showed that North Carolinians who went to the polls in November had successfully voted out justices he described as incredibly biased, if not corrupt.[3]
 
+## Thanksgiving 2023 reflection
+
+Writing as "Abs," the contributor supplied a short reflection to the [[badlands-media|Badlands Media]] Thanksgiving post of November 23, 2023.[4] The message expressed thanks for "my faith and my family," for "my Badlands family, and for all of our Badlanders out there," and for the chance "to share such an amazing time in history with so many incredible people," ending with thanks for readers' love and support and wishes for a blessed Thanksgiving.[4]
+
 ## References
 1. Badlands Brief — "BANKS BANKS BANKS!", URL: https://badlands.substack.com/p/badlands-news-brief-38f
 2. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 3. Badlands Brief — "Badlands News Brief: Putin Postures, Voting Matters & J6 Subpoenas", URL: https://badlands.substack.com/p/badlands-news-brief-8c5
+4. Badlands Brief — "Happy Thanksgiving!", URL: https://badlands.substack.com/p/happy-thanksgiving

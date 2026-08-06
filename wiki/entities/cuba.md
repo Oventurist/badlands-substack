@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [cuba, latin-america, diplomacy, regime-change]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-257.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-50d.md, raw/badlands-brief-686.md, raw/badlands-brief-740.md, raw/badlands-brief-861.md, raw/badlands-brief-98d.md, raw/badlands-brief-a89.md, raw/badlands-brief-a84.md, raw/badlands-brief-b24.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-c0a.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-257.md, raw/badlands-brief-2c5.md, raw/badlands-brief-323.md, raw/badlands-brief-50d.md, raw/badlands-brief-686.md, raw/badlands-brief-740.md, raw/badlands-brief-861.md, raw/badlands-brief-98d.md, raw/badlands-brief-a89.md, raw/badlands-brief-a84.md, raw/badlands-brief-b24.md, raw/badlands-brief-b82.md, raw/badlands-brief-d17.md, raw/badlands-brief-eed.md, raw/badlands-news-brief-c0a.md, raw/glimpses-into-hell.md]
 confidence: medium
 ---
 
@@ -107,6 +107,12 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] read 
 
 Cuba fell into a near-unprecedented economic crisis following the COVID-19 pandemic, marked by vast shortages of food, fuel and medicine and a record-breaking exodus in which upwards of 400,000 people migrated to the United States.[16] In March 2024 hundreds of residents of Santiago, the island's second-largest city, staged a rare public protest chanting "power and food" as blackouts in some areas ran 18 hours or more per day.[16] President [[miguel-diaz-canel|Miguel Díaz-Canel]] called for dialogue in an "atmosphere of tranquility and peace" while accusing "terrorists" from the United States of seeking to foment further uprisings; the U.S. embassy in Havana urged the government to respect protesters' human rights, and foreign minister Bruno Rodríguez demanded Washington refrain from interfering in internal affairs.[16] See [[2024-santiago-de-cuba-protests|2024 Santiago de Cuba protests]].[16]
 
+## History and socialism (Badlands "Glimpses into Hell")
+
+Cuba's history has always been deeply intertwined with America's; it was one of the last Spanish colonies in the Americas to declare independence, not becoming a republic until 1902.[17] The island then enjoyed roughly half a century of real freedom, a period many consider Cuba's "golden age," with a standard of living high enough that people emigrated from Spain to Cuba.[17] The 1950s brought the island's first dictatorship under [[fulgencio-batista|Fulgencio Batista]], rumored to have been backed by members of the American military-industrial complex.[17] The revolution of the late 1950s and early 1960s made Cuba a Soviet satellite state and, in the Badlands account, merely substituted "a new brand of dictatorship devouring the old," after which Cubans fleeing by boat became a common sight off the Florida coast.[17] [[fidel-castro|Fidel Castro]] ruled uncontested for decades before yielding to [[raul-castro|Raúl Castro]] and then to [[miguel-diaz-canel|Miguel Díaz-Canel]].[17]
+
+Very little exists outside the state in Cuba, particularly in business: apart from a handful of sole proprietors and Air BnBs, enterprise is nationalized, Cubans lack private checking accounts, and many must earn money abroad.[17] One Cuban immigrant told the author that "the image you have of North Korea is not far off from the state of Cuba."[17] A Cuban-American woman's TikTok account described a country without coffins, where bodies are wrapped in sheets and left for whoever will claim them, sometimes decomposing in backyards, and where electricity and water are cut at sundown.[17] Cubans were not allowed to own cell phones until around 2008, and internet access remains a state monopoly served by costly public access points or the illegal [[el-paquete-semanal|el Paquete]].[17] These conditions culminated in the [[2021-cuban-protests|2021 protests]], suppressed by [[rapid-reaction-brigades|Rapid Reaction Brigades]] amid a state-imposed communications blackout.[17] The essay argues Americans should care about the ten million people living under [[communism|communism]] just 90 miles from US territory, and criticizes the [[department-of-homeland-security|DHS]] director under [[joe-biden|Joe Biden]] for declining to admit Cuban migrants even as other flows crossed the southern border.[17]
+
 ## References
 
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
@@ -125,3 +131,4 @@ Cuba fell into a near-unprecedented economic crisis following the COVID-19 pande
 14. Badlands Brief — "Devolucion, Sedition, Somalis, and Patagonia Pyros", URL: https://badlands.substack.com/p/badlands-brief-d17
 15. Badlands Brief — "WAR!", URL: https://badlands.substack.com/p/badlands-brief-eed
 16. Badlands Brief — "Badlands News Brief: White Collar Prisons & Confounding Court Decisions", URL: https://badlands.substack.com/p/badlands-news-brief-c0a
+17. Badlands Brief — "Glimpses into Hell - Part 1", URL: https://badlands.substack.com/p/glimpses-into-hell

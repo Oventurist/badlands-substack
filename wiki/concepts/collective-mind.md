@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [narrative, information-war, psychology, badlands]
-sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-82f.md, raw/death-blossom.md]
+sources: [raw/badlands-brief-a1a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-82f.md, raw/death-blossom.md, raw/inflection-point.md]
 confidence: medium
 ---
 
@@ -47,3 +47,11 @@ In "Death Blossom" (November 23, 2022), [[burning-bright|Burning Bright]] descri
 The essay drew a sharp contrast between two collectives: the "programmed, mindless and zombified collective" that the globalist side sought to engineer through decades of directed Mass Psychosis, and the "decentralized, self-affirming and self-actualizing" WE that Burning Bright said holds the real power.[4] He wrote that the enemy wants to control ordinary people for the same reason it fears them — because they can choose to join a growing, decentralized collective that increases in influence, complexity and sovereignty by the day.[4] It was that distributed intelligence, he argued, that dismantled the November 2022 attempt to blame [[russia|Russia]] for the missile strike on [[poland|Polish]] territory within about twelve hours, through mass investigation, dissection and dissemination of the story "before the First Act even gets going."[4]
 
 4. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom
+
+## Crossing a threshold (January 2023)
+
+In "Inflection Point" (January 6, 2023), [[burning-bright|Burning Bright]] described the Collective Mind as "the ultimate prize at the heart of the Information War" — the thing one side of the [[fifth-generation-warfare|Fifth-Generation War]] seeks to chain even as the other seeks to free it.[5] He argued that wars of this type are won not by dissecting the mechanisms behind allied and enemy deployments, but by projecting the net effects of those deployments on the Collective Mind.[5]
+
+Entering 2023, he wrote, the Collective Mind of American — and perhaps world — society was "poised on the tip of a knife's edge" and crossing a threshold, as subjects previously excluded from open public debate returned to it and "many genies" were unleashed that could not be put back in their bottles.[5] He cited the contested Speaker of the House nomination, the threatened continuation of the [[twitter-files|Twitter Files]], and the televised collapse of [[damar-hamlin|Damar Hamlin]] as the proximate triggers.[5] By his reckoning the pendulum in the Mind War had reached the zenith of its arc and had begun swinging back toward truth, discernment and justice — an [[inflection-point|inflection point]] rather than an ending.[5]
+
+5. Badlands Brief — "Inflection Point", URL: https://badlands.substack.com/p/inflection-point

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [info-war, narrative-warfare, badlands-media, truth-community]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-c9a.md, raw/badlands-news-brief-d50.md, raw/last-call-for-gart-2.md]
 confidence: high
 ---
 
@@ -22,8 +22,13 @@ In April 2023, [[burning-bright|Burning Bright]] applied the Information War fra
 
 Badlands commentary in August 2024 described the Information War as entering a phase in which the legacy apparatus was failing: [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] argued that even with fabricated news stories, altered websites, censorship, celebrity surrogates and hyper-realistic AI renderings, the intelligence community's propaganda had become "half-baked."[4] [[burning-bright|Burning Bright]] described [[jack-dorsey|Jack Dorsey]] as one of the most enigmatic figures in the Info War following the unsealing of [[x-corp|X]]'s shareholder list.[4] The brief also cited [[vladimir-putin|Vladimir Putin]]'s February 2024 claim that the West, unable to defeat Russia on the battlefield, had turned to information warfare.[4]
 
+## Live events as info-war training
+
+Badlands Media has framed its live [[great-american-restoration-tour|Great American Restoration Tour]] gatherings as a means of advancing the Information War, telling readers ahead of [[gart-2|GART 2]] in 2023 that attendees would hang out with other Badlanders and show hosts throughout the weekend "as we attempt to level up in the Information War together."[5] The same promotion invoked the movement slogan "We are the news, now," presenting audience-driven citizen journalism as the mechanism by which the war is fought.[5]
+
 ## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Media — "Badlands News Brief: A Tucker, a Lemon and a Trump Walk Into a Bar ...", URL: https://badlands.substack.com/p/badlands-news-brief-bf6
 3. Badlands Brief — "Badlands News Brief: The France Dance, Crime & J6 Reveals", URL: https://badlands.substack.com/p/badlands-news-brief-c9a
 4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+5. Badlands Brief — "Last Call for GART 2!", URL: https://badlands.substack.com/p/last-call-for-gart-2

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [clinton-network, cabal, dynasty, muslim-brotherhood, state-department]
-sources: [raw/a-week-to-remember.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/disinformation-is-necessary.md]
+sources: [raw/a-week-to-remember.md, raw/america-for-sale-part-1.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/disinformation-is-necessary.md, raw/infiltration-not-invasion.md, raw/irregular-warfare.md]
 confidence: medium
 ---
 
@@ -50,6 +50,11 @@ Abedin also figures in the article's account of the secret 2009 mission to [[nor
 
 "Bad Actors" quotes the bracketed notation "[VJ _HA]" from Q drop 1948 of August 28, 2018 and reads it as naming [[valerie-jarrett|Valerie Jarrett]] and Huma Abedin as the "handlers" of [[barack-obama|Obama]] and [[hillary-clinton|Hillary Clinton]] respectively, with Joe Lange promising to prove their connections to [[prince-alwaleed-bin-talal|Prince Alwaleed bin Talal]] in a later article.[4] The drop's surrounding text — describing competing factions each with a horse in the race, seeking direct White House control together with the U.S. military and trillions in overseas transfers of taxpayer funds — is presented as the framework for Lange's claim that the United States is facing "infiltration not invasion," an insurgency inside its own government rather than an external attack.[4]
 
+## The "follow the wives" framing
+
+"[[irregular-warfare|Irregular Warfare]]" revisits [[qanon|Q]] drop 8 (October 29, 2017), which posed Abedin's situation as a choice — "Husband in jail. HRC, Muslim Brotherhood, or child? What would you do?" — and asked where she was, noting her absence from [[hillary-clinton|Hillary Clinton]]'s book tour and referencing military intelligence, state secrets, and "No FBI."[8] Joe Lange observes that Abedin had been at Clinton's right hand since the [[bill-clinton|Bill Clinton]] administration and was "like her shadow," and that the two were then suddenly no longer seen together.[8] He concludes that Abedin chose her child over Clinton and flipped, promising further detail in a later article.[8] The same logic is extended to [[rod-rosenstein|Rod Rosenstein]] and [[lisa-barsoomian|Lisa Barsoomian]], parents of two daughters, whom Lange believes were offered the same choice.[8]
+
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
@@ -71,3 +76,12 @@ When FBI Director [[james-comey|James Comey]] announced he was closing the [[hil
 Q drop 3 (October 29, 2017) ended with the instruction "Follow Huma," which Lange flags as central and connects to a promised future argument linking Abedin, the Podesta brothers and the [[september-11-attacks|September 11 attacks]].[6] Q drop 15 had listed "11.6 - Huma indicted."[6] These claims reflect Badlands Media interpretation rather than established fact.
 
 6. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+
+## Bachmann's security clearance challenge
+
+In 2012, Representative [[michele-bachmann|Michele Bachmann]] of Minnesota, joined by four members of the House Permanent Select Committee on Intelligence and the House Judiciary Committee, sent letters to the inspectors general of the Departments of Defense, State, Justice and Homeland Security and the Office of the Director of National Intelligence warning of [[muslim-brotherhood|Muslim Brotherhood]] infiltration of the United States government, and named Abedin specifically.[7] Bachmann wrote that she was "particularly interested in exactly how, given what we know from the international media about Ms. Abedin's documented family connections with the extremist Muslim Brotherhood, she was able to avoid being disqualified for a security clearance."[7] [[joe-lange|Joe Lange]] argues that Abedin's family had a long history of direct ties to the Brotherhood and questions why this did not disqualify her from a clearance or from serving as the second most powerful figure at the [[state-department|State Department]].[7]
+
+Senator [[john-mccain|John McCain]] and others roundly criticized Bachmann for raising the issue, a defense Lange characterizes as protecting the enemy from within.[7] Q drop #58 of November 2, 2017 recounted the episode and asked "Who took an undisclosed trip to SA? What was the purpose of a f2f v phone call?", while Q drop #1360 of May 13, 2018 tied Abedin's Brotherhood connections to the Syria weapons pipeline, in which the Brotherhood helped the [[central-intelligence-agency|CIA]] smuggle shoulder-fired missiles into Syria with Turkish assistance.[7] Lange places Abedin at [[hillary-clinton|Hillary Clinton]]'s right hand throughout the [[arab-spring|Arab Spring]] period and the associated push to advance [[sharia-law|Sharia law]] both abroad and within the United States.[7]
+
+7. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion
+8. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare

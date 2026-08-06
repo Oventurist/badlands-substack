@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: event
 tags: [benghazi, libya, 2012, attack]
-sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-eea.md]
+sources: [raw/a-dereliction-of-duty.md, raw/badlands-brief-eea.md, raw/infiltration-not-invasion.md]
 confidence: medium
 ---
 
@@ -39,3 +39,13 @@ The piece also tied the news to [[hillary-clinton|Hillary Clinton]]'s expected t
 ## References
 1. Badlands Brief — "A Dereliction of Duty", URL: https://badlands.substack.com/p/a-dereliction-of-duty
 2. Badlands Brief — "Epstein Fallout & Middle East Madness", URL: https://badlands.substack.com/p/badlands-brief-eea
+
+## The video narrative and its purpose
+
+Badlands contributor Joe Lange argues that the "protest over an online video" explanation advanced for weeks after the attack was planned in advance rather than improvised.[3] [[hillary-clinton|Hillary Clinton]] issued the first statement linking an [[innocence-of-muslims|anti-Islam video]] to the assault at 10:07 p.m. on September 11, 2012, before updating President [[barack-obama|Obama]]; [[susan-rice|Susan Rice]], then UN ambassador and national security adviser, then carried the claim across the Sunday news programs.[3]
+
+The evidence cut against the narrative from the outset. U.S. officials knew within 24 hours that it was terrorism, and personnel on the ground in Libya reported a direct assault rather than a protest gone awry.[3] Later that evening a mortar strike killed former Navy SEALs [[tyrone-woods|Tyrone Woods]] and [[glen-doherty|Glen Doherty]], permanently maimed another CIA contractor and severely injured diplomatic security agent David Ubben, all of whom were defending the CIA annex; the accuracy of the strike — three of five rounds on target from more than half a mile away in darkness in under a minute — required military training and premeditation according to multiple military and intelligence professionals.[3] Ambassador [[christopher-stevens|J. Christopher Stevens]] and Foreign Service information management officer Sean Smith also died.[3] Survivor [[kris-paronto|Kris "Tanto" Paronto]] said the attackers knew when the ambassador would be there and knew there would be no response, exploiting a vulnerable high-value target, and that he first heard of the film about 36 hours afterward.[3] Judicial Watch obtained documents showing the administration continued to withhold the full contents of a "media strategy" discussion held weeks after the attack.[3]
+
+Lange's conclusion is that the video story existed not to conceal the fact of terrorism — which was quickly evident — but to create a pretext for arresting [[nakoula-basseley-nakoula|Nakoula Basseley Nakoula]] and to fold Benghazi into the [[arab-spring|Arab Spring]] narrative, advancing the speech restrictions embodied in [[un-resolution-16-18|UN Resolution 16/18]].[3]
+
+3. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, press, iran, fbi, white-house]
-sources: [raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e44.md]
+sources: [raw/badlands-brief-559.md, raw/badlands-brief-6f0.md, raw/badlands-news-brief-4cb.md, raw/badlands-news-brief-6b1.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-d6a.md, raw/badlands-news-brief-e39.md, raw/badlands-news-brief-e44.md, raw/four-pillars-of-government-control.md]
 confidence: medium
 ---
 
@@ -69,3 +69,9 @@ ABC News reported the July 23, 2024 resignation of [[united-states-secret-servic
 
 ABC News, together with New Hampshire station WMUR, canceled the Republican primary debate it had scheduled for Thursday, January 18, 2024, after candidates declined to participate; [[cnn|CNN]] canceled its own New Hampshire debate the following day for the same reason.[8] With [[donald-trump|Donald Trump]] having skipped every debate of the cycle and [[nikki-haley|Nikki Haley]] refusing to appear without him, only [[ron-desantis|Ron DeSantis]] had agreed to take part.[8]
 8. Badlands Brief — "Badlands News Brief: Cheatle Resigns, Netanyahu Visits & Biden Lives!", URL: https://badlands.substack.com/p/badlands-news-brief-e44
+
+## Dismissal of RFK Jr.'s Mockingbird claims (June 2024)
+
+In June 2024, [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] alleged that the [[central-intelligence-agency|CIA]] program known as [[operation-mockingbird|Operation Mockingbird]] had secretly recruited journalists decades earlier to help brainwash Americans.[9] ABC News referred to the claim as "bonkers" and unsubstantiated.[9] Badlands contributor [[erik-carlson|Erik Carlson]] cited the network's response as an example of the media painting a picture of conspiracy theory around Mockingbird, noting that the acting CIA director had made the same claims under oath before the [[church-committee|Church Committee]] in 1975.[9]
+
+9. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control

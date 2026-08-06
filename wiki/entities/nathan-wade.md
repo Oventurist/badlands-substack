@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, fulton-county, rico, 2020-election, prosecutor]
-sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-ea1.md]
+sources: [raw/badlands-brief-990.md, raw/badlands-news-brief-054.md, raw/badlands-news-brief-110.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3c0.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-553.md, raw/badlands-news-brief-6fc.md, raw/badlands-news-brief-782.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-a27.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-b4a.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-d8f.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-ea1.md, raw/grand-jury-testimony-from-senator.md]
 confidence: medium
 ---
 
@@ -133,3 +133,11 @@ Ahead of Judge [[scott-mcafee|Scott McAfee]]'s expected ruling on disqualificati
 
 19. Badlands Brief — "Badlands News Brief: Hur Provokes Reactions as the Trump-Musk Pincer Continues", URL: https://badlands.substack.com/p/badlands-news-brief-df8
 20. Badlands Brief — "Badlands News Brief: An Astonishing Fani, Angry Truckers & a Russian Ruse", URL: https://badlands.substack.com/p/badlands-news-brief-ea1
+
+## Examination of David Perdue before the special grand jury
+
+Wade examined former U.S. Senator [[david-perdue|David Perdue]] during his September 6, 2022 transcribed interview before the Fulton County special grand jury.[21] He asked Perdue to agree that investigations by the Secretary of State's Office, the [[georgia-bureau-of-investigation|GBI]] and "numerous investigations" had shown nothing illegal occurred at [[state-farm-arena|State Farm Arena]] on election night 2020; Perdue answered only, "I agree that an investigation happened, yes."[21] Pressing further, Wade said, "I just want to flesh out, for the grand jury, what you mean because it's a simple question. Did the GBI investigate those claims?" — drawing Perdue's answer, "Not to my knowledge. Not to my satisfaction."[21] Wade's follow-up question about whether Perdue had reason to believe the GBI would not conduct a satisfactory investigation elicited Perdue's account of the [[vic-reynolds|Vic Reynolds]] phone call.[21]
+
+Badlands Media described [[state-of-georgia-v-trump|State of Georgia v. Trump, et al.]] as having been manufactured by Fulton County District Attorney [[fani-willis|Fani Willis]] and Wade, characterized as her lover, before its dismissal on November 25, 2025.[21]
+
+21. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator

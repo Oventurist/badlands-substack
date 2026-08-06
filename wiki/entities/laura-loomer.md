@@ -1,10 +1,10 @@
 ---
-title: Laura Loomer
+title: "Laura Loomer"
 created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [activist, pro-israel, first-amendment, fara]
-sources: [raw/badlands-brief-095.md, raw/badlands-brief-245.md, raw/badlands-brief-2b2.md, raw/badlands-brief-285.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-be1.md, raw/badlands-brief-cc3.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-a56.md]
+sources: [raw/badlands-brief-095.md, raw/badlands-brief-245.md, raw/badlands-brief-2b2.md, raw/badlands-brief-285.md, raw/badlands-brief-708.md, raw/badlands-brief-774.md, raw/badlands-brief-be1.md, raw/badlands-brief-cc3.md, raw/badlands-brief-e60.md, raw/badlands-news-brief-243.md, raw/badlands-news-brief-a56.md, raw/how-to-stop-civil-war-20.md]
 confidence: medium
 ---
 
@@ -67,6 +67,10 @@ Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] pushe
 
 After a masked neo-Nazi rally in Florida in September 2023, Loomer publicly identified one of the few unmasked participants as [[kent-mclellan|Kent "Boneface" McLellan]], reporting that he had been arrested by the [[fbi|FBI]] in May 2012 for domestic terrorism, fled to Ukraine in 2014 to join [[right-sector|Right Sector]] — which she called "a creation of the [[cia|CIA]]" — returned in 2022 and was reportedly deported.[11] She said the marchers on Interstate 4 waved swastika flags, professed support for [[joe-biden|Joe Biden]], and shouted slurs at her because she is Jewish, and argued that McLellan's record made informant status the only plausible explanation.[11]
 
+## Post-Kirk rhetoric
+
+On September 13, 2025, days after the [[assassination-of-charlie-kirk|assassination of Charlie Kirk]], Loomer wrote on X: "I do want President Trump to be the 'dictator' the Left thinks he is, and I want the right to be as devoted to locking up and silencing our violent political enemies as they say we are."[12] Badlands Media cites the post — alongside [[nick-fuentes|Nick Fuentes]]'s same-day call for white tribalism and [[pam-bondi|Pam Bondi]]'s demands to hunt down hate speech — as an example of reactionary over-reach capable of leading soft-minded conservatives to justify tyranny.[12]
+
 ## References
 1. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 2. Badlands Brief — "Trump Roasts The Press; Teases 2028 Run", URL: https://badlands.substack.com/p/badlands-brief-245
@@ -79,3 +83,4 @@ After a masked neo-Nazi rally in Florida in September 2023, Loomer publicly iden
 9. Badlands Brief — "Abrahamic Rug Pulls, Frivolous Lawfare, & False Statements Under Oath", URL: https://badlands.substack.com/p/badlands-brief-e60
 10. Badlands Brief — "Badlands News Brief #243: Tariffs Back On & Trump: Best Friend of Animals", URL: https://badlands.substack.com/p/badlands-news-brief-243
 11. Badlands Brief — "Badlands News Brief: Corruption Probes, Client Lists & Mud Pits", URL: https://badlands.substack.com/p/badlands-news-brief-a56
+12. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, asset-management, media-ownership]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-d46.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-news-brief-d46.md, raw/get-woke-go-broke.md]
 confidence: medium
 ---
 
@@ -18,7 +18,12 @@ The article uses this pattern of overlapping ownership to argue that the [[centr
 
 State Street was one of three asset managers whose motion to dismiss Ken Paxton's antitrust lawsuit was denied by a federal district judge in 2025, allowing claims of a conspiracy to restrict coal production to proceed to discovery.[2]
 
+## Role in ESG enforcement (2023 commentary)
+
+In "Get Woke, Go Broke," [[erik-carlson|Erik Carlson]] listed State Street with [[blackrock|BlackRock]] and [[vanguard-group|Vanguard]] as the major investment companies whose funds exclude corporations that do not comply with [[esg|ESG]] demands.[3] Because inclusion in these firms' diversified vehicles determines how widely a stock is held, Carlson argued that the threat of exclusion gives the scoring bodies effective leverage over corporate conduct.[3]
+
 ## References
 
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+3. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke

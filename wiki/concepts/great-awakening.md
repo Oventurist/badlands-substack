@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [qanon, great-awakening, badlands-media, truth-community]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-dae.md, raw/biden-inc-flips.md, raw/countering-an-ocean-of-deceit.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-dae.md, raw/biden-inc-flips.md, raw/countering-an-ocean-of-deceit.md, raw/inflection-point.md]
 confidence: high
 ---
 
@@ -35,3 +35,11 @@ In "Countering an Ocean of Deceit," [[american-hypnotist|American Hypnotist]] de
 3. Badlands Brief — "Last Chance at WW3 as the MAGAvengers Assemble", URL: https://badlands.substack.com/p/badlands-news-brief-dae
 4. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
 5. Badlands Brief — "Countering an Ocean of Deceit", URL: https://badlands.substack.com/p/countering-an-ocean-of-deceit
+
+## "Inflection Point" (January 2023)
+
+In "Inflection Point" (January 6, 2023), [[burning-bright|Burning Bright]] addressed the charge that Badlands writers who say the "pain" of the Great Awakening is far from over are engaged in "dooming" or spreading cynicism and despair, arguing that the opposite is true.[6] He framed continued turbulence as the necessary cost of awakening more people by the day, and mass psychological tension as not merely a side effect of the transition to a paradigm of sovereignty, freedom and morality but "a key component and engine OF that transition," likening it to birthing pains as a collective sheds "our old skin of subjugated serfs."[6]
+
+He told readers that if 2023 appeared poised to make prior years "seem tame by comparison," they should take it as a sign not of losing but of having reached the summit of the [[information-war|Information War]] and begun the descent toward a valley representing "a new and lasting vision for peace, prosperity and goodness" built on the present struggle — an [[inflection-point|inflection point]] rather than an ending.[6]
+
+6. Badlands Brief — "Inflection Point", URL: https://badlands.substack.com/p/inflection-point

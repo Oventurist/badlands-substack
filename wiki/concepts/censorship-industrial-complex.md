@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [censorship, media, deep-state, information-warfare]
-sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-de8.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/badlands-brief-a1a.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-de8.md, raw/is-the-censorship-war-over.md]
 confidence: medium
 ---
 
@@ -64,3 +64,17 @@ On this account the Trump–Russia scandal will be remembered as a crucial momen
 5. Badlands News Brief — "More Lawsuits, More Proxy Wars & More Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-948
 6. Badlands Brief — "Badlands News Brief: The System of Systems is a House of Cards", URL: https://badlands.substack.com/p/badlands-news-brief-cce
 7. Badlands Brief — "Badlands News Brief: Trump's Town Hall, Comer's Committee & Biden's Bribes", URL: https://badlands.substack.com/p/badlands-news-brief-de8
+
+## Structure as a network
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] described the censorship industry as a tough nut to crack precisely because it is not a single institution but a network — formal in places and operating through back channels elsewhere — connecting a litany of individuals and organizations including CISA, the CIA, USAID, NATO, the United Nations, the European Union, universities, the [[state-department|State Department]], the [[global-engagement-center|Global Engagement Center]] and various civil society institutions.[8] "Civil society" is defined in the article as the "third sector" distinct from government and business: NGOs, tax-exempt foundations, think tanks and the generational wealth of families that retain a grip on the levers of power.[8]
+
+Although a relatively recent development, the network became deeply embedded in the system of systems over the course of a decade, making it a difficult weed to kill.[8] The article rejects the assumption that fact-checking and content moderation arose organically as a good-hearted academic response to "Russian disinformation," arguing instead that the apparatus was cooked up in the nexus where big government, the private sector and civil society meet.[8] Its remit is said to extend well beyond censorship into war propaganda, regime-change operations, public narrative seeding and social engineering.[8]
+
+## Cross-partisan documentation and the 2025 retrenchment
+
+The article stressed that the issue is not partisan, citing 2022 reporting by independent journalists Lee Fang and Ken Klippenstein in The Intercept on leaked DHS documents showing departmental plans to police the flow of information online, and its bearing on the 2020 and 2022 elections.[8] In [[cognitive-warfare|cognitive warfare]] terms, the article calls the complex the closest existing analogue to a weapon of mass destruction.[8]
+
+Under the second Trump administration, the U.S. government's portion of the apparatus was substantially cut back with the termination of the [[counter-foreign-information-manipulation-and-interference-hub|R/FIMI]] hub by [[marco-rubio|Marco Rubio]] and [[darren-beattie|Darren Beattie]], and the declassification by Director of National Intelligence [[tulsi-gabbard|Tulsi Gabbard]] of the Biden administration's Strategic Implementation Plan for Countering Domestic Terrorism.[8] The article concluded that the primary hub for censorship efforts had consequently shifted to the EU and NATO, chiefly via the [[digital-services-act|Digital Services Act]], and that the censorship war is therefore not over.[8]
+
+8. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

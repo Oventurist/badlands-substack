@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [muslim-brotherhood, infiltration, sharia, universities]
-sources: [raw/america-for-sale-part-1.md]
+sources: [raw/america-for-sale-part-1.md, raw/infiltration-not-invasion.md]
 confidence: low
 ---
 
@@ -20,3 +20,11 @@ Two institutional vehicles carry the strategy in the article's telling: the [[jo
 
 ## References
 1. Badlands Brief — "America for Sale - Part 1", URL: https://badlands.substack.com/p/america-for-sale-part-1
+
+## Breitbart and Center for Security Policy framing
+
+A later Badlands feature restates the doctrine using the Center for Security Policy's Team B report as summarized by Breitbart: while violent jihad dominates the attention of national security officials, the more dangerous long-term threat is what the [[muslim-brotherhood|Muslim Brotherhood]] calls "civilization jihad," a pre-violent form of jihad that the totalitarian ideology of [[sharia-law|sharia]] treats as an integral, even dominant element of jihad.[2] Such tactics are ostensibly non-violent — and therefore read as "moderate" — not because the Brotherhood rejects violence on principle but because it judges this phase of battlefield preparation better accomplished through stealthy means, hence "stealth jihad."[2] The doctrine is described as political and psychological warfare comprising multi-layered cultural subversion, the co-opting of senior leaders, influence operations and propaganda.[2]
+
+The Brotherhood's *Explanatory Memorandum* frames the Islamic Movement in the United States as a "settlement process" to establish itself and, once entrenched, undertake a "grand jihad" under Brotherhood direction; absent recognition of the threat, the pre-violent civilization jihadist proceeds unimpeded, infiltrating along lines tailored to liberal, multicultural-minded non-Muslim populations.[2] Badlands contributor Joe Lange links this to the Q formulation "infiltration, not invasion," arguing that violent terrorist attacks draw media attention and drive a fear narrative used to strip constitutional rights on national-security grounds, while the stealth phase advances inside government.[2] He cites the Center for Security Policy's claim that [[hillary-clinton|Hillary Clinton]] was an enthusiastic supporter of figures such as Muslim Public Affairs Council president Salam al-Marayati, and points to [[huma-abedin|Huma Abedin]]'s position at the [[state-department|State Department]] and Representative [[michele-bachmann|Michele Bachmann]]'s 2012 warnings as evidence of the process at work.[2]
+
+2. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion

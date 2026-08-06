@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ngos, democracy-promotion, regime-change, bangladesh]
-sources: [raw/badlands-news-brief-b4d.md]
+sources: [raw/badlands-news-brief-b4d.md, raw/infiltration-not-invasion.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md]
 confidence: medium
 ---
 
@@ -19,3 +19,31 @@ The International Republican Institute (IRI) is a United States–based democrac
 ## References
 
 1. Badlands Brief — "Tariff Take Home, Shutdown Stalls, & Unconstitutionally Compelled Speech", URL: https://badlands.substack.com/p/badlands-news-brief-b4d
+
+## Role in the Arab Spring
+
+Badlands contributor Joe Lange describes the IRI as one arm of [[central-intelligence-agency|CIA]] and shadow-government [[color-revolution|color revolution]] operations rather than a genuine democracy promoter.[2] Citing a 2011 New York Times report, he notes that key leaders of the [[arab-spring|Arab Spring]] movements — including Egypt's April 6 Youth Movement, the Bahrain Center for Human Rights, and Yemeni youth leader Entsar Qadhi — received training and financing from the IRI, the [[national-democratic-institute|National Democratic Institute]] and [[freedom-house|Freedom House]].[2] The IRI and NDI are core grantees of the [[national-endowment-for-democracy|National Endowment for Democracy]], an organization conducting activities much of which "the CIA used to fund covertly," as the Washington Post reported at the Endowment's creation in the early 1980s.[2] Their work frequently provoked tensions with Middle Eastern leaders who complained their leadership was being undermined.[2]
+
+## Egyptian investigation
+
+After the Egyptian military removed the [[muslim-brotherhood|Muslim Brotherhood]] government of [[mohamed-morsi|Mohamed Morsi]], Egypt's investigations concluded that American NGOs had been behind the overthrow of its government during the Arab Spring and began arresting those involved, including IRI members.[2] The Guardian reported in January 2012 that Egypt's military government had placed some IRI members on a no-fly list, trapping them in the country and facing investigation and possible trial; some sheltered in the American embassy.[2]
+
+## John McCain's chairmanship
+
+According to the Council on Hemispheric Affairs, Senator [[john-mccain|John McCain]] had been chairman of the IRI since 1993, an organization operating in 60 countries and budgeted by millions of U.S. taxpayer dollars each year; officially politically independent, it is in practice aligned with the Republican Party, and its president Lorne Craner served as an informal foreign policy adviser to McCain.[2] Lange argues McCain used the IRI to fund the Arab Spring in parallel with [[hillary-clinton|Hillary Clinton]]'s use of [[qatar|Qatari]] money channelled through the [[clinton-foundation|Clinton Foundation]], and that McCain travelled to Egypt after the military takeover to rescue trapped IRI personnel while threatening the Egyptian military with a loss of U.S. funding.[2]
+
+2. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion
+
+## Position in the NED structure
+
+Badlands Media describes the International Republican Institute as the NED surrogate handling CIA/NED influence over Republican politics both in the United States and in developing countries.[3] It sits alongside the [[national-democratic-institute|National Democratic Institute]], the [[solidarity-center|Solidarity Center]] and the [[center-for-international-private-enterprise|Center for International Private Enterprise]] beneath the [[national-endowment-for-democracy|National Endowment for Democracy]], the grantmaking head of a network of cut-outs specializing in regime-change operations.[3]
+
+3. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
+
+## Role in nonviolent-action operations
+
+The follow-up article in the same series identifies the IRI as one of the Republican-related institutions to which [[gene-sharp|Gene Sharp]] had strong links, alongside the [[rand-corporation|RAND Corporation]] and the [[national-endowment-for-democracy|National Endowment for Democracy]].[4] The IRI funded the March 2000 workshop on [[nonviolent-action|nonviolent action]] — the culmination of a decade of outreach by Sharp's [[albert-einstein-institution|Albert Einstein Institution]] to "Slovenian democrats" and "Albanian students" — that fed directly into the Serbian movement [[otpor|Otpor!]].[4]
+
+A 2011 New York Times investigation cited by Badlands found that participants in the [[arab-spring|Arab Spring]], including Egypt's April 6 Youth Movement, the Bahrain Center for Human Rights and Yemeni youth leader Entsar Qadhi, received training and financing from the IRI, the [[national-democratic-institute|National Democratic Institute]] and [[freedom-house|Freedom House]].[4] The IRI was likewise among the U.S. organizations sponsored by [[usaid|USAID]] and NED during Ukraine's [[orange-revolution|Orange Revolution]].[4] Contributor [[ryan-delarme|Ryan DeLarme]] summarizes the institute as "the CIA's right-wing NGO," a major node in the NATO/CIA/Pentagon proxy network.[4]
+
+4. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of

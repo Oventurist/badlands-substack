@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [taxation, 1913, federal-agency]
-sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/americas-greatest-threat.md, raw/a-week-to-remember.md, raw/badlands-brief-95a.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md]
+sources: [raw/1913.md, raw/a-startling-contradiction-at-the.md, raw/americas-greatest-threat.md, raw/a-week-to-remember.md, raw/badlands-brief-95a.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-0cd.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-1e2.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-364.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-42c.md, raw/badlands-news-brief-580.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-82f.md, raw/badlands-news-brief-b26.md, raw/four-pillars-of-government-control.md, raw/going-off-the-federal-reservation.md]
 confidence: medium
 ---
 
@@ -126,3 +126,17 @@ IRS criminal supervisory special agent [[gary-shapley|Gary Shapley]], a fourteen
 18. Badlands Brief — "Badlands News Brief: Musical Fed Chairs, Salvadoran Chess, & Cocktails in the Clink", URL: https://badlands.substack.com/p/badlands-news-brief-80e
 19. Badlands Brief — "Badlands News Brief: Missing Planes, Missing Funds & Missing Metrics", URL: https://badlands.substack.com/p/badlands-news-brief-82f
 20. Badlands Brief — "Badlands News Brief: Trump's Tapes, Putin's Plan & Byrne's Bio", URL: https://badlands.substack.com/p/badlands-news-brief-b26
+
+## Role in the "four pillars" framework
+
+Badlands contributor [[erik-carlson|Erik Carlson]] treats the IRS, alongside the [[federal-reserve|Federal Reserve]] and the income tax, as one of the three 1913 creations that mark the capture of the financial system — the second of his [[four-pillars-of-government-control|four pillars of government control]].[21] In his account, income tax and inflation are used to make Americans debt slaves, and the IRS exists to ensure that no one wanders "too far off of the debt plantation."[21] Americans are allowed to keep enough of their paycheck to survive but not to thrive, with debt and taxes serving as the chains that hold them captive; doubters, he suggests, should try not paying their mortgage or property taxes and see how long they are permitted to remain in their homes.[21] He reads [[donald-trump|Donald Trump]]'s "no tax on tips" proposal as a signal that income tax and excessive interest rates would soon end, and links it to the July 2024 attempt on Trump's life.[21]
+
+21. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
+
+## Claim that no law compels income tax (March 2023)
+
+A March 28, 2023 Badlands Media essay on [[trust-law|trust law]] and the [[federal-reserve|Federal Reserve]] asserted that the arrangement between the Federal Reserve and the American people is not absolute, offering as evidence its claim that there is no law binding anyone to pay income tax to the IRS.[22] The author presented this as proof that Americans are less bound to what the piece called the private credit trust of the Federal Reserve system than commonly assumed, and referred readers to an accompanying video for the details rather than setting out the legal argument in the text.[22]
+
+The point served the essay's broader conclusion that new arrangements outside the existing credit trust remain legally available, and that legal literacy is the precondition for pursuing them.[22]
+
+22. Badlands Brief — "Going off the (Federal) Reservation", URL: https://badlands.substack.com/p/going-off-the-federal-reservation

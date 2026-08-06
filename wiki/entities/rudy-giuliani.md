@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [republicans, regime-change, iran, commentary]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-cc9.md, raw/disinformation-is-necessary.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-4ee.md, raw/badlands-news-brief-601.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-b24.md, raw/badlands-news-brief-cc9.md, raw/disinformation-is-necessary.md, raw/has-trumps-whole-life-been-a-sting.md]
 confidence: medium
 ---
 
@@ -74,3 +74,14 @@ Q drop 1273 (April 25, 2018) noted that "Rudy met w/ MUELLER today" and asked wh
 Giuliani was himself under investigation by the [[southern-district-of-new-york|SDNY]] under [[geoffrey-berman|Geoffrey Berman]], publicly framed as an inquiry into Ukraine lobbying violations.[8] Lange argues the real jeopardy lay with [[tony-podesta|Tony Podesta]] and the [[podesta-group|Podesta Group]], and notes that despite reported grand jury activity Giuliani was never charged — evidence, in his reading, that the SDNY inquiry was a legal conduit for introducing the "insurance file" into ongoing criminal investigations.[8] These claims reflect Badlands Media interpretation rather than established fact.
 
 8. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+
+
+## The 2000 New York Senate race and the mafia prosecutions (Carlson analysis, 2024)
+
+In a June 15, 2024 feature, Badlands contributor [[erik-carlson|Erik Carlson]] revisited Giuliani's biography as evidence that [[donald-trump|Donald Trump]]'s public career may have been a long-running covert operation.[9] Carlson noted the standard record: Giuliani, born May 28, 1944, served as United States Associate Attorney General from 1981 to 1983 under [[ronald-reagan|Ronald Reagan]], then took a voluntary demotion to become United States Attorney for the Southern District of New York from 1983 to 1989, and served as the 107th mayor of New York City from 1994 to 2001, winning the office in 1993 after a failed 1989 bid and being re-elected in 1997 on a "tough on crime" platform.[9] He appointed William Bratton police commissioner and led the city's "civic cleanup," and after the September 11 attacks was dubbed "America's mayor" and named Time magazine's Person of the Year for 2001.[9]
+
+Carlson placed particular weight on the 2000 Senate contest against [[hillary-clinton|Hillary Clinton]].[9] Clinton entered the race on July 7, 1999; nine days later [[jfk-jr|JFK Jr.]], his wife and his sister-in-law died in a small plane crash, which Carlson argued cleared her path through the Democratic Party.[9] Giuliani, then the popular Republican front-runner, held a nine-point lead in January 2000 until the police shooting of a Black man two months later shifted the race — a dynamic Carlson compared to the George Floyd episode — and in May he withdrew following a prostate cancer diagnosis, leaving Clinton to win the seat.[9] Carlson said he was open both to the diagnosis being genuine and debilitating and to Giuliani wishing to avoid becoming another entry in the [[clinton-body-count|Clinton Body Count]].[9] He also noted that, like Trump, Giuliani is a former Democrat and had volunteered for RFK's 1968 campaign at a time when Trump was a close friend of JFK Jr.[9]
+
+Carlson highlighted Giuliani's 1985 prosecution of the five New York mafia families under the RICO Act, in which the [[fbi|FBI]] was deeply involved, and set it beside Trump's Atlantic City timeline: construction of his first hotel and casino began in 1982, Giuliani took the SDNY post in 1983, the casino opened in 1984, and the mafia prosecutions followed in 1985.[9] From this he asked whether Trump, like his uncle [[john-g-trump|John G. Trump]] before him, had been working with the FBI — and with Giuliani — to take down the Mob.[9] Giuliani is described as a known Trump ally both then and now.[9]
+
+9. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting

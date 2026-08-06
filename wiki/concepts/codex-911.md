@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands-media, film, gart, deadwood]
-sources: [raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f1a.md]
+sources: [raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-b68.md, raw/badlands-news-brief-d46.md, raw/badlands-news-brief-f1a.md, raw/last-call-for-gart-deadwood-101.md]
 confidence: medium
 ---
 
@@ -32,6 +32,10 @@ CODEX 911, an original film by Badlands contributor Brad Zerbo, was promoted in 
 
 By August 2025 the film was being promoted alongside the [[great-american-restoration-tour|Great American Restoration Tour]] stop in Deadwood, where [[badlands-media|Badlands Media]] offered virtual tickets granting access to the full panels and to the premiere of the film.[6] [[ashe-in-america|Ashe in America]] framed the film around a set of questions — when the treasonous conspiracy to subvert the United States began, what [[operation-northwoods|Operation Northwoods]] was, and what James Clapper, John Brennan and Robert Mueller were doing in 2001 — and congratulated [[brad-zerbo|Brad Zerbo]] on what she called the most impactful film of the century, saying she had seen it open long-closed minds first hand.[6]
 
+## Virtual access to the premiere
+
+In an August 13, 2025 "last call" notice for [[gart-9-deadwood|GART: Deadwood]], [[burning-bright|Burning Bright]] wrote that GART 9 would be "particularly unique" because a virtual ticket also included access to the Saturday premiere of [[brad-zerbo|Brad Zerbo]]'s new feature-length documentary, described there as _Codex 9/11_.[7] Remote purchasers therefore received the premiere alongside streaming access to the Friday, Saturday and Sunday panels and long-term DVR replays.[7]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Inflationary Fact Checks & Golf Force One", URL: https://badlands.substack.com/p/badlands-news-brief-a04
@@ -40,3 +44,4 @@ By August 2025 the film was being promoted alongside the [[great-american-restor
 4. Badlands Brief — "Badlands News Brief: Free Money & Clean Voter Rolls", URL: https://badlands.substack.com/p/badlands-news-brief-b68
 5. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
 6. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a
+7. Badlands Brief — "Last Call for GART: Deadwood", URL: https://badlands.substack.com/p/last-call-for-gart-deadwood-101

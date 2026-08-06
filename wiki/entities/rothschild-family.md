@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, central-banking, debt-system, cabal]
-sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md, raw/cracks-in-the-curtain.md]
+sources: [raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/badlands-brief-fbb.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-547.md, raw/cracks-in-the-curtain.md, raw/master-and-commander.md]
 confidence: low
 ---
 
@@ -36,9 +36,18 @@ In the February 2023 essay "Cracks in the Curtain," [[justin-deschamps|Justin De
 
 The argument is that the primary purpose of [[money|money]] — helping an advanced society measure work and resource contribution — has been so thoroughly distorted over the centuries that some people need not work much at all to thrive, most conspicuously in abstract financial industries where almost nothing is produced yet the proportion of money paid out is astronomical.[5] While conceding that such families do contribute something, Deschamps holds that the share of benefits they receive from society as a whole is equally astronomical, and calls this a huge red flag for those seeking to restore freedom and prosperity.[5] He concludes that the people with the most influence over society have become parasites when they should instead be the most altruistic, and identifies charities and well-crafted media campaigns as the guise of philanthropy through which such elites advance their agenda.[5]
 
+## As the architects of the global debt system
+
+In "Master and Commander" (January 25, 2023), [[joe-lange|Joe Lange]] wrote that the Rothschilds have completely controlled the entire global financial system for many generations and created the [[federal-reserve|Federal Reserve]] to be the most powerful central bank on the planet in order to control every government in every country.[6] By controlling the money supply of every nation, he argued, they made the world's population debt slaves, since governments borrowed from Rothschild-controlled central banks to finance everything up to and including wars — their most profitable venture.[6]
+
+Lange traced the pattern to the Napoleonic Wars, alleging the family manipulated English pound sterling bonds through a panic sell and buyback that delivered control of the Bank of England while burdening the English Empire with massive debt, and claimed they financed every side of all wars including both sides of the First and Second World Wars.[6] After WWII, with the United States holding the largest gold reserves, the [[bretton-woods-agreement|Bretton Woods Agreement]] pegged the dollar to gold and made it the world's reserve currency, which in his telling gave the family control of everything.[6] He further asserted that the Rothschilds were behind the [[nixon-shock|1971 US abandonment of the gold standard]], at which moment they gained full control of currency printing and debt issuance.[6]
+
+The essay's central claim is that this control has ended: with [[donald-trump|Donald Trump]] appointing six of seven Fed governors and rolling the Fed into the [[us-department-of-the-treasury|Treasury]] via the [[exchange-stabilization-fund|Exchange Stabilization Fund]] in March 2020, the family can no longer manipulate the dollar and can only react to Fed policy.[6] Lange described the [[global-debt-system|Rothschild central bank debt system]] as now competing with the Federal Reserve rather than controlling it, and hanging on the edge of a cliff as rising rates crush foreign central bank asset values and expose $65 trillion of hidden dollar debt in [[foreign-exchange-swaps|foreign exchange swaps]].[6] He concluded that the "Rothschild puppet masters" had used the dollar and the Fed as a weapon against the world since the end of WWII, and that this had come to an end.[6]
+
 ## References
 1. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 2. Badlands Brief — "Unity, Patricide, & Political Violence", URL: https://badlands.substack.com/p/badlands-brief-fbb
 3. Badlands News Brief — "Trump Responds, a Banker Dies & a Ukrainian Tells the Truth", URL: https://badlands.substack.com/p/badlands-news-brief-119
 4. Badlands Brief — "Badlands News Brief: State of Confusion, Kamala Mayhem & Boiled Eggs", URL: https://badlands.substack.com/p/badlands-news-brief-547
 5. Badlands Brief — "Cracks in the Curtain", URL: https://badlands.substack.com/p/cracks-in-the-curtain
+6. Badlands Brief — "Master and Commander", URL: https://badlands.substack.com/p/master-and-commander

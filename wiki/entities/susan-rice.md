@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [obama-administration, biden-administration, national-security, domestic-policy-council]
-sources: [raw/badlands-news-brief-26c.md]
+sources: [raw/badlands-news-brief-26c.md, raw/infiltration-not-invasion.md]
 confidence: low
 ---
 
@@ -22,3 +22,9 @@ In the [[badlands-news-brief|Badlands News Brief]], [[ashe-in-america|Ashe in Am
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Russia Collusion is Back ... Unlike Biden's Memories", URL: https://badlands.substack.com/p/badlands-news-brief-26c
+
+## Benghazi video narrative
+
+As President [[barack-obama|Barack Obama]]'s ambassador to the United Nations and national security adviser, Rice made the rounds of all the Sunday news shows following the September 11, 2012 [[benghazi-attack|attack in Benghazi]] to push the claim that the assault was a protest that got out of hand, triggered by an [[innocence-of-muslims|online video]] besmirching the Muslim religion.[2] Badlands contributor Joe Lange argues she was clearly in the loop on events in Benghazi and questions whether she knew she was promoting a complete falsehood in the media.[2] CIA security contractor [[kris-paronto|Kris "Tanto" Paronto]], recovering in Germany, said he first heard the film blamed when he saw Rice cite it as the cause, and thought immediately that the administration was spinning the truth.[2] Lange notes that Obama dispatched his national security adviser to repeat the same story [[hillary-clinton|Hillary Clinton]] had originated, treating this as evidence the narrative was coordinated in advance rather than improvised.[2]
+
+2. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion

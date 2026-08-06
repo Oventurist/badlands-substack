@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [pharmaceuticals, biotechnology, agriculture, litigation, lobbying, maha]
-sources: [raw/badlands-news-brief-7bb.md]
+sources: [raw/badlands-news-brief-7bb.md, raw/how-to-rent-a-riot-the-plausible.md]
 confidence: medium
 ---
 
@@ -23,3 +23,9 @@ Reporting in March 2025 described Bayer ramping up its political spending at the
 ## References
 
 1. Badlands Brief — "Badlands News Brief: 'Terrifying' Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
+
+## Roundup litigation
+
+Following the 2013 [[march-against-monsanto|March Against Monsanto]] protests and the subsequent reclassification of glyphosate as a probable carcinogen, Badlands Media reports that by August 2019 Bayer/[[monsanto|Monsanto]] was seeking to settle 18,000 US cancer lawsuits for $8 billion, and that by June 2020 the company had agreed to pay that sum to settle the cancer claims.[2]
+
+2. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible

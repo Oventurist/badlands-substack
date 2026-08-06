@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, blackrock, davos, artificial-intelligence]
-sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md]
+sources: [raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-3a5.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-f4c.md, raw/blackrock-inc-and-the-vanguard-group.md, raw/get-woke-go-broke.md]
 confidence: medium
 ---
 
@@ -47,6 +47,12 @@ A January 2023 Badlands Media feature by [[ryan-delarme|Ryan DeLarme]] described
 
 The profile cites Fink's op-ed in _The New York Times_ arguing that "rich countries must put more taxpayer money to work in driving the net-zero transition abroad" and that "[a]chieving the net-zero transition" by 2050 "will require unprecedented levels of investment in technology and infrastructure."[6] DeLarme treats this as evidence that [[blackrock|BlackRock]] under Fink has no reservations about using its shareholder power to promote left-wing political priorities, pointing to the firm's opposition to the re-election of 800 company directors in the third quarter of 2021 and its board intervention at [[exxonmobil|Exxon]], after which the company dropped several drilling projects.[6]
 
+## Carlson's "Get Woke, Go Broke" assessment (2023)
+
+[[erik-carlson|Erik Carlson]] called Fink "the face of [[esg|ESG]]" and "a real enigma," noting that Fink founded [[blackrock|BlackRock]] in the late 1980s and built it into the world's largest asset manager, surpassing long-established elite families.[7] Carlson wrote that there was no plausible way Fink was not a member of the elite club, or that BlackRock's assets were not ultimately cabal-owned.[7]
+
+The confusing element, in Carlson's telling, was that when [[donald-trump|Donald Trump]] was president and reportedly merged the [[federal-reserve|Federal Reserve]] into the [[us-department-of-the-treasury|US Treasury]], Trump appointed Fink and BlackRock to administer the merger.[7] Carlson posed the resulting questions without answering them: whether Fink had become a "grey hat," whether he was a black hat now working with white hats, and whether he was being compelled to act against his own and the cabal's interests.[7] As of writing, Carlson judged that Fink still appeared to be pushing the ESG agenda, while noting the irony that Fink was simultaneously taking heat for insufficient wokeness — since, in Carlson's view, the woke standard can never be satisfied and is continually ratcheted upward.[7]
+
 ## References
 
 1. Badlands Brief — "Prosecutions for Democracy & Double-Hatted Peace Panelists", URL: https://badlands.substack.com/p/badlands-brief-a20
@@ -55,3 +61,4 @@ The profile cites Fink's op-ed in _The New York Times_ arguing that "rich countr
 4. Badlands Brief — "Badlands News Brief: The Truth is Out There; But Today, Trust No One", URL: https://badlands.substack.com/p/badlands-news-brief-a72
 5. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
 6. Badlands Brief — "BlackRock, Inc. And the Vanguard Group", URL: https://badlands.substack.com/p/blackrock-inc-and-the-vanguard-group
+7. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke

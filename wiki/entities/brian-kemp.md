@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, 2020-election, election-integrity, governor]
-sources: [raw/badlands-brief-990.md]
+sources: [raw/badlands-brief-990.md, raw/grand-jury-testimony-from-senator.md]
 confidence: medium
 ---
 
@@ -22,6 +22,13 @@ Under oath before the Fulton County special grand jury on September 6, 2022, for
 
 Attorney [[sidney-powell|Sidney Powell]] publicly connected Kemp's posture to the 2020 death of [[harrison-deal|Harrison Deal]], a young aide connected to Kemp, Senator Kelly Loeffler, and Perdue, noting that all three had called for a signature audit shortly before the fatal highway crash, and urging observers to "run the timeline on Kemp's change of heart."[1]
 
+## Appointments of officials involved in election matters
+
+Perdue's unsealed testimony stated that then-[[georgia-bureau-of-investigation|GBI]] Director [[vic-reynolds|Vic Reynolds]] declined to open an investigation into [[ballot-harvesting|ballot harvesting]] evidence he had called compelling, telling Perdue he was "a team player" and that "if the governor doesn't want to investigate, we're not going to investigate."[2] Kemp appointed Reynolds a Superior Court judge of Cobb County in August 2022, one month before that testimony was given.[2]
+
+Badlands Media reported that Reynolds was the third Georgia official connected to 2020 election inquiries to receive a Kemp judicial appointment. Georgia resident [[bob-coovert|Bob Coovert]] said he took evidence of 28 alleged instances of fraud to Kemp's office and worked with executive deputy counsel Evan Meyers, who referred it to then-Inspector General [[scott-mcafee|Scott McAfee]]; Coovert said McAfee and Appalachian Circuit District Attorney [[alison-sosebee|Alison Sosebee]] both cut off contact after receiving his evidence, and both were later made Superior Court judges by Kemp.[2]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
+2. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator

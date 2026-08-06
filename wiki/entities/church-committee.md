@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [congress, cia, oversight, mockingbird, 1975]
-sources: [raw/america-has-a-cia-run-economy.md, raw/clowns-in-america.md, raw/four-pillars-of-government-control.md]
+sources: [raw/america-has-a-cia-run-economy.md, raw/clowns-in-america.md, raw/four-pillars-of-government-control.md, raw/how-to-rent-a-riot-the-plausible.md]
 confidence: medium
 ---
 
@@ -37,3 +37,9 @@ What the sessions exposed included [[mk-ultra|MK ULTRA]], a CIA-run mind control
 1. Badlands Brief — "America Has a CIA-Run Economy", URL: https://badlands.substack.com/p/america-has-a-cia-run-economy
 2. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
 3. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
+
+## Role in the restructuring of covert influence
+
+Badlands Media pairs the Church Committee with the [[pike-committee|Pike Committee]] as the two 1960s-70s investigations that exposed the intelligence community's "dirty laundry" to the public for the first time — assassination plots, human experimentation, domestic surveillance, mail interception, propaganda dissemination, media manipulation and inhumane covert operations.[4] The article argues that because the exposure made the [[central-intelligence-agency|CIA]] radioactive in the eyes of foreign governments while its functions were still considered essential to Western hegemony, the response was the construction of the [[plausible-deniability-network|plausible deniability network]] of NGO cut-outs headed by the [[national-endowment-for-democracy|National Endowment for Democracy]].[4]
+
+4. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible

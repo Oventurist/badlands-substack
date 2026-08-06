@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, esg, black-lives-matter, media]
-sources: [raw/badlands-news-brief-0f0.md]
+sources: [raw/badlands-news-brief-0f0.md, raw/get-woke-go-broke.md]
 confidence: medium
 ---
 
@@ -22,6 +22,11 @@ An archived version of the page had read that Sprite "announced a $500,000 contr
 
 [[ashe-in-america|Ashe in America]] argued that the deletion did not reflect any corporate reckoning with the substance of the BLM movement — noting that [[tucker-carlson|Tucker Carlson]]'s revelations about the [[george-floyd|George Floyd]] narrative were not what prompted the change.[1] Rather, in this reading, BLM's refusal to side with Israel after the October 7 Hamas attack crossed a line for the company, and "the communist corporations aren't waking up. They're evolving with the narrative."[1] The commentary framed the 2020 corporate donation wave as part of an American [[color-revolution|color revolution]], and urged readers to "starve global business" of their dollars by shopping local and American-made.[1]
 
+## "Less white" training and the post-BLM corporate turn
+
+[[erik-carlson|Erik Carlson]] cited Coca-Cola in his April 2023 essay "Get Woke, Go Broke" as an emblem of corporate behavior following the 2020 [[black-lives-matter|BLM]] riots, recalling that the company ran employee training aimed at helping staff be "less white."[2] Carlson argued that in a country roughly 85% white, the message conveyed to the overwhelming majority of Coca-Cola's own customer base was that those customers were the problem with American society.[2] He treated the episode as part of a broader pattern in which corporations, under [[esg|ESG]] pressure, alienated their core markets to satisfy a small constituency outside them — behavior he said made no logical or business sense.[2]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Escalation ... Acceleration ... and Biden", URL: https://badlands.substack.com/p/badlands-news-brief-0f0
+2. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [controlled-opposition, conservatism, maga, media, information-war]
-sources: [raw/all-assets-deployed.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6d6.md, raw/death-blossom.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-3d2.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-6d6.md, raw/death-blossom.md, raw/im-not-a-biologist.md]
 confidence: medium
 ---
 
@@ -61,3 +61,11 @@ By August 2023, with [[ron-desantis|Ron DeSantis]] tied at 10 percent in an [[em
 [[burning-bright|Burning Bright]]'s November 23, 2022 essay "Death Blossom" treated Con Inc. as one of the primary targets of [[donald-trump|Donald Trump]]'s November 2022 announcement sequence.[6] In appearing weak while actually being stronger than ever, Trump induced "all of the wolves in sheep's clothing in Con Inc." — together with the controlled opposition operating inside the Alternative Media — to reveal themselves by backing the first America First figure other than Trump they believed they could control.[6] Burning Bright described the result as a veritable coup that smoked out those in the movement who were "little more than charlatans at best and malicious Judas goats at worst."[6]
 
 6. Badlands Brief — "Death Blossom", URL: https://badlands.substack.com/p/death-blossom
+
+## "Conservative, Incorporated" and The Daily Wire (June 2023)
+
+Badlands contributor [[ashe-in-america|Ashe in America]] used the fuller phrase "Conservative, Incorporated" in her June 2023 review of [[what-is-a-woman|"What Is a Woman?"]], joking that it "is a lot like Kids, Incorporated except ... no, it's exactly like Kids, Incorporated. It's a bunch of disillusioned child actors putting on a show."[7] She applied the label to [[daily-wire|The Daily Wire]], writing that the outlet "waters down their reporting to protect their business interests" and that on COVID, elections and primary politics it has consistently reported only what safely keeps it uncancelable - which she said is fine, so long as no one calls it journalism or expects sympathy over manufactured cancellation controversies.[7]
+
+Her structural criticism was that the outlet stops short of indicting the global order: its documentary on gender ideology explored neither the international network propagating the ideology nor the financial establishment recruiting patients for life, omitting for instance the United Nations' [[sustainable-development-goals|Sustainable Development Goal #5]].[7] She described this reticence as a recurring theme and "a classic earmark of their reporting."[7]
+
+7. Badlands Brief - "I'm Not a Biologist!", URL: https://badlands.substack.com/p/im-not-a-biologist

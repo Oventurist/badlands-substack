@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [advertising, streaming, rumble, advertiser-boycott]
-sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-7c6.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b5a.md]
+sources: [raw/a-cancer-on-modern-journalism.md, raw/badlands-brief-7c6.md, raw/badlands-news-brief-951.md, raw/badlands-news-brief-b5a.md, raw/john-bobby-and-marilyn.md]
 confidence: low
 ---
 
@@ -30,8 +30,13 @@ In February 2024 Netflix's docudrama "The Making of a God" drew a formal objecti
 
 [[dimitris-natsios|Dimitris Natsios]] of the [[niki-party|Niki]] party called the series "deplorable, unacceptable and unhistorical," and asked whether Greece would act against Netflix; Mendoni replied that such a move would be unconstitutional under protections for artistic freedom dating to the early 19th century.[4] Badlands contributor [[simon-esler|Simon Esler]] cited the series as an operation within a [[neo-marxism|Neo-Marxist]] strategic objective to [[queering-history|queer history]].[4]
 
+## The Mystery of Marilyn Monroe
+
+In 2022 Netflix released The Mystery of Marilyn Monroe: The Unheard Tapes, which presented [[john-f-kennedy|John F. Kennedy]] and [[robert-f-kennedy|Robert F. Kennedy]] as the purported organizers of the actress's murder.[5] [[matthew-ehret|Matthew Ehret]] wrote that films of this kind have helped cure millions of Americans of their romantic memories of the Kennedy brothers, and that the documentary drew on some 650 interviews collected by [[anthony-summers|Anthony Summers]] which professor Sarah Churchwell described as often repeating second- or third-hand accounts from sources who were not dispassionate.[5] [[mike-rothmiller|Mike Rothmiller]] played a key role in Netflix films on [[marilyn-monroe|Marilyn Monroe]] and other historical topics.[5] Ehret cautioned readers not to be confused about the nature of Netflix or its founder and president, a grand-nephew of [[edward-bernays|Edward Bernays]].[5]
+
 ## References
 1. Badlands Brief — "A Cancer on Modern Journalism", URL: https://badlands.substack.com/p/a-cancer-on-modern-journalism
 2. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
 3. Badlands Brief — "Badlands News Brief: War Pork & Pie Crust Pardons", URL: https://badlands.substack.com/p/badlands-news-brief-951
 4. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
+5. Badlands Brief — "John, Bobby ... and Marilyn", URL: https://badlands.substack.com/p/john-bobby-and-marilyn

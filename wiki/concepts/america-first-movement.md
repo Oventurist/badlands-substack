@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [maga, america-first, populism, sovereignty, badlands-media]
-sources: [raw/all-assets-deployed.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-0db.md]
+sources: [raw/all-assets-deployed.md, raw/badlands-brief-c7b.md, raw/badlands-news-brief-0db.md, raw/introducing-badlandsmediatv.md]
 confidence: medium
 ---
 
@@ -40,8 +40,13 @@ The October 2023 election of [[mike-johnson|Mike Johnson]] as Speaker of the Hou
 
 [[burning-bright|Burning Bright]] endorsed that reading, writing that regardless of what Johnson did or did not accomplish as Speaker, his ascension served as "a key indicator of where the true power in this nation lies" and a hint as to the direction of the America First, MAGA and Trump-inspired movement.[3]
 
+## America First commerce
+
+The movement's economic dimension is expressed in efforts to build parallel commercial networks.[4] In March 2023 [[badlands-media|Badlands Media]], describing itself as "an America First media company," launched [[badlandsmedia-tv|BadlandsMedia.tv]] and the attached [[badlands-marketplace|Badlands Marketplace]], a directory where "Patriot-owned businesses can proudly hang their shingle and connect with like-minded customers."[4] The accompanying appeal urged readers to stop financially supporting companies that do not share their values so that "our America First economy" might grow.[4]
+
 ## References
 
 1. Badlands Brief — "All Assets Deployed", URL: https://badlands.substack.com/p/all-assets-deployed
 2. Badlands Brief — "TACO Tuesday Returns as the War of Stories Gets Weird", URL: https://badlands.substack.com/p/badlands-brief-c7b
 3. Badlands Brief — "Badlands News Brief: Draft Dodgers, Peacemakers & Warmongers Galore!", URL: https://badlands.substack.com/p/badlands-news-brief-0db
+4. Badlands Brief — "Introducing BadlandsMedia.tv!", URL: https://badlands.substack.com/p/introducing-badlandsmediatv

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [public-health, food-policy, maha, chronic-disease]
-sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b7b.md]
+sources: [raw/badlands-news-brief-03a.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b7b.md, raw/has-everyone-completely-lost-their.md]
 confidence: medium
 ---
 
@@ -60,3 +60,14 @@ Badlands writer Ashe in America noted the irony of a movement built on rejecting
 4. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 5. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 6. Badlands Brief — "Badlands News Brief: Victory Over Nazis & The First American Pope", URL: https://badlands.substack.com/p/badlands-news-brief-b7b
+7. Badlands Brief — "Has Everyone Completely Lost Their Minds?", URL: https://badlands.substack.com/p/has-everyone-completely-lost-their
+
+## Sequencing strategy (April 2025)
+
+Badlands contributor [[erik-carlson|Erik Carlson]] defended MAHA's pacing against critics on the right who wanted [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] to eliminate vaccines outright on day one and to remove fluoride from drinking water immediately, as Kennedy had promised.[7] Carlson argued that abrupt action would trigger mass panic, with mainstream media persuading half the country that all their medicines were about to be confiscated.[7]
+
+Instead, he wrote, MAHA was targeting [[big-pharma|Big Pharma]] advertising on broadcast television, which he said supplies 70–75% of broadcast ad revenue.[7] Because pharmaceutical companies' actual customers are physicians rather than viewers, Carlson argued the ads exist to buy editorial silence; removing them would simultaneously free honest journalists to criticize the medical industry and defund what he called fake-news propagandists — the same logic by which [[donald-trump|Donald Trump]] and [[elon-musk|Elon Musk]] began by eliminating [[usaid|USAID]].[7] The next steps, he said, would be stripping Big Pharma's legal and narrative protection against vaccine-injury liability, after which "you won't need to ban vaccines because no one will want to take them."[7]
+
+## Food policy and SNAP
+
+Carlson highlighted MAHA's push to bar the use of [[snap|SNAP]] food stamps for sugary sodas, arguing that no one could honestly justify taxpayer purchases of Coke or Pepsi and predicting the restriction would extend to junk food generally.[7] He supported prioritizing food over vaccines by citing figures that 74% of Americans are overweight and 42% obese, that nine in ten people with Type-2 diabetes are overweight, and that 80% of Americans with heart disease are overweight, with similar patterns for strokes and cancer.[7] While stating his own belief that infant vaccines may contribute to autism at a rate of about 1 in 32, he concluded that cleaning up the food industry first was the correct priority and that critics' timelines need not match MAHA's.[7] He additionally alleged that commentators [[ian-carroll|Ian Carroll]] and [[candace-owens|Candace Owens]] had begun attacking Kennedy, and suggested Owens's focus on Israel diverted attention from the [[city-of-london|City of London]], which he said some believe controls the American pharmaceutical industry.[7]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [doj, attorney-general, huber, investigations, trump]
-sources: [raw/america-for-sale-part-2.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md]
+sources: [raw/america-for-sale-part-2.md, raw/do-you-believe-in-coincidences.md, raw/disinformation-is-necessary.md, raw/irregular-warfare.md]
 confidence: medium
 ---
 
@@ -48,7 +48,15 @@ Sessions had secretly engaged [[john-huber|John Huber]] to work with Inspector G
 
 Sessions also placed [[geoffrey-berman|Geoffrey Berman]] into the temporary role of United States Attorney for the [[southern-district-of-new-york|Southern District of New York]] after [[donald-trump|Trump]] fired Preet Bharara, an appointment Lange treats as essential to the New York investigations that followed.[3] Q drop 1370 asked "WHO HAS THE ULTIMATE AUTHORITY? DOES IT FALL UNDER THE RUSSIA RECUSAL?" — a question Lange answers with Sessions's name.[3] These claims reflect Badlands Media interpretation rather than established fact.
 
+## RICO investigations and the recusal
+
+In "[[irregular-warfare|Irregular Warfare]]," Joe Lange presents Sessions' recusal from the Russia matter, announced March 5, 2017, as a strategic move rather than a capitulation.[4] While Democrats pursued impeachment, Sessions is said to have launched a massive RICO investigation in 2017, tasking prosecutor [[john-huber|John Huber]] and Inspector General [[michael-horowitz|Michael Horowitz]] with examining what Lange calls the biggest cover-up in U.S. history, assisted from the outset by military intelligence figures including [[michael-flynn|General Michael Flynn]] and [[mike-rogers|Admiral Mike Rogers]].[4] The five-year RICO limitations period is described as restarting with each connected cover-up offense, which Lange uses to explain why the inquiry has run for eight years and why documents such as the 37 withheld [[uranium-one-deal|Uranium One]] pages remain sealed.[4]
+
+[[qanon|Q]] drop 1318 (May 8, 2018) asked why Sessions and [[christopher-wray|Christopher Wray]] would be "cleaning their respective houses" if they were themselves deep state, noting that any dismissal of DOJ officials required Sessions' approval and any FBI dismissal required both his and Wray's.[4] Lange also notes that Democrats fought hard against Sessions' confirmation while Rosenstein's sailed through, and that Sessions himself recommended Rosenstein — a choice Q framed with the line "Everyone has an opinion. Few have the facts. Few know the plan."[4] At a May 8, 2017 meeting Trump informed Sessions and Rosenstein of his intent to fire [[james-comey|James Comey]]; Lange treats the absence of any Democratic accusation that Sessions violated his recusal as proof that Russian collusion was never discussed.[4]
+
+
 ## References
 1. Badlands Brief — "America for Sale - Part 2", URL: https://badlands.substack.com/p/america-for-sale-part-2
 2. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
 3. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+4. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare

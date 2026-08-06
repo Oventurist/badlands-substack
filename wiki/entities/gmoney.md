@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, host, bitcoin, central-banking]
-sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md]
+sources: [raw/badlands-media-show-schedule-c28.md, raw/badlands-media-show-schedule-e18.md, raw/badlands-news-brief-1a0.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-a64.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-d1d.md, raw/kekistani-code-talkers.md]
 confidence: medium
 ---
 
@@ -43,6 +43,11 @@ Responding to New Jersey Governor-elect [[mikie-sherrill|Mikie Sherrill]]'s sugg
 
 Responding to reporting that [[edward-coristine|Edward "Big Balls" Coristine]] was no longer working for the federal government, GMONEY wrote that "Big Balls resigned from the federal govt yesterday, per a White House official," adding, "Gonna miss that guy."[8]
 
+## Covfefe research
+
+GMONEY is credited as co-author, with Patriots in Progress, of a body of published background research underpinning the [[covfefe|Covfefe]] thesis, including the COVFEFE Dig and the COVFEFE 2.0 Dig.[9] In the Covfefe dig, GMONEY uses the [[a1z26-cipher|A1Z26 cipher]] as the decode methodology to unlock what the authors call the deep meaning of Covfefe, producing the number sequence 3, 15, 22, 6, 5, 6, 5, which is then linked to 3/15 (the Ides of March), 11/11 as the 315th day of the year, the fall of Rome, and the present situation.[9] The pair present their case across those digs, roughly seventy-five episodes of [[rugpull-radio|Rugpull Radio]], and other posts across their channels.[9]
+
+
 ## References
 1. Badlands Media — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-c28
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
@@ -52,3 +57,4 @@ Responding to reporting that [[edward-coristine|Edward "Big Balls" Coristine]] w
 6. Badlands Brief — "Badlands News Brief: Black Hat Nightmares & A Camelback Caravan of Confirmation", URL: https://badlands.substack.com/p/badlands-news-brief-a64
 7. Badlands News Brief — "Phantom DOGE, Canadian Shade, & A Commie in the Oval", URL: https://badlands.substack.com/p/badlands-news-brief-c4f
 8. Badlands News Brief — "N-Words, F-Bombs, & Big Balls' Future", URL: https://badlands.substack.com/p/badlands-news-brief-d1d
+9. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers

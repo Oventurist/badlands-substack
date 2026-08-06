@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [globalism, great-reset, institutions]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/dark-equation.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-time-to-strike.md, raw/ai-can-help-us-expose-the-nwo.md, raw/artificial-intelligence.md, raw/badlands-brief-144.md, raw/badlands-brief-40d.md, raw/badlands-brief-a20.md, raw/badlands-brief-f02.md, raw/badlands-news-brief-2e4.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-363.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-6db.md, raw/badlands-news-brief-71f.md, raw/badlands-news-brief-745.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-89f.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-8f9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a61.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/dark-equation.md, raw/is-the-censorship-war-over.md]
 confidence: low
 ---
 
@@ -203,3 +203,11 @@ The Badlands Media article "Dark Equation" describes a pipeline in which machina
 [[ryan-delarme|Ryan DeLarme]] wrote that the "globalist Davos crowd" has been repeatedly open about what it would like to impose on civilization: AI-powered biometric digital identities, digital currencies, and the transhuman integration of the Internet-of-Things into human bodies.[29] He identified [[sam-altman|Sam Altman]]'s [[worldcoin|Worldcoin]] as a continuation of a push by the United Nations, the World Economic Forum and a growing number of governments toward a global biometric identification system attached to a [[central-bank-digital-currency|central bank digital currency]].[29]
 
 29. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+
+## Leadership transition of April 2025
+
+Badlands Media reported that founder [[klaus-schwab|Klaus Schwab]] stepped down as executive chairman of the World Economic Forum in late April 2025, and that he was set to be replaced by [[peter-brabeck-letmathe|Peter Brabeck-Letmathe]], the former [[nestle|Nestlé]] chief executive.[30] The article characterized the Forum as an institution Schwab was recruited to create by a CIA-funded Harvard program, and as a venue where heads of industry meet to plan how to steer global capitalism, typically to their own benefit.[30]
+
+The piece placed the WEF, alongside the [[council-on-foreign-relations|Council on Foreign Relations]], among the exclusive think tanks populated by the international billionaires and private and political operatives it labels "globalists" — a faction it argues has lost favour with common people in many nations and whose durability rests on near-total dominance in the information war.[30] Brabeck-Letmathe's stated view that water should be treated as a commodity with a market value rather than a human right was offered as an illustration of the ethics prevailing in that milieu.[30]
+
+30. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

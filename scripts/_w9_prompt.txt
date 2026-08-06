@@ -42,4 +42,4 @@ INGEST PROCEDURE (run every tick):
 QUALITY BAR: real Wikipedia cadence, full coverage of the source, inline [n] citations on every substantive claim, ## References section at the bottom of every page, inline links only to existing/created pages, kebab-case filenames only, always merge into existing pages under the page lock and append sources. Canonical sources: [raw/...] inline form ONLY.
 
 
-CURRENT ARTICLE TO INGEST: C:\Users\14053\hermes-projects\badlands-substack\raw\gender-ideology-has-become-law.md
+CURRENT ARTICLE TO INGEST: C:\Users\14053\hermes-projects\badlands-substack\raw\never-let-a-crisis-go-to-waste.md

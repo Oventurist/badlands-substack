@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, jefferson, federalism, british-influence, federal-reserve]
-sources: [raw/do-we-have-a-contract-with-the-federal.md]
+sources: [raw/do-we-have-a-contract-with-the-federal.md, raw/is-the-federal-reserve-a-british.md]
 confidence: low
 ---
 
@@ -28,3 +28,15 @@ Among the many types of law the article lists as diverging, recombining and enca
 
 ## References
 1. Badlands Brief — "Do We Have a Contract With the Federal Reserve?", URL: https://badlands.substack.com/p/do-we-have-a-contract-with-the-federal
+
+## Jefferson's 1804 formulation
+
+A February 16, 2023 Badlands Media essay traced the phrase to [[thomas-jefferson|Jefferson]]'s letter to Gideon Granger of April 16, 1804, in which he wrote that the federalists, knowing they were gone forever, would seek to return to power under some other form by dividing the republicans, joining the minority and bartering for "the cloak of their name," with the result that "a bastard system of federo-republicanism will rise on the ruins of the true principles of the revolution."[2] The author glossed this as the [[federalist-party|federalists]], who wanted to reinstate the monarchy, wearing the republican name as a "skin suit" under which to introduce legal principles making recapture possible.[2]
+
+## Legal and psychological components
+
+The essay argued that the Federal Reserve could only have been implemented through a combination of legal and mass-psychological trickery: the printing presses were weaponized to create division and confusion, while a steady implementation of legal structures aimed at undermining state and individual sovereignty prepared the way for capture of the American credit system by a private entity.[2] Evidence offered for the legal component included the training of four of the first five [[supreme-court-of-the-united-states|Supreme Court]] justices at [[middle-temple|the Middle Temple]], the origin of [[equity-jurisprudence|equity jurisprudence]] in the English [[inns-of-court|inns of court]], and the survival of eighteenth-century British equity law in the [[delaware-court-of-chancery|Delaware Court of Chancery]].[2]
+
+Drawing a modern parallel, the author asked how often rights are suppressed or taken by those claiming to be patriots and conservatives, citing the [[patriot-act|PATRIOT Act]] passed under [[george-w-bush|George W. Bush]] and the National Defense Authorization Act of 2012 signed by [[barack-obama|Barack Obama]].[2] The essay closed by promising a further installment on the essential features of the bastard system and how a privately owned corporation became [[federal-reserve|America's central bank]].[2]
+
+2. Badlands Brief — "Is the Federal Reserve a British Institution?", URL: https://badlands.substack.com/p/is-the-federal-reserve-a-british

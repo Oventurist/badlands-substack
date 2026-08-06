@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, wisconsin, judiciary, elon-musk, 2025]
-sources: [raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-dc1.md]
+sources: [raw/badlands-news-brief-a0b.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-dc1.md, raw/inside-the-modern-elections-casino.md]
 confidence: high
 ---
 
@@ -39,3 +39,9 @@ Badlands framed the contest alongside the [[florida-6th-congressional-district-s
 
 NBC News projected on Tuesday, April 1, 2025 that liberal candidate [[susan-crawford|Susan Crawford]], a Dane County circuit court judge, had defeated [[brad-schimel|Brad Schimel]], a Waukesha County circuit court judge and former Republican state attorney general, preserving the liberal majority on Wisconsin's highest court.[3] The election filled the seat of 73-year-old Justice Ann Walsh Bradley, who had announced her retirement nearly a year earlier, and carries a 10-year term.[3] The race was cast in part as a referendum on billionaire [[elon-musk|Elon Musk]], who poured millions into supporting Schimel.[3] Though officially nonpartisan, the candidates diverged clearly on labor rights, abortion access and President [[donald-trump|Donald Trump]]'s January 6 pardons, with Barack Obama and other prominent Democrats backing Crawford and Trump and most Republicans endorsing Schimel.[3] Badlands writers [[jon-herold|Jon Herold]] and [[chris-paul|Chris Paul]] rejected the result as meaningful, with Herold noting the paradox of losing the court seat while the voter ID ballot measure passed and asking why patriots fund infrastructure that perpetuates what he called a fraudulent system.[3]
 3. Badlands Brief — "Badlands News Brief: Cognitive Cyphers & African Amnesty", URL: https://badlands.substack.com/p/badlands-news-brief-dc1
+
+## Margin, records and the "casino" reading
+
+[[seth-keshel|Seth Keshel]] had forecast a [[susan-crawford|Crawford]] win by at least five points, factoring in what he called casino-like weighted advantages — [[automatic-voter-registration|Automatic Voter Registration]], universal or excessive [[mail-in-voting|mail-in voting]], and [[ballot-harvesting|ballot harvesting]].[4] Crawford ultimately won by ten points, surpassing [[janet-protasiewicz|Janet Protasiewicz]]'s prior record for a Wisconsin Supreme Court seat decided in a spring election by nearly 300,000 votes, while [[brad-schimel|Brad Schimel]] set a new record on the losing side.[4] Keshel noted that around 600,000 votes had been sufficient to win comparable Wisconsin races in 2018 and 2019, in a state not growing meaningfully in population, and called Democratic mastery of off-year mail-ballot turnout "an understatement."[4] A related post by Keshel on X drew more than 1.4 million views; [[the-clay-travis-and-buck-sexton-show|The Clay Travis & Buck Sexton Show]] responded that Crawford would have won regardless, citing the absence of smoking-gun precedents for Milwaukee County behavior in close races and the lack of sudden overnight reversals in the count.[4]
+
+4. Badlands Brief — "Inside the Modern Elections Casino", URL: https://badlands.substack.com/p/inside-the-modern-elections-casino

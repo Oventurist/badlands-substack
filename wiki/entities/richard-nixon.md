@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, gold-standard, petrodollar, 1970s]
-sources: [raw/a-week-to-remember.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/dope-inc.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-brief-b62.md, raw/badlands-news-brief-099.md, raw/dope-inc.md, raw/four-pillars-of-government-control.md]
 confidence: medium
 ---
 
@@ -45,3 +45,11 @@ By the 1960s, with an organized crime syndicate in place, British drug trafficke
 3. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 3. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
 4. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
+
+## Conflict with the CIA
+
+Badlands contributor [[erik-carlson|Erik Carlson]] writes that when Nixon took office in 1968, one of the first things he wanted to do was review the [[central-intelligence-agency|CIA]]'s documents on the [[bay-of-pigs|Bay of Pigs]] and the assassination of [[john-f-kennedy|John F. Kennedy]].[5] CIA Director [[richard-helms|Richard Helms]] was very reluctant and essentially refused to allow the standing president access, even though it was well within his rights.[5] In Carlson's reading, the agency understood that Nixon was not its friend, and this is why it ran the badly botched [[watergate|Watergate]] break-in to get him removed from power, with George Bush Sr. heavily involved in the plan.[5]
+
+In 1973 Nixon appointed [[william-colby|William Colby]] as the new Director of the CIA; two years later Colby testified under oath before the [[church-committee|Church Committee]], divulging [[mk-ultra|MK ULTRA]], domestic surveillance, foreign assassination and coup operations, and [[operation-mockingbird|Operation Mockingbird]].[5] The agency treated Colby as a traitor and installed [[george-hw-bush|George H. W. Bush]] as a loyalist successor in 1976.[5]
+
+5. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control

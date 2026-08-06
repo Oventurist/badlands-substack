@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [plutocrats, philanthropy, canada, green-agenda]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fde.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-050.md, raw/badlands-news-brief-048.md, raw/badlands-news-brief-0e0.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8f3.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-a6e.md, raw/badlands-news-brief-d36.md, raw/badlands-news-brief-d68.md, raw/badlands-news-brief-d8e.md, raw/badlands-news-brief-d7d.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e5c.md, raw/badlands-news-brief-e86.md, raw/badlands-news-brief-f44.md, raw/badlands-news-brief-fde.md, raw/get-woke-go-broke.md, raw/george-soros-shadow-network.md, raw/george-soros-a-british-creation.md, raw/is-the-censorship-war-over.md]
 confidence: low
 ---
 
@@ -120,6 +120,10 @@ Commenting on the [[american-civil-liberties-union|ACLU]]'s statement about the 
 
 In its commentary on the August 2024 riots in Britain, Badlands Media attributed the unrest to migrants from Africa and Syria "imported by the Open Society Foundation (George Soros) and other nefarious NGO's over the past decade," rather than to the country's long-established Indian population.[24] The argument forms part of a broader claim that the displacement caused by NATO's 2011 killing of [[muammar-gaddafi|Muammar Gaddafi]] and the subsequent Syrian war was channelled into Western Europe by NGO networks.[24] See [[southport-riots|the Southport riots]].[24]
 
+## Alleged funding of ESG scoring bodies
+
+[[erik-carlson|Erik Carlson]] wrote in April 2023 that Soros-run and Soros-funded organizations such as the Human Rights Campaign create corporate credit scores "kind of like the CCP" and force corporations to comply or face the wrath of those politically motivated groups.[26] In his account, a company that does not toe the Soros line is barred from the funds of investment giants including [[blackrock|BlackRock]], [[vanguard-group|Vanguard]] and [[state-street|State Street]], making Soros-linked NGOs the enforcement arm of the [[esg|ESG]] system.[26]
+
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands News Brief — "Lake Lasts, Biden Slumps & Powell Blinks", URL: https://badlands.substack.com/p/badlands-news-brief-050
@@ -160,3 +164,57 @@ Musk's remark was made in reply to commentator [[brian-krassenstein|Brian Krasse
 On the morning of Monday, May 15, 2023, a viral tweet from the account "Politics For All Ireland" claimed that Soros, then 92, had died of a heart attack; the tweet was subsequently deleted.[25] A representative of Soros said the rumor was untrue, and Soros posted his own denial, writing: "Rumors that I had a heart attack are completely false. I am alive and healthy."[25] [[the-gateway-pundit|The Gateway Pundit]], which covered the episode, described Soros as a billionaire Democrat mega-donor who had financed coups in the United States and abroad, while [[badlands-media|Badlands Media]] contributor [[ryan-delarme|Ryan DeLarme]] responded to the denial with the single line, "Oh. That's too bad."[25]
 
 25. Badlands Brief — "Badlands News Brief: The Durham Report, Epstein Suit & Border Bags", URL: https://badlands.substack.com/p/badlands-news-brief-fde
+## The "shadow network" thesis (June 2023)
+
+A June 2023 Badlands Media essay by [[ryan-delarme|Ryan DeLarme]] named Soros "the grand architect" of the modern Democratic Party's transformation, above other contributors such as [[saul-alinsky|Saul Alinsky]], [[barack-obama|Barack Obama]] and [[hillary-clinton|Hillary Clinton]].[27] It described a [[soros-shadow-network|shadow network]] of private organizations — the [[open-society-foundations|Open Society Foundations]], [[black-lives-matter|Black Lives Matter]], [[actblue|ActBlue]], the [[gill-foundation|Gill Foundation]] and [[moveon-org|MoveOn PAC]] among them — whose kingpins hand-select candidates before voters have spoken, and which must operate stealthily by infiltrating bureaucracies, corrupting officials and manipulating the press.[27] DeLarme framed this as only the Democratic arm of a [[uniparty|Uniparty]] whose Republican side runs through the Bush, Romney, McCain, Cheney, Murdoch and Koch orbits.[27]
+
+In the 2004 cycle the network, headed by a cadre of leftist billionaires, contributed over $300 million to the Democratic war chest, prompting [[eli-pariser|Eli Pariser]] of MoveOn PAC to tell members that December: "Now it's our party. We bought it, we own it."[27] Pariser is described as a Soros confidant, as is [[zack-exley|Zack Exley]], the former MoveOn organizing director who co-founded the [[justice-democrats|Justice Democrats]] PAC in 2017.[27]
+
+## Biography and interpretations
+
+Soros is a Hungarian-born businessman and philanthropist who likes to be seen as an altruist, donating to minority causes and running his own human-rights NGOs.[27] While widely regarded as one of the world's leading mega-speculators, some analysts hold that he is merely a conduit for the "monetarist establishment" behind the World Bank, the Bank for International Settlements and the IMF, used to run looting operations against Eastern Europe and to attack national sovereignty; he is said to have worked in league with deep-political operatives including [[henry-kissinger|Henry Kissinger]] and [[zbigniew-brzezinski|Zbigniew Brzezinski]].[27] Writing in Executive Intelligence Review in 1996, William Engdahl argued that Soros "robs from rich western countries" and uses the proceeds "to rob even more savagely from the East, under the cloak of philanthropy," bringing figures such as [[jeffrey-sachs|Jeffrey Sachs]] and Sweden's Anders Aslund with their shock therapy so that whole regions could be bought at dirt-cheap prices.[27] The essay adds the suggestion that Soros works in tandem with, or for, the [[rothschild-family|Rothschild family]], and that the pyramidal system also includes the House of Saud.[27]
+
+DeLarme notes that Forbes lists do not track true dynastic wealth, since figures such as [[bill-gates|Bill Gates]] and Soros move the majority of their book net worth into charities and foundations.[27]
+
+## Playbook, media and market operations
+
+The essay sets out a reconstructed [[soros-playbook|Soros playbook]] — establish non-profits, staff them ideologically, place personnel in federal government, purchase media across every medium, infiltrate the election process (Soros being "directly linked to voting machine" use in several states), and co-opt cultural figures such as [[al-gore|Al Gore]], into whose Climate Reality Project $10 million a year was reportedly dumped.[27] It cites [[wikileaks|WikiLeaks]] material as showing Hillary Clinton's 2016 team working with Soros and his media organizations, leaving her dependent and indebted, while the [[democratic-national-committee|DNC]] rigged the primary against [[bernie-sanders|Bernie Sanders]]; [[antifa|Antifa]] and Black Lives Matter are described as the network's foot soldiers.[27] On Wikipedia bias, it points to Open Society Information Program manager Melissa Hagemann and Ethan Zuckerman, both former [[wikimedia-foundation|Wikimedia Foundation]] advisers.[27]
+
+On markets, the essay recounts [[black-wednesday|Black Wednesday]]: Soros borrowed around 6.5 billion pounds in 1992, converted to Deutschmarks and francs, and on 16 September forced sterling out of the European Exchange Rate Mechanism, making roughly £1 billion and earning the title "the man who broke the Bank of England" while costing Britain some £3.3 billion.[27] His alleged role in sparking the 1997 Asian financial crisis led a group of Southeast Asian countries to call for his prosecution as a criminal.[27]
+
+## Speculation on hierarchy
+
+In a section the author explicitly labels speculative, DeLarme discusses drops asking "How did Soros replace family 'y'" — with some anons reading "y" as the Rothschilds — and drops referencing "P," variously identified with the Pope, Larry Page, Prince Philip or the PICO network.[27] He notes reporting that before [[pope-francis|Pope Francis]]' 2015 US visit, activists from the [[service-employees-international-union|SEIU]] and PICO descended on the Vatican, that over 90 members of Congress wrote urging liberal themes, and that 2016 WikiLeaks disclosures showed Soros spending hundreds of thousands of dollars to shape the visit — prompting Catholic lay leaders to petition [[donald-trump|Donald Trump]] for an official investigation.[27]
+
+26. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke
+27. Badlands Brief — "George Soros' Shadow Network", URL: https://badlands.substack.com/p/george-soros-shadow-network
+
+## "A British Creation" thesis (August 2023)
+
+Badlands contributor [[erik-carlson|Erik Carlson]] argued in August 2023 that Soros is not a self-made investment genius but a creation of what he calls the British Satanic Cabal.[28] Carlson notes that Soros came from a non-practising Jewish family in Hungary, that he and his foundations appear to be banned from his home country and several others, that he arrived in England in 1947, and that he graduated from the London School of Economics.[28] He also recalls the 60 Minutes interview in which Soros described working with the Nazis as a teenager to confiscate Jewish assets and said he felt no remorse, having done what he had to do to survive.[28]
+
+### Double Eagle and the Quantum Fund
+
+In 1969 Soros started a hedge fund called Double Eagle, a name Carlson reads through Byzantine heraldry, in which the double-headed eagle is a charge associated with Empire and with the emperor's dual sovereignty in secular and religious matters and dominance over both East and West.[28] In 1970 [[soros-fund-management|Soros Fund Management]] was founded and Double Eagle was renamed the [[quantum-fund|Quantum Fund]], which began with $12 million and grew to $25 billion by 2011.[28]
+
+### Philanthropy and asset transfers
+
+From 1984 to 2017 Soros donated $32 billion to his [[open-society-foundations|Open Society Foundation]] charities, which Carlson says fund Democrat progressives, progressive district attorneys and progressive media including [[media-matters-for-america|Media Matters of America]], with many believing Soros also helped fund [[black-lives-matter|BLM]] and [[antifa|Antifa]].[28] In 2017, the year [[donald-trump|Trump]] signed [[executive-order-13818|Executive Order 13818]] blocking the property of persons involved in serious human rights abuse or corruption, Soros moved $18 billion of assets into those charities — which Carlson reads as getting assets out of his own name — and [[eric-schmidt|Eric Schmidt]] stepped down from [[alphabet|Alphabet]] the day after the order was signed.[28] Soros's net worth has since fallen to $6.7 billion.[28]
+
+### Manufactured reputation
+
+Carlson disputes the legend of Soros's genius built on the [[breaking-of-the-english-pound|breaking of the English pound]] in 1992, noting that others — including [[jp-morgan|J.P. Morgan]], said by some to be a front for British investors in America — made far more from the same short but kept it quiet while Soros was paraded.[28] He credits [[william-rees-mogg|Lord William Rees-Mogg]], former editor of the London Times and vice chairman of the [[bbc|BBC]], with continually promoting Soros, producing a following effect comparable to Warren Buffett or [[jim-cramer|Jim Cramer]].[28] In 1993 Soros bought 10 million shares of North America's largest gold producer from [[james-goldsmith|Sir James Goldsmith]] and [[jacob-rothschild|Jacob Rothschild]]; when other investors piled in and the price peaked, the two sellers cashed out and left Soros holding the bag — the price, Carlson says, of being created and controlled by the British Cabal elite.[28]
+
+### Associates
+
+Carlson links Soros to [[nils-taube|Baron Nils Otto von Taube]], whom Soros invited onto the Quantum Group advisory board in the 1970s and who became Rothschild's principal investment manager, and to [[mark-malloch-brown|Mark Malloch Brown]], the former UN refugee commissioner, [[world-bank|World Bank]] official and UN Deputy Secretary-General who chaired the board of the holding company behind [[smartmatic|Smartmatic]] before replacing [[patrick-gaspard|Patrick Gaspard]] as Open Society president on 1 January 2021.[28] Malloch Brown was earlier sued and settled over an allegation that he gave Soros confidential information used in a smear campaign against a client.[28]
+
+Carlson concludes that Soros and those connected to him manipulate financial markets, foment [[color-revolution|color revolutions]] in Eastern Bloc countries and elsewhere, control media, possibly manipulate elections, and create crises and epidemics culminating in mass migration — blackmailing, censoring and working toward one-world government — and that all of them have deep ties to England and specifically the [[city-of-london|City of London]].[28] He says he cannot determine whether Soros or Rothschild sits at the top of the pyramid, or whether both answer to higher authority.[28]
+
+28. Badlands Brief — "George Soros, A British Creation", URL: https://badlands.substack.com/p/george-soros-a-british-creation
+
+## Funding of pro-Palestine protest organizing (2025)
+
+In April 2025 Badlands Media reported that Soros' [[open-society-foundations|Open Society Foundations]], together with the [[tides-foundation|Tides Foundation]] and the [[rockefeller-brothers-fund|Rockefeller Brothers Fund]], funded [[jewish-voice-for-peace|Jewish Voice for Peace]] and other NGOs organizing pro-Palestine campus protests.[29] Contributor [[ryan-delarme|Ryan DeLarme]] wrote that this meant the protests bore "CIA fingerprints," and that the Open Society Foundation and its spin-offs work directly with NATO — a link he said conservative media declines to mention.[29] The stated purpose, in his reading, was a domestic one: assembling a "rent-a-riot mob" for future use, following the [[gene-sharp|Gene Sharp]] [[color-revolution|color revolution]] playbook.[29]
+
+29. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

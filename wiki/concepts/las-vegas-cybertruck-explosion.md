@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [terrorism, las-vegas, tesla, cybertruck, trump-hotel, 2025]
-sources: [raw/badlands-news-brief-12c.md, raw/badlands-news-brief-9cd.md]
+sources: [raw/badlands-news-brief-12c.md, raw/badlands-news-brief-9cd.md, raw/hysteria-and-error.md]
 confidence: medium
 ---
 
@@ -33,3 +33,10 @@ Badlands contributor [[burning-bright|Burning Bright]] urged readers to stop try
 ## References
 1. Badlands Brief — "Badlands News Brief: A New Era of Terror & Monumental Lightning Strikes", URL: https://badlands.substack.com/p/badlands-news-brief-12c
 2. Badlands Brief — "Badlands News Brief: Energy Elevates Collaboration as the Senate Steals Centerstage", URL: https://badlands.substack.com/p/badlands-news-brief-9cd
+3. Badlands Media — "Hysteria and Error", URL: https://badlands.substack.com/p/hysteria-and-error
+
+## Treatment in "Hysteria and Error"
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] paired the Cybertruck incident with the [[new-orleans-bourbon-street-attack|New Orleans Bourbon Street attack]] as the two events whose coverage he believed the conservative movement had exploited to push an unrelated immigration and anti-Islam narrative.[3] He described the perpetrator as a decorated soldier, [[matthew-alan-livelsberger|Matthew Livelsberger]], who exploded a Tesla Cybertruck outside the Trump hotel in Las Vegas.[3]
+
+DeLarme acknowledged the wider speculation circulating on Substacks and podcasts — from the possible intended symbolism of a vehicle created by [[elon-musk|Elon Musk]] exploding near a building built by [[donald-trump|Donald Trump]], to reported Fort Bragg connections shared by both perpetrators — and said these threads were far more consequential than [[isis|ISIS]], though his own focus was on the quality of commentary rather than the events themselves.[3] He stressed that the perpetrators of both attacks were American citizens who had served in the armed forces, a fact he said was inconvenient to those drumming up sentiment for military action.[3]

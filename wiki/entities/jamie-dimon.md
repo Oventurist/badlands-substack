@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, jpmorgan, debanking, litigation, finance]
-sources: [raw/badlands-brief-695.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-ac1.md, raw/celebrating-15-years-of-indictments.md]
+sources: [raw/badlands-brief-695.md, raw/badlands-news-brief-090.md, raw/badlands-news-brief-319.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-85a.md, raw/badlands-news-brief-ac1.md, raw/celebrating-15-years-of-indictments.md, raw/is-jamie-dimon-directing-the-priorities.md]
 confidence: medium
 ---
 
@@ -54,6 +54,16 @@ In January 2024, Dimon met Ukrainian president [[volodymyr-zelensky|Volodymyr Ze
 
 A January 2024 Badlands Brief essay marking fifteen years of the [[bitcoin-genesis-block|Bitcoin Genesis Block]] referred to Dimon as "Jeffrey Epstein's Banker" and named him alongside Senator [[elizabeth-warren|Elizabeth Warren]] as figures inside whose minds [[bitcoin|Bitcoin]] "lives rent-free," because the protocol cannot be stopped and continually undermines what the author described as an abstract power hierarchy.[8] The essay placed both under the heading "those who scream the loudest," treating vocal hostility to Bitcoin as evidence of the threat it poses to incumbents of the monetary system.[8]
 
+## 2023 banking crisis commentary and the short-seller controversy
+
+In a Bloomberg interview published May 11, 2023, Dimon downplayed the [[2023-banking-crisis|2023 banking crisis]], saying that "as for the banking crisis, I believe it will eventually sort itself out. It's not like the crisis in 2008 or 2009."[9] Earlier that month [[jpmorgan-chase|JPMorgan Chase]] had acquired the failed [[first-republic-bank|First Republic Bank]], with Dimon stating that "our government invited us and others to step up, and we did," and describing the deal as accretive to shareholders and complementary to the firm's existing wealth franchise.[9] In the same interview he said the firm was not planning to buy additional failed banks, pointing to the integration workload — "800 people working around the clock" and 10,000 deployed to consolidate systems, risk, fraud, credit, payments, branches, real estate, vendors and technology.[9]
+
+Badlands contributor [[ashe-in-america|Ashe in America]] questioned that framing, noting that JPMorgan was "built on the foundation of more than 1,200 predecessor institutions" and would be expected to hold a tested post-merger integration playbook, and asked whether Dimon's remark signalled a broader shift away from the bank's historic growth-by-acquisition strategy.[9]
+
+The same interview contained Dimon's call for the [[securities-and-exchange-commission|SEC]] to use "the enforcement capability to look at what people are doing by name in options, derivatives, short sales," adding that offenders "should be punished to the full extent the law allows it."[9] Dimon conceded that his team had told him [[short-selling|short sellers]] were not the primary issue, but said there "might be" unscrupulous actors using other means to go short and urged action against collusion, "wrong practices," and the spreading of false information about banks.[9] The article characterised this as pre-emptive enforcement of undefined standards, likening it to the film *Minority Report* and asking whether "wrong practices" constituted any legal standard.[9]
+
+Less than two weeks later, on May 24, 2023, Reuters reported that a senior [[department-of-justice|Department of Justice]] official expected U.S. action on short sellers "in the next few months," a coincidence of timing that led Ashe in America to ask whether Dimon, who "moves markets," now also moved the investigative priorities of the DOJ.[9] The piece noted that short selling is a legitimate investment strategy and that criticising banks online is protected First Amendment activity, and observed that the arrangement was more concerning given that Dimon was set to be privately deposed that same week in the [[us-virgin-islands|U.S. Virgin Islands]] [[jeffrey-epstein|Epstein]] case, a suit alleging that "human trafficking was the principal business of the accounts Epstein maintained at JPMorgan."[9] It closed by asking whether Attorney General [[merrick-garland|Merrick Garland]] would examine Dimon's own investment portfolio against his public statements, answering: "Of course not. It's a banker's world, and we're just living in it."[9]
+
 ## References
 
 1. Badlands Brief — "Election Bombshells, Peace Board Bangers, & Clintons in Contempt", URL: https://badlands.substack.com/p/badlands-brief-695
@@ -64,3 +74,4 @@ A January 2024 Badlands Brief essay marking fifteen years of the [[bitcoin-genes
 6. Badlands Brief — "Bank of Epstein, Saudi Arabia & Trump's Reprieve?", URL: https://badlands.substack.com/p/badlands-news-brief-85a
 7. Badlands Brief — "The Media Melts Down as MAGA Rises Once More ...", URL: https://badlands.substack.com/p/badlands-news-brief-ac1
 8. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
+9. Badlands Brief — "Is Jamie Dimon a Prophet?", URL: https://badlands.substack.com/p/is-jamie-dimon-directing-the-priorities

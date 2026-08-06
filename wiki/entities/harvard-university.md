@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [academia, higher-education, plagiarism, institutions]
-sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-f0e.md]
+sources: [raw/badlands-news-brief-07e.md, raw/badlands-news-brief-1d7.md, raw/badlands-news-brief-32e.md, raw/badlands-news-brief-471.md, raw/badlands-news-brief-525.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-748.md, raw/badlands-news-brief-7d4.md, raw/badlands-news-brief-80e.md, raw/badlands-news-brief-a72.md, raw/badlands-news-brief-a9e.md, raw/badlands-news-brief-cce.md, raw/badlands-news-brief-df2.md, raw/badlands-news-brief-e0a.md, raw/badlands-news-brief-f0e.md, raw/hijacked-consciousness-sacred-origins.md]
 confidence: medium
 ---
 
@@ -115,3 +115,10 @@ The Harvard action was reported alongside similar disruptions elsewhere, includi
 
 
 15. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
+
+## Criticism in "Hijacked Consciousness" (2025)
+
+In "Hijacked Consciousness - Sacred Origins," the July 8, 2025 opening installment of the [[hijacked-consciousness-series|Hijacked Consciousness]] series by [[observing-consciousness|Observing Consciousness]], Harvard is named as a node in what the author calls the "Ivy obedience grid."[16] Describing a credential class of "groomed handlers of empire" consolidating power behind the visible reform of curriculum, the essay asserts that "Harvard wasn't brilliance. It was obedience, well-dressed," pairing the university with [[skull-and-bones|Skull and Bones]] as "the ritual dressing room of power."[16] The passage forms part of the article's wider argument that the [[industrial-model-of-schooling|industrial model of schooling]] used testing to sort and filter students into institutional advancement rather than to educate them.[16]
+
+16. Badlands Brief — "Hijacked Consciousness - Sacred Origins", URL: https://badlands.substack.com/p/hijacked-consciousness-sacred-origins
+

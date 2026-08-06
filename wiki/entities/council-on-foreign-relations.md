@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, establishment, foreign-policy, media]
-sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-6e6.md]
+sources: [raw/a-swan-song-for-the-msm.md, raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-6e6.md, raw/is-the-censorship-war-over.md]
 confidence: medium
 ---
 
@@ -30,3 +30,11 @@ Badlands contributor [[ashe-in-america|Ashe in America]] argued that the Council
 1. Badlands Brief — "A Swan Song for the MSM", URL: https://badlands.substack.com/p/a-swan-song-for-the-msm
 2. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
 3. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
+
+## Placement in the globalist faction
+
+Badlands Media's April 2025 analysis of the censorship war grouped the Council on Foreign Relations with the [[world-economic-forum|World Economic Forum]] as the exclusive think tanks populated by the international billionaires and private and political operatives it terms "globalists" — a faction it argues has lost favour with common people across many nations.[4] The article stated that [[klaus-schwab|Klaus Schwab]] was recruited by a CIA-funded Harvard program to build the institution that became the WEF, and pointed readers to its earlier series installment "The Men Behind the Curtain pt. 1: The Council on Foreign Relations."[4]
+
+It characterized the standard globalist method as creating a problem and then posing as the hero by offering a meagre solution to it, always in exchange for something, and argued that these actors escaped public scrutiny because until recently they held near-total dominance in the information war waged in the [[cognitive-warfare|cognitive battlespace]].[4]
+
+4. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

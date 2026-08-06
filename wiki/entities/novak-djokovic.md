@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [tennis, covid-19, vaccine-mandates, serbia]
-sources: [raw/badlands-news-brief-644.md, raw/badlands-news-brief-b4a.md]
+sources: [raw/badlands-news-brief-644.md, raw/badlands-news-brief-b4a.md, raw/ivan-provorov-takes-a-stand.md]
 confidence: medium
 ---
 
@@ -28,7 +28,12 @@ When Djokovic entered the Australian Open in early 2022 while unvaccinated again
 
 In January 2024, Dickson collapsed and died suddenly at age 59 while covering the Australian Open, with the cause of death kept confidential.[2] Despite the journalist's earlier campaign against him, Djokovic offered only kind words and condolences upon news of the passing — behaviour the Brief cited as evidence that those accused of villainy often display the greater character and honour.[2]
 
+## Grand Slam forfeitures
+
+Djokovic, described by Badlands as arguably the best tennis player not only of his time but in history, chose to forgo multiple Grand Slam tournaments rather than be vaccinated, and faced potential arrest in Australia for attempting to enter the country unvaccinated.[3] He was cited alongside [[aaron-rodgers|Aaron Rodgers]], [[kyrie-irving|Kyrie Irving]] and [[ivan-provorov|Ivan Provorov]] as part of a growing group of athletes rejecting what Badlands termed the social programming imposed through professional sport.[3]
+
 ## References
 
 1. Badlands Brief — "J6 Exposure, Biden's Brain and Trump's Agenda", URL: https://badlands.substack.com/p/badlands-news-brief-644
 2. Badlands Brief — "Badlands News Brief: Border Battles, Trump Trials & COVID Comeuppance", URL: https://badlands.substack.com/p/badlands-news-brief-b4a
+3. Badlands Brief — "Ivan Provorov Takes A Stand", URL: https://badlands.substack.com/p/ivan-provorov-takes-a-stand

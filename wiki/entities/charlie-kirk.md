@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, conservative, campus-politics]
-sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-ed9.md]
+sources: [raw/a-glaring-double-standard.md, raw/badlands-brief-282.md, raw/badlands-brief-774.md, raw/badlands-brief-c5b.md, raw/badlands-brief-d3b.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-4fd.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-b53.md, raw/badlands-news-brief-e48.md, raw/badlands-news-brief-ed9.md, raw/how-to-stop-civil-war-20.md]
 confidence: low
 ---
 
@@ -83,6 +83,10 @@ At the end of September 2025 Kirk's letter to Israeli Prime Minister [[benjamin-
 
 At the hourslong memorial celebration of Kirk's life on 21 September 2025, President [[donald-trump|Donald Trump]] delivered the final speech, eulogizing him as a "martyr" and calling his killing a threat to the entire country: "It was an assault on our most sacred God-given liberties and God-given rights. The gun was pointed at him, but the bullet was aimed at all of us."[14] Trump described the killer as a "radicalized cold-blooded monster," attributed most political violence to the "radical left," and vowed that his Justice Department would pursue those who fund and perpetrate it.[14] The service, held at State Farm Arena in Glendale, Arizona, before more than 60,000 mourners, blended Christian themes of martyrdom with patriotism, and also produced a public reconciliation between Trump and [[elon-musk|Elon Musk]].[14] Badlands contributor [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]], writing about Israeli opposition to Palestinian statehood recognition, argued that the episode helped explain why Kirk had felt the urge to deviate from "the issued talking points."[14]
 
+## Cited as a trigger for feared civil conflict
+
+Badlands Media contributor [[matthew-ehret|Matthew Ehret]] argued in September 2025 that Kirk's assassination had again awoken the spectre of social chaos in America, this time amid a more advanced economic collapse of the trans-Atlantic bubble economy.[16] While race riots had not yet begun, he wrote, the fissures between the radical left and radical right had never been greater, and evidence of intelligence operations behind groups such as [[patriot-front|Patriot Front]] and the [[atomwaffen-division|Atomwaffen Division]] indicated an intention to inflame the situation further.[16] Ehret pointed to [[laura-loomer|Laura Loomer]]'s call for Trump to be a dictator, [[nick-fuentes|Nick Fuentes]]'s white tribalism appeal and [[pam-bondi|Pam Bondi]]'s hate-speech push, all made in the days after the killing, as evidence of a reactionary spiral, and proposed the example of [[robert-f-kennedy|Robert F. Kennedy]] in 1968 as the antidote.[16]
+
 ## References
 1. Badlands Brief — "A Glaring Double Standard", URL: https://badlands.substack.com/p/a-glaring-double-standard
 2. Badlands Brief — "Jesus Walks", URL: https://badlands.substack.com/p/badlands-brief-282
@@ -106,3 +110,4 @@ Kirk's killing became the immediate backdrop for a national argument over speech
 [[turning-point-usa|Turning Point USA]] announced that President [[donald-trump|Donald Trump]] and Vice President [[jd-vance|JD Vance]] would deliver remarks at Kirk's memorial service in Arizona, alongside his widow [[erika-kirk|Erika Kirk]] and a slate of administration officials and media figures.[15] Badlands commentary also drew a parallel between celebrations of Kirk's death on parts of the left and the earlier lionization of [[luigi-mangione|Luigi Mangione]] after the killing of [[brian-thompson|Brian Thompson]].[15] See [[charlie-kirk-memorial-service|Charlie Kirk memorial service]].[15]
 
 15. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
+16. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20

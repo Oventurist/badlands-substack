@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [vice-president, january-6, 2020-election, republicans]
-sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-c5c.md, raw/badlands-news-brief-fcb.md]
+sources: [raw/badlands-brief-e87.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-1c3.md, raw/badlands-news-brief-1cd.md, raw/badlands-news-brief-34a.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-7ad.md, raw/badlands-news-brief-8c5.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-c5c.md, raw/badlands-news-brief-fcb.md, raw/jd-vance-sidley-austin-and-q-post.md]
 confidence: medium
 ---
 
@@ -73,6 +73,12 @@ Badlands commentator [[justin-deschamps|Justin Deschamps]] treated the phrasing 
 
 Because followers of the Q material hold that the word "storm" carries meanings tied to [[the-storm|a broader takedown of the Deep State]], Deschamps asked whether Pence might be a candidate to deliver the long-anticipated declaration "My fellow Americans. The Storm is upon us." — a statement most had assumed would come from Trump, though the Q material is never specific about who would make it or when.[11]
 
+## Name etymology and the "useful VP" thesis
+
+Badlands contributor [[erik-carlson|Erik Carlson]] traced the surname Pence to the German Pentz, itself derived from a city in the Baltic territory of Pomerania in Prussia, and read the Trump/Pence banner as signifying "triumphant victory over Prussia" — a reading he tied to the Prussiagate series.[12] He posed as a question, not an assertion, whether [[donald-trump|Trump]]'s first term targeted the Cabal families while the second targets their remaining puppets.[12]
+
+Declining to argue whether Pence is good or bad, and noting that Pence is neither part of Trump's second term nor endorsing him, Carlson maintained that Pence was used by Trump for a purpose — plausibly to give the [[deep-state|Deep State]] a false sense of security and to pass on disinformation.[12] Responding to claims that the pick showed a lack of discernment, he compared it to Jesus Christ selecting Judas as a disciple.[12]
+
 ## References
 1. Badlands Brief — "Poetic Agitprop, Cold War Reruns, & Kokomo From the Ropes", URL: https://badlands.substack.com/p/badlands-brief-e87
 2. Badlands Brief — "Trans Easter Bait & A Tale of Two Presidents", URL: https://badlands.substack.com/p/badlands-news-brief-092
@@ -85,3 +91,4 @@ Because followers of the Q material hold that the word "storm" carries meanings 
 9. Badlands News Brief — "Trump on Wuhan, Flynn Fights & Woke Fails", URL: https://badlands.substack.com/p/badlands-news-brief-af7
 10. Badlands Brief — "Hollywood Crumbles While the Uniparty Is Exposed", URL: https://badlands.substack.com/p/badlands-news-brief-c5c
 11. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb
+12. Badlands Brief — "JD Vance, Sidley Austin, & Q Post #238", URL: https://badlands.substack.com/p/jd-vance-sidley-austin-and-q-post

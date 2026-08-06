@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [agriculture, glyphosate, roundup, litigation, maha]
-sources: [raw/badlands-news-brief-7bb.md]
+sources: [raw/badlands-news-brief-7bb.md, raw/how-to-rent-a-riot-the-plausible.md]
 confidence: medium
 ---
 
@@ -19,3 +19,9 @@ Since 2015, Monsanto has faced ongoing lawsuits alleging that glyphosate, the pr
 ## References
 
 1. Badlands Brief — "Badlands News Brief: 'Terrifying' Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
+
+## March Against Monsanto and the glyphosate litigation
+
+Badlands Media cites the 2013 [[march-against-monsanto|March Against Monsanto]] as a case study in how genuinely grass-roots protest is suppressed when it threatens an interest embedded in the Western political establishment: the demonstrations drew brief cable mentions, no live coverage, and framing that reduced them to a dispute over genetically modified foods while omitting glyphosate and corporate influence in agriculture.[2] The article states that glyphosate's toxicity was known to Monsanto but hidden for decades, and traces the reversal of official findings — the EPA calling glyphosate noncarcinogenic in 2013, the International Agency for Research on Cancer classifying it a probable carcinogen in 2015, and a 2018 jury finding Roundup carcinogenic after the company admitted it had conducted no chronic toxicity studies of twelve months or longer on current Roundup products.[2] By August 2019 Bayer/Monsanto was reported to be seeking to settle 18,000 US cancer lawsuits for $8 billion, an amount it agreed to pay by June 2020.[2]
+
+2. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible

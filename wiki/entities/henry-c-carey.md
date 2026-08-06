@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [economics, american-system, anti-malthusian, history]
-sources: [raw/combating-the-transhumanist-religion.md]
+sources: [raw/combating-the-transhumanist-religion.md, raw/in-defense-of-alexander-hamilton.md, raw/in-defense-of-abraham-lincoln-and.md]
 confidence: medium
 ---
 
@@ -28,5 +28,15 @@ Carey wrote that the more perfect the power of self-direction, "the greater is t
 
 Ehret situates Carey alongside [[benjamin-franklin|Benjamin Franklin]] and [[john-f-kennedy|John F. Kennedy]] as representatives of an American anti-Malthusian heritage whose claims are vindicated by the material record: humanity rose from roughly one billion people in 1800 to nearly eight billion today, and US life expectancy rose from about 40 years in 1800 to 78 years.[1] The closed-system theories Carey opposed are presented as the basis both of Marx and Engels' theory of class struggle — which ignored the anti-imperial economic school then active in the United States — and of the [[club-of-rome|Club of Rome]]'s 1968 neo-Malthusian revival, later absorbed into the [[world-economic-forum|World Economic Forum]] and its [[transhumanism|transhumanist]] creed.[1]
 
+## Role in the American System
+
+In the Badlands Media "Founders & Foundations" series, Carey is presented alongside [[alexander-hamilton|Alexander Hamilton]] and [[abraham-lincoln|Abraham Lincoln]] as one of the three leaders of the [[american-system-of-political-economy|American System]].[2] Ehret quotes Carey's 1872 *Unity of Law* on the growth of human faculties through association: "The more his power of association, the greater is the tendency toward development of his various faculties; the greater becomes his control of the forces of nature, and the more perfect his own power for self-direction; mental force thus more and more obtaining control over that which is material, the labors of the present over the accumulations of the past…"[2] He pairs this with Lincoln's 1860 remark that man "is the only one who improves his workmanship," effected "by Discoveries, and Inventions," arguing that both men recognized that rising rates of discovery of unknown organizing principles of the universe drive scientific and technological progress and should guide future investment in research and development.[2]
+
+## Defense of the greenbacks
+
+In his 1865 essay *How to Outdo England Without Fighting Her*, Carey, identified as Lincoln's economic advisor, wrote that "the 'greenback' has fallen on the country as the dew falls, bringing with it good to all and doing injury to none."[3] The remark is cited by Ehret in defense of the [[greenbacks|greenback]] currency issued during the [[american-civil-war|Civil War]] and against the postwar campaign for gold-based "honest money" that culminated in the [[specie-resumption-act|Specie Resumption Act]].[3]
+
 ## References
 1. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
+2. Badlands Brief — "In Defense of Alexander Hamilton", URL: https://badlands.substack.com/p/in-defense-of-alexander-hamilton
+3. Badlands Brief — "In Defense of Abraham Lincoln and the Greenbacks", URL: https://badlands.substack.com/p/in-defense-of-abraham-lincoln-and

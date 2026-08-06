@@ -1,36 +1,32 @@
-import sys, re, os, io
-# usage: merge_helper.py <path> <rawbasename> <refline> <sectionfile>
-path, rawb, refline, secfile = sys.argv[1:5]
-txt = io.open(path, encoding='utf-8').read()
-lines = txt.split('\n')
-# frontmatter
-assert lines[0].strip() == '---'
-end = lines.index('---', 1)
-fm = lines[1:end]
-n = None
-for i, l in enumerate(fm):
-    if l.startswith('sources:'):
-        m = re.match(r'sources:\s*\[(.*)\]\s*$', l)
-        items = [x.strip() for x in m.group(1).split(',') if x.strip()]
-        key = 'raw/%s.md' % rawb
-        if key in items:
-            n = items.index(key) + 1
-        else:
-            items.append(key)
-            n = len(items)
-        fm[i] = 'sources: [%s]' % ', '.join(items)
-    if l.startswith('updated:'):
-        fm[i] = 'updated: 2026-08-06'
-body = '\n'.join(lines[end+1:])
-sec = io.open(secfile, encoding='utf-8').read().replace('[[N]]', '[%d]' % n)
-if '## References' in body:
-    head, refs = body.split('## References', 1)
-    reflines = [x for x in refs.strip().split('\n') if x.strip()]
-    if not any(refline.split('URL:')[-1].strip() in x for x in reflines):
-        reflines.append('%d. %s' % (n, refline))
-    body = head.rstrip() + '\n\n' + sec.strip() + '\n\n## References\n\n' + '\n'.join(reflines) + '\n'
+import sys, re, io, os
+# usage: merge_helper.py <path> <rawbase> <title> <url> <paragraph-file>
+path, rawbase, title, url, pfile = sys.argv[1:6]
+data = open(path, 'r', encoding='utf-8', newline='').read()
+crlf = '\r\n' in data
+txt = data.replace('\r\n', '\n')
+m = re.search(r'^sources: \[(.*?)\]\s*$', txt, re.M)
+if not m:
+    print('NOSOURCES'); sys.exit(2)
+items = [x.strip() for x in m.group(1).split(',') if x.strip()]
+entry = 'raw/%s.md' % rawbase
+if entry in items:
+    n = items.index(entry) + 1
 else:
-    body = body.rstrip() + '\n\n' + sec.strip() + '\n\n## References\n\n%d. %s\n' % (n, refline)
-out = '---\n' + '\n'.join(fm) + '\n---\n' + body
-io.open(path, 'w', encoding='utf-8', newline='\n').write(out)
-print('MERGED %s as [%d]' % (path, n))
+    items.append(entry); n = len(items)
+    txt = txt[:m.start()] + 'sources: [%s]' % ', '.join(items) + txt[m.end():]
+txt = re.sub(r'^updated:.*$', 'updated: 2026-08-06', txt, count=1, flags=re.M)
+para = open(pfile, 'r', encoding='utf-8').read().strip().replace('[n]', '[%d]' % n)
+refline = '%d. Badlands Brief — "%s", URL: %s' % (n, title, url)
+if '## References' in txt:
+    head, tail = txt.split('## References', 1)
+    head = head.rstrip('\n') + '\n\n' + para + '\n'
+    tail = tail.rstrip('\n')
+    if refline not in tail:
+        tail = tail + '\n' + refline
+    txt = head + '\n## References' + tail + '\n'
+else:
+    txt = txt.rstrip('\n') + '\n\n' + para + '\n\n## References\n' + refline + '\n'
+if crlf:
+    txt = txt.replace('\n', '\r\n')
+open(path, 'w', encoding='utf-8', newline='').write(txt)
+print('OK n=%d' % n)

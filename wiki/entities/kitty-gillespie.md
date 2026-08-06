@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, citizen-journalism, arizona, elections]
-sources: [raw/an-sos-from-ground-zero.md]
+sources: [raw/an-sos-from-ground-zero.md, raw/introducing-badlandsmediatv.md]
 confidence: medium
 ---
 
@@ -24,6 +24,11 @@ In "An SOS From Ground Zero" she analyzed statewide vote totals showing that the
 
 She reported as a voter as well as a journalist: she and her husband were directed to deposit their ballots in a receptacle labeled "BOX 3" because their polling place had no working tabulator, an experience she connected to the wider [[door-3-ballots|"Door 3"]] controversy.[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero) She praised Assistant Attorney General [[jennifer-wright|Jennifer Wright]] as "my hero right now" for the November 19 demand letter to [[tom-liddy|Tom Liddy]], and disclosed that she had worked with Liddy years earlier when he was a radio talk show host, adding only "No comment."[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero) She urged readers to follow independent outlets such as Badlands Media through the canvass week.[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero)
 
+## Role at Badlands Media
+
+By March 2023 Gillespie had also taken on a commercial role within the network: the launch announcement for [[badlandsmedia-tv|BadlandsMedia.tv]] directed readers wishing to advertise with [[badlands-media|Badlands Media]] to "Connect with Kitty about Advertising" through the new site.[2]
+
 ## References
 
 1. Badlands Brief — "An SOS From Ground Zero", URL: https://badlands.substack.com/p/an-sos-from-ground-zero
+2. Badlands Brief — "Introducing BadlandsMedia.tv!", URL: https://badlands.substack.com/p/introducing-badlandsmediatv

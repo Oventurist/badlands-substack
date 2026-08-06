@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [law, philosophy, sovereignty, constitution, federal-reserve]
-sources: [raw/do-we-have-a-contract-with-the-federal.md]
+sources: [raw/do-we-have-a-contract-with-the-federal.md, raw/god-and-the-declaration-of-independence.md]
 confidence: medium
 ---
 
@@ -28,3 +28,10 @@ The concluding argument is that "all is not lost because we never truly consente
 
 ## References
 1. Badlands Brief — "Do We Have a Contract With the Federal Reserve?", URL: https://badlands.substack.com/p/do-we-have-a-contract-with-the-federal
+2. Badlands Brief — "God and the Declaration of Independence", URL: https://badlands.substack.com/p/god-and-the-declaration-of-independence
+
+## Transcendent source of rights
+
+A March 14, 2023 Badlands Media essay develops the same premise in explicitly theological terms, arguing that the [[declaration-of-independence|Declaration of Independence]] grounds [[unalienable-rights|unalienable rights]] in God rather than in any Pope, King or human agreement.[2] The essay frames the underlying question as a strict alternative: either authority is given to man from a source outside himself, or it is claimed by him as a matter of his own choosing.[2]
+
+Because every chain of authority requires a starting point, the essay argues, [[secularism|secularism]] necessarily returns that starting point to man, leaving morality relative and rights contingent on continued agreement.[2] For the sake of civilizational stability, it concludes, rights need to come from a source greater than man — a claim it regards as the core of the Declaration and of natural-law reasoning generally.[2]

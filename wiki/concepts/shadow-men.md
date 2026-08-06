@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [occult, mind-control, elites, history]
-sources: [raw/false-flags-and-the-occult.md]
+sources: [raw/false-flags-and-the-occult.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-united-states-a-nation.md]
 confidence: low
 ---
 
@@ -24,3 +24,14 @@ The [[eleusinian-mysteries|Eleusinian Mystery Schools]] are cited as a key insti
 
 ## References
 1. Badlands Brief — "False Flags and the Occult", URL: https://badlands.substack.com/p/false-flags-and-the-occult
+2. Badlands Brief — "God and the Declaration of Independence", URL: https://badlands.substack.com/p/god-and-the-declaration-of-independence
+
+## Cited on borrowed divine authority
+
+A separate March 14, 2023 Badlands Media essay on the [[declaration-of-independence|Declaration of Independence]] cites *Shadow Men* as "basically an encyclopedia" on rulers who believe in nothing but their own power yet still pretend to rule on behalf of some higher power.[2] The reference supports that essay's claim that for most of human history kings, rulers, pharaohs and other authority figures have relied on theological or quasi-theological arguments to justify their rule, and that abuse of this pattern by false rulers does not invalidate the underlying principle that authority is not something one gives oneself.[2]
+
+## Chapter on America's founding
+
+The full title is given elsewhere as *Shadow Men: an Encyclopedia of Mind Control*, and the November 1, 2023 essay "Is the United States a Nation?" calls it [[anthony-napoleon|Anthony Napoleon]]'s "masterwork."[3] That essay highlights a single 91-page chapter devoted entirely to demonstrating the extraordinary vision and circumstances that gave birth to America centuries ago.[3] [[american-hypnotist|American Hypnotist]] uses the chapter to support his claim that America's early years posed an exceptional obstacle to mankind's would-be masters, and that the phrase "the land of the free" reflects a historical reality rather than a stereotype.[3]
+
+3. Badlands Brief — "Is the United States a Nation?", URL: https://badlands.substack.com/p/is-the-united-states-a-nation

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [neuroscience, cognition, epistemology, badlands-media]
-sources: [raw/expand-your-thinking.md]
+sources: [raw/expand-your-thinking.md, raw/how-your-western-brain-exposes-you.md]
 confidence: medium
 ---
 
@@ -37,3 +37,11 @@ The article warns that the temptation to conclude one does not suffer from this 
 
 ## References
 1. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking
+
+## Application to fifth-generation warfare (March 2024)
+
+A March 2024 [[badlands-media|Badlands Media]] essay by [[simon-esler|Simon Esler]] applied hemispheric specialization directly to [[fifth-generation-warfare|fifth-generation warfare]], drawing on [[iain-mcgilchrist|Iain McGilchrist]]'s *[[the-master-and-his-emissary|The Master and His Emissary]]* for the claim that the Western population is entrenched in the left hemisphere and cannot readily perceive that entrenchment.[2] Esler emphasized the resulting excess of certainty: because the left hemisphere seeks "knowings" that can be grasped and kept, people avoid uncertainty in order to remain within a comfortable worldview, which leaves them vulnerable to weaponized narratives offering "designer forms of certainty."[2]
+
+On this account the right hemisphere processes doubt, contradiction, multiple possible truths, non-linguistic and intuitive understanding, and forms of cognition relying on the whole body's sense experience, tying the person to intuition and to realities beyond words and materialism while contributing the holistic frame that gives the left hemisphere's parts their meaning.[2] Esler argued that modern life — through [[disembedding-mechanisms|disembedding mechanisms]], the [[digital-domain|digital domain]] and the legacy of the Industrial Revolution — continually reinforces left-hemisphere entrenchment, so that the world "out there" is already colonized by the left hemisphere's vision when the right attempts to check against it.[2] He treated the resulting dominance of scientific reductionism, materialism and literalism in the Western worldview as both a cultural symptom and a strategic liability on the [[cognitive-battlefield|cognitive battlefield]].[2]
+
+2. Badlands Brief — "How Your Western Brain Exposes You to 5G Warfare", URL: https://badlands.substack.com/p/how-your-western-brain-exposes-you

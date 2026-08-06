@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, qatar, middle-east, war-coverage]
-sources: [raw/badlands-brief-c5b.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-69b.md]
+sources: [raw/badlands-brief-c5b.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-69b.md, raw/infiltration-not-invasion.md]
 confidence: medium
 ---
 
@@ -36,3 +36,13 @@ Badlands Media describes Al Jazeera as a [[qatar|Qatar]]-based outlet purportedl
 1. Badlands Brief — "A Christian Court Victory, Sovereign Alliance Comms and Off-Ramps Galore?", URL: https://badlands.substack.com/p/badlands-brief-c5b
 2. Badlands Brief — "Islamic Reruns, Fortune 500 Cartels, & The 119th Speaker", URL: https://badlands.substack.com/p/badlands-news-brief-215
 3. Badlands Brief — "Badlands News Brief: Trump Calls for Peace as the World Heads Toward War", URL: https://badlands.substack.com/p/badlands-news-brief-69b
+
+## Coverage of the removal of Mohamed Morsi
+
+Badlands contributor Joe Lange describes Al Jazeera as having become the propaganda arm of the [[muslim-brotherhood|Muslim Brotherhood]] in the Middle East.[4] Citing Raymond Ibrahim writing for PJMedia, he reports that the network broadcast images of the millions of Egyptians demonstrating against President [[mohamed-morsi|Mohamed Morsi]] and identified them as pro-Morsi protesters, disinformation quickly adopted by Western media and echoed by Senator [[john-mccain|John McCain]] in his characterization of the June 30 Revolution as a "military coup."[4] Several Al Jazeera correspondents resigned over the network acting as the Brotherhood's international mouthpiece.[4]
+
+## Clinton connections
+
+Al Jazeera was the dominant television channel in the Middle East and is based in [[qatar|Qatar]], a government Lange says had long-standing ties to the [[central-intelligence-agency|CIA]] and helped facilitate weapons deals arming [[al-qaeda|Al Qaeda]] in Libya and [[isis|ISIS]] in Syria.[4] Citing Sada Elbalad English News, he reports that leaked emails showed [[hillary-clinton|Hillary Clinton]]'s close relationship with the network, including a May 2010 visit in which she met then-director Waddah Khanfar and the board of directors and arranged a delegation trip to Washington, and argues the relationship was used to spread chaos across the region during the [[arab-spring|Arab Spring]].[4]
+
+4. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion

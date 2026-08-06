@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [grenell, diplomacy, venezuela, backchannel, devolution]
-sources: [raw/badlands-brief-02a.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-d56.md]
+sources: [raw/badlands-brief-02a.md, raw/badlands-brief-d17.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-060.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-86f.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-d56.md, raw/hysteria-and-error.md]
 confidence: medium
 ---
 
@@ -45,6 +45,12 @@ In his September 2025 letter to President [[donald-trump|Donald Trump]], Venezue
 
 Grenell, a former acting Director of National Intelligence, was installed by President [[donald-trump|Donald Trump]] to lead the [[john-f-kennedy-center-for-the-performing-arts|John F. Kennedy Center for the Performing Arts]] after Trump purged its previous board.[8] Under the administration the center overhauled its programming toward shows with broader mass appeal, and in August 2025 Trump confirmed he would personally host the Kennedy Center Honors.[8]
 
+## Nuance after the January 2025 attacks
+
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] described Grenell as a high-ranking official in the [[state-department|State Department]] under [[donald-trump|Donald Trump]], well known within the MAGA community, who at the time held a diplomatic position at the department.[10] DeLarme noted that Grenell had been a candidate for secretary of state before Trump ultimately selected [[marco-rubio|Marco Rubio]] for reasons DeLarme said were not yet clear.[10]
+
+DeLarme presented Grenell as a counterexample to the wave of undifferentiated anti-Muslim commentary that followed the New Year's 2025 attacks in New Orleans and Las Vegas, writing that in a public response to Florida politician [[randy-fine|Randy Fine]], Grenell "did what most partisan hacks are incapable of: he exercised nuance."[10]
+
 ## References
 
 1. Badlands Brief — "Arctic Escalation and Tropic Trouble for the Financial System", URL: https://badlands.substack.com/p/badlands-brief-02a
@@ -56,6 +62,7 @@ Grenell, a former acting Director of National Intelligence, was installed by Pre
 7. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 8. Badlands Brief — "Letters of Credence, More Evidence of Treason, & Allegedly Super-Intelligent AI", URL: https://badlands.substack.com/p/badlands-news-brief-cff
 9. Badlands Brief — "Badlands News Brief: DHS Dogma, Israeli Escalation and an OG's Return", URL: https://badlands.substack.com/p/badlands-news-brief-d56
+10. Badlands Media — "Hysteria and Error", URL: https://badlands.substack.com/p/hysteria-and-error
 
 ## Lawsuit against the DHS Homeland Intelligence Experts Group
 

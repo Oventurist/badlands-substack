@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [information-war, q-movement, propaganda, badlands-media]
-sources: [raw/expand-your-thinking.md]
+sources: [raw/expand-your-thinking.md, raw/mental-fortitude-for-5g-warriors.md]
 confidence: low
 ---
 
@@ -24,5 +24,12 @@ Because the conflict is fought over interpretation, the essay argues that the co
 - [[map-and-territory|Map and territory]]
 - [[hemispheric-specialization|Hemispheric specialization]]
 
+## Preparation of the individual combatant
+
+In "Mental Fortitude for 5G Warriors" (December 13, 2023), [[american-hypnotist|American Hypnotist]] treated the 5G war as a conflict whose combatants are ordinary citizens and whose decisive equipment is the trained mind, using "5G warrior" and "[[digital-soldiers|Digital Soldier]]" interchangeably and describing "soldier" as a poetic euphemism for truth teller.[2] He characterised the situation as one in which a single grain of rice may tip the scale, so that individual preparation carries strategic weight, and asserted that participation requires devotion to truth above distraction and grievance.[2]
+
+The essay set out three trainable domains for the 5G warrior — emotional self-regulation, intellectual rigor and honesty, and social effectiveness — arguing that competence in all three makes an individual able to out-research and out-persuade media companies with multi-million dollar budgets.[2] The war's principal weapon on the enemy side is identified as mainstream propaganda, described as literally killing people, which is why the author treats mental self-control and persuasion as life-saving skills.[2] He argued that as the public wakes to those lies a vacuum will open that trained truth tellers can fill.[2]
+
 ## References
 1. Badlands Brief — "Expand Your Thinking", URL: https://badlands.substack.com/p/expand-your-thinking
+2. Badlands Brief — "Mental Fortitude for 5G Warriors", URL: https://badlands.substack.com/p/mental-fortitude-for-5g-warriors

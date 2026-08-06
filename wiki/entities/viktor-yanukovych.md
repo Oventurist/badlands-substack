@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [ukraine, eurasian-economic-union, 2014-coup]
-sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-099.md]
+sources: [raw/a-re-alignment-of-world-systems.md, raw/badlands-news-brief-099.md, raw/how-to-rent-a-riot-the-history-of.md]
 confidence: low
 ---
 
@@ -22,3 +22,8 @@ Commentary reproduced in the December 2024 [[badlands-news-brief|Badlands News B
 ## References
 1. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
 2. Badlands Brief — "Badlands News Brief: Democrats in Disarray as Globalists Bend the Knee", URL: https://badlands.substack.com/p/badlands-news-brief-099
+3. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
+
+## The 2004 election and the Orange Revolution
+
+Yanukovych was one of the two leading candidates in Ukraine's 2004 presidential election, opposite [[viktor-yushchenko|Viktor Yushchenko]]; where Yushchenko represented pro-Western reform and closer ties to Europe and [[nato|NATO]], Yanukovych had a good working relationship with Vladimir Putin.[3] Official run-off results declared him the winner with 49.5% to Yushchenko's 46.6%, but widespread fraud allegations ignited the mass protests in Kyiv's Independence Square known as the [[orange-revolution|Orange Revolution]]; the Supreme Court annulled the result and a December 26 rerun gave Yushchenko 52%.[3] Badlands Media notes that Yushchenko's government subsequently fractured through infighting, paving the way for Yanukovych's return in 2010 and the 2014 [[euromaidan|Maidan]] events.[3]

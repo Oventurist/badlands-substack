@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bitcoin, national-security, power-projection, space-force]
-sources: [raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md]
+sources: [raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/kekistani-code-talkers.md]
 confidence: medium
 ---
 
@@ -30,7 +30,12 @@ The essay's author, an aerospace system safety engineer by profession, treated t
 
 The same essay extended Lowery's framework to the hazard of AI-generated text, audio and video overwhelming humanity's ability to distinguish truth from fabrication, arguing that the key mitigation is possession of something the AI does not have: a mechanism capable of imposing "severe physical costs" on AI bot farms.[2] Bitcoin, in this reading, associates bits of data with an auditable energy cost through micro-transactions, producing an immutable record of which data has "paid the cost" — trivial for humans, prohibitive for AI at scale.[2] The author noted that using Bitcoin to defeat bot farms is neither new nor exclusive to Softwar, citing [[michael-saylor|Michael Saylor]], [[jack-dorsey|Jack Dorsey]] and [[elon-musk|Elon Musk]] as having described comparable scenarios.[2]
 
-## References
+## Connection to the Covfefe thesis
 
+In the Badlands Brief article "Kekistani Code Talkers," the author connects Q's definition of the "stone" as the capability of projecting power directly to Softwar, remarking on the resonance between the two framings.[3] The thesis is invoked again in the conclusion, where Major [[jason-lowery|Jason Lowery]] is cited for the transition to a new war-fighting domain in space and for the national strategic significance of [[bitcoin|Bitcoin]].[3]
+
+
+## References
 1. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
 2. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
+3. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [healthcare, abortion, litigation, womens-health]
-sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-f1d.md]
+sources: [raw/badlands-news-brief-27c.md, raw/badlands-news-brief-32c.md, raw/badlands-news-brief-f1d.md, raw/gender-ideology-has-become-law.md]
 confidence: medium
 ---
 
@@ -30,3 +30,8 @@ In October 2025 Texas Attorney General [[ken-paxton|Ken Paxton]] announced arres
 1. Badlands Brief — "Badlands News Brief: Abercreepy Elites Versus Sovereign Alliance Alpha Chads", URL: https://badlands.substack.com/p/badlands-news-brief-27c
 2. Badlands Brief — "Decision Day, Disarming Deals & A Double Deportation", URL: https://badlands.substack.com/p/badlands-news-brief-32c
 3. Badlands Brief — "Badlands News Brief: Illegal Abortionists, Vendor Rebrands, & The End of War", URL: https://badlands.substack.com/p/badlands-news-brief-f1d
+4. Badlands Brief — "Gender Ideology Has Become Law", URL: https://badlands.substack.com/p/gender-ideology-has-become-law
+
+## Role in gender medicine
+
+A February 2024 Badlands Media essay by [[justin-deschamps|Justin Deschamps]] cited Planned Parenthood as the clearest American illustration of [[wpath|WPATH]]'s influence, stating that the organization permits young girls who self-diagnose as having [[gender-dysphoria|gender dysphoria]] same-day access to testosterone without a prescription or permission from their parents.[4] The essay treats this as an example of [[gender-affirming-care|gender affirmative care]] displacing [[parental-rights|parental rights]] in the United States.[4]

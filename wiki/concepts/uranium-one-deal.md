@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [uranium, russia, clinton-foundation, corruption, qanon]
-sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-49a.md, raw/disinformation-is-necessary.md, raw/everything-is-connected.md]
+sources: [raw/america-for-sale-part-3.md, raw/badlands-news-brief-49a.md, raw/disinformation-is-necessary.md, raw/everything-is-connected.md, raw/irregular-warfare.md]
 confidence: medium
 ---
 
@@ -44,8 +44,22 @@ Lange links the scandal to the [[anthony-weiner|Weiner]]–[[huma-abedin|Abedin]
 
 Badlands contributor Joe Lange invokes the Uranium One investigation at the climax of a May 2024 feature on rogue nuclear states, citing Q drop 1187 of April 19, 2018 and its "classified level highest" notation and concluding: "We were arming our enemies."[4] In his framing the significance of the Uranium One deal becomes clear only once one accepts that American political figures were profiting from helping sanctioned states acquire nuclear weapons with taxpayer money — the same charge he levels regarding [[nancy-pelosi|Nancy Pelosi]]'s undisclosed trips to [[north-korea|North Korea]] and [[armenia|Armenia]].[4]
 
+## The 37 withheld pages
+
+In "[[irregular-warfare|Irregular Warfare]]," Joe Lange revisits journalist [[john-solomon|John Solomon]]'s 2018 reporting in The Hill that, eight years after an FBI informant uncovered criminal wrongdoing inside Russia's nuclear industry, the bureau had identified 37 pages of documents that might reveal what agents told the [[barack-obama|Obama]] administration, then-Secretary of State [[hillary-clinton|Hillary Clinton]] and others about the deal — but claimed it must keep the memos secret.[5] The FBI's declaration and list of withheld records, entitled simply "Uranium One Transaction," was posted in its [[freedom-of-information-act|FOIA]] vault, and the handful of documents actually released consisted of already-public letters from members of Congress.[5] Solomon had earlier been the first to report that the FBI, under [[robert-mueller|Robert Mueller]], ran an undercover investigation into Uranium One before the Obama administration approved the sale to Rosatom.[5]
+
+Lange's explanation for the withholding is that the material remains evidence in an ongoing RICO investigation launched in 2017 by [[jeff-sessions|Jeff Sessions]] and pursued by [[john-huber|John Huber]] and [[michael-horowitz|Michael Horowitz]], whose limitations period restarts with each connected cover-up crime.[5]
+
+## Rosenstein, Mueller and the cover-up
+
+The Hill's reporting quoted in the article notes that the evidence accumulated while Clinton courted Russia, while former President [[bill-clinton|Bill Clinton]] collected a $500,000 speech fee in Moscow, and while the administration approved the sale of Uranium One to Rosatom, turning over a large share of America's untapped uranium deposits.[5] The Russian official Mikerin was charged and convicted along with some American officials, but only years later, in a case brought by [[rod-rosenstein|Rod Rosenstein]].[5] Lange argues Rosenstein delivered sweetheart plea deals on minimal charges and thereby participated in the cover-up, and that the Mueller/Comey FBI worked with the Eric Holder/Rosenstein [[department-of-justice|Justice Department]] to sweep the matter out of public view.[5] [[qanon|Q]] drop 1318's formula — if Rosenstein is dirty Mueller must be dirty, and vice versa — identifies Uranium One as the "common denominator."[5]
+
+In this account the [[russiagate-hoax|Russian collusion]] investigation was itself the cover-up for Uranium One, serving both to remove [[donald-trump|Trump]] from office and to gather and shield the underlying evidence from disclosure.[5] Q drop 3473 (July 24, 2019) links "[MUELLER]" directly to "U1."[5]
+
+
 ## References
 1. Badlands Brief — "America for Sale - Part 3", URL: https://badlands.substack.com/p/america-for-sale-part-3
 2. Badlands Brief — "Badlands News Brief: FOX Trots, Montana Maintains & Congress Convenes", URL: https://badlands.substack.com/p/badlands-news-brief-49a
 3. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
 4. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+5. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare

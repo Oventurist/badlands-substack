@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [federal-reserve, treasury, monetary-policy]
-sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-f00.md]
+sources: [raw/a-week-to-remember.md, raw/badlands-news-brief-02a.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-2b1.md, raw/badlands-news-brief-38f.md, raw/badlands-news-brief-47a.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-656.md, raw/badlands-news-brief-f00.md, raw/is-jerome-powell-a-patriot.md]
 confidence: medium
 ---
 
@@ -58,6 +58,12 @@ Reporting in late November 2024 described Yellen as "abruptly" exiting office an
 
 Treasury Secretary [[scott-bessent|Scott Bessent]] disclosed on August 12, 2025 that President [[donald-trump|Donald Trump]] had considered re-appointing Yellen as [[federal-reserve|Federal Reserve]] chair as part of a wide-ranging search for a successor to [[jerome-powell|Jerome Powell]], whose term as chairman expires in May 2026.[10] Bessent said Trump had a "very open mind" on the choice and that the administration wanted "to see what everyone's thinking."[10]
 
+## Carlson's "counter-Fed" thesis (April 2023)
+
+In his April 2023 essay "Is Jerome Powell a Patriot?", [[erik-carlson|Erik Carlson]] made Yellen's career trajectory central to his argument: [[donald-trump|Donald Trump]] "couldn't jettison Janet Yellen from the Federal Reserve fast enough," replacing her as Fed chair with [[jerome-powell|Jerome Powell]] in February 2018, after which [[joe-biden|Joe Biden]] installed her as Secretary of the [[us-department-of-the-treasury|Treasury]].[11] Carlson presented this sequence — Trump hires Powell and [[john-c-williams|John C. Williams]]; Biden rehabilitates the person Trump removed — as evidence of two opposed factions inside American financial governance.[11]
+
+Carlson further alleged that Yellen "has gone out of her way to undo any good that Powell has done," using the US Treasury to counter [[federal-reserve|Federal Reserve]] moves and thereby slowing what he characterized as the deliberate weakening of offshore [[eurodollar|Eurodollar]] holdings through higher interest rates.[11]
+
 ## References
 1. Badlands Brief — "A Week to Remember", URL: https://badlands.substack.com/p/a-week-to-remember
 2. Badlands Brief — "Badlands News Brief: World Wealth Whiplash & The Most Secure Memorandum in History", URL: https://badlands.substack.com/p/badlands-news-brief-02a
@@ -69,3 +75,4 @@ Treasury Secretary [[scott-bessent|Scott Bessent]] disclosed on August 12, 2025 
 8. Badlands Brief — "Badlands News Brief: Fake Poles, HomOlympics & Deal-Making", URL: https://badlands.substack.com/p/badlands-news-brief-4c5
 9. Badlands Brief — "It’s Our Failed ‘Resistance’ and We Can Cry if We Want To", URL: https://badlands.substack.com/p/badlands-news-brief-656
 10. Badlands Media — "Badlands News Brief: Intel Leaks, Cartel Extraditions, & Terror Designations", URL: https://badlands.substack.com/p/badlands-news-brief-f00
+11. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot

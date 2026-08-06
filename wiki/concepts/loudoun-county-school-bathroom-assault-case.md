@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [loudoun-county, virginia, education, transgender, pardons, school-boards]
-sources: [raw/badlands-news-brief-006.md]
+sources: [raw/badlands-news-brief-006.md, raw/im-not-a-biologist.md]
 confidence: medium
 ---
 
@@ -26,3 +26,11 @@ After several investigations, Virginia Governor [[glenn-youngkin|Glenn Youngkin]
 
 ## References
 1. Badlands Brief — "NATO Warmongers & Google Searches for a Way Out", URL: https://badlands.substack.com/p/badlands-news-brief-006
+
+## Treatment in "What Is a Woman?"
+
+The Loudoun County events feature in the [[daily-wire|Daily Wire]] documentary [[what-is-a-woman|"What Is a Woman?"]], which Badlands contributor [[ashe-in-america|Ashe in America]] reviewed in June 2023.[2] She summarised the case as one in which an alleged transgender female sexually assaulted two different girls in female spaces at two different schools, and in which the school board and education system covered up the assaults, ostensibly to protect the narrative and the abuser.[2]
+
+Ashe criticised the film's handling of the episode: rather than centering the rights and roles of parents in their children's education, the retelling foregrounded [[matt-walsh|Matt Walsh]]'s publicity stunt of renting a basement in order to become a resident and thereby qualify to speak at a school board meeting, presenting Walsh as the hero of Loudoun County.[2] She linked the case to her own experience of withdrawing her children from school after a similar bathroom incident, and to what she described as an intensifying trend of protecting criminals at the expense of their victims.[2]
+
+2. Badlands Brief - "I'm Not a Biologist!", URL: https://badlands.substack.com/p/im-not-a-biologist

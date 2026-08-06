@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [mk-ultra, cia, mind-control, trauma, declassified-documents]
-sources: [raw/child-sacrifice-as-a-pillar-of-deep.md]
+sources: [raw/child-sacrifice-as-a-pillar-of-deep.md, raw/four-pillars-of-government-control.md, raw/john-bobby-and-marilyn.md]
 confidence: medium
 ---
 
@@ -28,5 +28,15 @@ The article argues that a parallel line of defense protects the program: the pro
 
 Esler concludes that beyond cartoonish images of robed elites who simply enjoy the suffering of children, the sacrifice of children for mind control must be recognized as a closely guarded secret serving tactical, operational and strategic aspects of an enemy's quest for global domination.[1]
 
+## Marilyn Monroe and Monarch programming
+
+[[matthew-ehret|Matthew Ehret]] argued that the likely reason for the murder of [[marilyn-monroe|Marilyn Monroe]] lies with her psychiatrist and her involvement in MK Ultra-connected Monarch operations, rather than with the Kennedy brothers.[3] He observed that in the voluminous literature alleging that [[robert-f-kennedy|Robert F. Kennedy]] killed Monroe — produced by [[fred-otash|Fred Otash]], [[anthony-summers|Anthony Summers]], [[mike-rothmiller|Mike Rothmiller]] and [[netflix|Netflix]] — he had yet to encounter a single reference to MK Ultra, its Tavistockian management, or the broader occult takeover of Hollywood underway during the 1960s.[3] Ehret also noted that the secret grand jury on Kennedy's own assassination, organized by Rothmiller, made no mention of MK Ultra.[3]
+
 ## References
 1. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
+2. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control
+3. Badlands Brief — "John, Bobby ... and Marilyn", URL: https://badlands.substack.com/p/john-bobby-and-marilyn
+
+## Exposure by the Church Committee
+
+MK ULTRA was brought out to the public in 1975 through the sessions of the [[church-committee|Church Committee]], where [[erik-carlson|Erik Carlson]] describes it as a [[central-intelligence-agency|CIA]]-run mind control operation that created unwitting assassins through the use of drugs, torture and other psychological techniques.[2] The disclosure came from CIA Director [[william-colby|William Colby]]'s sworn testimony, which also revealed agency surveillance of American politicians and civil rights leaders, assassinations of foreign leaders and the techniques used to kill them, operations to overthrow foreign governments, and [[operation-mockingbird|Operation Mockingbird]].[2] The agency subsequently regarded Colby as a traitor for having told the truth under oath.[2]

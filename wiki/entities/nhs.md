@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [united-kingdom, health-service, antisemitism, racism, government-review]
-sources: [raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md]
+sources: [raw/badlands-news-brief-6e6.md, raw/badlands-news-brief-762.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-a82.md, raw/gender-ideology-has-become-law.md]
 confidence: medium
 ---
 
@@ -39,3 +39,10 @@ In June 2024 a ransomware attack on Synnovis disrupted pathology systems at hosp
 2. Badlands Brief — "Badlands News Brief: Shutdowns, Shakedowns, & Two Sexes", URL: https://badlands.substack.com/p/badlands-news-brief-762
 3. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 4. Badlands Brief — "Badlands News Brief: Everyone's Got a Plan ... Until They Get Trump'd", URL: https://badlands.substack.com/p/badlands-news-brief-a82
+5. Badlands Brief — "Gender Ideology Has Become Law", URL: https://badlands.substack.com/p/gender-ideology-has-become-law
+
+## Restrictions on youth gender services (2022)
+
+An October 14, 2022 Reuters report cited by Badlands Media stated that "England's National Health Service has drafted new guidelines for treating transgender youth that would call for local authorities to be alerted in some cases where young people have obtained puberty blockers and hormone therapies on the private market."[5] The interim service specification released by the NHS in October 2022 required that providers delivering the service "must be an established specialist tertiary paediatric unit with a strong partnership with mental health services; be an established academic centre with a strong track record of research in children and young people; and have robust safeguarding frameworks in place."[5]
+
+A February 2024 essay by [[justin-deschamps|Justin Deschamps]] described this as a radical departure from the [[gender-affirming-care|gender affirmative]] model advocated globally by [[wpath|WPATH]], and noted that radical trans activists and WPATH called the NHS action transphobic and claimed it would "kill trans kids" merely because it limited access to [[puberty-blockers|puberty blockers]] and sought an evidence base for the therapies.[5] The essay argued the NHS decision was appropriate given that blockers were authorized only for precocious puberty, and stated that the approach in use in [[canada|Canada]] would be prohibited under the NHS rules.[5]

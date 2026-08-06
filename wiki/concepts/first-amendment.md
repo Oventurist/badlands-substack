@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [first-amendment, free-speech, constitution, law]
-sources: [raw/a-glaring-double-standard.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-brief-f83.md, raw/badlands-brief.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f4c.md]
+sources: [raw/a-glaring-double-standard.md, raw/always-fight-back.md, raw/badlands-brief-095.md, raw/badlands-brief-9eb.md, raw/badlands-brief-a1a.md, raw/badlands-brief-c07.md, raw/badlands-brief-f83.md, raw/badlands-brief.md, raw/badlands-news-brief-148.md, raw/badlands-news-brief-228.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-c50.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f4c.md, raw/is-the-censorship-war-over.md]
 confidence: medium
 ---
 
@@ -112,3 +112,11 @@ The First Amendment was central to the September 2025 backlash against Attorney 
 
 14. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
 15. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+
+## Invocations in the 2025 censorship debate
+
+Badlands Media criticized the Department of Homeland Security under [[kristi-noem|Kristi Noem]] for warning that non-citizens could not come to America and "hide behind the First Amendment" to advocate anti-Semitic violence and terrorism, noting [[mike-benz|Mike Benz]]'s observation that a federal agency should never use such a phrase.[16]
+
+Contributor [[ryan-delarme|Ryan DeLarme]] argued that although many campus protests were organized by establishment-funded NGOs such as [[jewish-voice-for-peace|Jewish Voice for Peace]], ordinary students critical of Israel's conduct should still be permitted to speak, because in America one is allowed to criticize foreign governments and there is no "Israel exception" to the First Amendment.[16] The article also observed that the feeling of being silenced is universal — experienced by conservatives during the first Trump term and the Biden administration, and by some liberals during the Gaza campus protests — while distinguishing between those who truly abhor censorship and those who abhor it only when it targets ideas they share.[16]
+
+16. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

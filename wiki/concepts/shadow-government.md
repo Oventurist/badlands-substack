@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, deep-state, qanon, oversight, intelligence]
-sources: [raw/clowns-in-america.md]
+sources: [raw/clowns-in-america.md, raw/follow-the-money.md]
 confidence: low
 ---
 
@@ -28,5 +28,12 @@ Badlands extends the concept to the protection of global criminal networks, aski
 
 In the Badlands telling, the shadow government's own instrument was eventually turned against it: the President's Daily Brief that Bush had made "a cabal tool of control" over the presidency was used to expose treason, described as "the perfect boomerang."[1]
 
+## Untouchables and expendables
+
+In "Follow The Money," Joe Lange elaborated the shadow government's internal caste system: operatives fall into "untouchables," who are shielded from prosecution no matter how thoroughly they are exposed, and "expendables," who are sacrificed to public narratives once they become liabilities.[2] [[manuel-noriega]] and [[pablo-escobar]] were expendable — indicted, invaded and hunted so that [[george-hw-bush|George H. W. Bush]] could be cast as the hero of the war on drugs — while figures such as [[felix-rodriguez]], [[william-colby]], [[bernie-houghton]], [[paul-helliwell]] and [[michael-jon-hand]] were untouchable.[2] [[frank-nugan]] was expendable; his partner Hand escaped Australia on a false passport and lived for decades under an alias.[2] [[edwin-wilson]] is the borderline case: made expendable when his arms dealing with Libya became public, he served 25 years before FOIA documents proved he had been working for the [[central-intelligence-agency|CIA]].[2]
+
+Lange also identified the shield that protects the untouchables. In the [[castle-bank-and-trust]] tax evasion case the CIA argued that prosecution would endanger "national security," and the [[justice-department]] dropped what could have been the largest tax evasion case in history; Lange writes that he repeatedly encounters this excuse wherever illegal CIA operations are exposed.[2] The financial engine of the enterprise, in his telling, is [[money-laundering]] carried out through complicit banks such as the [[nugan-hand-bank]] and by trained operatives such as [[ramon-milian-rodriguez]].[2]
+
 ## References
 1. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
+2. Badlands Brief — "Follow The Money: The CIA is the World's Filthiest Laundromat", URL: https://badlands.substack.com/p/follow-the-money

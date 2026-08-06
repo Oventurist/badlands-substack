@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, finance, bank-failure, fdic, 2023]
-sources: [raw/badlands-news-brief-070.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-cb9.md]
+sources: [raw/badlands-news-brief-070.md, raw/badlands-news-brief-1e0.md, raw/badlands-news-brief-cb9.md, raw/is-jamie-dimon-directing-the-priorities.md]
 confidence: medium
 ---
 
@@ -41,3 +41,9 @@ The Epoch Times reported in March 2023 that the recent downfall of two sizable A
 1. Badlands Brief — "Badlands News Brief: Sudan Spirals, Epstein Entraps & Banks Bail", URL: https://badlands.substack.com/p/badlands-news-brief-070
 2. Badlands News Brief — "More Banks! And Some Weird Stuff, Too ...", URL: https://badlands.substack.com/p/badlands-news-brief-1e0
 3. Badlands Brief — "Badlands News Brief: Trump Probe, Russia/China Alliance & COVID Origins", URL: https://badlands.substack.com/p/badlands-news-brief-cb9
+
+## Acquisition by JPMorgan Chase (May 2023)
+
+First Republic was one of three U.S. banks to fail in 2023, alongside [[silicon-valley-bank|Silicon Valley Bank]] and [[signature-bank|Signature Bank]]; together the three held $532 billion in assets, more than the $526 billion (inflation-adjusted) held by the 25 banks that collapsed in 2008.[4] In May 2023 [[jpmorgan-chase|JPMorgan Chase]] acquired the substantial majority of First Republic's assets, including roughly $173 billion of loans and $30 billion of securities, and assumed approximately $92 billion of deposits, of which $30 billion were large bank deposits scheduled to be repaid post-close or eliminated in consolidation.[4] The [[federal-deposit-insurance-corporation|FDIC]] provided loss-share agreements covering acquired single-family residential and commercial loans as well as $50 billion of five-year, fixed-rate term financing, while JPMorgan did not assume First Republic's corporate debt or preferred stock.[4] [[jamie-dimon|Jamie Dimon]] said the transaction was structured to minimise costs to the Deposit Insurance Fund and was accretive to shareholders and complementary to the bank's wealth strategy.[4]
+
+4. Badlands Brief — "Is Jamie Dimon a Prophet?", URL: https://badlands.substack.com/p/is-jamie-dimon-directing-the-priorities

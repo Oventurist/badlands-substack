@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, author, disinformation]
-sources: [raw/a-look-at-recent-features-84d.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/bad-actors.md, raw/clowns-in-america.md, raw/disinformation-is-necessary.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/are-cbdcs-the-path-to-fear-or-freedom.md, raw/bad-actors.md, raw/clowns-in-america.md, raw/disinformation-is-necessary.md, raw/master-and-commander.md]
 confidence: low
 ---
 
@@ -36,9 +36,14 @@ The second half of the article develops Lange's drug-trafficking thesis, present
 
 Lange published "Disinformation is Necessary," subtitled "Deception and the Art of War," on 28 October 2025.[5] The piece opens with Sun Tzu's maxim that "the whole secret lies in confusing the enemy, so that he cannot fathom our real intent" and with Q drop 1318's question, "What would be the purpose of creating CONFUSION?"[5] Its central argument is that the [[mueller-special-counsel-investigation|Mueller special counsel investigation]] was an enemy operation that [[donald-trump|Donald Trump]] anticipated and turned against its authors by leveraging [[robert-mueller|Robert Mueller]] and [[rod-rosenstein|Rod Rosenstein]], installing [[geoffrey-berman|Geoffrey Berman]] at the [[southern-district-of-new-york|SDNY]], and using [[rudy-giuliani|Rudy Giuliani]]'s "insurance file" to introduce evidence legally.[5] The article is a continuation of his earlier feature "Do You Believe in Coincidences?", which covered the leveraging of Rosenstein and [[jeff-sessions|Jeff Sessions]]'s classified unrecusal letter to the Supreme Court.[5] It closes by promising a following installment connecting the Podestas, [[huma-abedin|Huma Abedin]] and [[september-11-attacks|9/11]].[5] Lange's work also appears at Joe Lange's Substack.[5]
 
+## "Master and Commander" (January 2023)
+
+Lange's January 25, 2023 essay "Master and Commander," subtitled "The Collapse of the Central Banking System Has Begun," advanced his long-running claim that [[donald-trump|Donald Trump]] controls the [[federal-reserve|Federal Reserve]] and that the [[rothschild-family|Rothschilds]] are no longer its puppet masters.[6] He argued Trump is a master of bankruptcy law who used [[exchange-stabilization-fund|the Exchange Stabilization Fund]] and the March 2020 Fed–Treasury merger to seize the enemy's greatest weapon and turn it against them.[6] The piece closed by promising a follow-up painting the picture of what would replace the bankrupt system, which he believed would grant unprecedented financial freedom.[6]
+
 ## References
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features-84d
 2. Badlands Brief — "Are CBDCs The Path To Fear, or Freedom?", URL: https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom
 3. Badlands Brief — "Bad Actors", URL: https://badlands.substack.com/p/bad-actors
 4. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
 5. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
+6. Badlands Brief — "Master and Commander", URL: https://badlands.substack.com/p/master-and-commander

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [intelligence, signals-intelligence, leaks, 2026]
-sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f46.md]
+sources: [raw/badlands-brief-835.md, raw/badlands-news-brief-030.md, raw/badlands-news-brief-a65.md, raw/badlands-news-brief-b02.md, raw/badlands-news-brief-e79.md, raw/badlands-news-brief-e99.md, raw/badlands-news-brief-f46.md, raw/kekistani-code-talkers.md]
 confidence: medium
 ---
 
@@ -39,17 +39,19 @@ Badlands commentary in December 2024 noted that the NSA is one of several notabl
 
 In February 2025 the NSA opened an investigation into government employees discussing fetishes and transgenderism on official government chat systems during work hours.[6] Chat logs obtained by *City Journal* showed NSA, [[cia|CIA]], and [[defense-intelligence-agency|DIA]] employees discussing polyamory, transgender surgeries, and explicit sexual topics on the NSA's Intelink messaging platform, with sources claiming the discussions were legitimized through diversity, equity and inclusion initiatives within LGBTQ+ employee resource groups.[6] The agency confirmed the authenticity of the chats and stated, "We're taking action against any and all employees who abused this system."[6] See [[nsa-intelink-chat-log-scandal|NSA Intelink chat log scandal]].[6]
 
-## References
+## Cryptographic standards and Q's framing
 
+The Secure Hash Algorithm 2 (SHA-2) family of computer security cryptographic algorithms was created by the NSA in collaboration with the National Institute of Science and Technology; it consists of six hash functions, one of which is SHA-256, the algorithm used for mining and unlocking [[bitcoin|Bitcoin]].[8] The Badlands Brief article "Kekistani Code Talkers" also cites Q drop #1002 for the statement that the NSA is "the BITE that has no CURE."[8]
+
+
+## References
 1. Badlands Brief — "Virginia Democrats Lose the Plot and Go For Tyranny", URL: https://badlands.substack.com/p/badlands-brief-835
 2. Badlands Brief — "Rare Earths, Rogue Judges, & Record Downward Revisions", URL: https://badlands.substack.com/p/badlands-news-brief-030
 3. Badlands Brief — "Badlands News Brief: Rug Pulled Reputations, Insubordination, & the Art of the Deal", URL: https://badlands.substack.com/p/badlands-news-brief-a65
 4. Badlands News Brief — "Contentious Confirmations & Conflicted Special Counsels", URL: https://badlands.substack.com/p/badlands-news-brief-b02
 5. Badlands Brief — "Badlands News Brief: Biden Commutations and Mossad Confessions", URL: https://badlands.substack.com/p/badlands-news-brief-e79
 6. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
-
 ## 2024 Israel-Iran leak
-
 NSA-attributed documents, alongside material from the [[national-geospatial-intelligence-agency|National Geospatial-Intelligence Agency]], appeared on Telegram in October 2024 detailing Israel's preparations to strike Iran after Iran's October 1 missile barrage, and were sharable within the [[five-eyes|Five Eyes]] partnership.[7] Their disclosure produced federal charges in November 2024 against [[asif-william-rahman|Asif William Rahman]], a government employee holding top secret clearance who was arrested by the [[fbi|FBI]] in Cambodia.[7]
-
 7. Badlands Brief — "Badlands News Brief: A 'Smooth Transition' Into the Second Trump Administration", URL: https://badlands.substack.com/p/badlands-news-brief-f46
+8. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers

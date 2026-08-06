@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [fbi, special-counsel, russiagate, obituary]
-sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b24.md, raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md]
+sources: [raw/badlands-brief-7b5.md, raw/badlands-news-brief-01d.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b24.md, raw/disinformation-is-necessary.md, raw/do-you-believe-in-coincidences.md, raw/irregular-warfare.md]
 confidence: medium
 ---
 
@@ -55,6 +55,18 @@ Q drop 2512 (November 30, 2018) said "MUELLER removed via DECLAS" and that he wo
 
 Badlands Media's "Do You Believe in Coincidences?" describes Mueller as the "blockade" installed to supply grounds for impeaching [[donald-trump|Donald Trump]], and argues that his [[mueller-special-counsel-investigation|investigation]] instead became "the biggest boomerang in history."[6] The final 448-page report found no evidence of collusion with Russia by Trump or anyone associated with him, and the convictions obtained against a few associates concerned unrelated charges.[6] Reporting to Attorney General [[william-barr|William Barr]] from February 14, 2019, Mueller is depicted in a Q drop as conceding that the surveillance campaign rested on the [[steele-dossier|Steele dossier]] and media corroboration of it, that the dossier's partisan funding was never taken into account, and that the FISA court was not made aware of all the details.[6] The investigation was formally ended on March 22, 2019.[6] Barr then released a summary he had written himself, which Deputy Attorney General [[rod-rosenstein|Rod Rosenstein]] signed off on, and which enabled Trump to claim complete exoneration before the full report appeared.[6]
 
+## The May 2017 meeting and the term-limit problem
+
+In "[[irregular-warfare|Irregular Warfare]]," Joe Lange examines press reports that Trump was considering Mueller to replace [[james-comey|James Comey]] as FBI director before Rosenstein named him Special Counsel.[7] Lange argues the interview was cover, because Public Law 94-503 limits an FBI director to a single term of no longer than ten years and Mueller had already served a decade — appointed by George W. Bush days before the September 11 attacks and extended by two years under [[barack-obama|Obama]].[7] Q drop 18 (November 1, 2017) asks precisely why Mueller met the president one day before the FBI announcement if he could not lawfully be offered the job.[7] Lange's answer is that Trump confronted Mueller with evidence of his crimes, above all the [[uranium-one-deal|Uranium One]] cover-up, and that Mueller sought a deal to save himself, as Q drop 2513 (November 30, 2018) asserts.[7]
+
+## Marine status and military jurisdiction
+
+The article stresses that Mueller was a Marine officer who fought in Vietnam, and that under Article 2 of the Uniform Code of Military Justice retired officers drawing retirement benefits remain subject to military jurisdiction.[7] On that basis Lange speculates that Mueller faced possible treason charges before a military tribunal and was offered the choice to cooperate or face court martial — the reason, in his account, that [[qanon|Q]] repeatedly linked the [[united-states-marine-corps|Marines]] to Mueller.[7]
+
+## Mueller as "blockade"
+
+Lange presents the Special Counsel appointment as serving two enemy purposes: removing Trump from office through impeachment pressure, and gathering the Uranium One and Obama-era evidence in order to shield it from public disclosure.[7] Quoting the Rush Limbaugh Show, he notes that Rosenstein never specified a predicate crime and gave Mueller "free rein," making the inquiry a fishing expedition; the conviction of [[paul-manafort|Paul Manafort]] concerned 2010–2014 tax evasion unrelated to Russia.[7] Q drop 3473 (July 24, 2019) labels Mueller a [BLOCKADE] and connects him to U1, the Epstein "bury & cover-up," and the "plot to remove duly elected POTUS."[7] Lange also notes that Mueller was among the officials represented in federal court by [[lisa-barsoomian|Lisa Barsoomian]] and R. Craig Lawrence.[7]
+
 ## References
 1. Badlands Brief — "Trump's Ultimatum to the Ayatollah, who is gay (allegedly)", URL: https://badlands.substack.com/p/badlands-brief-7b5
 2. Badlands News Brief — "Durham's Dance, Putin's Warning and Xi's Rebuke", URL: https://badlands.substack.com/p/badlands-news-brief-01d
@@ -62,3 +74,4 @@ Badlands Media's "Do You Believe in Coincidences?" describes Mueller as the "blo
 4. Badlands Brief — "Badlands News Brief: A Curious Car Crash, Covid Case Rates, & A Culture of Panic and Dread", URL: https://badlands.substack.com/p/badlands-news-brief-b24
 5. Badlands Brief — "Disinformation is Necessary", URL: https://badlands.substack.com/p/disinformation-is-necessary
 6. Badlands Brief — "Do You Believe in Coincidences?", URL: https://badlands.substack.com/p/do-you-believe-in-coincidences
+7. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [uk, immigration, protest, vance, starmer]
-sources: [raw/badlands-brief-739.md]
+sources: [raw/badlands-brief-739.md, raw/how-to-stop-civil-war-20.md]
 confidence: medium
 ---
 
@@ -20,5 +20,10 @@ A related claim circulating alongside the rally held that UK towns were forming 
 
 Badlands contributor Ashe in America argued that the "vigilante" label is a character-assassination framing, reading the underlying facts as British and French citizens forming neighborhood patrols for community safety, and attributed the underlying migration dynamic to the "[[great-migration|Great Migration]]," which she described as a transformational change program pushed by the [[world-economic-forum|World Economic Forum]] and its partners over two decades.[1]
 
+## Badlands critique
+
+Badlands contributor [[matthew-ehret|Matthew Ehret]] characterised the rallies as an outbreak of Crusader tribalism that captured the energy of millions of suffering UK citizens while redirecting the mob toward an emerging war with the supposed oppressors of white Christian culture.[2] He wrote that [[tommy-robinson|Tommy Robinson]]'s affiliation with Anglo-Zionist intelligence agencies has been repeatedly proven, and that neither Robinson, [[elon-musk|Elon Musk]] nor the New International Templar network led by [[jim-dowson|Jim Dowson]] ever names the financier oligarchy as the real source of the public's grievances.[2]
+
 ## References
 1. Badlands Brief — "Weapons Stockpiles & Bundt Cake Treason", URL: https://badlands.substack.com/p/badlands-brief-739
+2. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20

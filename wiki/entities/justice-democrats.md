@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [progressives, democratic-party, primaries, organizations]
-sources: [raw/badlands-brief-b56.md, raw/bernie-sanders-establishment-tool.md]
+sources: [raw/badlands-brief-b56.md, raw/bernie-sanders-establishment-tool.md, raw/george-soros-shadow-network.md]
 confidence: medium
 ---
 
@@ -24,7 +24,14 @@ Independent commentary in the Badlands Brief treated the Justice Democrats-backe
 
 A 2023 Badlands Media essay by [[ryan-delarme|Ryan DeLarme]] characterized Justice Democrats as "political groomers" who took the [[bernie-sanders|Bernie Sanders]] image and its outward philosophy and imbued [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]] with it, creating a younger, female-of-color version of the Bernie brand in order to gain a foothold with Sanders' supporters.[2] The essay argued that when observers think of the supposed left-wing oppositional faction inside the Democratic Party, they think of politicians like Ocasio-Cortez and Sanders — and that the existence of any such faction was demolished when Sanders endorsed [[joe-biden|Joe Biden]] in August 2023 and publicly attacked the independent candidacy of [[cornel-west|Cornel West]].[2]
 
+## Founding and endorsements
+
+A June 2023 Badlands Media essay reported that the Justice Democrats PAC was formed in 2017 by [[zack-exley|Zack Exley]] together with Cenk Uygur of The Young Turks and Kyle Kulinski of Secular Talk, with the stated aim of reforming the Democratic Party and taking on President [[donald-trump|Donald Trump]].[3] Exley, a political and technology consultant for the group, had previously been organizing director at [[moveon-org|MoveOn.org]] — where, the essay says, he was caught up in a rigging scandal favouring Howard Dean — and had worked for the [[bernie-sanders|Bernie Sanders]] and [[john-kerry|John Kerry]] campaigns, the UK Labour Party, Politico and the [[wikimedia-foundation|Wikimedia Foundation]].[3]
+
+The essay noted that Justice Democrats endorsed Representatives Rashida Tlaib, Ayanna Pressley and Ilhan Omar, and that it recruited [[alexandria-ocasio-cortez|Alexandria Ocasio-Cortez]].[3] It placed the PAC inside the broader [[soros-shadow-network|Soros shadow network]], the cluster of foundations and PACs it argues selects Democratic candidates before voters weigh in.[3]
+
 ## References
 
 1. Badlands Brief — "A Communist Uprising & A Globalist Humiliation Ritual", URL: https://badlands.substack.com/p/badlands-brief-b56
 2. Badlands Media — "Bernie Sanders: Establishment Tool", URL: https://badlands.substack.com/p/bernie-sanders-establishment-tool
+3. Badlands Brief — "George Soros' Shadow Network", URL: https://badlands.substack.com/p/george-soros-shadow-network

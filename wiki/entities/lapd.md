@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [police, los-angeles, 1991]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-855.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/badlands-news-brief-155.md, raw/badlands-news-brief-627.md, raw/badlands-news-brief-855.md, raw/john-bobby-and-marilyn.md]
 confidence: medium
 ---
 
@@ -31,8 +31,13 @@ On Friday, September 15, 2023, the LAPD confirmed that an armed man had been tak
 On the night of May 2, 2024, LAPD officers moved onto the campus of [[ucla|UCLA]] to end illegal encampments established by pro-Palestinian agitators, and during arrests unmasked some of those detained, exposing their faces to news cameras.[4] Coverage of the operation argued that the face masks had been adopted as a means of concealing identity while signalling political affiliation, and noted that some arrestees attempted to hide their faces after officers removed the coverings.[4] The first person unmasked in the footage had reportedly been part of a group that complained a day earlier about receiving inadequate police protection, despite advocating the abolition of the police.[4]
 
 
+## Marilyn Monroe and the Rothmiller exposes
+
+[[covert-action-magazine|Covert Action Magazine]] published a 2022 article alleging that the LAPD covered up the murder of [[marilyn-monroe|Marilyn Monroe]].[5] Former LAPD intelligence officer [[mike-rothmiller|Mike Rothmiller]] has been marketed as "the Serpico" of the department, and his exposes of corruption resulted in the shutdown of entire sections of the LAPD intelligence branches in the early 1990s.[5] [[matthew-ehret|Matthew Ehret]] questioned whether that outcome should be regarded as a good thing, noting that it presumes every LAPD intelligence officer was corrupt and disregards figures such as former LAPD intelligence officer Mike Ruppert, who exposed [[cia|CIA]] control of narcotics operations in America.[5]
+
 ## References
 1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
 2. Badlands Brief — "Badlands News Brief: California Crossroads, Selective Insurrection, & Irian Limits", URL: https://badlands.substack.com/p/badlands-news-brief-155
 3. Badlands Brief — "Badlands News Brief: Kennedy Assassins, Justice Wins & More", URL: https://badlands.substack.com/p/badlands-news-brief-627
 4. Badlands Brief — "Panic in DC ... And Israel ... Pretty Much Everywhere, Actually", URL: https://badlands.substack.com/p/badlands-news-brief-855
+5. Badlands Brief — "John, Bobby ... and Marilyn", URL: https://badlands.substack.com/p/john-bobby-and-marilyn

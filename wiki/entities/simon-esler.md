@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, contributor]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d8f.md, raw/child-sacrifice-as-a-pillar-of-deep.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-092.md, raw/badlands-news-brief-169.md, raw/badlands-news-brief-2db.md, raw/badlands-news-brief-491.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b5a.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d8f.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/gender-ideology-has-become-law.md, raw/how-your-western-brain-exposes-you.md]
 confidence: low
 ---
 
@@ -78,3 +78,19 @@ The essay analyzed [[michael-flynn|Michael Flynn]]'s January 2024 retweet of an 
 Esler concluded that campaigners may be taking bait by trying to prove Satanic elites literally kill children, when the more effective approach is to expose the visible cultural changes that reveal forms of child sacrifice, summarizing that "a culture that accepts literal child sacrifice is downstream from a culture that accepts the sacrifice of childhood innocence."[10] The piece carried the standard [[badlands-media|Badlands Media]] disclaimer that contributor articles represent the opinions of their authors, and directed readers to Esler's own Substack.[10]
 
 10. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
+
+## "Gender Ideology Has Become Law" (February 2024)
+
+Esler is credited as having assisted [[justin-deschamps|Justin Deschamps]] with the February 7, 2024 essay "Gender Ideology Has Become Law," which argued that [[canada|Canada]] entrenched [[gender-ideology|gender ideology]] in federal human rights law through decades of incremental [[lawfare|lawfare]] and by conflating the ideology with gay rights.[11] The piece also criticized [[wpath|WPATH]] and the [[gender-affirming-care|gender affirmative]] model, and cited the [[1-million-march-for-children|1 Million March for Children]] as evidence of an awakening among parents.[11]
+
+11. Badlands Brief — "Gender Ideology Has Become Law", URL: https://badlands.substack.com/p/gender-ideology-has-become-law
+
+## "How Your Western Brain Exposes You to 5G Warfare" (March 2024)
+
+On March 6, 2024, Esler published a long-form essay for [[badlands-media|Badlands Media]] arguing that the Western population's entrenchment in the left hemisphere of the brain constitutes a pre-existing vulnerability on the [[cognitive-battlefield|cognitive battlefield]] of [[fifth-generation-warfare|fifth-generation warfare]].[12] Writing as "a student of warfare" inspired by [[iain-mcgilchrist|Iain McGilchrist]]'s *[[the-master-and-his-emissary|The Master and His Emissary]]*, he contended that a war composed of weaponized stories and influence operations is by definition cognitive, and that "it is our very Western brains that are being operated on."[12]
+
+The essay applied [[anthony-giddens|Anthony Giddens]]'s concept of [[disembedding-mechanisms|disembedding mechanisms]] to news and social media consumption, describing how decontextualization and the random juxtaposition of information items train cognition away from right-hemisphere capacities.[12] Esler contrasted the [[digital-domain|digital domain]] with the [[physical-domain|physical domain]], citing *[[the-citizens-guide-to-fifth-generation-warfare|The Citizen's Guide to 5GW]]* by [[michael-flynn|General Flynn]] and [[boone-cutler|Boone Cutler]] for the injunction to "dominate the physical domain," and identified the [[apple-vision-pro|Apple Vision Pro]] as a further step in replacing genuine experience with symbolic tokens.[12]
+
+He linked the left hemisphere's preference for mechanistic models to [[scientism|scientism]], reductionism, bureaucratic expansion and what he called the woke agenda's sanitizing of the divine, and argued that much of the condition is a natural outcome of the Industrial Revolution rather than covert engineering.[12] Cautioning that the problem "runs much deeper than politics" and is not alleviated by being politically conservative, he concluded by naming doubt, uncertainty, intuition, contradiction, metaphor, holistic thinking, relationship with the divine and embodied local community as the hidden weapons of the citizen-turned-soldier: "Know the enemy's intent to weaponize your brain against you, and be free."[12] The piece carried the standard Badlands Media contributor disclaimer and directed readers to Esler's own Substack.[12]
+
+12. Badlands Brief — "How Your Western Brain Exposes You to 5G Warfare", URL: https://badlands.substack.com/p/how-your-western-brain-exposes-you

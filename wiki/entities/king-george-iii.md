@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [history, british-empire, american-revolution, monarchy]
-sources: [raw/a-new-american-renaissance.md, raw/dope-inc.md]
+sources: [raw/a-new-american-renaissance.md, raw/dope-inc.md, raw/god-and-the-declaration-of-independence.md]
 confidence: medium
 ---
 
@@ -30,3 +30,8 @@ In the account given in [[dope-inc-book|*Dope, Inc.*]], George III mandated the 
 ## References
 1. Badlands Brief — "A New American Renaissance", URL: https://badlands.substack.com/p/a-new-american-renaissance
 2. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
+3. Badlands Brief — "God and the Declaration of Independence", URL: https://badlands.substack.com/p/god-and-the-declaration-of-independence
+
+## In the Declaration essay
+
+A March 14, 2023 Badlands Media essay uses King George as the foil for its central question about the [[declaration-of-independence|Declaration of Independence]]: why did [[thomas-jefferson|Jefferson]] and company go to the effort of declaring independence upon eternal principles derived from God, rather than simply sending the King a letter saying, in effect, "you're not our king anymore," and calling it a day?[3] The essay's answer is that [[unalienable-rights|unalienable rights]] had to be grounded in a Creator rather than in any Pope or King so that no temporal power could revoke them.[3]

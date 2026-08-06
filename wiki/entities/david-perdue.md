@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [georgia, 2020-election, us-senate, grand-jury]
-sources: [raw/badlands-brief-990.md]
+sources: [raw/badlands-brief-990.md, raw/grand-jury-testimony-from-senator.md]
 confidence: medium
 ---
 
@@ -24,6 +24,19 @@ The transcript became available after Judge [[scott-mcafee|Scott McAfee]] lifted
 
 Perdue was among three Georgia figures — alongside Kemp and Senator Kelly Loeffler — who called for a signature audit shortly before the death of aide [[harrison-deal|Harrison Deal]], a sequence highlighted by [[sidney-powell|Sidney Powell]] in February 2026.[1]
 
+## Detailed account of the Reynolds call
+
+In the unsealed transcript, Perdue said that when Wade pressed him on whether the [[georgia-bureau-of-investigation|GBI]] had investigated claims arising from [[state-farm-arena|State Farm Arena]], he replied, "Not to my knowledge. Not to my satisfaction."[2] He then described a November 2021 telephone call from then-GBI Director [[vic-reynolds|Vic Reynolds]], who allegedly said, "We're not going to investigate. The governor wants me to tell you why we're not going to investigate."[2]
+
+Perdue testified that in May 2021 Reynolds had been presented with evidence of [[ballot-harvesting|ballot harvesting]] — "video evidence and cell phone evidence, along with testimony and bank records that are corroborated" — and that Reynolds "looked at that and said it was compelling [enough] to be investigated."[2] The reason Reynolds gave for standing down, according to Perdue, was that he was "a team player. If the governor doesn't want to investigate, we're not going to investigate."[2] Perdue noted for the record that Reynolds was subsequently promoted to Superior Court Judge of Cobb County by Governor Kemp in August 2022, one month before the testimony.[2]
+
+Prosecutor [[donald-wakeford|Donald Wakeford]] asked Perdue to confirm the claim that Reynolds had received compelling evidence yet declined to investigate because the governor had told him not to; Perdue answered, "That's one of the things he said, yeah."[2] Perdue further said two whistleblowers had come forward about ballot harvesting in Georgia, one of whom possessed bank statements documenting payments, along with corroborating video and cell phone evidence.[2] Reynolds told him the matter could not proceed without the witness, and Perdue asked whether whistleblower protections could be arranged.[2]
+
+## 2020 Senate race
+
+Perdue was the incumbent senator in the 2020 election but failed to reach the 50 percent threshold against [[jon-ossoff|Jon Ossoff]] despite leading by roughly 90,000 votes.[2] The ensuing runoff, held January 5, 2021, was won by Ossoff by about 55,000 votes; the victories of Ossoff and [[raphael-warnock|Raphael Warnock]] gave Democrats control of the U.S. Senate and Joe Biden a governing trifecta.[2]
+
 ## References
 
 1. Badlands Brief — "Secret Seizures, Sovereign Signals, & Unnamed Somalis Close to the Matter", URL: https://badlands.substack.com/p/badlands-brief-990
+2. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator

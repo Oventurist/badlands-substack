@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [authors, occult, mind-control]
-sources: [raw/false-flags-and-the-occult.md]
+sources: [raw/false-flags-and-the-occult.md, raw/god-and-the-declaration-of-independence.md, raw/is-the-united-states-a-nation.md]
 confidence: medium
 ---
 
@@ -20,3 +20,14 @@ The article treats Napoleon's argument as convergent with anthropological eviden
 
 ## References
 1. Badlands Brief — "False Flags and the Occult", URL: https://badlands.substack.com/p/false-flags-and-the-occult
+2. Badlands Brief — "God and the Declaration of Independence", URL: https://badlands.substack.com/p/god-and-the-declaration-of-independence
+
+## Cited in the Declaration essay
+
+Napoleon's book is cited again in the March 14, 2023 Badlands Media essay "God and the Declaration of Independence," which recommends [[shadow-men|*Shadow Men*]] as "basically an encyclopedia" on tyrants who believe in nothing but their own power yet still claim to rule on behalf of a higher power.[2]
+
+## Cited on America's founding
+
+In the November 1, 2023 Badlands Media essay "Is the United States a Nation?", [[american-hypnotist|American Hypnotist]] describes [[shadow-men|*Shadow Men: an Encyclopedia of Mind Control*]] as Napoleon's "masterwork" and notes that it devotes an entire 91-page chapter to the extraordinary vision and circumstances that gave birth to America.[3] The essay invokes Napoleon's account to argue that calling America "the land of the free" is not merely a stereotype, since few countries presented as large a problem for mankind's would-be masters as America did in her early years.[3]
+
+3. Badlands Brief — "Is the United States a Nation?", URL: https://badlands.substack.com/p/is-the-united-states-a-nation

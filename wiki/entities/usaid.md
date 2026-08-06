@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [usaid, funding, labor, regime-change]
-sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-e10.md, raw/badlands-news-brief-fe4.md, raw/days-of-thunder.md, raw/dollars-dope-and-deception.md]
+sources: [raw/a-more-perfect-labor-union.md, raw/and-iran-iran-so-far-away.md, raw/bad-actors.md, raw/badlands-news-brief-071.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-306.md, raw/badlands-news-brief-324.md, raw/badlands-news-brief-365.md, raw/badlands-news-brief-426.md, raw/badlands-news-brief-457.md, raw/badlands-news-brief-4a9.md, raw/badlands-news-brief-4e1.md, raw/badlands-news-brief-541.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-7b8.md, raw/badlands-news-brief-cb6.md, raw/badlands-news-brief-cf3.md, raw/badlands-news-brief-cff.md, raw/badlands-news-brief-e01.md, raw/badlands-news-brief-e10.md, raw/badlands-news-brief-fe4.md, raw/days-of-thunder.md, raw/dollars-dope-and-deception.md, raw/how-to-rent-a-riot-the-plausible.md, raw/how-to-rent-a-riot-the-history-of.md]
 confidence: medium
 ---
 
@@ -175,3 +175,14 @@ Benz warned that dismantling the agency carried systemic risk, saying: "We are f
 
 22. Badlands Brief — "Days of Thunder", URL: https://badlands.substack.com/p/days-of-thunder
 23. Badlands Brief — "Dollars, Dope, and Deception", URL: https://badlands.substack.com/p/dollars-dope-and-deception
+
+## Role in the plausible deniability network
+
+In its account of engineered civil unrest, Badlands Media describes USAID as the agency to which many CIA functions migrated once the [[state-department|State Department]]'s own plausible deniability layer was compromised, USAID sitting beneath the State Department umbrella.[24] Within the triangle formed by the State Department, the CIA and the Department of Defense, USAID is characterized as the funding mechanism for the operations of the wider [[plausible-deniability-network|plausible deniability network]], including the [[national-endowment-for-democracy|National Endowment for Democracy]] cut-outs and bodies such as the [[united-states-institute-of-peace|United States Institute of Peace]] and [[freedom-house|Freedom House]].[24] The article adds that the CIA now works through a global network of individuals and organizations in nearly every country "infected by the West via USAID" — what [[george-soros|George Soros]] calls "open societies" — and notes that USIP, like USAID, maintains local networks of emissaries in every country where it operates.[24]
+
+24. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
+25. Badlands Media — "How to Rent a Riot - The History of 'Nonviolence'", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-history-of
+
+## Use of Gene Sharp's methods
+
+Badlands Media states that [[gene-sharp|Gene Sharp]]'s 198 Methods of [[nonviolent-action|Nonviolent Action]] are employed by organizations such as USAID and the [[united-states-institute-of-peace|United States Institute of Peace]].[25] During Ukraine's [[orange-revolution|Orange Revolution]], USAID joined the [[national-endowment-for-democracy|National Endowment for Democracy]] and other foundations in sponsoring U.S. organizations including [[freedom-house|Freedom House]], the [[international-republican-institute|International Republican Institute]], the [[national-democratic-institute|National Democratic Institute]], the [[solidarity-center|Solidarity Center]], the [[eurasia-foundation|Eurasia Foundation]] and [[internews|Internews]], pouring millions into Ukrainian civil society to train activists in protest tactics, media manipulation and election monitoring.[25]

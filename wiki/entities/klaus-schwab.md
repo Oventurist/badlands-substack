@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [world-economic-forum, great-reset, globalism]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-2f8.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-68f.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-8a9.md, raw/badlands-news-brief-93d.md, raw/badlands-news-brief-f4c.md, raw/combating-the-transhumanist-religion.md, raw/is-the-censorship-war-over.md]
 confidence: low
 ---
 
@@ -74,3 +74,11 @@ In January 2023 The Guardian reported that the future of Schwab — "Mr Davos" f
 Badlands contributor [[matthew-ehret|Matthew Ehret]] traces Schwab's doctrine of [[stakeholder-capitalism|stakeholder capitalism]] to the 1973 [[world-economic-forum|World Economic Forum]] event at which the [[davos-manifesto|Davos Manifesto]] was crafted.[11] He notes that the [[club-of-rome|Club of Rome]]'s 1968 neo-Malthusian computer models — used to justify supposedly fixed [[limits-to-growth|limits to humanity's growth]] — were incorporated into the Forum at that same event, linking Schwab's project to the closed-system economics of [[john-stuart-mill|J. S. Mill]] and [[david-ricardo|David Ricardo]] refuted a century earlier by [[henry-c-carey|Henry C. Carey]].[11]
 
 11. Badlands Brief — "Combating the Transhumanist Religion", URL: https://badlands.substack.com/p/combating-the-transhumanist-religion
+
+## Departure from the World Economic Forum (April 2025)
+
+Badlands Media reported in late April 2025 that Schwab — described as a Kissinger acolyte, technocrat and "permanent scowler" — had stepped down as executive chairman of the [[world-economic-forum|World Economic Forum]].[12] The article repeated the claim that Schwab, the son of a Nazi collaborator, was originally recruited by a CIA-funded Harvard program to create the institution that would eventually become the World Economic Forum, where heads of industry meet and plan how to steer global capitalism, typically to their own benefit.[12]
+
+His announced successor was [[peter-brabeck-letmathe|Peter Brabeck-Letmathe]], the former [[nestle|Nestlé]] chief executive, whom the article suggested "might actually outclass" Schwab in terms of outward malevolence on account of his role in the "global water grab" and his position that water should be treated as a priced "foodstuff" rather than a human right.[12] Both men were presented as exemplars of the globalist faction contesting the [[cognitive-warfare|cognitive battlespace]] against populist movements.[12]
+
+12. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

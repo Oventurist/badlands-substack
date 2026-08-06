@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [saudi-arabia, finance, xai, kingdom-holding, saudi-purge]
-sources: [raw/badlands-news-brief-af5.md, raw/badlands-news-brief-d50.md, raw/everything-is-connected.md]
+sources: [raw/badlands-news-brief-af5.md, raw/badlands-news-brief-d50.md, raw/everything-is-connected.md, raw/hes-not-a-war-hero.md, raw/irregular-warfare.md]
 confidence: medium
 ---
 
@@ -30,7 +30,20 @@ The Saudi prince was listed among the investors in X Holdings Corp. when a feder
 
 Badlands contributor Joe Lange writes that [[qanon|Q]] identified [[saudi-arabia|Saudi Arabia]] as the largest of the cabal's puppet masters because it held the most money and control, but specifies that the operative figure was not the Saudi government: it was Prince Alwaleed, who was arrested in Saudi Arabia in 2017 along with hundreds of his allies in the royal family and government.[3] Removing the most powerful puppet master first accomplished two things in this account: it cut the strings of all his puppets and immediately made them more vulnerable, and it shut off the money supply that had sustained their power.[3] Lange asserts that Alwaleed controlled the [[central-intelligence-agency|CIA]] at the time, which made him [[donald-trump|Donald Trump]]'s single biggest threat upon taking office, and situates the Saudi purge as the first step in the sequence "SA -> NK. NK -> ARMENIA. ARMENIA -> Iran."[3]
 
+## Alleged control of John McCain
+
+A subsequent Badlands article names Alwaleed as the puppet master behind Sen. [[john-mccain|John McCain]], the same figure it identifies as controlling [[barack-obama|Barack Obama]], [[hillary-clinton|Hillary Clinton]] and [[george-w-bush|George W. Bush]].[4] Q drop 52, published three days before Alwaleed's arrest in [[saudi-arabia|Saudi Arabia]], asked what the "John M INSTITUTE" was and whether readers noticed any patterns relating to the CF — a pairing the article reads as tying the [[mccain-institute|McCain Institute]] and the [[clinton-foundation|Clinton Foundation]] to Alwaleed as parallel money laundering operations that received millions without reporting the true amounts or naming him as contributor.[4]
+
+The account asserts that Alwaleed controlled the [[central-intelligence-agency|CIA]] and thereby the media narrative, and controlled the politicians who routed taxpayer money to him through foreign aid and wars — citing as an example billions of dollars for the Iraq war that allegedly ended up in a bunker in Lebanon funding [[hezbollah|Hezbollah]] — before funneling portions back to those politicians through their foundations and institutes.[4] After Alwaleed's arrest, Q asked what bank records would provide, answering: "List names, family history, investment/ownership stakes, and point-to-point contacts."[4] The article argues those records will expose point-to-point contacts and transactions with his puppets, all of whom became vulnerable once his wealth was confiscated.[4] It also holds that McCain's [[skinny-repeal-vote|thumbs-down vote]] against Obamacare repeal was a continuation of the narrative war after McCain was "activated" by Alwaleed.[4]
+
+## The "puppet master" claim
+
+In "[[irregular-warfare|Irregular Warfare]]," Badlands contributor Joe Lange names Alwaleed as the principal foreign "puppet master" controlling the insurgency embedded in the United States government at the time [[donald-trump|Donald Trump]] took office in 2017, asserting that he "controlled the country" and exercised influence over the [[central-intelligence-agency|CIA]].[5] Lange states he will lay out the supporting evidence in a subsequent article, and the claim functions in this piece as the foreign-direction element that makes the conflict, in his framing, a genuine [[irregular-warfare|irregular war]] rather than ordinary politics.[5] The assertion is presented without documentation in the article itself.
+
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Deliberations Begin as Signal Spreads in the Info War", URL: https://badlands.substack.com/p/badlands-news-brief-af5
 2. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
 3. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+4. Badlands Brief — "He's Not A War Hero", URL: https://badlands.substack.com/p/hes-not-a-war-hero
+5. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare

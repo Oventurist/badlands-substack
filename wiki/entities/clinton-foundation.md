@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [clinton, donations, uranium, disclosure, corruption]
-sources: [raw/america-for-sale-part-3.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-a15.md]
+sources: [raw/america-for-sale-part-3.md, raw/america-for-sale-part-2.md, raw/bad-actors.md, raw/badlands-news-brief-143.md, raw/badlands-news-brief-144.md, raw/badlands-news-brief-38a.md, raw/badlands-news-brief-a15.md, raw/infiltration-not-invasion.md]
 confidence: medium
 ---
 
@@ -68,3 +68,9 @@ Commenting on the March 2024 collapse of order in Haiti and the deployment of US
 5. Badlands Brief — "Cartels, Crucibles, & Convictions", URL: https://badlands.substack.com/p/badlands-news-brief-144
 6. Badlands News Brief — "FBI Corruption, Kayfabe & Russia, Russia, Russia!", URL: https://badlands.substack.com/p/badlands-news-brief-38a
 7. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
+
+## Qatari financing of the Arab Spring
+
+Citing Sada Elbalad English News reporting on leaked emails, Badlands contributor Joe Lange states that [[hillary-clinton|Hillary Clinton]] asked [[qatar|Qatar]] to finance the so-called [[arab-spring|Arab Spring]] revolutions through a fund dedicated to the Clinton Foundation.[8] He presents this as one of two parallel money channels for the uprisings, the other being Senator [[john-mccain|John McCain]]'s use of the [[international-republican-institute|International Republican Institute]].[8] The emails surfaced after President Donald Trump announced the declassification of documents related to federal investigations into Clinton's use of a private email server, a step Lange reads as deliberate exposure of activity around the Arab Spring.[8]
+
+8. Badlands Brief — "Infiltration, Not Invasion", URL: https://badlands.substack.com/p/infiltration-not-invasion

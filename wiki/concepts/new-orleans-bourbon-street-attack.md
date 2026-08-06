@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [terrorism, new-orleans, isis, vehicle-ramming, 2025, louisiana]
-sources: [raw/badlands-news-brief-12c.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-25f.md]
+sources: [raw/badlands-news-brief-12c.md, raw/badlands-news-brief-215.md, raw/badlands-news-brief-25f.md, raw/hysteria-and-error.md]
 confidence: medium
 ---
 
@@ -48,7 +48,16 @@ The first clip, dated October 31, shows Jabbar recording from his Meta glasses w
 
 Badlands contributor [[ashe-in-america|Ashe in America]] remarked that the POV video could serve as an advertisement for Meta glasses, pairing it with the Tesla incident in Las Vegas and asking why emerging tech featured in two terror attacks on the same day, describing it as unexpectedly obvious product placement within mass trauma events.[3] She also noted that Trump ally [[dana-white|Dana White]] joined the board of [[meta-platforms|Meta]] that same Monday, weeks after Mark Zuckerberg "bent the knee" at Mar-a-Lago, and asked where the line falls between a "golden age" and a "brave new world" for emerging technology.[3]
 
+## Conservative media response
+
+In "Hysteria and Error," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] argued that the attack was exploited by figures in the conservative movement to advance an unrelated immigration narrative.[4] He described the incident as a man driving his car down Bourbon Street on New Year's morning knowing crowds would be present and intending maximum loss of life, an intention made explicit in his manifesto.[4]
+
+DeLarme stressed that the driver, [[shamsud-din-jabbar|Shamsud-Din Jabbar]], was a 42-year-old United States citizen and Army veteran, and that the border therefore had nothing to do with the attack.[4] He criticized House speaker [[mike-johnson|Mike Johnson]]'s [[fox-news|Fox News]] appearance, Louisiana attorney general [[liz-murrill|Liz Murrill]]'s January 1 interview, and Fox's since-corrected claim that the vehicle had crossed the border, when it had merely been driven around Eagle Pass a month earlier.[4] He further noted that [[isis|ISIS]] had not claimed responsibility as of his writing, and paired the incident with the [[las-vegas-cybertruck-explosion|Las Vegas Cybertruck explosion]] as events whose perpetrators were both American military veterans.[4]
+
+DeLarme's broader thesis was that the reaction reprised the post-9/11 consensus-manufacturing playbook — the [[patriot-act|Patriot Act]], the invasions of Iraq and Afghanistan, and the wider [[war-on-terror|global war on terror]] — this time with conservatives rather than liberals as the target audience.[4]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: A New Era of Terror & Monumental Lightning Strikes", URL: https://badlands.substack.com/p/badlands-news-brief-12c
 2. Badlands Brief — "Islamic Reruns, Fortune 500 Cartels, & The 119th Speaker", URL: https://badlands.substack.com/p/badlands-news-brief-215
 3. Badlands Brief — "Badlands News Brief: City States, Sabotage, & Soliloquies On Sanctions", URL: https://badlands.substack.com/p/badlands-news-brief-25f
+4. Badlands Media — "Hysteria and Error", URL: https://badlands.substack.com/p/hysteria-and-error

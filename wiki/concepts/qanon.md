@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [q, movement, information-war]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-virus-or-a-metaphor.md, raw/are-jack-smith-and-fani-willis-in.md, raw/arabian-nights.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-c5c.md, raw/celebrating-15-years-of-indictments.md, raw/countering-an-ocean-of-deceit.md, raw/everything-is-connected.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/a-virus-or-a-metaphor.md, raw/are-jack-smith-and-fani-willis-in.md, raw/arabian-nights.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-c5c.md, raw/celebrating-15-years-of-indictments.md, raw/countering-an-ocean-of-deceit.md, raw/everything-is-connected.md, raw/irregular-warfare.md, raw/jd-vance-sidley-austin-and-q-post.md, raw/kekistani-code-talkers.md]
 confidence: medium
 ---
 
@@ -68,6 +68,26 @@ The essay distinguished between critics acting in bad faith and well-meaning peo
 
 Badlands contributor Joe Lange builds a May 2024 feature around Q drop 1245, posted April 23, 2018, which asked "Any other rogue nuclear states? Define hostage. Define protection. Who is protected by rogue nuclear states?" and closed with "Trust the plan. THE WORLD IS CONNECTED."[10] The drop also asked why border states like Arizona and California are important and why Mexico is vocal against the president, which Lange reads as tying rogue nuclear states directly to drug trafficking.[10] A companion passage laid out an ordered sequence — "Think SA. Order is important. SA -> NK. NK -> ARMENIA. ARMENIA -> Iran" — which Lange uses as the roadmap for a series of articles covering [[saudi-arabia|Saudi Arabia]], [[north-korea|North Korea]], [[armenia|Armenia]] and [[iran|Iran]] in turn.[10] Other drops cited include number 1187 of April 19, 2018 on classified matters and [[nancy-pelosi|Nancy Pelosi]]'s missile-purchase remarks, number 430 of December 22, 2017, and number 577 of January 21, 2018 concerning the [[snow-white-supercomputers|Snow White]] systems; Lange also notes Q's remark that "clowns" were losing control in Armenia, the reference to "[4] Clown UIDs here," and Q's caution that some terms carry multiple meanings.[10] He adds that Armenia was the top country in the world for Google searches on "qanon," attributing this to [[central-intelligence-agency|CIA]] operators running a narrative war from machines located there.[10]
 
+## Q drops in the "Irregular Warfare" analysis
+
+Badlands contributor Joe Lange's article "[[irregular-warfare|Irregular Warfare]]" is built almost entirely on close reading of Q drops.[11] Drop 3369 (July 8, 2019) is used to characterize a media 90 percent owned by six corporations as a narrative weapon; drop 3662 (December 7, 2019) supplies the "SHEEP NO MORE" and "THE GREAT AWAKENING" framing that Lange credits with winning the narrative battlefield.[11] Drops 1711 and 1318 supply the "logical thinking" argument that [[donald-trump|Trump]] would not have tolerated a hostile [[department-of-justice|DOJ]] unless something was happening behind the scenes, and that document "slow walking" reflected ongoing grand jury work rather than obstruction.[11] Drop 1807 (August 3, 2018) lists the FBI Midyear chain of command with each official marked fired, removed, or cooperating.[11]
+
+Other drops cited include 2937 on military intelligence jurisdiction and "umbrella surveillance"; 17 and 14 on presidential authority over the [[united-states-marine-corps|Marines]]; 18 on why [[robert-mueller|Mueller]] met the president a day before the FBI announcement despite term limits; 1285 on Public Law 94-503; 2513 on Mueller facing Uranium One charges and "working to save himself"; 3473 labeling the Special Counsel a blockade; 8 on [[huma-abedin|Huma Abedin]] and Admiral Rogers scrubbing nominations to verify oaths; and 4784 and 3035 on [[lisa-barsoomian|Lisa Barsoomian]] and the "PAY-FOR-PLAY SPIDER WEB."[11] Lange treats the drops as an authoritative decoder for public events, describing them as having "peeled back the curtain" for anyone willing to look.[11]
+
+
+## Post 238 and reader bias
+
+[[q-post-238|Q Post 238]], published on November 30, 2017, named the Obamas, the Clintons, George Soros, 9/11 and the law firm [[sidley-austin|Sidley Austin]], and closed with the phrase "happy hunting."[12] Badlands contributor [[erik-carlson|Erik Carlson]] used the drop in September 2024 to illustrate how followers process the posts: he had skimmed past it in real time because Sidley Austin meant nothing to him personally, whereas the recognisable names in other drops commanded his attention.[12]
+
+Carlson extended the point into a broader caution for the "truth community," arguing that the [[deep-state|Deep State]] feeds disinformation calibrated to what researchers already believe, that shared falsehoods discredit the accurate work around them, and that no one — including the awakened — is immune from being fooled.[12] He also cited Q's statement that some guilty parties will escape punishment because they must remain in place for the nation to function.[12]
+
+## Cryptographic puzzles in the drops
+
+The Badlands Brief article "Kekistani Code Talkers" argues that Q's use of [[cryptography|cryptographic puzzles]] was deliberate, and that their cryptographic character has kept Anons worldwide attempting to decode nearly everything since the first drop.[13] Drop #35, posted 1 November 2017 at 10:56:38 PM Eastern, introduced the ciphertext signature "4, 10, 20," and drop #40, posted 2 November 2017 at 2:18:35 AM Eastern, supplied the clue needed to find the key; applying the [[a1z26-cipher|A1Z26 cipher]] yields D, J, T for Donald John Trump.[13] The article contends that valid decode methodologies are sourced from within the drops themselves, pointing to instructions such as "timestamps have meaning," "misspellings matter," and "future proves past," which led Anons to further keys such as deltas.[13]
+
+Other drops cited include #269, which refers to the "door of all doors" and clarifies parenthetically that it is informational in nature; #5 and #6, which give a key and the instruction to follow the money; #1127, which states that communications methods are intentionally different for national security purposes; and #1002, which states that "symbolism will be their downfall" and that the [[national-security-agency|NSA]] is "the BITE that has no CURE."[13] Q is also said to define the "stone" as the capability of projecting power.[13]
+
+
 ## References
 1. Badlands Brief — "A Hypnotist's Take on Israel, Palestine, and Q", URL: https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine
 2. Badlands Brief — "A Virus, or a Metaphor?", URL: https://badlands.substack.com/p/a-virus-or-a-metaphor
@@ -79,3 +99,6 @@ Badlands contributor Joe Lange builds a May 2024 feature around Q drop 1245, pos
 8. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
 9. Badlands Brief — "Countering an Ocean of Deceit", URL: https://badlands.substack.com/p/countering-an-ocean-of-deceit
 10. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+11. Badlands Brief — "Irregular Warfare", URL: https://badlands.substack.com/p/irregular-warfare
+12. Badlands Brief — "JD Vance, Sidley Austin, & Q Post #238", URL: https://badlands.substack.com/p/jd-vance-sidley-austin-and-q-post
+13. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers

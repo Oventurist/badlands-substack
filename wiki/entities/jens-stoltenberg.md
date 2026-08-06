@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nato, norway, ukraine, russia, diplomacy]
-sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e7c.md, raw/dark-equation.md]
+sources: [raw/badlands-news-brief-006.md, raw/badlands-news-brief-119.md, raw/badlands-news-brief-3f0.md, raw/badlands-news-brief-3c3.md, raw/badlands-news-brief-6bf.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-b22.md, raw/badlands-news-brief-c18.md, raw/badlands-news-brief-da3.md, raw/badlands-news-brief-e7c.md, raw/dark-equation.md, raw/how-to-rent-a-riot-the-plausible.md]
 confidence: medium
 ---
 
@@ -89,3 +89,9 @@ In an interview published Sunday, September 17, 2023 by Germany's Funke Media Gr
 NATO Secretary-General Jens Stoltenberg attended the [[2023-bilderberg-meeting|2023 Bilderberg meeting]] in Lisbon, Portugal.[11] The Badlands Media article "Dark Equation" listed him among the "illustrious figures" who joined the artificial-intelligence-focused gathering, alongside Ukrainian Foreign Minister [[dmytro-kuleba|Dmytro Kuleba]], Pfizer chief [[albert-bourla|Albert Bourla]] and [[peter-thiel|Peter Thiel]].[11]
 
 11. Badlands Brief — "Dark Equation", URL: https://badlands.substack.com/p/dark-equation
+
+## "From tanks to tweets"
+
+Badlands Media credits Stoltenberg, as former NATO Secretary General, with popularizing the "from tanks to tweets" formulation in 2019 — the idea that most modern warfare occurs in the cognitive battlespace and that shaping public consensus is critical to achieving objectives, often regime change.[12] The article observes that in the relevant video Stoltenberg implies the real threat of disinformation campaigns comes from NATO's adversaries and that the alliance must build capacity against foreign malign influence, without acknowledging that [[nato|NATO]], the United States and the EU wrote the book on hybrid warfare and have used it in countless regime-change attempts.[12]
+
+12. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible

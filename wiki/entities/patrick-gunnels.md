@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, trash-talk, reading-epic-threads, podcast]
-sources: [raw/anthony-fauci.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md]
+sources: [raw/anthony-fauci.md, raw/badlands-media-show-schedule-78b.md, raw/badlands-media-show-schedule-e18.md, raw/happy-thanksgiving.md]
 confidence: low
 ---
 
@@ -20,7 +20,12 @@ The January 2023 [[badlands-media|Badlands Media]] schedule listed Patrick Gunne
 
 A second Badlands Media schedule post, published January 3, 2023 to open the 2023 broadcast year, carried the same listing and description, and reiterated that all network shows air live on the Patel Patriot Rumble channel with replays archived on the Badlands Media library channel.[3]
 
+## Thanksgiving 2023 reflection
+
+Gunnels appeared among the contributors offering short Thanksgiving reflections in a holiday post published by [[badlands-media|Badlands Media]] on November 23, 2023.[4] His contribution was a single wry line: "I'm thankful that MAGA thinks I'm interesting enough to give me a job."[4]
+
 ## References
 1. Badlands Brief — "Anthony Fauci", URL: https://badlands.substack.com/p/anthony-fauci
 2. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-78b
 3. Badlands Brief — "Badlands Media Show Schedule", URL: https://badlands.substack.com/p/badlands-media-show-schedule-e18
+4. Badlands Brief — "Happy Thanksgiving!", URL: https://badlands.substack.com/p/happy-thanksgiving

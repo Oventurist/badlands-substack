@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [catholic-church, religion, italy]
-sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7bf.md]
+sources: [raw/badlands-news-brief-09e.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-7bf.md, raw/is-jerome-powell-a-patriot.md]
 confidence: medium
 ---
 
@@ -27,7 +27,14 @@ The Vatican announced on Monday, April 21, 2025 that [[pope-francis|Pope Francis
 
 Following the May 19, 2025 telephone call between [[donald-trump|Donald Trump]] and [[vladimir-putin|Vladimir Putin]], Badlands commentary noted that the Vatican, as represented by the Pope, had stated it would be very interested in hosting negotiations between Moscow and Kiev.[3] Contributor GhostofBasedPatrickHenry wrote that Trump had chosen the Vatican as the stage for his meeting with Putin.[3]
 
+## As one of the "three cities" (Carlson, 2023)
+
+In the April 3, 2023 essay "Is Jerome Powell a Patriot?", [[erik-carlson|Erik Carlson]] listed Vatican City alongside the [[city-of-london|City of London]] and the [[district-of-columbia|District of Columbia]] as one of three cities on earth that come under no national authority — each with separate laws, no taxes, its own police force and its own flag of independence, and each, in his telling, a corporation.[4] Together, he claimed, the three control politicians, courts, educational institutions, the food supply, natural resources, foreign policies, economies, the media and the money flow of most nations.[4]
+
+Within that division, Carlson assigned the Vatican control of world religion, the City of London the world's financial system, and Washington, D.C. the world's military, with overlap among them.[4] He noted that Vatican City is not part of Italy or Rome, that the Vatican is said to hold massive amounts of money which the City of London controls, and that unlike the City of London it is an independent nation.[4] He also relayed a theory that the three red stars on the District of Columbia's flag denote D.C., Vatican City and the City of London.[4]
+
 ## References
 1. Badlands Brief — "Preemptive Pardons, Syrian Sanctions, & Preparations for Putin", URL: https://badlands.substack.com/p/badlands-news-brief-09e
 2. Badlands Brief — "Badlands News Brief: A Coming Conclave & More Musical Chairs", URL: https://badlands.substack.com/p/badlands-news-brief-5c8
 3. Badlands News Brief — "The Bilateral Bromance & A Misled Grand Jury", URL: https://badlands.substack.com/p/badlands-news-brief-7bf
+4. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot

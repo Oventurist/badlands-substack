@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, event, conference]
-sources: [raw/a-look-at-recent-features-84d.md, raw/a-mysterious-masterclass-in-multi.md, raw/badlands-brief-8e2.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-5f2.md]
+sources: [raw/a-look-at-recent-features-84d.md, raw/a-mysterious-masterclass-in-multi.md, raw/badlands-brief-8e2.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-4b3.md, raw/badlands-news-brief-5f2.md, raw/join-us-again-at-gart-deadwood.md, raw/last-call-for-gart-4-dallas.md]
 confidence: low
 ---
 
@@ -40,6 +40,18 @@ GART 4 took place from April 19 to 21, 2024 in Dallas, Texas, with Badlands Medi
 
 In mid-July 2025, [[badlands-media|Badlands Media]] announced that GART 9 in Deadwood, South Dakota was exactly one month away, promoting both in-person and virtual tickets through badlandsmedia.tv/events.[6] During the event the network planned to premiere [[brad-zerbo|Brad Zerbo]]'s new film [[codex-911|CODEX 911]], available with either an in-person or a virtual ticket.[6]
 
+## Announcement of GART 9 (July 2025)
+
+On July 7, 2025, [[badlands-media|Badlands Media]] host [[burning-bright|Burning Bright]] published an announcement inviting readers to join the network "AGAIN" at GART: Deadwood, confirming that the event would be the ninth stop along the Great American Restoration Tour and that it would fall the following month in [[deadwood-south-dakota|Deadwood, South Dakota]].[7] The announcement described the tour stops as an opportunity to meet and network with fellow patriots and as "an awakening pressure cooker where a natural sifting toward sovereignty, nationalism and community-building takes place."[7] It characterised the Deadwood event as the third GART "of the new American Golden Age" and the network's second time touching down close to the actual Badlands.[7]
+
+Badlands said it would likely return to the panel format used at its previous Deadwood event, after experimenting with other formats at the preceding few stops, promising three-to-four-host panels and "macro topics galore," in addition to the informal off-programme activity the network refers to as shenanigans.[7]
+
+At the time of the announcement VIP tickets were sold out, while full-weekend General Admission tickets remained available; those granted access to a welcome reception and party on the Friday night along with three days of panels.[7] In-person tickets were sold through the network's TicketSpice page, with a separate page for virtual tickets.[7]
+
+## GART 4 final promotion (April 2024)
+
+A separate "Last Call" notice published on April 14, 2024 dated the full [[gart-4-dallas|GART 4: Dallas]] weekend as April 18–21, 2024, with the tour reaching Texas for the first time on Thursday, April 18, and identified the conference venue as the [[hilton-dallas-southlake|Hilton Dallas Southlake]].[8] The expected speaker list comprised [[jon-herold|Jon Herold]], [[kate-buckley|Kate Buckley]], [[zak-paine|Zak Paine]], [[chris-paul|Chris Paul]], [[patrick-gunnels|Patrick Gunnels]], [[just-human|Just Human]], [[canncon|CannCon]], [[gmoney|GMoney]], [[ashe-in-america|Ashe in America]], [[jordan-sather|Jordan Sather]], [[alpha-warrior|Alpha Warrior]], [[absolute-1776|Absolute1776]] and [[ghost-of-bph|Ghost of BPH]].[8] General Admission included a Friday night Welcome Reception plus breakfast and lunch all weekend, an extremely limited VIP package added a Thursday night dinner and meet-and-greet, and single-day tickets were released in limited quantity.[8]
+
 ## References
 1. Badlands Brief — "A Look At Recent Features", URL: https://badlands.substack.com/p/a-look-at-recent-features
 2. Badlands Brief — "A Mysterious Masterclass in Multi Sensory Deception", URL: https://badlands.substack.com/p/a-mysterious-masterclass-in-multi
@@ -47,3 +59,5 @@ In mid-July 2025, [[badlands-media|Badlands Media]] announced that GART 9 in Dea
 4. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
 5. Badlands Brief — "Israel Goes Hot (or Not?) as the Info War Accelerates", URL: https://badlands.substack.com/p/badlands-news-brief-4b3
 6. Badlands Brief — "Badlands News Brief: Double Comey Drama & Magic Moon Soil", URL: https://badlands.substack.com/p/badlands-news-brief-5f2
+7. Badlands Brief — "Join us (AGAIN!) at GART: Deadwood!", URL: https://badlands.substack.com/p/join-us-again-at-gart-deadwood
+8. Badlands Brief — "Last Call for GART 4: Dallas!", URL: https://badlands.substack.com/p/last-call-for-gart-4-dallas

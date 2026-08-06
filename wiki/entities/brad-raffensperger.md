@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [elections, georgia, 2020-election]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-695.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-e31.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-695.md, raw/badlands-news-brief-1d1.md, raw/badlands-news-brief-3bc.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-a15.md, raw/badlands-news-brief-b19.md, raw/badlands-news-brief-e31.md, raw/grand-jury-testimony-from-senator.md]
 confidence: low
 ---
 
@@ -66,3 +66,13 @@ In February 2025, as Georgia House Republicans advanced a bill by Representative
 Separately, Badlands commentary on Fulton County's refusal to release its 2020 ballots invoked Raffensperger's well-known telephone call with [[donald-trump|Donald Trump]], arguing that Trump had known the underlying facts and had tried to give Georgia officials an "out."[8]
 
 8. Badlands News Brief — "Disagreements Among Allies & Pausing Kash for Cash", URL: https://badlands.substack.com/p/badlands-news-brief-e31
+
+## The disputed Pro V&V audit
+
+Around November 17, 2020, Raffensperger announced that an audit of voting machines in five counties had been completed by [[pro-v-and-v|Pro V&V]], a voting systems testing laboratory, using forensic techniques, and that it found no sign of foul play.[9] Critics noted that Pro V&V was not a certified auditing firm and that its participation created a conflict of interest, since it had certified the same equipment before the election.[9] Raffensperger named Cobb, Douglas, Floyd, Morgan, Paulding and Spalding counties as subjects of the audit.[9]
+
+Open records responses obtained by Georgia resident [[bob-coovert|Bob Coovert]] from several of those counties did not substantiate that the audit occurred, and a memo from Pro V&V president Jack Cobb to Michael Barnes of Raffensperger's office acknowledging the audit request was dated July 16, 2021 — more than eight months after the audit was said to have been performed — with image metadata confirming that creation date.[9] Coovert said Raffensperger included the results of the audit in a ten-page letter to the U.S. Congress after promising on December 22, 2020 to investigate "250 credible cases of fraud" with "the whole of government."[9]
+
+Separately, prosecutor [[nathan-wade|Nathan Wade]] cited investigations by the Secretary of State's office, alongside those of the [[georgia-bureau-of-investigation|GBI]], when pressing former Senator [[david-perdue|David Perdue]] before the Fulton County special grand jury to concede that nothing illegal had occurred at [[state-farm-arena|State Farm Arena]] on election night 2020.[9]
+
+9. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [qanon, truth-community, deep-state, memetics]
-sources: [raw/badlands-news-brief-fcb.md, raw/countering-an-ocean-of-deceit.md]
+sources: [raw/badlands-news-brief-fcb.md, raw/countering-an-ocean-of-deceit.md, raw/in-defense-of-q-we-were-never-told.md]
 confidence: medium
 ---
 
@@ -26,6 +26,11 @@ Writing in June 2025, the [[american-hypnotist|American Hypnotist]] author judge
 
 He argued that many people will never accept [[q-operation|Q]]'s legitimacy until the Storm hits, and that this is acceptable because the goal is not to reach everyone but to reach the reachable.[2] He also urged that there is never a point at which learning the truth is a bad use of one's time, whether the [[great-awakening|Great Awakening]] arrives next week or next decade.[2]
 
+## Preparedness framing (2024)
+
+Writing in July 2024, the same author stated that he was certain the Storm would happen "one way or another," and argued that helping friends, family and acquaintances understand Q beforehand "could spell the difference between life and death when the storm comes."[3] His reasoning was psychological rather than logistical: when it appears that everything is over and there is no coming back, people tend to lose composure entirely and become liable to destructive acts against themselves and others.[3] He said he personally expected to feel no fear when the Storm hit, because he knew what it was and had been anticipating it, and that if he could he would transmit that understanding to everyone in order to spare them the existential horror of believing the world was ending.[3] He acknowledged that some readers would consider this an extreme position but declined to soften it.[3] The framing formed part of the rationale for his [[in-defense-of-q-series|In Defense of Q]] series and his conception of the [[digital-soldiers|Digital Soldier]] role.[3]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Devolution Digs, Storm Stirring & Leverage", URL: https://badlands.substack.com/p/badlands-news-brief-fcb
 2. Badlands Brief — "Countering an Ocean of Deceit", URL: https://badlands.substack.com/p/countering-an-ocean-of-deceit
+3. Badlands Brief — "In Defense of Q - We Were Never Told to Sit Still", URL: https://badlands.substack.com/p/in-defense-of-q-we-were-never-told

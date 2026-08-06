@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [cia, reagan, iran, nicaragua, covert-operations]
-sources: [raw/badlands-news-brief-50f.md, raw/dollars-dope-and-deception.md]
+sources: [raw/badlands-news-brief-50f.md, raw/dollars-dope-and-deception.md, raw/missed-opportunities.md]
 confidence: low
 ---
 
@@ -27,3 +27,11 @@ The financing arrangements that produced the affair followed from [[congress|Con
 ## References
 1. Badlands News Brief — "Alaska For Peace, Iranian Objections, & A Mid-Decade Census", URL: https://badlands.substack.com/p/badlands-news-brief-50f
 2. Badlands Brief — "Dollars, Dope, and Deception", URL: https://badlands.substack.com/p/dollars-dope-and-deception
+
+## Financial and logistical networks
+
+[[adnan-khashoggi|Adnan Khashoggi]] served as the chief middleman in the Iran-Contra arms and weapons pipelines, orchestrating the transfer of U.S. weapons via Israel to Iran to fund off-the-books operations during a congressional arms embargo.[3] Financial trails from these deals frequently routed through the [[bank-of-credit-and-commerce-international|Bank of Credit and Commerce International]], from which Khashoggi borrowed heavily for arms purchases backed by Saudi and U.S. elements.[3] The British arms broker [[douglas-leese|Douglas Leese]] worked on covert arms packages overlapping Iran-Contra timelines, alongside commissions on programs such as [[al-yamamah-arms-deal|Al-Yamamah]].[3]
+
+[[j-stanley-pottinger|J. Stanley Pottinger]], a former Assistant Attorney General, was cited in indictments for advising Iranian arms exporters including [[cyrus-hashemi|Cyrus Hashemi]] on evading U.S. embargoes with shell companies and phony invoices — methods aligning with the covert pipelines that supplied Iran to fund the Nicaraguan Contras.[3] [[robert-maxwell|Robert Maxwell]], widely regarded as an asset of Israeli intelligence, collaborated on arms transfers to Iran in the mid-1980s, and former Israeli intelligence figure [[ari-ben-menashe|Ari Ben-Menashe]] handled Iran-Contra deals.[3] Logistics ran in part through [[southern-air-transport|Southern Air Transport]], a CIA-affiliated carrier whose aircraft, after the scandal erupted in 1986, relocated to Ohio bases servicing the empire of [[les-wexner|Les Wexner]].[3] Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] argued that [[jeffrey-epstein|Jeffrey Epstein]] was embedded in these networks as a financial fixer.[3]
+
+3. Badlands Brief — "Missed Opportunities", URL: https://badlands.substack.com/p/missed-opportunities

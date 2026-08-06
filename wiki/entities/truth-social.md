@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [social-media, trump, platform]
-sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md]
+sources: [raw/a-virus-or-a-metaphor.md, raw/badlands-brief-625.md, raw/badlands-brief-774.md, raw/badlands-news-brief-1cc.md, raw/badlands-news-brief-1ed.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-7e0.md, raw/badlands-news-brief-b60.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-df8.md, raw/badlands-news-brief-f0e.md, raw/control-through-language.md, raw/has-trumps-whole-life-been-a-sting.md]
 confidence: low
 ---
 
@@ -89,3 +89,10 @@ Truth Social's parent, [[trump-media-and-technology-group|Trump Media and Techno
 
 11. Badlands Brief — "Badlands News Brief: Trump 2.0, FBI Enablers & Collegiate Idiots", URL: https://badlands.substack.com/p/badlands-news-brief-f0e
 12. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
+
+
+## Domain registration as evidence of long-range planning (Carlson, 2024)
+
+In a June 15, 2024 Badlands feature, [[erik-carlson|Erik Carlson]] cited the Truth Social domain name as evidence that [[donald-trump|Donald Trump]] had been preparing his confrontation with the [[deep-state|Deep State]] for many years.[13] Carlson wrote that the domain was purchased in 2011 — four years before Trump descended the escalator to announce his presidential bid — and argued that Trump therefore understood a decade in advance that social media platforms would eventually ban him and his supporters.[13]
+
+13. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting

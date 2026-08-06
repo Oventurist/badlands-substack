@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [badlands-media, filmmaker, september-11, gart]
-sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-d46.md]
+sources: [raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-58e.md, raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-721.md, raw/badlands-news-brief-91b.md, raw/badlands-news-brief-a04.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-b0f.md, raw/badlands-news-brief-d46.md, raw/happy-thanksgiving.md, raw/last-call-for-gart-deadwood-101.md]
 confidence: medium
 ---
 
@@ -57,6 +57,10 @@ Badlands Media presented the essay as the filmmaker's back story and as the pers
 
 Zerbo's original film CODEX 911 was slated to premiere at the GART Deadwood event, with Badlands Media promoting virtual tickets for the screening in August 2025.[10]
 
+## Thanksgiving 2023 reflection
+
+Brad C.G. Zerbo was among the [[badlands-media|Badlands Media]] contributors who supplied a short Thanksgiving reflection for the network's holiday post of November 23, 2023.[11] He wrote that he was thankful for "such a wonderful community who have shown me that hope here in America was not lost," describing that hope as "simply hidden in a silent Majority that has revealed itself to be more vibrant than I could've ever imagined," and wished readers a blessed Thanksgiving.[11]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Epstein Angst, Autopen Privilege, & Migrant Cash Cards", URL: https://badlands.substack.com/p/badlands-news-brief-1a7
@@ -69,3 +73,9 @@ Zerbo's original film CODEX 911 was slated to premiere at the GART Deadwood even
 8. Badlands Brief — "Shake-Ups at the Fed & Signal From the Kremlin", URL: https://badlands.substack.com/p/badlands-news-brief-a31
 9. Badlands Brief — "Badlands News Brief: Manufactured Intelligence & Major Victories", URL: https://badlands.substack.com/p/badlands-news-brief-b0f
 10. Badlands Brief — "Obama Sweats, Hamas Flexes, & the UN Self Owns", URL: https://badlands.substack.com/p/badlands-news-brief-d46
+11. Badlands Brief — "Happy Thanksgiving!", URL: https://badlands.substack.com/p/happy-thanksgiving
+12. Badlands Brief — "Last Call for GART: Deadwood", URL: https://badlands.substack.com/p/last-call-for-gart-deadwood-101
+
+## Codex 9/11 Saturday premiere at GART 9
+
+In the August 13, 2025 "last call" post for [[gart-9-deadwood|GART: Deadwood]], [[burning-bright|Burning Bright]] described Zerbo as "our own Brad Zerbo" and announced that his new feature-length documentary _Codex 9/11_ would premiere on the Saturday of the event.[12] The premiere was included in the virtual ticket package, making GART 9 what Badlands called a particularly unique stop on the [[great-american-restoration-tour|Great American Restoration Tour]].[12]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [finance, cabal, deep-state, globalism]
-sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-re-alignment-of-world-systems.md, raw/control-the-financial-system-control.md, raw/control-through-language.md, raw/does-the-cia-still-control-iran.md]
+sources: [raw/a-journey-of-ever-changing-truths.md, raw/a-re-alignment-of-world-systems.md, raw/control-the-financial-system-control.md, raw/control-through-language.md, raw/does-the-cia-still-control-iran.md, raw/in-defense-of-abraham-lincoln-and.md, raw/is-jerome-powell-a-patriot.md]
 confidence: low
 ---
 
@@ -51,15 +51,33 @@ In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-
 
 In a side note, Carlson traced the British Cabal's hostility to Russia to the US Civil War, when in his account the Russian Navy blocked British assistance to the South and allowed the North to win — a grievance he says was never forgiven.[4] He wrote that the Cabal responded by weaponizing communism to destroy Russia and holding it in a prison-like state as the Soviet Union until the Russian people broke free of "the City of London chains," and that Vladimir Putin, Russia and [[donald-trump|Donald Trump]] are today treated as threats to that world control.[4]
 
-## References
-1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
-2. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
-3. Badlands Brief — "Control the Financial System, Control the World", URL: https://badlands.substack.com/p/control-the-financial-system-control
-4. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
-
 ## Carlson on the banking system and the 1953 coup
 
 In "Does the CIA Still Control Iran?", [[erik-carlson|Erik Carlson]] stated flatly that "the City of London has always controlled America."[5] He argued that when the Red Coats were expelled in 1776 it was believed America had become a free nation, and while "taxation without representation" ended, the City of London never stopped controlling the States; the US banking system, he wrote, is still controlled from that one-square-mile area within London's city limits.[5] He added that efforts are being made behind the scenes by [[donald-trump|Donald Trump]] and his allies to cut these strings, but that it is a very difficult task.[5]
 
 Carlson invoked this claim as the context for the [[1953-iranian-coup|1953 Iranian coup]], in which the [[central-intelligence-agency|CIA]] acted, in his phrasing, for its "British puppet masters" after [[mohammad-mosaddegh|Mohammad Mossadegh]] nationalized Iranian oil and expelled British Petroleum.[5] He concluded the essay by attributing continuing control of many actors inside [[iran|Iran]] jointly to the CIA and [[mi6|MI6]].[5]
+
+## Role in the American Civil War
+
+[[matthew-ehret|Matthew Ehret]] writes that by the onset of the [[american-civil-war|Civil War]] the City of London was not interested in allowing the USA to get out from under water, and that with the gold-backed pound sterling it ensured the manipulation of gold prices and orchestrated the buyout of U.S. gold reserves.[6] When [[abraham-lincoln|Abraham Lincoln]] sought loans to execute the war, both Wall Street and international banking houses granted them only at excessive interest rates of 20 to 25 percent.[6] Russian Ambassador to London de Brunow reported to Moscow in January 1861 that the English government "at the bottom of its heart, desired the separation of North America into two republics, which will watch each other jealously and counterbalance one the other," so that England, at peace and in commerce with both, "would dominate them, restraining them by their rival ambitions."[6]
+
+After Lincoln's assassination the City of London and its American agents on Wall Street waged a new war against the [[greenbacks|greenbacks]], culminating in the [[specie-resumption-act|Specie Resumption Act]], which tied the republic's currency to gold and submitted the nation to London's speculative controls.[6]
+
+## The three sovereign cities
+
+In "Is Jerome Powell a Patriot?" Carlson describes three cities on earth that come under no national authority — the City of London, the [[district-of-columbia|District of Columbia]] and [[vatican|Vatican City]] — each with separate laws, no taxes, its own police force and its own flag of independence, and each in his account actually a corporation.[7] Together, he writes, they control politicians, courts, educational institutions, the food supply, natural resources, foreign policy, economies, the media and the money flow of most nations: the City of London controls the world's financial system, the Vatican world religion, and Washington, D.C. the world's military.[7] He illustrates the relationship with the *Mad Max: Beyond Thunderdome* character Master Blaster, the small figure riding on the shoulders of a hulking brute — London and the Vatican riding on D.C.[7]
+
+Carlson elaborates that British Parliament does not apply to the City of London, though unlike the Vatican it is not an independent nation; the one-square-mile City is separate from the rest of London and England, with its own city hall, mayor, taxes, police, laws, flag and crest.[7] Within that square mile he places the Rothschild-controlled [[bank-of-england|Bank of England]], Lloyds of London, the London Stock Exchange, all British banks, branch offices of 384 foreign banks and 70 US banks, newspaper and publishing monopolies, and the worldwide Freemasonry headquarters — a money cartel he calls "THE CROWN."[7]
+
+## LIBOR, SOFR and the loss of financial control
+
+Carlson argues that the June 30, 2023 replacement of [[libor|LIBOR]] by [[sofr|SOFR]] moved control of benchmark interest rates from the City of London to the US [[federal-reserve|Federal Reserve]], with [[donald-trump|Trump]]'s appointees [[jerome-powell|Jerome Powell]] and [[john-c-williams|John C. Williams]] as the instruments.[7] He frames the broader thesis that the US financial system has been controlled by foreign powers since the nation's founding, citing Wall Street's funding of both the Nazis and the Soviet Union and American entry into both World Wars against overwhelming public opposition as symptoms of that control.[7]
+
+## References
+1. Badlands Brief — "A Journey of Ever-changing Truths", URL: https://badlands.substack.com/p/a-journey-of-ever-changing-truths
+2. Badlands Brief — "A Re-Alignment of World Systems", URL: https://badlands.substack.com/p/a-re-alignment-of-world-systems
+3. Badlands Brief — "Control the Financial System, Control the World", URL: https://badlands.substack.com/p/control-the-financial-system-control
+4. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
 5. Badlands Brief — "Does the CIA Still Control Iran?", URL: https://badlands.substack.com/p/does-the-cia-still-control-iran
+6. Badlands Brief — "In Defense of Abraham Lincoln and the Greenbacks", URL: https://badlands.substack.com/p/in-defense-of-abraham-lincoln-and
+7. Badlands Brief — "Is Jerome Powell a Patriot?", URL: https://badlands.substack.com/p/is-jerome-powell-a-patriot

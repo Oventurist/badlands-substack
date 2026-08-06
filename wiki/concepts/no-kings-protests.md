@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [protests, immigration, anti-trump, mobilization]
-sources: [raw/badlands-news-brief-155.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6e6.md]
+sources: [raw/badlands-news-brief-155.md, raw/badlands-news-brief-540.md, raw/badlands-news-brief-623.md, raw/badlands-news-brief-69d.md, raw/badlands-news-brief-6e6.md, raw/how-to-rent-a-riot-the-plausible.md]
 confidence: medium
 ---
 
@@ -44,3 +44,9 @@ Badlands contributor [[brad-zerbo|Brad Zerbo]] responded that the irony of the m
 3. Badlands Brief — "Fair Trade, Debt Slavery, & Your Mom", URL: https://badlands.substack.com/p/badlands-news-brief-623
 4. Badlands Brief — "Badlands News Brief: Assassinations, Celebrations, & Another World War III", URL: https://badlands.substack.com/p/badlands-news-brief-69d
 5. Badlands Brief — "Badlands News Brief: Familiar Formulas, Blue Skies, & Antisemitic Nonchalance", URL: https://badlands.substack.com/p/badlands-news-brief-6e6
+
+## Alleged NGO organizing lineage
+
+Badlands Media links the "No Kings" coalition trainings of 2024–2025 to the [[horizons-project|Horizons Project]], co-led by [[maria-stephan|Maria Stephan]], describing the trainings as teaching "nonviolent" strategies to counter perceived authoritarianism.[6] The article places Horizons among the organizations connected to what it calls the CIA/DoD NGO swarm, alongside its claimed involvement in the Black Lives Matter protests of 2020, and treats the trainings as an application of [[nonviolent-action|nonviolent action]] doctrine developed at the [[united-states-institute-of-peace|United States Institute of Peace]].[6]
+
+6. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible

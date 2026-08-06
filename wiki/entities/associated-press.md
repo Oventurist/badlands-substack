@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, wire-service, legacy-media]
-sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e99.md, raw/behold-a-trojan-horse.md]
+sources: [raw/badlands-news-brief-040.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-670.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-d24.md, raw/badlands-news-brief-d5d.md, raw/badlands-news-brief-e99.md, raw/behold-a-trojan-horse.md, raw/is-the-censorship-war-over.md]
 confidence: medium
 ---
 
@@ -57,3 +57,9 @@ In February 2025 the AP was banned from covering White House events and travelli
 
 7. Badlands Brief — "Ukrainian Whiplash & NatSec Fetishes", URL: https://badlands.substack.com/p/badlands-news-brief-e99
 8. Badlands Brief — "Behold, a Trojan Horse", URL: https://badlands.substack.com/p/behold-a-trojan-horse
+
+## Exclusion from White House events over the Gulf of America dispute
+
+Badlands Media reported that the second Trump administration denied The Associated Press access to events after the wire service refused to adopt the administration's renaming of the Gulf of Mexico as the "Gulf of America."[9] Contributor [[ryan-delarme|Ryan DeLarme]] listed the episode among the administration's shortcomings on free speech, writing that regardless of the legalities — and despite admitting to "significant schadenfreude" at the AP's treatment — the action was "trending in a certain direction."[9] He offered the counterfactual of Joe Biden removing Fox News from a press event for refusing to acknowledge gender pronouns, arguing conservatives would have been up in arms, and warned that the right was increasingly embracing the behaviours it had spent four years criticizing.[9] For details see [[gulf-of-america-renaming|Gulf of America renaming]].[9]
+
+9. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

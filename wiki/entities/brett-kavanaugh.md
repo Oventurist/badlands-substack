@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [supreme-court, judiciary, confirmation-hearings]
-sources: [raw/badlands-brief-07c.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d50.md]
+sources: [raw/badlands-brief-07c.md, raw/badlands-news-brief-065.md, raw/badlands-news-brief-757.md, raw/badlands-news-brief-d50.md, raw/jd-vance-sidley-austin-and-q-post.md]
 confidence: medium
 ---
 
@@ -32,8 +32,13 @@ At the December 4, 2024 oral arguments over Tennessee's ban on gender-affirming 
 
 Reporting on the [[supreme-court-of-the-united-states|Supreme Court]]'s August 22, 2024 order concerning Arizona's proof-of-citizenship voting law noted that at least one of Kavanaugh or Chief Justice [[john-roberts|John Roberts]] joined the four justices who denied the [[republican-national-committee|Republican National Committee]]'s other request.[4]
 
+## Confirmation support from Amy Chua
+
+During Kavanaugh's Supreme Court confirmation fight, in which he was attacked by senators including [[kamala-harris|Kamala Harris]], [[yale-law-school|Yale]] professor [[amy-chua|Amy Chua]] wrote a letter vouching for his character.[5] Chua was subsequently accused in the press of partying inappropriately with students, which Badlands contributor [[erik-carlson|Erik Carlson]] characterised as a character assassination of the kind directed at those who cross the [[deep-state|Deep State]].[5] Chua and her husband [[jed-rubenfeld|Jed Rubenfeld]]'s daughter clerked for Kavanaugh, as did [[usha-vance|Usha Vance]], wife of [[jd-vance|JD Vance]].[5]
+
 ## References
 1. Badlands Brief — "Supreme Conflicts, Criminal Probes, & A Ceasefire", URL: https://badlands.substack.com/p/badlands-brief-07c
 2. Badlands Brief — "The Dye's Been Cast Out. The Round Table is Set.", URL: https://badlands.substack.com/p/badlands-news-brief-065
 3. Badlands Brief — "Badlands News Brief: Pardon Me ... No, But Seriously. PLEASE Pardon Me.", URL: https://badlands.substack.com/p/badlands-news-brief-757
 4. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
+5. Badlands Brief — "JD Vance, Sidley Austin, & Q Post #238", URL: https://badlands.substack.com/p/jd-vance-sidley-austin-and-q-post

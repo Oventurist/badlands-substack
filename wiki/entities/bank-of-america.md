@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [banking, finance, argentina, wall-street]
-sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-d61.md]
+sources: [raw/badlands-news-brief-021.md, raw/badlands-news-brief-53f.md, raw/badlands-news-brief-a66.md, raw/badlands-news-brief-aed.md, raw/badlands-news-brief-d61.md, raw/follow-the-money.md]
 confidence: low
 ---
 
@@ -40,9 +40,14 @@ Badlands contributor [[justin-deschamps|Justin Deschamps]] compared the episode 
 
 Deschamps contended that the harm is widely under-appreciated: in the modern technocratic age the mere existence of an investigation can act against a citizen's interests, effectively reversing the presumption of innocence, since agents questioning friends, family and business contacts create the impression that "if there's smoke, there's fire."[5] Until the public recognizes these "subtle subversions" of freedom, he wrote, "we will continue to suffer under the yoke of tyranny."[5]
 
+## Alleged cartel laundering (1980s)
+
+According to FAIR reporting cited by Badlands contributor Joe Lange, [[ramon-milian-rodriguez]], chief accountant for the [[medellin-cartel]], testified to Congress that he dealt with representatives of US banks who were not on the official employment rolls, naming Bank of America and Citicorp — now [[citigroup]] — as the two institutions involved.[6] Lange adds that Bank of America would go on to play a role in the BCCI fraud in the Middle East, which he calls the biggest CIA bank collapse in history.[6]
+
 ## References
 1. Badlands Brief — "Seditious Overreactions, Billion Dollar Bailouts, & NATO-Style Guarantees", URL: https://badlands.substack.com/p/badlands-news-brief-021
 2. Badlands Brief — "Badlands News Brief: Devastation at Davos & the Dawn of Denuclearization", URL: https://badlands.substack.com/p/badlands-news-brief-53f
 3. Badlands Brief — "The President of Precedent & a Trapped Economy", URL: https://badlands.substack.com/p/badlands-news-brief-a66
 4. Badlands Brief — "Badlands News Brief: The Garbage Man Cometh to Take out the Trash", URL: https://badlands.substack.com/p/badlands-news-brief-aed
 5. Badlands News Brief — "Bakhmut Kaput, Legal Lake & Elitist Exposure", URL: https://badlands.substack.com/p/badlands-news-brief-d61
+6. Badlands Brief — "Follow The Money: The CIA is the World's Filthiest Laundromat", URL: https://badlands.substack.com/p/follow-the-money

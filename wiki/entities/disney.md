@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [corporations, media, americana, boycotts]
-sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a3b.md]
+sources: [raw/a-communist-plot-to-take-over-america.md, raw/badlands-brief-0a2.md, raw/badlands-news-brief-1c8.md, raw/badlands-news-brief-3b0.md, raw/badlands-news-brief-3c1.md, raw/badlands-news-brief-46b.md, raw/badlands-news-brief-4c3.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-9b2.md, raw/badlands-news-brief-a3b.md, raw/has-trumps-whole-life-been-a-sting.md]
 confidence: medium
 ---
 
@@ -84,3 +84,10 @@ The filing reported fiscal 2023 revenues of $88.9 billion, a seven percent incre
 8. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 9. Badlands News Brief — "Embattled Mayors, Peacemakers & Signal Setters", URL: https://badlands.substack.com/p/badlands-news-brief-9b2
 10. Badlands Brief — "Badlands News Brief: The DOJ Deploys All Assets and an Infamous Politico Dies", URL: https://badlands.substack.com/p/badlands-news-brief-a3b
+
+
+## Icahn and Peltz takeover attempts (2024)
+
+A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] noted that billionaire investors [[carl-icahn|Carl Icahn]] and [[nelson-peltz|Nelson Peltz]] had both recently been in the news for unsuccessfully attempting to take control of Disney, which Carlson described as a "money-bleeding and woke corporation."[11]
+
+11. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting

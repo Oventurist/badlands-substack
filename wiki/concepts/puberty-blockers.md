@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [medicine, gender-medicine, nhs, pediatrics]
-sources: [raw/badlands-news-brief-a15.md, raw/badlands-news-brief-eca.md]
+sources: [raw/badlands-news-brief-a15.md, raw/badlands-news-brief-eca.md, raw/gender-ideology-has-become-law.md, raw/im-not-a-biologist.md]
 confidence: medium
 ---
 
@@ -27,7 +27,20 @@ Esler contended that if the controversy amounted to a moral panic, it was a just
 ## References
 1. Badlands Brief — "Badlands News Brief: Trump Turns the Tide as Putin Sends Signals", URL: https://badlands.substack.com/p/badlands-news-brief-a15
 2. Badlands Brief — "Badlands News Brief: Credit Suisse, Escalation & the Bidens", URL: https://badlands.substack.com/p/badlands-news-brief-eca
+3. Badlands Brief — "Gender Ideology Has Become Law", URL: https://badlands.substack.com/p/gender-ideology-has-become-law
 
 ## Susan Bradley's recantation (2023)
 
 Canadian psychiatrist [[susan-bradley|Susan Bradley]], who founded a pediatric gender clinic in 1975 and whose clinic began prescribing puberty blockers around 2000, publicly repudiated the practice in March 2023.[2] Bradley said the blocker-and-affirmation model — since adopted widely by medical establishments including in the United States — can cement a child's confusion out of which they would otherwise likely grow, and she raised concerns about the drugs' side effects.[2] Her account noted that under her earlier therapy-focused approach most patients outgrew their feelings of being transgender over time.[2] See [[gender-dysphoria|gender dysphoria]].[2]
+
+## Off-label use for gender dysphoria
+
+A February 2024 Badlands Media essay by [[justin-deschamps|Justin Deschamps]] noted that puberty blockers have only been authorized for the treatment of "precocious puberty," and that when prescribed for that indication the effect is transient, with children soon free to resume growing into adults.[3] When prescribed for [[gender-dysphoria|gender dysphoria]], by contrast, the drugs are intended to halt puberty in a way that pushes most recipients toward hormone therapy and permanent bodily change.[3] Because this is off-label use, the essay argued the medication has not been well investigated as a treatment for gender dysphoria.[3]
+
+The article further criticized [[wpath|WPATH]]'s position that access should not require a clinical diagnosis at all — that a youngster who "feels incongruent" has a right to delay puberty — arguing this opens a floodgate in which decades of research on true clinical dysphoria is disregarded.[3] It contrasted this with England's [[nhs|NHS]], whose October 2022 interim service specification restricted provision and called for local authorities to be alerted in some cases where young people obtained blockers or hormones on the private market.[3] See [[gender-affirming-care|gender affirmative care]].[3]
+
+## Lupron and the "reversibility" claim
+
+Reviewing the documentary [[what-is-a-woman|"What Is a Woman?"]] in June 2023, Badlands contributor [[ashe-in-america|Ashe in America]] singled out the claim that pausing puberty with Lupron is completely reversible as among the central myths propagated by gender theory advocates, noting that Lupron is the same chemical castration drug known for its use with sex offenders.[4] She placed the drug within a broader pipeline in which post-operative transgender patients face a lifelong battle of medications, additional surgeries and therapies - an industry she described as booming and worth billions, with detransitioner [[scott-newgent|Scott Newgent]] quoting surgery alone at "$70,000 a pop."[4]
+
+4. Badlands Brief - "I'm Not a Biologist!", URL: https://badlands.substack.com/p/im-not-a-biologist

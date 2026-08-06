@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [treasury, ofac, sanctions, terrorism-designation]
-sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-861.md, raw/badlands-brief-c5b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e9a.md, raw/badlands-brief.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e01.md]
+sources: [raw/a-conflict-of-interest.md, raw/a-seismic-shift.md, raw/badlands-brief-2c5.md, raw/badlands-brief-6bf.md, raw/badlands-brief-6f4.md, raw/badlands-brief-861.md, raw/badlands-brief-c5b.md, raw/badlands-brief-dc6.md, raw/badlands-brief-e9a.md, raw/badlands-brief.md, raw/badlands-news-brief-138.md, raw/badlands-news-brief-12c.md, raw/badlands-news-brief-116.md, raw/badlands-news-brief-201.md, raw/badlands-news-brief-52f.md, raw/badlands-news-brief-644.md, raw/badlands-news-brief-919.md, raw/badlands-news-brief-cb9.md, raw/badlands-news-brief-d1d.md, raw/badlands-news-brief-e01.md, raw/master-and-commander.md]
 confidence: high
 ---
 
@@ -116,6 +116,13 @@ On Tuesday, June 24, 2025, the Treasury Department announced through its [[offic
 In February 2025 the Treasury Department's payment records system became the object of litigation over access by the [[department-of-government-efficiency|Department of Government Efficiency]].[20] Three union groups sued Secretary [[scott-bessent|Scott Bessent]] for allegedly sharing their members' information with [[elon-musk|Elon Musk]]'s cost-cutting team, prompting U.S. District Judge [[colleen-kollar-kotelly|Colleen Kollar-Kotelly]] to issue a temporary order on February 5 limiting read-only access to Treasury officials and two DOGE employees, [[tom-krause|Tom Krause]] and [[marko-elez|Marko Elez]].[20] Elez, who had been linked to offensive social media posts, resigned the next day.[20]
 
 ## References
+
+## Merger with the Federal Reserve thesis (March 2020)
+
+Badlands commentary has focused heavily on the March 2020 emergency lending architecture as a moment of institutional fusion between the Treasury and the [[federal-reserve|Federal Reserve]].[21] Under that arrangement the Fed financed a special purpose vehicle for each emergency facility while the Treasury, drawing on the [[exchange-stabilization-fund|Exchange Stabilization Fund]], made an equity investment in each SPV and took the "first loss" position — meaning in substance that the Treasury, not the Fed, was buying the securities and backstopping the loans, with the Fed acting as banker and provider of financing and [[blackrock|BlackRock]] hired to execute the trades and administer the vehicles on the Treasury's behalf.[21] Contemporaneous commentary described this as the federal government nationalizing large swaths of the financial markets and as a scheme that essentially merged the Fed and Treasury into one organization.[21]
+
+Because the Treasury sits within the executive branch and the Exchange Stabilization Fund is controlled by the Treasury and the president and exempt from Congressional approval, [[joe-lange|Joe Lange]] argued in "Master and Commander" that this made [[donald-trump|Donald Trump]] the effective Fed chairman and placed the most powerful central bank in the world under presidential control.[21] He added that Trump directed the fund toward bailing out American companies struggling during the pandemic rather than distressed foreign central banks, its customary modern use, and concluded that the Federal Reserve and the Treasury were thereafter "working for the American people, not the central banks."[21]
+
 
 1. Badlands Brief — "A Conflict of Interest", URL: https://badlands.substack.com/p/a-conflict-of-interest
 2. Badlands Brief — "A Seismic Shift", URL: https://badlands.substack.com/p/a-seismic-shift

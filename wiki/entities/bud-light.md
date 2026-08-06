@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [brands, brewing, boycott, marketing, culture-war]
-sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e86.md, raw/control-through-language.md]
+sources: [raw/badlands-news-brief-024.md, raw/badlands-news-brief-13b.md, raw/badlands-news-brief-208.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-5eb.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-bf6.md, raw/badlands-news-brief-cdb.md, raw/badlands-news-brief-e54.md, raw/badlands-news-brief-e86.md, raw/control-through-language.md, raw/get-woke-go-broke.md]
 confidence: medium
 ---
 
@@ -63,6 +63,10 @@ In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-
 
 Carlson maintained the trans advertising campaign was deliberate rather than a blunder — "they aren't really that stupid" — and that destroying an American brand Americans identify with, and the American economy with it, was the goal.[11] While saying he was not telling anyone to support a company pushing such messaging, he cautioned that consumers boycotting American firms may be unwittingly carrying out the [[cabal|Cabal]]'s will, since foreign competitors pick up the lost business.[11]
 
+## Sponsorship of a TikTok trans influencer (2023 commentary)
+
+In his April 2023 essay "Get Woke, Go Broke," [[erik-carlson|Erik Carlson]] recounted telling his 13- and 15-year-old sons that the trans person famous on TikTok was now sponsored by Bud Light and Nike, and being met with "who?" and "why would you think we'd know who you are talking about?"[12] Carlson took his sons' indifference as evidence that such figures may have far less cultural reach than audiences are led to believe, and that mentally well young people raised in religiously conservative homes may be largely immune to the messaging.[12] He placed the sponsorship within the wider [[esg|ESG]] dynamic in which corporations upset the majority of their customer base to appease a tiny fraction of people who are not customers at all.[12]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: Pedo Islands, Polling Panic & Cage Fights", URL: https://badlands.substack.com/p/badlands-news-brief-024
 2. Badlands Brief — "Badlands News Brief: Hunters Hunted, Gender Confusion & the Spiritual War", URL: https://badlands.substack.com/p/badlands-news-brief-13b
@@ -87,3 +91,4 @@ Badlands contributor [[justin-deschamps|Justin Deschamps]] argued that the conta
 
 10. Badlands Brief — "Badlands News Brief: Lake Round 2, Woke Brokeness & the Soros Slug", URL: https://badlands.substack.com/p/badlands-news-brief-e86
 11. Badlands Brief — "Control Through Language", URL: https://badlands.substack.com/p/control-through-language
+12. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke

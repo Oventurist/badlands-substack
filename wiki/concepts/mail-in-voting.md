@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, voting, election-integrity, congress]
-sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-f1a.md, raw/biden-inc-flips.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-11c.md, raw/badlands-news-brief-711.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-f1a.md, raw/biden-inc-flips.md, raw/inside-the-modern-elections-casino.md]
 confidence: medium
 ---
 
@@ -54,10 +54,16 @@ A December 2024 Badlands feature argued that mass mail-in voting, introduced und
 
 The article situated this within a broader thesis that the COVID-19 pandemic was weaponized to enable election interference: lockdowns and fear campaigns were said to have justified the expansion of mail voting, while complicit media outlets dismissed integrity concerns as conspiracy theories and platforms including Twitter and Facebook suppressed investigative reporting in coordination with government agencies.[6] These allegations reflect the outlet's [[deep-state|Deep State]] framework and are not supported by adjudicated findings.[6]
 
+## Keshel's off-year turnout argument
+
+Election analyst [[seth-keshel|Seth Keshel]] argued in April 2025 that universal or "excessive" mail-in voting is one of the structural advantages that weight modern American elections toward establishment-aligned candidates, alongside [[automatic-voter-registration|Automatic Voter Registration]] and [[ballot-harvesting|ballot harvesting]].[7] Citing the [[2025-wisconsin-supreme-court-election|April 2025 Wisconsin Supreme Court race]], he wrote that to say Democrats had "mastered mail-ballot turnout in off-year elections, when turnout is expected to be much lower, is an understatement," noting that roughly 600,000 votes had won the equivalent Wisconsin contests in 2018 and 2019.[7]
+
 ## References
+
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
 2. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
 3. Badlands Brief — "A Not so Brief Full of Sovereign SIGNAL", URL: https://badlands.substack.com/p/badlands-news-brief-711
 4. Badlands Brief — "Badlands News Brief: “Terrifying” Trade Alliances, Pedagogue Payouts, & A Bondi Barn Burner", URL: https://badlands.substack.com/p/badlands-news-brief-7bb
 5. Badlands Brief — "Badlands News Brief: Epstein Barr, Resonant Summits, & A White House Whirlwind", URL: https://badlands.substack.com/p/badlands-news-brief-f1a
 6. Badlands Brief — "Biden, Inc. Flips", URL: https://badlands.substack.com/p/biden-inc-flips
+7. Badlands Brief — "Inside the Modern Elections Casino", URL: https://badlands.substack.com/p/inside-the-modern-elections-casino

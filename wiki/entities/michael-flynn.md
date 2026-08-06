@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [military, cbdc, intelligence, national-security]
-sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f44.md, raw/clowns-in-america.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/dont-bring-shiny-rocks-to-digital.md]
+sources: [raw/are-we-entering-the-millennial-reign.md, raw/badlands-news-brief-0ad.md, raw/badlands-news-brief-099.md, raw/badlands-news-brief-120.md, raw/badlands-news-brief-298.md, raw/badlands-news-brief-3ae.md, raw/badlands-news-brief-46e.md, raw/badlands-news-brief-579.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-747.md, raw/badlands-news-brief-7bb.md, raw/badlands-news-brief-824.md, raw/badlands-news-brief-af7.md, raw/badlands-news-brief-b26.md, raw/badlands-news-brief-c93.md, raw/badlands-news-brief-ee6.md, raw/badlands-news-brief-f44.md, raw/clowns-in-america.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/how-your-western-brain-exposes-you.md]
 confidence: low
 ---
 
@@ -139,3 +139,9 @@ Esler analyzed the video against *The Citizen's Guide to Fifth-Generation Warfar
 An April 2023 Badlands Media essay cited a piece by Flynn comparing artificial intelligence to nuclear warfare and arguing that AI is already aimed at the American public within the domain of [[fifth-generation-warfare|fifth-generation warfare]].[20] The quoted passage states that "foreign-born AI-driven psychological programming has emerged as a formidable weapon in the arsenal of fifth-generation warfare," that "it wreaks havoc on the social, political and psychological fabric of our nation," and that although the methods of attack differ from conventional ones, the devastation it causes inflicts lasting damage on a nation's core.[20] The essayist used Flynn's framing to support his own argument that [[bitcoin|Bitcoin]] micro-transactions could impose "severe physical costs" on AI-generated content and thereby help distinguish authentic communication from machine-generated fabrication.[20]
 
 20. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
+
+## The physical domain doctrine (cited March 2024)
+
+In a March 2024 [[badlands-media|Badlands Media]] essay, [[simon-esler|Simon Esler]] cited *[[the-citizens-guide-to-fifth-generation-warfare|The Citizen's Guide to 5GW]]*, which Flynn co-authored with [[boone-cutler|Boone Cutler]], for its claim that the majority of [[fifth-generation-warfare|fifth-generation warfare]] takes place in the [[digital-domain|digital domain]], and for the resulting advice to "dominate the [[physical-domain|physical domain]]" as a direct means of cutting through mind control and censorship.[21] Esler used the doctrine as the practical counterpart to his argument that left-hemisphere entrenchment leaves Western populations exposed on the [[cognitive-battlefield|cognitive battlefield]].[21]
+
+21. Badlands Brief — "How Your Western Brain Exposes You to 5G Warfare", URL: https://badlands.substack.com/p/how-your-western-brain-exposes-you

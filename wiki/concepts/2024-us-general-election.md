@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, 2024, united-states, election-security]
-sources: [raw/badlands-news-brief-74c.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-cba.md]
+sources: [raw/badlands-news-brief-74c.md, raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-cba.md, raw/inside-the-modern-elections-casino.md]
 confidence: medium
 ---
 
@@ -66,7 +66,16 @@ Badlands commentary described the environment as "the thick of the fog of war," 
 
 The Telegraph reported that roughly 2,000 migrants were travelling north through Mexico by foot and convoy in an attempt to reach the United States before a possible Trump return to the White House, having covered 90 miles in five days from Tapachula on the Guatemalan border with about 1,000 miles remaining.[3] Organizers described the march as "their exodus," and a second convoy was planned to depart on 5 November, deliberately timed for Election Day so that [[joe-biden|Joe Biden]] and [[kamala-harris|Kamala Harris]] "know we are heading their way."[3] The report noted Trump's demand for the death penalty for migrants who kill US citizens and his mass-deportation platform, alongside an existing arrangement between the Biden administration and the Mexican government that had already made the journey far harder.[3]
 
+## Keshel's post-election "casino" analysis
+
+In April 2025, election analyst [[seth-keshel|Seth Keshel]] argued that the 2024 result should be understood probabilistically: if the election were run ten times with slightly different variables, [[donald-trump|Donald Trump]] would almost certainly not win every time.[4] He observed that [[kamala-harris|Kamala Harris]] trailed [[joe-biden|Joe Biden]]'s 2020 vote count in 44 states but exceeded it in six — Utah, Maine, North Carolina, Wisconsin, Nevada and Georgia — four of which were critical battlegrounds, while lagging badly in California, New York, Florida and Texas, which drove down her national total.[4] Removing Georgia, Nevada, Wisconsin and North Carolina from Trump's column would have left him at 264 electoral votes, short of the 270 needed.[4]
+
+Keshel contended that the system was "concentrated on delivering winning totals in the battleground states only," rather than in safe red or blue states, and credited [[automatic-voter-registration|Automatic Voter Registration]] not yet having fully taken hold in Pennsylvania for Trump's survival there.[4] He noted that AVR states went 18-2 for Biden in 2020 and that Harris won only five electoral votes in 2024 from non-AVR jurisdictions.[4] He read pre-election media messaging that Harris would lose the popular vote but win the [[electoral-college|Electoral College]] as a trailed plan that, had it succeeded, would also have pushed conservatives to demand a national popular vote.[4]
+
+Keshel further argued that where the top of the ticket could not be stopped, down-ballot impacts were minimized, pointing to Senate races in Wisconsin, Nevada, Michigan and Arizona and to U.S. House contests in California where two Democrats declared victory in December, as well as a Maine House district Trump carried for a single electoral vote.[4] He noted that Trump overperformed with minority voters — predominantly Black in Georgia, Wisconsin and North Carolina, and largely Hispanic, Asian and Filipino in Nevada.[4]
+
 ## References
 1. Badlands News Brief — "The Day of Days Has Arrived ...", raw/badlands-news-brief-74c.md
 2. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 3. Badlands Brief — "Badlands News Brief: Election-Mongering and Electioneering as Shenanigans Abound", URL: https://badlands.substack.com/p/badlands-news-brief-cba
+4. Badlands Brief — "Inside the Modern Elections Casino", URL: https://badlands.substack.com/p/inside-the-modern-elections-casino

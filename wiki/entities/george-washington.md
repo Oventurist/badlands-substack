@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [president, american-history, founding-fathers]
-sources: [raw/avoiding-wwiii.md, raw/badlands-brief-095.md, raw/badlands-news-brief-017.md, raw/donald-trump-and-george-washington.md]
+sources: [raw/avoiding-wwiii.md, raw/badlands-brief-095.md, raw/badlands-news-brief-017.md, raw/donald-trump-and-george-washington.md, raw/kekistani-code-talkers.md]
 confidence: medium
 ---
 
@@ -38,8 +38,14 @@ In a letter to his brother after the battle, Washington wrote: "By the all-power
 
 [[erik-carlson|Erik Carlson]] invoked the episode in July 2024 to frame the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]] in Butler, Pennsylvania — some 30 miles from the Monongahela battlefield in present-day Pittsburgh and 269 years and four days later — as a parallel act of divine protection, arguing that both Washington and [[donald-trump|Donald Trump]] were chosen and shielded by God: one to make America, the other to make America great again.[4]
 
+## Intelligence network and the Culper Code Book
+
+As a general struggling to win a war with an army that was perpetually undermanned, undertrained, and undersupplied, Washington relied increasingly on an unseen weapon: a secret intelligence network.[5] The story of that underground spy network is described as replete with intrigue, including letters written in invisible ink, a rare female agent known only as Agent 355, and the execution of the spy [[nathan-hale|Nathan Hale]].[5] The [[culper-spy-ring|Culper Spy Ring]], organized in 1778 by Major [[benjamin-tallmadge|Benjamin Tallmadge]], used a code book of seven hundred and sixty-three numbers representing words, names, and places to protect its communications and the identities of its informants.[5] Washington and his allies were insurrectionists inside British colonies and traitors to the crown, and despite geographical advantages they faced the constant threat of discovery by loyalists.[5]
+
+
 ## References
 1. Badlands Brief — "Avoiding WWIII", URL: https://badlands.substack.com/p/avoiding-wwiii
 2. Badlands Brief — "Moves and Countermoves", URL: https://badlands.substack.com/p/badlands-brief-095
 3. Badlands Brief — "Badlands News Brief: Tracking Resignations, Scare Events & the Death of Taxes", URL: https://badlands.substack.com/p/badlands-news-brief-017
 4. Badlands Brief — "Donald Trump and George Washington", URL: https://badlands.substack.com/p/donald-trump-and-george-washington
+5. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers

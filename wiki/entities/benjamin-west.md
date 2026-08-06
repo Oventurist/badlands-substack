@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [history, art, american-revolution, royal-academy, republicanism]
-sources: [raw/a-new-american-renaissance.md, raw/cultural-warfare-and-the-american.md]
+sources: [raw/a-new-american-renaissance.md, raw/cultural-warfare-and-the-american.md, raw/in-defense-of-benjamin-franklin-part.md]
 confidence: medium
 ---
 
@@ -59,3 +59,9 @@ West's 1778 depiction of the death of [[william-pitt-the-elder|Lord Chatham]] in
 ## Teacher of the American school
 
 A companion Badlands article by [[matthew-ehret|Matthew Ehret]] presents West, alongside [[samuel-morse|Samuel Finley Breese Morse]], as one of two figures who played a causal role in shaping both the success of the revolution of 1776 and the foundation of a new renaissance tradition underlying the greatest leaps of progress in nineteenth-century America — a tradition it says has been nearly wiped from collective memory.[2] West trained [[william-dunlap|William Dunlap]] in England after [[george-washington|George Washington]] sponsored the seventeen-year-old's passage in 1783, and also taught [[thomas-cole|Thomas Cole]], later a collaborator of Morse and a founder of the [[hudson-river-school|Hudson River School]], which Ehret says arose out of Morse's academy and out of the earlier school led by West.[2] Raphael Sanzio is identified as the greatest inspiration for West's method, including the contrast between motion and stasis that Morse later deployed in his portrait of the [[marquis-de-lafayette|Marquis de Lafayette]].[2] Morse's own English training, which took place during the War of 1812 under the president of the Royal Academy of Fine Arts, is the thread the article leaves for a promised second part.[2]
+
+## The Royal Academy as a republican outpost
+
+A third Badlands essay, "In Defense of Benjamin Franklin," describes West as the close friend and fellow Philadelphian of [[benjamin-franklin|Benjamin Franklin]] who was sent to Italy and then Britain, where the great republican painter organised the creation of the [[royal-academy-of-arts|Royal Academy of the Arts]] in the heart of the Empire in 1772 and remained its president until his death in 1830.[3] It credits West with painting the famous image of Franklin plucking electricity from the heavens.[3] The essay argues that West's access to the courts of Europe gave this Philadelphian republican artist entry to conversations within the inner court of George III, which undoubtedly provided invaluable intelligence for his colleagues in France and the young republic before, during and after the revolutionary war.[3]
+
+3. Badlands Brief — "In Defense of Benjamin Franklin", URL: https://badlands.substack.com/p/in-defense-of-benjamin-franklin-part

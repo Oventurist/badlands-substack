@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [badlands, podcast, media, recap]
-sources: [raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-7.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-625.md, raw/badlands-brief-8e2.md, raw/badlands-brief-774.md]
+sources: [raw/badlands-blitz-episode-6.md, raw/badlands-blitz-episode-5.md, raw/badlands-blitz-episode-4.md, raw/badlands-blitz-episode-7.md, raw/badlands-blitz-episode-8.md, raw/badlands-blitz-episode-3.md, raw/badlands-blitz-episode-11.md, raw/badlands-blitz-episode-25.md, raw/badlands-blitz-episode-9.md, raw/badlands-brief-625.md, raw/badlands-brief-8e2.md, raw/badlands-brief-774.md, raw/happy-new-year.md]
 confidence: high
 ---
 
@@ -77,6 +77,11 @@ The programme occasionally skips a week. The [[badlands-brief|Badlands Brief]] o
 ## Episode 19
 Episode 19 featured [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] and [[burning-bright|Burning Bright]] stepping back from direct analysis of events in [[iran|Iran]] to examine the grand strategy at play between [[donald-trump|Donald Trump]] and his "Frenemies."[12]
 
+
+## Announcement (January 2026)
+
+The programme was announced publicly on January 1, 2026, in a New Year's Day post that billed it as "Badlands Blitz, week-in-review news show EXCLUSIVELY here on Substack."[13] The announcement named [[burning-bright|Burning Bright]] as host, with [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] and [[ashe-in-america|Ashe in America]] alternating as co-host each week.[13] It described the format as a breakdown of the top stories from The Brief, augmented with bonus takes from the Brief writers and with selected reader comments and threads from the week featured on air.[13] The post added that the team was "excited" and that readers should be too, and noted that America would turn 250 during the year.[13]
+
 ## References
 1. Badlands Brief — "Badlands Blitz Episode 6: The Info War Ouroboros", URL: https://badlands.substack.com/p/badlands-blitz-episode-6
 2. Badlands Brief — "Badlands Blitz Episode 5: The END of the START ...", URL: https://badlands.substack.com/p/badlands-blitz-episode-5
@@ -90,3 +95,4 @@ Episode 19 featured [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] and [[
 10. Badlands Brief — "Mr. Nice Guy Leaves the Building (plus, Jewish Terrorism)", URL: https://badlands.substack.com/p/badlands-brief-625
 11. Badlands Brief — "Grab Your GART Tickets & Catch Up on The Blitz!", URL: https://badlands.substack.com/p/badlands-brief-8e2
 12. Badlands Brief — "Weaponization Woes & Bailing on the Bromance", URL: https://badlands.substack.com/p/badlands-brief-774
+13. Badlands Brief — "Happy New Year!", URL: https://badlands.substack.com/p/happy-new-year

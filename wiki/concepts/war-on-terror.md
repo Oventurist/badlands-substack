@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [fbi, informants, domestic-terrorism, security-state]
-sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-862.md]
+sources: [raw/badlands-news-brief-07f.md, raw/badlands-news-brief-862.md, raw/hysteria-and-error.md]
 confidence: medium
 ---
 
@@ -29,3 +29,12 @@ Badlands Media contributor [[burning-bright|Burning Bright]] used the figure to 
 ## References
 1. Badlands News Brief — "Trump's Trial, Archer's Animus & BRICS' Battle", URL: https://badlands.substack.com/p/badlands-news-brief-07f
 2. Badlands Brief — "Badlands News Brief: Kari Counters, Elites Gather & Data Talks", URL: https://badlands.substack.com/p/badlands-news-brief-862
+3. Badlands Media — "Hysteria and Error", URL: https://badlands.substack.com/p/hysteria-and-error
+
+## "The Ghost of PsyOps Past"
+
+In "Hysteria and Error," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] described the war on terror as a psychological operation whose effects outlived its exposure.[3] He recalled that Americans collectively relinquished rights and granted the federal government unprecedented surveillance powers in the name of fighting terrorism and bolstering national security, and noted that some 23 years after 9/11 polling showed Americans largely regretted supporting the [[patriot-act|Patriot Act]] and the invasions of Iraq and Afghanistan.[3] Even so, he argued, some psyops are so anchored to the psyche that they continue to shape worldviews long after being exposed as propaganda.[3]
+
+DeLarme wrote that watching conservative media in the week after the [[new-orleans-bourbon-street-attack|New Orleans]] and [[las-vegas-cybertruck-explosion|Las Vegas]] attacks felt like being transported back to 2002 at the height of terror hysteria, and that such attacks are valuable to those seeking militarism, war, or crackdowns on civil liberties because they steer consensus.[3] He drew parallels to the emotional management of Western audiences in the weeks after the invasion of Ukraine and following the October 7 attack in Israel, arguing the same technique was now being aimed at conservatives.[3]
+
+He contended that Islamist terror was itself a United States-sponsored creation, with [[al-qaeda|al-Qaeda]] and [[isis|ISIS]] emerging from intelligence-community grooming during the Soviet-Afghan war with Saudi and Pakistani support, a history he said figures in the movement should acknowledge rather than memory-hole — pointing to Badlands' own [[operation-cyclone|Operation Cyclone]] treatment of the subject.[3] Data he cited showed extremist Muslim plots trending toward nil in recent years, which he offered against the claim that Muslims lie in wait around every corner.[3]

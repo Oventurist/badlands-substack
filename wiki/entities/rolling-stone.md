@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, magazine, legacy-media, 2024-election]
-sources: [raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d32.md]
+sources: [raw/badlands-news-brief-5fb.md, raw/badlands-news-brief-c1e.md, raw/badlands-news-brief-d32.md, raw/four-pillars-of-government-control.md]
 confidence: medium
 ---
 
@@ -38,3 +38,9 @@ In July 2023 Rolling Stone published a negative review of the anti-child-traffic
 The review drew a widespread backlash, aggregated by [[zerohedge|ZeroHedge]] under the headline "Why Do You Support Child Trafficking?", which characterised the magazine as having previously been implicated in a controversy over its boss removing child pornography accusations, and contrasted the review with the film's 99 percent audience rating on [[rotten-tomatoes|Rotten Tomatoes]].[3] [[ashe-in-america|Ashe in America]] described Rolling Stone's critics as among the "mockingbirds' movie critics" pulling no punches, and argued that outlets serving an establishment that enables the exploitation of children did not want Americans to see the film.[3] [[burning-bright|Burning Bright]] placed the review within a broader [[media-industrial-complex|Media Industrial Complex]] effort to frame the film as Alt Right and QAnon-adjacent.[3]
 
 3. Badlands Brief — "It Was Always About the Children", URL: https://badlands.substack.com/p/badlands-news-brief-d32
+
+## "The CIA and the Media" (1977)
+
+In 1977 the magazine published [[carl-bernstein|Carl Bernstein]]'s article "The CIA and the Media," which alleged that hundreds of American journalists had worked closely with the [[central-intelligence-agency|Central Intelligence Agency]] — specifically that for 25 years some 400 American journalists had "secretly carried out assignments" for the agency, in an operation involving prominent organizations including The New York Times, CBS and Time Inc.[4] The piece is widely treated as the moment the CIA-press relationship became a matter of public record, and by 1979 the alleged program was known as [[operation-mockingbird|Operation Mockingbird]].[4]
+
+4. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control

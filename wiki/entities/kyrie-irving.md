@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [nba, basketball, free-speech, censorship, media]
-sources: [raw/badlands-news-brief-547.md]
+sources: [raw/badlands-news-brief-547.md, raw/ivan-provorov-takes-a-stand.md]
 confidence: medium
 ---
 
@@ -26,5 +26,10 @@ Asked about the deletion at his introductory press availability with the Maveric
 
 Badlands Media contributor [[absolutetruth1776]] argued that the timing — the deletion coming just after Irving was moved from Brooklyn to Dallas — made it plausible that the apology had been coerced in the first place as a condition of returning to the court, and framed the episode as evidence of how the [[national-basketball-association|NBA]] seeks to control players and constrain their speech.[1]
 
+## Vaccine refusal
+
+Irving also stood against the COVID-19 vaccine and, as a result, was not allowed to play home games in Brooklyn.[2] He never relented and remained unvaccinated despite enduring public ridicule from the sports media establishment.[2] Badlands cited him alongside [[aaron-rodgers|Aaron Rodgers]], [[novak-djokovic|Novak Djokovic]] and [[ivan-provorov|Ivan Provorov]] as examples of athletes willing to take a stand against prevailing agendas in professional sport.[2]
+
 ## References
 1. Badlands Brief — "Badlands News Brief: State of Confusion, Kamala Mayhem & Boiled Eggs", URL: https://badlands.substack.com/p/badlands-news-brief-547
+2. Badlands Brief — "Ivan Provorov Takes A Stand", URL: https://badlands.substack.com/p/ivan-provorov-takes-a-stand

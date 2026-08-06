@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [commentator, groypers, right-wing, israel]
-sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-dd8.md]
+sources: [raw/badlands-brief-7c6.md, raw/badlands-news-brief-a98.md, raw/badlands-news-brief-aae.md, raw/badlands-news-brief-dd8.md, raw/how-to-stop-civil-war-20.md]
 confidence: medium
 ---
 
@@ -37,8 +37,13 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Bur
 
 In late October 2025, Fuentes — described in reporting as a Holocaust denier — was the subject of renewed controversy after [[tucker-carlson|Tucker Carlson]] conducted a friendly interview with him, drawing condemnation from within a Republican Party grappling with a series of antisemitic incidents.[4] [[heritage-foundation|Heritage Foundation]] President [[kevin-roberts|Kevin Roberts]] defended Carlson while distancing himself from Fuentes, saying "I disagree with and even abhor things that Nick Fuentes says, but canceling him is not the answer, either."[4] Roberts, whose group launched [[project-esther|Project Esther]] to combat antisemitism, added that "Christians can critique the state of Israel without being antisemitic" and that antisemitism should be condemned.[4]
 
+## September 2025 white tribalism appeal
+
+On September 13, 2025, days after the [[assassination-of-charlie-kirk|assassination of Charlie Kirk]], Fuentes demanded that conservatives stand up for white tribalism and America's "Roman heritage" against what he described as the country's invading oppressors.[5] Badlands Media places the appeal alongside [[laura-loomer|Laura Loomer]]'s same-day call for Trump to act as a dictator and [[pam-bondi|Pam Bondi]]'s hate-speech enforcement push as symptoms of a dangerous reactionary over-reach following Kirk's death.[5] The article argues that this channelling of grievance toward immigrants leaves the financier oligarchy — the actual oppressor in its analysis — entirely unnamed, replaying the Bolshevik-versus-National-Socialist dynamic of the 1920s.[5]
+
 ## References
 1. Badlands Brief — "The Democratization of Narrative Distribution. And a New War with Iran.", URL: https://badlands.substack.com/p/badlands-brief-7c6
 2. Badlands Brief — "Badlands News Brief: Asian Happy Endings, Salvadoran Favors, & American Public Corruption", raw/badlands-news-brief-a98.md
 3. Badlands Brief — "Badlands News Brief: Reopening Washington, Rescheduling Putin, & Revisiting De Jure", URL: https://badlands.substack.com/p/badlands-news-brief-aae
 4. Badlands Brief — "Badlands News Brief: Quick Reaction Forces, Still Unexplained Anomalies, N-Word Options", URL: https://badlands.substack.com/p/badlands-news-brief-dd8
+5. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20

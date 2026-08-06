@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [bitcoin, blockchain, cryptocurrency, badlands-media]
-sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d8f.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md]
+sources: [raw/badlands-media-weekly-show-schedule-36d.md, raw/badlands-news-brief-280.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-33b.md, raw/badlands-news-brief-362.md, raw/badlands-news-brief-42e.md, raw/badlands-news-brief-4c5.md, raw/badlands-news-brief-5c8.md, raw/badlands-news-brief-70a.md, raw/badlands-news-brief-67e.md, raw/badlands-news-brief-7bf.md, raw/badlands-news-brief-817.md, raw/badlands-news-brief-97e.md, raw/badlands-news-brief-a31.md, raw/badlands-news-brief-d8f.md, raw/celebrating-15-years-of-indictments.md, raw/dont-bring-shiny-rocks-to-digital.md, raw/kekistani-code-talkers.md]
 confidence: high
 ---
 
@@ -93,8 +93,12 @@ A January 3, 2024 Badlands Brief essay marking the fifteenth anniversary of the 
 
 On that reading, each new block "unseals another indictment" against systemic corruption, with nearly 825,000 blocks produced in fifteen years, while the protocol's fixed issuance constitutes an ongoing "arrest" because it removes the ability of those closest to currency creation to seize purchasing power through [[inflation|inflation]].[16] The essay invoked [[jason-lowery|Jason Lowery]]'s [[softwar|Softwar]] thesis, a 2014 remark by [[julian-assange|Julian Assange]] on cryptography's defensive power, and a 2023 NOSTR post by [[edward-snowden|Edward Snowden]] naming [[charlie-munger|Charlie Munger]], and grouped [[elizabeth-warren|Elizabeth Warren]] and [[jamie-dimon|Jamie Dimon]] among the loudest critics.[16]
 
-## References
+## Cryptographic and strategic framing
 
+Bitcoin's mining and unlocking process uses SHA-256, one of the six hash functions in the Secure Hash Algorithm 2 family created by the [[national-security-agency|National Security Agency]] in collaboration with the National Institute of Science and Technology.[18] The Badlands Brief article "Kekistani Code Talkers" places this fact within a wider argument that [[cryptography|codes and ciphers]] are decisive in a civilization's rise, longevity, and fall.[18] The article further ties Bitcoin to the claim that the central control of currency (fiat) and money (gold) is the root cause of a great deal of evil, and cites Major [[jason-lowery|Jason Lowery]] on Bitcoin's national strategic significance in a new war-fighting domain.[18]
+
+
+## References
 1. Badlands Media — "Badlands Media Weekly Show Schedule", URL: https://badlands.substack.com/p/badlands-media-weekly-show-schedule-36d
 2. Badlands Brief — "Let's Talk About Hunter Biden ... and Bananas", URL: https://badlands.substack.com/p/badlands-news-brief-280
 3. Badlands Brief — "Badlands News Brief: Bengaluru Raids, Bitcoin Bangers, & A Buddhist Execution", URL: https://badlands.substack.com/p/badlands-news-brief-2dc
@@ -112,9 +116,7 @@ On that reading, each new block "unseals another indictment" against systemic co
 15. Badlands Brief — "Hunter Hunted as Metrics Turn Sharply on Establishment", URL: https://badlands.substack.com/p/badlands-news-brief-d8f
 16. Badlands Brief — "Celebrating 15 Years of Indictments and Justice!", URL: https://badlands.substack.com/p/celebrating-15-years-of-indictments
 17. Badlands Brief — "Don't Bring Shiny Rocks to Digital Gunfights", URL: https://badlands.substack.com/p/dont-bring-shiny-rocks-to-digital
-
 ## Bitcoin as a filter against AI-generated data (April 2023)
-
 In "Don't Bring Shiny Rocks to Digital Gunfights," Badlands contributor [[patriots-in-progress|Patriots in Progress]] proposed Bitcoin as a mitigation for the hazard of [[artificial-intelligence|AI]]-generated text, audio and video overwhelming the public's ability to distinguish reality from fabrication.[17] The mechanism he described associates bits of data with an energy cost through a micro-transaction, creating an auditable, immutable record of a real-world physical cost and thereby a database of data that has "paid the cost."[17] Such payments would be trivial for individual humans but, he argued, cost-prohibitive to replicate across an effectively infinite set of AI-generated data.[17]
-
 The author acknowledged that paying the cost does not itself guarantee that surviving data is truthful — only that a scarce resource was expended to gain entry to the record.[17] As a demonstration he pointed to an asset he had created on a Bitcoin Layer 2, the Counterparty protocol, carrying animation and an audio track, noting that observers can verify the price paid, the time of the action and the wallet that performed it.[17] He framed the approach through Major Jason Lowery's [[softwar|Softwar]] thesis and noted that [[michael-saylor|Michael Saylor]], [[jack-dorsey|Jack Dorsey]] and [[elon-musk|Elon Musk]] had separately described using Bitcoin against bot farms.[17] The essay closed with the injunction "do not give your Bitcoin to AI."[17]
+18. Badlands Brief — "Kekistani Code Talkers", URL: https://badlands.substack.com/p/kekistani-code-talkers

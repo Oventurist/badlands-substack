@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [technology, transhumanism, apple, mixed-reality, culture]
-sources: [raw/badlands-news-brief-1ab.md]
+sources: [raw/badlands-news-brief-1ab.md, raw/how-your-western-brain-exposes-you.md]
 confidence: medium
 ---
 
@@ -27,3 +27,9 @@ Extending the argument, Esler asked whether ideological and technological disemb
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Border Bill Dead on Arrival ... Just Like Bidenomics", URL: https://badlands.substack.com/p/badlands-news-brief-1ab
+
+## Cited as a disembodiment technology (March 2024)
+
+In his March 2024 essay "How Your Western Brain Exposes You to 5G Warfare," [[simon-esler|Simon Esler]] again invoked the Vision Pro, this time as evidence that engaging with the world primarily through the [[digital-domain|digital domain]] perpetuates the replacement of genuine experiences with symbolic tokens, a substitution he said was "only advancing further with the introduction of technology like the Apple Vision Pro."[2] The reference appears within his argument, drawn from [[iain-mcgilchrist|Iain McGilchrist]], that human beings are neurologically built for attachment to place, and that devices which relocate daily cognition into a virtual environment deepen the left-hemisphere entrenchment exploited on the [[cognitive-battlefield|cognitive battlefield]].[2]
+
+2. Badlands Brief — "How Your Western Brain Exposes You to 5G Warfare", URL: https://badlands.substack.com/p/how-your-western-brain-exposes-you

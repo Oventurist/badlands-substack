@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [democrats, 2024-election, first-lady, speculation]
-sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-cc9.md, raw/badlands-news-brief-ce5.md]
+sources: [raw/badlands-news-brief-11c.md, raw/badlands-news-brief-290.md, raw/badlands-news-brief-351.md, raw/badlands-news-brief-484.md, raw/badlands-news-brief-5a7.md, raw/badlands-news-brief-6c4.md, raw/badlands-news-brief-b40.md, raw/badlands-news-brief-be1.md, raw/badlands-news-brief-cc9.md, raw/badlands-news-brief-ce5.md, raw/jd-vance-sidley-austin-and-q-post.md]
 confidence: low
 ---
 
@@ -46,6 +46,10 @@ In late June 2024, Axios reported that Michelle Obama had privately expressed fr
 
 Michelle Obama appeared alongside her husband on Day 2 of the [[2024-democratic-national-convention|2024 Democratic National Convention]] in Chicago, part of an effort by party leaders to lend [[kamala-harris|Kamala Harris]]'s campaign the atmosphere of the 2008 [[barack-obama|Obama]] run.[8] The Badlands News Brief, writing as [[burning-bright|Burning Bright]], argued that the Obamas' reappearance in the central narrative was not the win establishment media assumed, since the party's coalition had drifted toward Marxists and disillusioned centrists whose votes were never at risk, and since the Obamas' standing in the collective American mind had never been lower.[8] The Brief asked whether the Obamas and Clintons were rolling out the red carpet for Harris ahead of an election steal or preparing the psychological ground for an October surprise.[8]
 
+## Sidley Austin years
+
+In the summer of 1988 Michelle Obama met her future husband [[barack-obama|Barack Obama]] while he was interning at the Chicago branch of the law firm [[sidley-austin|Sidley Austin]]; she worked at the firm for three years.[11] She later said she disliked the job because the firm was not diverse enough — not that she was mistreated as a woman or a woman of color, but that too few of the lawyers were Black.[11] Badlands contributor [[erik-carlson|Erik Carlson]] criticised that account as an early sign of what he called illogical DEI thinking, noting that Black attorneys are a small share of the legal profession overall.[11]
+
 ## References
 
 1. Badlands Brief — "The Turn on Biden Begins", URL: https://badlands.substack.com/p/badlands-news-brief-11c
@@ -70,3 +74,4 @@ In September 2023, Senator [[ted-cruz|Ted Cruz]] told [[sean-hannity|Sean Hannit
 In March 2025, Obama's new haircut sparked online discussion, largely among conservative accounts.[10] The former first lady was cohosting a new podcast with her older brother, Craig Robinson, titled *IMO with Michelle Obama & Craig Robinson* — short for "in my opinion."[10] The show focuses heavily on audience questions, with the siblings sharing their opinions each week on topics such as marriage and parenting alongside a special guest.[10] The episode released that Wednesday featured actor Seth Rogen and his wife, filmmaker and actress Lauren Miller Rogen; Obama wore a collared shirt with a blazer and blue jeans, with her hair pulled back into three buns, prompting commentary on social platform X.[10] Badlands commentary noted that the episode drew roughly 14,000 views and argued it was hard to "change the world" once the accompanying propaganda apparatus had been degraded.[10]
 
 10. Badlands Brief — "Badlands News Brief: Calibrating Education, Recalculating Commands, & Countering Currency Crimes", URL: https://badlands.substack.com/p/badlands-news-brief-ce5
+11. Badlands Brief — "JD Vance, Sidley Austin, & Q Post #238", URL: https://badlands.substack.com/p/jd-vance-sidley-austin-and-q-post

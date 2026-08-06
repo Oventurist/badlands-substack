@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [epstein, trafficking, clemency]
-sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f6e.md]
+sources: [raw/badlands-brief-05f.md, raw/badlands-brief-4ec.md, raw/badlands-brief-9ac.md, raw/badlands-brief-eea.md, raw/badlands-news-brief-070.md, raw/badlands-news-brief-1a7.md, raw/badlands-news-brief-3ab.md, raw/badlands-news-brief-4a6.md, raw/badlands-news-brief-669.md, raw/badlands-news-brief-948.md, raw/badlands-news-brief-a5a.md, raw/badlands-news-brief-c0a.md, raw/badlands-news-brief-c4f.md, raw/badlands-news-brief-ce1.md, raw/badlands-news-brief-ed9.md, raw/badlands-news-brief-f6e.md, raw/george-soros-a-british-creation.md]
 confidence: low
 ---
 
@@ -110,3 +110,9 @@ The [[epstein-files-transparency-act|Epstein Files Transparency Act]], passed by
 Maxwell's transfer to a lower-security prison facility became the subject of a heated exchange at a [[senate-judiciary-committee|Senate Judiciary Committee]] hearing in September 2025.[15] FBI Director [[kash-patel|Kash Patel]] testified that the [[bureau-of-prisons|Bureau of Prisons]] had made the decision independently, while Senator [[adam-schiff|Adam Schiff]] pressed the claim that the move was politically motivated by the White House, asking whether Patel thought the American people were "stupid" enough to believe otherwise.[15] The dispute escalated into a shouting match that briefly derailed the hearing, with Patel calling Schiff "the biggest fraud to ever sit in the United States Senate."[15] Maxwell was described in the coverage as an associate of the convicted sex offender Jeffrey Epstein.[15]
 15. Badlands Brief — "Badlands News Brief: Israeli Arms, Bondi's Back Peddle, & Assassins' Creeds", URL: https://badlands.substack.com/p/badlands-news-brief-ed9
 16. Badlands Brief — "Badlands News Brief: Ghost Puppeteers, Sudanese Solutions, & Pam Bondi's Desk", URL: https://badlands.substack.com/p/badlands-news-brief-f6e
+
+## Handler thesis (August 2023)
+
+Badlands contributor [[erik-carlson|Erik Carlson]] wrote that at the time of [[jeffrey-epstein|Jeffrey Epstein]]'s 2019 arrest most observers viewed Maxwell as his sidekick — a former girlfriend who procured underage girls for him — but that after her own arrest some, himself included, began to consider that she was in fact Epstein's handler, with the British Maxwell controlling Epstein rather than the reverse.[17] He emphasises that Maxwell is a British citizen, tying her to his thesis of a British Satanic Cabal.[17] Carlson also observes that being Jewish did not keep Epstein from being "whacked," nor Maxwell out of prison, nor her father [[robert-maxwell|Robert Maxwell]] from being murdered in 1991.[17]
+
+17. Badlands Brief — "George Soros, A British Creation", URL: https://badlands.substack.com/p/george-soros-a-british-creation

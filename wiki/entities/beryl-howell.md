@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [judiciary, grand-jury, january-6, trump]
-sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-5b3.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-fe4.md]
+sources: [raw/badlands-news-brief-238.md, raw/badlands-news-brief-5b3.md, raw/badlands-news-brief-88b.md, raw/badlands-news-brief-c14.md, raw/badlands-news-brief-fe4.md, raw/killing-the-peace.md]
 confidence: medium
 ---
 
@@ -41,6 +41,10 @@ The same commentary noted that Howell, an Obama appointee, previously served as 
 
 On Monday, February 10, 2025, Howell ruled that the dismissal of the criminal charges against [[donald-trump|Donald Trump]] for concealing classified records at Mar-a-Lago had eliminated a significant barrier to making records about the probe public.[5] She held that Trump's election as president — which forced the end of the criminal case — combined with the Supreme Court's ruling on presidential immunity meant Trump was effectively insulated from any criminal responsibility for his conduct, so the [[fbi|FBI]]'s previous reasons for refusing to gather and disclose records related to the probe no longer applied.[5] The ruling came in a Freedom of Information Act case brought by journalist Jason Leopold; Howell noted that while the dismissal of charges may have reduced Trump's criminal exposure, it "ironically" made him more susceptible to public scrutiny for his conduct.[5]
 
+## Ruling on the U.S. Institute of Peace takeover (2025)
+
+In May 2025 Howell ruled that the Trump administration's actions against the [[united-states-institute-of-peace|United States Institute of Peace]] — including the firing of board members, the replacement of its leadership, staff terminations and asset transfers — were illegal and "null and void."[6] She reinstated the dismissed board members and acting president [[george-moose|George Moose]], emphasizing that USIP is not part of the executive branch and that the president lacked authority to dismantle it.[6] In late June 2025 the U.S. Court of Appeals for the D.C. Circuit stayed her ruling, reasoning that USIP exercises "substantial executive power" and that the president likely holds at-will removal authority over its board, which allowed the administration to regain control of the institute's headquarters pending further appeal.[6]
+
 ## References
 
 1. Badlands Media — "Badlands News Brief: Wuhan Leak, AZ Claims & Gender Wars", URL: https://badlands.substack.com/p/badlands-news-brief-238
@@ -48,3 +52,4 @@ On Monday, February 10, 2025, Howell ruled that the dismissal of the criminal ch
 3. Badlands News Brief — "The Trump Hunt & the Biden Blitz", URL: https://badlands.substack.com/p/badlands-news-brief-88b
 4. Badlands Brief — "Badlands News Brief: Overreach, Obstruction, & Our Boy Blue", URL: https://badlands.substack.com/p/badlands-news-brief-c14
 5. Badlands Brief — "Badlands News Brief: International Dealmaking & Collectible Pennies", URL: https://badlands.substack.com/p/badlands-news-brief-fe4
+6. Badlands Brief — "Killing the Peace", URL: https://badlands.substack.com/p/killing-the-peace

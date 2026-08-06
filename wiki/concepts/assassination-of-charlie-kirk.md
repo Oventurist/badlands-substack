@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [assassination, utah, charlie-kirk, manhunt, information-war]
-sources: [raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-988.md]
+sources: [raw/badlands-news-brief-6e5.md, raw/badlands-news-brief-732.md, raw/badlands-news-brief-8cd.md, raw/badlands-news-brief-8ce.md, raw/badlands-news-brief-988.md, raw/how-to-stop-civil-war-20.md]
 confidence: medium
 ---
 
@@ -79,6 +79,12 @@ President [[donald-trump|Donald Trump]] issued an Oval Office address over the a
 
 A shooting at Evergreen High School in Colorado on the same day compounded the sense of national trauma, according to [[ashe-in-america|Ashe in America]], who linked the two events in her commentary on the [[evergreen-high-school-shooting|Evergreen High School shooting]].[5]
 
+## As a civil-conflict trigger
+
+Writing on September 23, 2025, Badlands contributor [[matthew-ehret|Matthew Ehret]] argued that Kirk's assassination had awoken the spectre of social chaos amid a more advanced economic collapse of the trans-Atlantic bubble economy, in a pattern echoing the [[2020-george-floyd-riots|2020 George Floyd riots]] and the unrest that followed the murder of [[martin-luther-king-jr|Martin Luther King Jr.]] in 1968.[6] Race riots had not begun, but he judged the fissures between the radical left and radical right to be greater than ever, with intelligence-linked fronts such as [[patriot-front|Patriot Front]], the [[heritage-front|Heritage Front]] and the [[atomwaffen-division|Atomwaffen Division]] positioned to inflame them.[6]
+
+He cited three responses in the days after the killing as evidence of reactionary over-reach: [[laura-loomer|Laura Loomer]]'s September 13 post wishing Trump would be the dictator the left imagines, [[nick-fuentes|Nick Fuentes]]'s same-day call for white tribalism and a defence of "Roman heritage," and [[pam-bondi|Pam Bondi]]'s calls to hunt down hate speech while pushing expanded new Patriot Acts.[6]
+
 ## References
 
 1. Badlands Brief — "Badlands News Brief: Manhunts, Mental Health, & the Mother of a Monster", URL: https://badlands.substack.com/p/badlands-news-brief-6e5
@@ -86,3 +92,4 @@ A shooting at Evergreen High School in Colorado on the same day compounded the s
 3. Badlands Brief — "Badlands News Brief: Vigils, Vanguards, & Various Investigations", URL: https://badlands.substack.com/p/badlands-news-brief-8cd
 4. Badlands Brief — "Palestinian Promises, Venezuelan Ventures, & Kazakh Considerations", URL: https://badlands.substack.com/p/badlands-news-brief-8ce
 5. Badlands Brief — "They LOST the story. They WANT the war.", URL: https://badlands.substack.com/p/badlands-news-brief-988
+6. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20

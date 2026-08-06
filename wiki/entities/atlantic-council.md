@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [think-tank, nato, foreign-policy, deep-state, energy]
-sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-617.md]
+sources: [raw/and-iran-iran-so-far-away.md, raw/badlands-news-brief-576.md, raw/badlands-news-brief-617.md, raw/how-to-rent-a-riot-the-plausible.md]
 confidence: medium
 ---
 
@@ -37,3 +37,9 @@ According to revelations from the [[twitter-files|Twitter Files]], the State Dep
 1. Badlands Brief — "And Iran, Iran So Far Away", URL: https://badlands.substack.com/p/and-iran-iran-so-far-away
 2. Badlands Brief - "Badlands News Brief: Tracking Resignations and Treasonous Trials", URL: https://badlands.substack.com/p/badlands-news-brief-576
 3.  Badlands Media — "Badlands News Brief: Biden Crime Cascade, Woke Collapse & Establishment Panic", URL: https://badlands.substack.com/p/badlands-news-brief-617
+
+## Nonviolent action fellows
+
+Badlands Media describes the Atlantic Council as an "extremely militaristic" NATO think tank and notes that [[maria-stephan|Maria Stephan]] — former director of the Nonviolent Action Program at the [[united-states-institute-of-peace|United States Institute of Peace]] and chief organizer of the [[horizons-project|Horizons Project]] — is a fellow there.[4] The affiliation is offered as evidence that the leading organizers of ostensibly grassroots [[nonviolent-action|nonviolent action]] are embedded in the same establishment institutions that direct Western foreign policy.[4]
+
+4. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible

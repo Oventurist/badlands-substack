@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [venues, gart, badlands-media]
-sources: [raw/exclusive-gart-3-live-stream-thursday.md]
+sources: [raw/exclusive-gart-3-live-stream-thursday.md, raw/last-call-for-gart-3-irvine.md]
 confidence: medium
 ---
 
@@ -18,6 +18,12 @@ Badlands Media's December 2023 promotion for GART 3 identified the Marriott Irvi
 
 The hotel hosted the event's in-person programming, which included a Welcome Reception on Friday night, breakfast and lunch throughout the weekend, live in-person versions of Badlands Media shows, panel question-and-answer sessions, and meet-and-greets with show hosts.[1] A VIP ticket package added a separate Thursday night dinner and meet-and-greet at the property to open the GART weekend.[1] Promotional copy also joked about informal lobby and bar socials at the hotel running until 3am with hosts such as [[burning-bright|Burning Bright]], [[just-human|Just Human]], [[chris-paul|Chris Paul]], [[jaytriot|Jaytriot]] and [[ghost-of-patrick-henry|Ghost]].[1]
 
+## Final ticketing notice
+
+A January 6, 2024 "Last Call for GART 3: Irvine!" notice reconfirmed the Marriott Irvine Spectrum as the conference location for the January 11-14, 2024 event and linked directly to the hotel's overview page.[2] The same notice described the in-person experience at the property, including the Friday night Welcome Reception, breakfast and lunch all weekend, the VIP Thursday night dinner and meet-and-greet, and single-day ticket options for attendees with limited time.[2]
+
 ## References
 
+
 1. Badlands Brief — "Exclusive GART 3 Live Stream Thursday!", URL: https://badlands.substack.com/p/exclusive-gart-3-live-stream-thursday
+2. Badlands Brief - "Last Call for GART 3: Irvine!", URL: https://badlands.substack.com/p/last-call-for-gart-3-irvine

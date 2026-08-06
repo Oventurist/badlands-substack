@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [vietnam, cold-war, cia, proxy-war, opium, veterans]
-sources: [raw/badlands-news-brief-565.md, raw/clowns-in-america.md]
+sources: [raw/badlands-news-brief-565.md, raw/clowns-in-america.md, raw/how-to-stop-civil-war-20.md]
 confidence: medium
 ---
 
@@ -22,6 +22,12 @@ When France was driven out of Vietnam by Soviet and Chinese-backed forces in the
 
 The war's history was invoked in June 2024 to explain the symbolic weight of [[vladimir-putin|Vladimir Putin]]'s visit to Hanoi and his meeting with National Assembly Chairman [[tran-thanh-man|Tran Thanh Man]], which Badlands writers read as a deliberate mirror of [[donald-trump|Donald Trump]]'s 2017 foreign tour and as a step in assembling a worldwide network of sovereign-minded allies.[1]
 
+## Kennedy-era opposition
+
+Badlands contributor [[matthew-ehret|Matthew Ehret]] writes that the war ultimately killed over 50,000 young Americans and millions of Vietnamese while absorbing endless sums into the [[military-industrial-complex|military industrial complex]] that [[john-f-kennedy|John Kennedy]], [[martin-luther-king-jr|Martin Luther King Jr.]] and [[robert-f-kennedy|Robert Kennedy]] had died resisting.[3] In the summer of 1967 King and Robert Kennedy made their opposition to the war public, and their collaboration deepened from that point.[3]
+
+On Face the Nation in November 1967, Kennedy asked whether the United States had "the right… to say we're going to kill tens of thousands of people, make millions of people… refugees, kill women and children," and answered that he very seriously questioned it, adding that those who stay at home "must feel it when we use napalm, when a village is destroyed and civilians are killed."[3] Badlands argues that the war destroyed the last remnants of patriotism in the hearts of young moral Americans, and that the New Left afterward used it as the benchmark against which all of Western civilisation was condemned.[3]
+
 ## References
 
 1. Badlands Brief — "Polling Paradoxes, Hegelian Seeding & Putin's Gambit", URL: https://badlands.substack.com/p/badlands-news-brief-565
@@ -33,3 +39,4 @@ The August 2023 Badlands article "Clowns in America" argues that the true reason
 While public attention focused on the daily televised toll of the war, Badlands notes several less-remarked consequences: massive national debt, an enlarged military industrial complex, and the end of the gold standard.[2] Meanwhile the [[secret-war-in-laos|secret war in Laos]] proceeded unnoticed in violation of the Geneva Peace Agreement, and the [[phoenix-program|Phoenix Program]] operated as what the article calls a CIA death squad program targeting civilians.[2] Citing the Office of Justice Programs, the article notes that demand for heroin among U.S. troops during the war helped transform the Golden Triangle's opium economy into a large and profitable heroin economy.[2] [[george-hw-bush|George H.W. Bush]]'s 1967 trip to Vietnam with CIA officer [[thomas-j-devine|Thomas J. Devine]] is placed against this backdrop.[2]
 
 2. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
+3. Badlands Brief — "How to Stop Civil War 2.0", URL: https://badlands.substack.com/p/how-to-stop-civil-war-20

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [bush-family, cia, houston, drug-trafficking, shadow-government]
-sources: [raw/a-family-affair.md, raw/clowns-in-america.md, raw/dope-inc.md, raw/everything-is-connected.md]
+sources: [raw/a-family-affair.md, raw/clowns-in-america.md, raw/dope-inc.md, raw/everything-is-connected.md, raw/follow-the-money.md, raw/four-pillars-of-government-control.md]
 confidence: medium
 ---
 
@@ -60,8 +60,23 @@ Bush was Vice President in 1986 when the [[iran-contra-affair|Iran-Contra Affair
 
 Badlands contributor Joe Lange argues that George H. W. Bush was the architect of a "New World Order" project running back to the 1950s that was, at bottom, organized around drug trafficking — noting pointedly that his nickname was "Poppy" — and states flatly that Bush "was the biggest heroin kingpin in the world."[4] Lange contends it was no coincidence that [[armenia|Armenia]] attacked [[azerbaijan|Azerbaijan]] and seized the gateway to Europe during Bush's presidency, when the collapse of the Soviet Union produced regional chaos that the [[central-intelligence-agency|CIA]] helped foment in order to establish drug routes.[4] Although the international community recognized [[nagorno-karabakh|the territory]] as Azerbaijani, Bush allowed the Armenian aggression to stand, in contrast to his response to Saddam Hussein's invasion of Kuwait; Lange asks whether this reflected indifference or Bush's own involvement, given that the strip of land was vital to the agency's heroin supply out of [[afghanistan|Afghanistan]].[4]
 
+## Architect of the laundering system
+
+In "Follow The Money," Joe Lange continued his argument that Bush was the architect of the modern [[central-intelligence-agency|CIA]] and [[shadow-government]], adding a financial dimension: the enterprise's dependence on [[money-laundering]] through complicit banks.[5] Lange contends that when congressional testimony by [[ramon-milian-rodriguez]] made [[manuel-noriega]] a liability, the Bush administration responded with a narrative reversal — indicting Noriega, invading Panama to arrest him, and casting Bush as the presidential hero fighting drug traffickers, thereby shielding both Bush and the CIA from trafficking accusations.[5] The hunting and killing of [[pablo-escobar]] under Bush's presidency served the same purpose, while doing nothing to slow the flow of drugs into the United States.[5]
+
+Lange also notes the timing coincidence that [[michael-jon-hand]] and [[bernie-houghton]], the American intelligence figures behind the [[nugan-hand-bank]], arrived in Sydney in 1967 — the same year Bush and his CIA partner at Zapata Offshore traveled to Vietnam.[5] He closes by flagging the Bush family's direct ties to Citicorp, now [[citigroup]], one of the two US banks named by Milian Rodriguez in his congressional testimony.[5]
+
 ## References
 1. Badlands Brief — "A Family Affair", URL: https://badlands.substack.com/p/a-family-affair
 2. Badlands Brief — "Clowns in America", URL: https://badlands.substack.com/p/clowns-in-america
 3. Badlands Brief — "Dope, Inc.", URL: https://badlands.substack.com/p/dope-inc
 4. Badlands Brief — "Everything Is Connected", URL: https://badlands.substack.com/p/everything-is-connected
+5. Badlands Brief — "Follow The Money: The CIA is the World's Filthiest Laundromat", URL: https://badlands.substack.com/p/follow-the-money
+
+## Removal of Nixon and the 1976 CIA directorship
+
+Badlands contributor [[erik-carlson|Erik Carlson]] writes that Bush was heavily involved in the plan to remove [[richard-nixon|Richard Nixon]] from power, an operation he attributes to the [[central-intelligence-agency|CIA]]'s recognition that Nixon was not its friend after Director [[richard-helms|Richard Helms]] refused to give the president access to the [[bay-of-pigs|Bay of Pigs]] and [[john-f-kennedy|JFK]] assassination files.[6]
+
+After [[william-colby|William Colby]]'s sworn testimony to the [[church-committee|Church Committee]] in 1975 exposed [[mk-ultra|MK ULTRA]], domestic surveillance, foreign assassinations and [[operation-mockingbird|Operation Mockingbird]], the agency concluded Colby had not fought hard enough to keep its secrets and that the next director would need to be a loyalist.[6] Bush became Director of the CIA in 1976, in Carlson's phrasing to clean up the mess Colby made from telling the truth under oath.[6]
+
+6. Badlands Brief — "Four Pillars of Government Control", URL: https://badlands.substack.com/p/four-pillars-of-government-control

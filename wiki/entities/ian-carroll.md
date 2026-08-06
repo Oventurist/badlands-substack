@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [independent-media, journalism, tiktok, israel]
-sources: [raw/badlands-news-brief-365.md, raw/child-sacrifice-as-a-pillar-of-deep.md]
+sources: [raw/badlands-news-brief-365.md, raw/child-sacrifice-as-a-pillar-of-deep.md, raw/has-everyone-completely-lost-their.md, raw/massie-maximalists.md]
 confidence: low
 ---
 
@@ -24,3 +24,13 @@ On January 3, 2024, [[michael-flynn|General Michael Flynn]] retweeted a video by
 
 1. Badlands Brief — "Badlands News Brief: 'You Are Watching a Movie' Intensifies ...", URL: https://badlands.substack.com/p/badlands-news-brief-365
 2. Badlands Brief — "Child Sacrifice as a Pillar of Deep State Control", URL: https://badlands.substack.com/p/child-sacrifice-as-a-pillar-of-deep
+3. Badlands Brief — "Has Everyone Completely Lost Their Minds?", URL: https://badlands.substack.com/p/has-everyone-completely-lost-their
+4. Badlands Brief — "Massie Maximalists", URL: https://badlands.substack.com/p/massie-maximalists
+
+## Allegations of controlled opposition (2025)
+
+Badlands contributor [[erik-carlson|Erik Carlson]] wrote in April 2025 that he had previously singled out Carroll as an influencer he does not trust, and extended the same suspicion to [[candace-owens|Candace Owens]], describing such figures as paid shills who back the Trump administration only until it is time to turn on it.[3] Carlson noted that both Carroll and Owens had recently been attacking [[robert-f-kennedy-jr|Robert F. Kennedy Jr.]] and the [[make-america-healthy-again|MAHA]] agenda, and argued more broadly that focusing blame on Israel diverts attention from the [[city-of-london|City of London]].[3]
+
+## Defense of Massie in the March 2025 shutdown fight
+
+Writing in March 2025, [[erik-carlson|Erik Carlson]] again grouped Carroll among "the social media influencers that I view as shills," saying Carroll spent the day after President [[donald-trump|Donald Trump]]'s call to primary Rep. [[thomas-massie|Thomas Massie]] bashing Trump and praising Massie.[4] Carlson placed that reaction alongside coverage in liberal outlets that commended Massie's courage, arguing the alignment showed critics setting aside Trump's spending cuts to attack him over a single [[continuing-resolution|continuing resolution]] vote.[4]

@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [american-history, political-parties, war-of-1812]
-sources: [raw/badlands-news-brief-b78.md]
+sources: [raw/badlands-news-brief-b78.md, raw/is-the-federal-reserve-a-british.md]
 confidence: medium
 ---
 
@@ -25,3 +25,11 @@ Badlands Media contributors have used the Federalists' late history as a templat
 ## References
 
 1. Badlands Brief — "Badlands News Brief: The Trump-Musk Pincer Closes as Disaster Strikes the Regime", URL: https://badlands.substack.com/p/badlands-news-brief-b78
+
+## Jefferson's charges against the federalists
+
+A February 16, 2023 Badlands Media essay on the legal origins of [[federal-reserve|the Federal Reserve]] draws heavily on [[thomas-jefferson|Thomas Jefferson]]'s correspondence to characterize the early federalists as agents of British reabsorption.[2] In an 1823 letter to William Johnson, Jefferson wrote that the original objects of the federalists were to warp the government more toward the form and principles of monarchy and to weaken the barriers of state government as coordinated powers, and that having been foiled in the first they were pursuing the second "under the pseudo-republican mask."[2]
+
+In an 1804 letter to Gideon Granger, Jefferson predicted the federalists would return to power under another form by dividing the republicans of his day, joining the minority and bartering for "the cloak of their name," so that "a bastard system of federo-republicanism will rise on the ruins of the true principles of the revolution."[2] The essay reads this as federalists who wanted to reinstate the monarchy wearing the republican name as a sort of "skin suit" under which to introduce legal principles enabling recapture, and likens them to modern globalists seeking to dissolve national borders in favor of centralized power.[2] See [[bastard-system-of-laws|bastard system of laws]].
+
+2. Badlands Brief — "Is the Federal Reserve a British Institution?", URL: https://badlands.substack.com/p/is-the-federal-reserve-a-british

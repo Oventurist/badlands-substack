@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [elections, election-integrity, absentee-voting, law]
-sources: [raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-b5a.md]
+sources: [raw/badlands-news-brief-8bd.md, raw/badlands-news-brief-b5a.md, raw/grand-jury-testimony-from-senator.md, raw/inside-the-modern-elections-casino.md]
 confidence: medium
 ---
 
@@ -34,3 +34,17 @@ In February 2024, ahead of her election as co-chair of the [[republican-national
 
 1. Badlands Brief — "Badlands News Brief: A New Golden Age Begins ...?", URL: https://badlands.substack.com/p/badlands-news-brief-8bd
 2. Badlands Brief — "An Embattled Media, Mysterious Outages & Gay History", URL: https://badlands.substack.com/p/badlands-news-brief-b5a
+
+## Georgia 2020 allegations
+
+[[true-the-vote|True the Vote]] presented Georgia state investigators with data in May 2021 that it said showed organized ballot harvesting, including "279 cellphones which had made multiple trips to within 100 feet of a voter drop box" and geolocation links between those phones and various organizations.[3] Then-[[georgia-bureau-of-investigation|GBI]] Director [[vic-reynolds|Vic Reynolds]] wrote in a follow-up letter that the data, "while curious," did not rise to probable cause absent witness statements or named potential defendants.[3]
+
+Former U.S. Senator [[david-perdue|David Perdue]] testified before the Fulton County special grand jury that Reynolds had described the evidence — video, cell phone records, testimony and corroborated bank records — as compelling enough to investigate, but declined to open a case because, in Perdue's account, "if the governor doesn't want to investigate, we're not going to investigate."[3] Perdue said two whistleblowers had come forward on Georgia ballot harvesting, one with bank statements documenting payments for the activity, and that Reynolds said the matter could not proceed without the witness.[3]
+
+3. Badlands Brief — "Grand Jury Testimony From Senator David Perdue Suggests Gov. Brian Kemp Halted Investigation Into 2020 Election", URL: https://badlands.substack.com/p/grand-jury-testimony-from-senator
+
+## Keshel's "actions on the objective"
+
+Election analyst [[seth-keshel|Seth Keshel]] described ballot harvesting as "the most important condition of mail-ballot fraud — actions on the objective," and said his election forecasts now weight it alongside [[automatic-voter-registration|Automatic Voter Registration]] and universal or excessive [[mail-in-voting|mail-in voting]], noting that its legality varies by state.[4] In his April 2025 essay comparing elections to casino games, he grouped harvesting with drop boxes and Nevada-style universal mail voting as house advantages, and warned that mixing in [[ranked-choice-voting|ranked choice voting]] as Alaska and Maine do compounds the effect.[4]
+
+4. Badlands Brief — "Inside the Modern Elections Casino", URL: https://badlands.substack.com/p/inside-the-modern-elections-casino

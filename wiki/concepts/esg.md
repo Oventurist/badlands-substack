@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [esg, corporatocracy, finance, woke-capital]
-sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-f4c.md]
+sources: [raw/ai-can-help-us-expose-the-nwo.md, raw/badlands-news-brief-299.md, raw/badlands-news-brief-70d.md, raw/badlands-news-brief-7a7.md, raw/badlands-news-brief-b9c.md, raw/badlands-news-brief-c74.md, raw/badlands-news-brief-f4c.md, raw/get-woke-go-broke.md]
 confidence: low
 ---
 
@@ -57,6 +57,16 @@ In December 2023 the state of [[tennessee|Tennessee]] sued [[blackrock|BlackRock
 
 By January 2023 [[blackrock|BlackRock]] faced growing backlash over ESG investing, with several U.S. states pulling billions of dollars from its funds over accusations of greenwashing, damaging the fossil fuel industry and promoting "woke" culture.[7] At Davos, chief executive [[larry-fink|Larry Fink]] told Bloomberg TV that the narrative had become "ugly" and was "creating this huge polarization," that BlackRock was trying to address misconceptions, and that for the first time in his career attacks had become personal, with critics seeking to "demonize the issues."[7] [[ryan-delarme|Ryan DeLarme]] described ESG as a China-inspired system analogous to a social credit score for corporations, measuring adherence to globalist agendas, and noted that independent media and America First politicians had seized on the concept over the previous year.[7]
 
+## ESG as an Instrument of Corporate Control (Erik Carlson analysis)
+
+Badlands Media contributor [[erik-carlson|Erik Carlson]] traced ESG's origins to a retail-investor product rather than an elite mandate: decades ago, ordinary investors who did not wish to hold Big Oil, Big Tobacco or weapons manufacturers were offered screened funds that excluded those sectors.[8] Carlson argued that for Wall Street, the practical effect of this innovation was to remove moral objections as a reason for staying out of the stock market altogether.[8]
+
+In his account, ESG has since been repurposed as a compliance mechanism over corporations rather than a choice for savers.[8] A company that fails to check the boxes of the woke agenda risks exclusion from ETFs (exchange-traded funds), mutual funds and other diversified vehicles; exclusion shrinks the shareholder base, depresses the share price, and lowers the company's overall valuation.[8] Carlson framed this as the "club fee" charged by the deep state cabal: corporations must push its agendas even at the cost of alienating their own customers, or risk excommunication.[8]
+
+The resulting dilemma supplied the title of his April 2023 essay: "Get woke, go broke. Don't get woke, go broke. You choose."[8] If a company adopts woke messaging it loses customers and value; if it refuses, the club expels it and it loses value anyway.[8] Carlson read this as evidence that the cabal had become more concerned with maintaining narratives than with making money — a posture he called a scream of desperation.[8]
+
+On enforcement, Carlson pointed to Soros-funded organizations such as the Human Rights Campaign, which he said issue corporate credit-style scores comparable to the Chinese Communist Party's social credit system and compel compliance; non-compliant firms are barred from the funds of investment giants including [[blackrock|BlackRock]], [[vanguard-group|Vanguard]] and [[state-street|State Street]].[8] He also raised the 5GW possibility that ESG is being turned against the deep state itself — forcing cabal-aligned corporations to destroy their own franchises — while conceding he could not be certain whether that, or simple institutional insanity, was the correct reading.[8]
+
 ## References
 1. Badlands Brief — "AI Can Help Us Expose the NWO", URL: https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo
 2. Badlands Brief — "Badlands News Brief: MAHA Begins as ESG Dies", URL: https://badlands.substack.com/p/badlands-news-brief-299
@@ -65,3 +75,4 @@ By January 2023 [[blackrock|BlackRock]] faced growing backlash over ESG investin
 5. Badlands Brief — "Badlands News Brief: Tucker Does Moscow as the News Cycle Goes Ballistic", URL: https://badlands.substack.com/p/badlands-news-brief-b9c
 6. Badlands Brief — "Badlands News Brief: The Mask Comes off as the Nation Watches", URL: https://badlands.substack.com/p/badlands-news-brief-c74
 7. Badlands Brief — "Badlands News Brief: Dollars, Saudis and Globalist Elites", URL: https://badlands.substack.com/p/badlands-news-brief-f4c
+8. Badlands Brief — "Get Woke, Go Broke", URL: https://badlands.substack.com/p/get-woke-go-broke

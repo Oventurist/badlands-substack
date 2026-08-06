@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [foreign-policy, censorship, commentary]
-sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/days-of-thunder.md]
+sources: [raw/assad-day-in-damascus.md, raw/badlands-brief-cfa.md, raw/badlands-news-brief-18e.md, raw/badlands-news-brief-2dc.md, raw/badlands-news-brief-617.md, raw/badlands-news-brief-71c.md, raw/badlands-news-brief-9c6.md, raw/badlands-news-brief-b01.md, raw/days-of-thunder.md, raw/how-to-rent-a-riot-the-plausible.md, raw/is-the-censorship-war-over.md]
 confidence: low
 ---
 
@@ -60,3 +60,17 @@ During the first month of [[donald-trump|Donald Trump]]'s second term — the pe
 Benz's framework was influential enough that Badlands contributor [[ryan-delarme|Ryan DeLarme]] applied a "Benzian analysis" to the proposed closure of the [[department-of-education|Department of Education]], arguing that fragmenting the educational landscape could make it more susceptible to localized ideological battles and deepen America's culture war rather than unifying national identity.[9]
 
 9. Badlands Brief — "Days of Thunder", URL: https://badlands.substack.com/p/days-of-thunder
+
+## Commentary on nonviolent action
+
+Badlands Media credits Mike Benz with extensive coverage and criticism of the career of [[maria-stephan|Maria Stephan]], and with informed commentary on the [[united-states-institute-of-peace|United States Institute of Peace]].[10] The article also attributes to Benz's circle the label "CIA-speak" for the specialized vocabulary — "nonviolence scholars," "strengthening democracy," "[[democratic-backsliding|democratic backsliding]]" — used by government-funded civil-resistance institutions.[10]
+
+10. Badlands Brief — "How to Rent a Riot - The Plausible Deniability Network", URL: https://badlands.substack.com/p/how-to-rent-a-riot-the-plausible
+
+## Commentary on the 2025 censorship retrenchment
+
+Secretary of State [[marco-rubio|Marco Rubio]] sat down with Benz — described by Badlands Media as a former [[state-department|State Department]] cybersecurity official and free-speech champion — to discuss the shake-up at the department following the termination of the [[counter-foreign-information-manipulation-and-interference-hub|R/FIMI]] hub and its more than 100 contractors.[11]
+
+Benz also criticized the Trump administration where he judged it to be repeating its predecessor's practices. Badlands cited his observation that a federal government agency should never use the phrase "hide behind the First Amendment," after the Department of Homeland Security under [[kristi-noem|Kristi Noem]] employed that language to justify action against non-citizen speech.[11] An accompanying image credit in the article referenced Benz's X account, @mikebenzcyber, for a diagram of the [[censorship-industrial-complex|censorship-industrial complex]].[11]
+
+11. Badlands Brief — "Is the Censorship War Over?", URL: https://badlands.substack.com/p/is-the-censorship-war-over

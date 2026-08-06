@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: concept
 tags: [propaganda, media, psychological-operations]
-sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6b1.md, raw/countering-an-ocean-of-deceit.md]
+sources: [raw/a-hypnotists-take-on-israel-palestine.md, raw/badlands-news-brief-378.md, raw/badlands-news-brief-6b1.md, raw/countering-an-ocean-of-deceit.md, raw/hysteria-and-error.md]
 confidence: medium
 ---
 
@@ -39,3 +39,10 @@ Against this he set the metaphor that "a single well-placed droplet of truth can
 2. Badlands Brief — "Badlands News Brief: Hypocrisy Roundup & Rug-pulls Galore", URL: https://badlands.substack.com/p/badlands-news-brief-378
 3. Badlands Brief — "Russia, the MSM and El Salvador Call Out Joe Biden", URL: https://badlands.substack.com/p/badlands-news-brief-6b1
 4. Badlands Brief — "Countering an Ocean of Deceit", URL: https://badlands.substack.com/p/countering-an-ocean-of-deceit
+5. Badlands Media — "Hysteria and Error", URL: https://badlands.substack.com/p/hysteria-and-error
+
+## Replication within the conservative movement
+
+In "Hysteria and Error," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] argued that newcomers to the MAGA movement had broken with "the mockingbird media, that capitalizes on fear and stokes hysteria," only to find certain factions of their new political home peddling more of the same.[5] He cast this as the central risk facing citizen journalism: if the new media reproduces blind partisan loyalty and fact-avoidance, it forfeits the free press's purpose of holding power to account and becomes "just punditry and cheerleading."[5]
+
+DeLarme's illustrations included the [[libs-of-tiktok|Libs of TikTok]] reaction to an [[msnbc|MSNBC]] headline the account had not read, and conservative coverage of the [[new-orleans-bourbon-street-attack|New Orleans]] and [[las-vegas-cybertruck-explosion|Las Vegas]] attacks, which he compared to the emotional management of Western audiences after the invasion of Ukraine and the October 7 attack in Israel.[5]
