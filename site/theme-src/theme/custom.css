@@ -79,3 +79,7 @@ button[aria-label="Search"] .key {
   padding-top: 2px;
   padding-bottom: 2px;
 }
+/* Widen the aside column a bit so wrapped titles fit more per line */
+:root {
+  --vp-aside-width: 300px;
+}
