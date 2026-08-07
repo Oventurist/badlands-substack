@@ -178,6 +178,9 @@ Search, filter, and browse the ${label.toLowerCase()} index.
 export default defineConfig({
   title: "Badlands Wiki",
   description: "Community-compiled knowledge base of the Badlands Media corpus",
+  // GitHub Pages project site: assets and links must be rooted at the
+  // repo subpath, not "/", or every CSS/JS/link 404s (unstyled page).
+  base: "/badlands-substack/",
   cleanUrls: true,
   // lastUpdated disabled: with 6,600+ pages VitePress runs git log per
   // page at build time, blowing past Vercel's 45-min limit. Pages already
