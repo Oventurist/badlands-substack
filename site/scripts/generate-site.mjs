@@ -38,7 +38,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SITE = path.resolve(__dirname, "..");
 const ROOT = path.resolve(SITE, "..");
 const WIKI = path.join(ROOT, "wiki");
-const DIST = path.join(SITE, "dist");
+const DIST = path.join(SITE, "public");
 // GitHub Pages project site lives under /badlands-substack/. Every internal
 // link + asset reference is prefixed with this.
 const BASE = "/badlands-substack/";
@@ -278,7 +278,15 @@ ${body}
 }
 
 async function writePage(outDir, file, content, pages, currentSlug) {
-  content = content.replace(/\r\n/g, "\n");
+  // Normalize CRLF -> LF (split on CR+LF to avoid any literal control chars).
+  content = content.split(String.fromCharCode(13) + String.fromCharCode(10)).join("\n");
+  // Parse frontmatter for the <title>.
+  const fmMatch = content.match(/^---\n([\s\S]*?)\n---\n?/);
+  let title = currentSlug;
+  if (fmMatch) {
+    const t = fmMatch[1].match(/^title:\s*(.+)$/m);
+    if (t) title = t[1].trim().replace(/^["']|["']$/g, "");
+  }
   // Apply the full transform chain (unchanged from the VitePress version).
   const transformed = renderTags(
     linkifyCitations(
@@ -291,9 +299,13 @@ async function writePage(outDir, file, content, pages, currentSlug) {
       )
     )
   );
-  const html = renderBody(transformed);
+  // Strip the leading YAML frontmatter so it isn't rendered as content.
+  const stripped = transformed.replace(/^---\n[\s\S]*?\n---\n?/, "");
+  const html = renderBody(stripped);
+  // Wrap in the shared template (CSS link, nav, <main>, footer, site.js).
+  const full = pageTemplate({ title, bodyClass: "wiki-page", body: html });
   await fs.mkdir(outDir, { recursive: true });
-  await fs.writeFile(path.join(outDir, file), html, "utf-8");
+  await fs.writeFile(path.join(outDir, file), full, "utf-8");
 }
 
 async function main() {
