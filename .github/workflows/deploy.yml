@@ -95,3 +95,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Large 1.4GB artifact: GitHub Pages activation can take >10 min after
+          # upload, so raise the wait timeout from the 10-min default (the prior
+          # run timed out waiting and cancelled the deployment).
+          timeout: 45
