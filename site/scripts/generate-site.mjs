@@ -102,6 +102,50 @@ function normalizeReferencesPosition(content) {
   return `${rest.trimEnd()}\n\n${refSection.trimEnd()}\n`;
 }
 
+/* Pull reference lines (N. ... URL) that the ingest model scattered through
+   the body back into one consolidated ## References block at the end. Some
+   pages (71 as of Aug 2026) have their References interleaved with content
+   sections instead of in a single trailing block. This gathers every line
+   that looks like a numbered reference (starts with "N." and carries a URL),
+   dedupes by number, sorts, and re-appends them as one clean block. Idempotent
+   on already-consolidated pages. Runs before linkifyCitations/convertInline-
+   Citations so the consolidated block is what those transforms see. */
+function consolidateReferences(content) {
+  const refLineRe = /^\s*\d+[.)]\s+\S.*(?:https?:\/\/|URL:)/;
+  const lines = content.split("\n");
+  const refs = [];
+  const kept = [];
+  for (const line of lines) {
+    if (refLineRe.test(line)) refs.push(line.trim());
+    else kept.push(line);
+  }
+  if (!refs.length) return content;
+
+  // dedupe by leading number, then sort numerically
+  const seen = new Set();
+  const deduped = [];
+  for (const r of refs) {
+    const m = r.match(/^\s*(\d+)[.)]/);
+    const n = m ? m[1] : null;
+    if (n) {
+      if (seen.has(n)) continue;
+      seen.add(n);
+    }
+    deduped.push(r);
+  }
+  deduped.sort((a, b) => {
+    const na = parseInt((a.match(/^\s*(\d+)/) || [])[1] || "0", 10);
+    const nb = parseInt((b.match(/^\s*(\d+)/) || [])[1] || "0", 10);
+    return na - nb;
+  });
+
+  // Remove any existing bare "## References" heading line from the kept body
+  // (the references themselves were already pulled into `refs`).
+  const body = kept.join("\n").replace(/^#{1,3}\s+References\s*$/m, "");
+  const block = `\n\n## References\n\n${deduped.join("\n")}\n`;
+  return `${body.replace(/\s*$/, "")}${block}`;
+}
+
 /* Linkify inline citation markers [N] -> <sup>[<a href="#ref-N">N</a>]</sup>
    and give every ## References list item an id="ref-N" anchor, so the inline
    markers jump to the matching source (Wikipedia-style footnotes).
@@ -234,7 +278,7 @@ async function writePage(outDir, file, content, pages, currentSlug) {
   // Normalize CRLF (Git autocrlf on Windows keeps the working tree CRLF) so all
   // line-anchored regexes in the transforms below behave consistently.
   content = content.replace(/\r\n/g, "\n");
-  const rewritten = renderTags(linkifyCitations(rewriteWikilinks(convertInlineCitations(normalizeReferencesPosition(content)), pages, currentSlug)));
+  const rewritten = renderTags(linkifyCitations(rewriteWikilinks(convertInlineCitations(normalizeReferencesPosition(consolidateReferences(content)), pages, currentSlug))));
   await fs.mkdir(outDir, { recursive: true });
   await fs.writeFile(path.join(outDir, file), rewritten, "utf-8");
 }
