@@ -1,35 +1,47 @@
 #!/usr/bin/env node
 /**
- * Generate the VitePress site from the wiki/ folder.
+ * Generate a LIGHTWEIGHT static HTML site from the wiki/ folder.
  *
- * Steps:
- *  1. Copy wiki/entities/*.md -> docs/entities/  and wiki/concepts/*.md -> docs/concepts/
- *     and the root article pages (wiki/*.md except index/log/SCHEMA) -> docs/articles/
- *  2. Rewrite Obsidian [[wikilinks]] to relative VitePress links:
- *       [[slug]]        -> [slug](/entities/slug) or [/concepts/...] depending on where the page lives
- *       [[slug|text]]   -> [text](/entities/slug)
- *     Links to pages that don't exist are rendered as plain text (no dangling link).
- *  3. Regenerate docs/index.md (landing page) and docs/.vitepress/config.mjs (sidebar) from the page list.
+ * Why not VitePress: VitePress emits a full SPA shell (inlined Vue runtime +
+ * page data) into EVERY page — 440 KB per page. 12k pages = 4+ GB, which
+ * exceeds GitHub Pages' 1 GB limit and the deploy times out / fails. This
+ * generator instead renders markdown -> HTML once and wraps each page in a
+ * tiny shared template (~47 KB/page), so the whole site is ~560 MB and fits.
+ *
+ * All the Wikipedia-style transforms are preserved:
+ *  - [[wikilinks]] -> client links (rewriteWikilinks)
+ *  - scattered ## References lines -> one consolidated block (consolidateReferences)
+ *  - References forced to the end (normalizeReferencesPosition)
+ *  - inline N(url) -> [N] (convertInlineCitations)
+ *  - [N] -> <sup><a href="#ref-N">[N]</a></sup> with anchored <li id="ref-N">
+ *    (linkifyCitations)  -- Wikipedia-style footnotes
+ *  - frontmatter tags -> clickable tag chips (renderTags)
+ *
+ * The body is then rendered with `marked` (markdown -> HTML). Raw HTML blocks
+ * (the <sup>, <ol>, <div class="wiki-tags"> the transforms emit) pass through.
+ *
+ * Output (under site/dist/):
+ *   index.html, entities/<slug>/index.html, concepts/<slug>/index.html,
+ *   entities/index.html, concepts/index.html, tags/index.html,
+ *   assets/site.css, assets/site.js, index-data.json
+ *
+ * All internal links are rooted at BASE so they work on the GitHub Pages
+ * project path /badlands-substack/.
  */
+
 import { promises as fs } from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { marked } from "marked";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SITE = path.resolve(__dirname, "..");
-const WIKI = path.resolve(SITE, "..", "wiki");
-const DOCS = path.join(SITE, "docs");
-// GitHub Pages project site: repo lives under /badlands-substack/. VitePress
-// `base` is set in the generated config (docs/.vitepress/config.mjs) and it
-// auto-prefixes EVERY internal link it can resolve (nav, markdown
-// [links](/x/), wikilinks). So all internal links below are written WITHOUT
-// the base, letting VitePress add it exactly once. Hardcoding the base here
-// would double it -> 404.
-const OUT = {
-  entities: path.join(DOCS, "entities"),
-  concepts: path.join(DOCS, "concepts"),
-  articles: path.join(DOCS, "articles"),
-};
+const ROOT = path.resolve(SITE, "..");
+const WIKI = path.join(ROOT, "wiki");
+const DIST = path.join(SITE, "dist");
+// GitHub Pages project site lives under /badlands-substack/. Every internal
+// link + asset reference is prefixed with this.
+const BASE = "/badlands-substack/";
 
 // WIKILINK matches Obsidian [[slug]] / [[slug|text]]. A [[...]] that is
 // immediately followed by "(" is already a markdown link (e.g. the clickable
@@ -55,9 +67,6 @@ async function collectPages() {
       pages[slug] = { section, title, file: f };
     }
   }
-  // Root article pages are intentionally NOT published on the site.
-  // (raw/ source material is gitignored, so the Articles section can't point
-  //  to source — decided 2026-08-01: drop Articles from the public site.)
   return pages;
 }
 
@@ -78,38 +87,24 @@ function rewriteWikilinks(content, pages, currentSlug) {
     const target = pages[key];
     const label = (text || slug).trim();
     if (!target) return label; // dangling link -> plain text
-    const link = `/${target.section}/${key}/`;
+    const link = `${BASE}${target.section}/${key}/`;
     return `[${label}](${link})`;
   });
 }
 
-/* Ensure the ## References section is the LAST section of the page. The
-   ingest model sometimes wrote more sections after it (238 pages as of the
-   Aug 2026 rebuild). VitePress renders a mid-page References + trailing
-   sections; Wikipedia convention is references at the very end. This is
-   idempotent: pages already ending with References are untouched. */
+/* Ensure the ## References section is the LAST section of the page. */
 function normalizeReferencesPosition(content) {
-  // Match a References heading (## or ###) plus everything until the next
-  // heading of the same-or-higher level or EOF.
   const re = /^#{2,3}\s+References\s*\n[\s\S]*?(?=^#{1,3}\s+\S|(?![\s\S]))/m;
   const m = content.match(re);
   if (!m) return content;
   const refSection = m[0];
   const rest = content.slice(0, m.index) + content.slice(m.index + m[0].length);
-  // If the section was already at the very end, nothing to do.
   if (content.endsWith(refSection.trimEnd())) return content;
-  // Re-append at the end, separated by a blank line.
   return `${rest.trimEnd()}\n\n${refSection.trimEnd()}\n`;
 }
 
-/* Pull reference lines (N. ... URL) that the ingest model scattered through
-   the body back into one consolidated ## References block at the end. Some
-   pages (71 as of Aug 2026) have their References interleaved with content
-   sections instead of in a single trailing block. This gathers every line
-   that looks like a numbered reference (starts with "N." and carries a URL),
-   dedupes by number, sorts, and re-appends them as one clean block. Idempotent
-   on already-consolidated pages. Runs before linkifyCitations/convertInline-
-   Citations so the consolidated block is what those transforms see. */
+/* Pull reference lines (N. ... URL) scattered through the body back into one
+   consolidated ## References block at the end. Idempotent. */
 function consolidateReferences(content) {
   const refLineRe = /^\s*\d+[.)]\s+\S.*(?:https?:\/\/|URL:)/;
   const lines = content.split("\n");
@@ -121,7 +116,6 @@ function consolidateReferences(content) {
   }
   if (!refs.length) return content;
 
-  // dedupe by leading number, then sort numerically
   const seen = new Set();
   const deduped = [];
   for (const r of refs) {
@@ -139,27 +133,14 @@ function consolidateReferences(content) {
     return na - nb;
   });
 
-  // Remove any existing "## References" heading lines (and trailing blanks)
-  // from the kept body — the references themselves were already pulled into
-  // `refs` above, so only the now-empty heading remains.
   const body = kept.join("\n").replace(/^#{1,3}\s+References\b.*$\n*/gm, "");
   const block = `\n\n## References\n\n${deduped.join("\n")}\n`;
   return `${body.replace(/\s*$/, "")}${block}`;
 }
 
-/* Linkify inline citation markers [N] -> <sup>[<a href="#ref-N">N</a>]</sup>
-   and give every ## References list item an id="ref-N" anchor, so the inline
-   markers jump to the matching source (Wikipedia-style footnotes).
-
-   Safety rules:
-   - Only touch [N] where N is a bare integer (1-3 digits).
-   - Skip [N] inside existing markdown links [text](url), wikilinks (already
-     rewritten by the time this runs, so none remain), code spans, and the
-     ## References / ## Sources sections themselves.
-   - The References section is converted from a markdown ordered list into an
-     <ol> of <li id="ref-N"> so anchors exist to jump to. */
+/* Linkify inline citation markers [N] -> <sup><a href="#ref-N">[N]</a></sup>
+   and give every ## References list item id="ref-N". Wikipedia-style footnotes. */
 function linkifyCitations(content) {
-  // 1. Convert the References list into anchored <li> items first.
   let out = content.replace(
     /(^##\s+References\s*\n+)((?:^\d+\.\s+.*\n?)+)/m,
     (m, heading, listBlock) => {
@@ -169,8 +150,6 @@ function linkifyCitations(content) {
         .map((line) => {
           const mm = line.match(/^(\d+)\.\s+(.*)$/);
           if (!mm) return line;
-          // linkify the bare URL inside the item (raw HTML in <li> is not
-          // auto-linkified by the markdown parser)
           const text = mm[2].replace(
             /(https?:\/\/[^\s]+)/g,
             '<a href="$1" target="_blank" rel="noreferrer">$1</a>'
@@ -182,11 +161,6 @@ function linkifyCitations(content) {
     }
   );
 
-  // 2. Linkify inline [N] markers, skipping anything inside:
-  //    - markdown links: [N](...) or [text](url)
-  //    - code spans: `[N]`
-  //    - headings (# ...) — [N] there is literal text, not a citation
-  //    - the References/Sources headings themselves (handled above)
   out = out
     .split("\n")
     .map((line) => {
@@ -201,21 +175,12 @@ function linkifyCitations(content) {
   return out;
 }
 
-/* Convert inline citation form `N(url)` -> `[N]` so linkifyCitations picks it
-   up. The ingest model sometimes emitted citations as a number immediately
-   followed by the full source URL in parentheses (711 files at last count).
-   We only convert when the URL matches the corresponding item in ## References,
-   so genuine parenthetical URLs in prose are left untouched. Runs before
-   linkifyCitations. */
+/* Convert inline citation form N(url) -> [N] so linkifyCitations picks it up. */
 function convertInlineCitations(content) {
-  // Normalize CRLF (Git autocrlf on Windows) so line-anchored regexes below work.
   content = content.replace(/\r\n/g, "\n");
-  // Build ref-number -> URL map from ALL ## References blocks. Some pages
-  // (malformed source) have more than one References section; gather URLs
-  // from every block so inline N(url) markers resolve regardless of which
-  // section they point at.
   const refUrls = {};
-  const refBlocks = content.match(/^#{2,3}\s+References\s*\n[\s\S]*?(?=\n+^#{1,3}\s+\S|(?![\s\S]))/gm) || [];
+  const refBlocks =
+    content.match(/^#{2,3}\s+References\s*\n[\s\S]*?(?=\n+^#{1,3}\s+\S|(?![\s\S]))/gm) || [];
   for (const block of refBlocks) {
     block.split("\n").forEach((line) => {
       const mm = line.match(/^\s*(\d+)\.\s+(.*)$/);
@@ -228,9 +193,8 @@ function convertInlineCitations(content) {
   if (!Object.keys(refUrls).length) return content;
 
   return content.replace(
-    /(^|[^0-9`\[])(\d{1,3})\((https?:\/\/[^\s)]+)\)/g,
+    /(^|[^0-9`\[])(\d{1,3})\((https?:\/\/[^)\s]+)\)/g,
     (m, pre, n, url) => {
-      // Only convert if the URL matches the reference for that number.
       if (refUrls[n] && (refUrls[n] === url || url.startsWith(refUrls[n]))) {
         return `${pre}[${n}]`;
       }
@@ -247,9 +211,8 @@ function slugifyTitle(title) {
     .replace(/-+/g, "-");
 }
 
-/* Render the page's frontmatter tags as clickable links to /tags/<slug>/.
-   Injected right after the page H1 so a reader can browse other pages sharing
-   a tag. Returns content unchanged if there are no tags. */
+/* Render the page's frontmatter tags as clickable chips linking to the
+   client-side tag browser (?tag=<slug>). Injected after the H1. */
 function renderTags(content) {
   const fm = content.match(/^---\n([\s\S]*?)\n---/);
   if (!fm) return content;
@@ -262,163 +225,168 @@ function renderTags(content) {
     .map((tag) => {
       const slug = slugifyTitle(tag);
       const safe = tag.replace(/"/g, "&quot;");
-      return `<a class="wiki-tag" href="/tags/?tag=${slug}" title="Browse pages tagged ${safe}">${tag}</a>`;
+      return `<a class="wiki-tag" href="${BASE}tags/?tag=${slug}" title="Browse pages tagged ${safe}">${tag}</a>`;
     })
     .join(" ");
 
   const block = `\n<div class="wiki-tags" role="list">${tagLinks}</div>\n`;
 
-  // Insert after the first H1 line.
   const m = content.match(/^(#\s+.+)$/m);
   if (!m) return content;
   const idx = content.indexOf(m[0]) + m[0].length;
   return content.slice(0, idx) + block + content.slice(idx);
 }
 
+// ---- markdown -> HTML rendering -------------------------------------------
+marked.setOptions({ gfm: true, breaks: false });
+
+function renderBody(markdown) {
+  // The transform chain leaves the body as markdown with a few inline-HTML
+  // islands (citations, tags, references <ol>). marked passes raw HTML through.
+  return marked.parse(markdown);
+}
+
+// ---- page template ---------------------------------------------------------
+function pageTemplate({ title, bodyClass, body, browserMount }) {
+  return `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>${title} — Badlands Wiki</title>
+<link rel="stylesheet" href="${BASE}assets/site.css">
+</head>
+<body class="${bodyClass || ""}">
+<header class="site-header">
+  <a class="brand" href="${BASE}">Badlands Wiki</a>
+  <nav class="site-nav">
+    <a href="${BASE}entities/">Entities</a>
+    <a href="${BASE}concepts/">Concepts</a>
+    <a href="${BASE}tags/">Tags</a>
+  </nav>
+  <input id="nav-search" class="nav-search" type="search" placeholder="Search the wiki…" aria-label="Search">
+</header>
+<main class="page ${bodyClass || ""}">
+${body}
+</main>
+<footer class="site-footer">
+  <p>Sourced from the Badlands Media corpus. Content reflects the views of the original authors.</p>
+</footer>
+<script src="${BASE}assets/site.js"></script>
+</body>
+</html>`;
+}
+
 async function writePage(outDir, file, content, pages, currentSlug) {
-  // Normalize CRLF (Git autocrlf on Windows keeps the working tree CRLF) so all
-  // line-anchored regexes in the transforms below behave consistently.
   content = content.replace(/\r\n/g, "\n");
-  const rewritten = renderTags(linkifyCitations(rewriteWikilinks(convertInlineCitations(normalizeReferencesPosition(consolidateReferences(content))), pages, currentSlug)));
+  // Apply the full transform chain (unchanged from the VitePress version).
+  const transformed = renderTags(
+    linkifyCitations(
+      rewriteWikilinks(
+        convertInlineCitations(
+          normalizeReferencesPosition(consolidateReferences(content))
+        ),
+        pages,
+        currentSlug
+      )
+    )
+  );
+  const html = renderBody(transformed);
   await fs.mkdir(outDir, { recursive: true });
-  await fs.writeFile(path.join(outDir, file), rewritten, "utf-8");
+  await fs.writeFile(path.join(outDir, file), html, "utf-8");
 }
 
 async function main() {
   const pages = await collectPages();
   console.log(`collected ${Object.keys(pages).length} pages`);
 
-  // clean output dirs
-  for (const d of Object.values(OUT)) {
-    await fs.rm(d, { recursive: true, force: true });
-  }
-  // clean stale tag pages (generated fresh below as a single client-side page)
-  await fs.rm(path.join(DOCS, "tags"), { recursive: true, force: true });
+  // clean output dir
+  await fs.rm(DIST, { recursive: true, force: true });
+  await fs.mkdir(DIST, { recursive: true });
 
-  // copy + rewrite all pages
+  // copy shared assets (css/js) into dist/assets
+  const assetsSrc = path.join(SITE, "assets");
+  const assetsDst = path.join(DIST, "assets");
+  await fs.mkdir(assetsDst, { recursive: true });
+  for (const f of await fs.readdir(assetsSrc)) {
+    await fs.copyFile(path.join(assetsSrc, f), path.join(assetsDst, f));
+  }
+
+  // render each page
   for (const slug of Object.keys(pages)) {
     const p = pages[slug];
-    const src = p.section === "articles" ? path.join(WIKI, p.file) : path.join(WIKI, p.section, p.file);
+    const src = path.join(WIKI, p.section, p.file);
     const content = await fs.readFile(src, "utf-8");
-    await writePage(OUT[p.section], p.file, content, pages, slug);
+    const outDir = path.join(DIST, p.section, slug);
+    await writePage(outDir, "index.html", content, pages, slug);
   }
+  console.log(`rendered ${Object.keys(pages).length} pages`);
 
-  // landing page
-  const counts = {
-    entities: Object.values(pages).filter((p) => p.section === "entities").length,
-    concepts: Object.values(pages).filter((p) => p.section === "concepts").length,
-  };
-  const index = `---
-title: Badlands Wiki
----
-
-# Badlands Wiki
-
-A community-compiled knowledge base covering the people, institutions, concepts, and narratives of the Badlands Media corpus.
-
-- **Entities** (${counts.entities}): [browse all](/entities/) — people, organizations, and institutions
-- **Concepts** (${counts.concepts}): [browse all](/concepts/) — ideas and narratives
-
-Built automatically from the wiki.
-`;
-  await fs.writeFile(path.join(DOCS, "index.md"), index, "utf-8");
-
-  // section index pages so /entities and /concepts resolve (filterable browsers)
-  for (const [section, label] of [["entities", "Entities"], ["concepts", "Concepts"]]) {
-    const sectionIndex = `---
-title: ${label}
----
-
-# ${label}
-
-Search, filter, and browse the ${label.toLowerCase()} index.
-
-<IndexBrowser section="${section}" />
-`;
-    await fs.mkdir(OUT[section], { recursive: true });
-    await fs.writeFile(path.join(OUT[section], "index.md"), sectionIndex, "utf-8");
-  }
-
-  // ---- index data for the filterable Entities/Concepts browsers ----
+  // index-data.json for client-side browsers + search
   const indexData = [];
   for (const slug of Object.keys(pages)) {
     const p = pages[slug];
-    const content = await fs.readFile(
-      p.section === "articles" ? path.join(WIKI, p.file) : path.join(WIKI, p.section, p.file),
-      "utf-8"
-    );
+    const content = await fs.readFile(path.join(WIKI, p.section, p.file), "utf-8");
     const fm = content.match(/^---\n([\s\S]*?)\n---/);
     let tags = [];
-    let type = p.section === "articles" ? "article" : "entity";
     if (fm) {
       const t = fm[1].match(/^tags:\s*\[(.*?)\]/m);
       if (t) tags = t[1].split(",").map((s) => s.trim()).filter(Boolean);
-      const ty = fm[1].match(/^type:\s*(.+)$/m);
-      if (ty) type = ty[1].trim();
     }
-    indexData.push({ id: slug, title: p.title, section: p.section, type, tags });
+    indexData.push({
+      id: slug,
+      title: p.title,
+      section: p.section,
+      type: p.section === "concepts" ? "concept" : "entity",
+      tags,
+      url: `${BASE}${p.section}/${slug}/`,
+    });
   }
   indexData.sort((a, b) => a.title.localeCompare(b.title));
-  await fs.mkdir(path.join(DOCS, "public"), { recursive: true });
-  await fs.writeFile(path.join(DOCS, "public", "index-data.json"), JSON.stringify(indexData), "utf-8");
+  await fs.writeFile(
+    path.join(DIST, "index-data.json"),
+    JSON.stringify(indexData),
+    "utf-8"
+  );
+  console.log(`index-data.json: ${indexData.length} entries`);
 
-  // ---- tag browse page: a SINGLE client-side page reads the tag from the URL
-  // (?tag=<slug>) and filters index-data.json. Generating one static page instead
-  // of 6,581 per-tag HTML pages keeps the artifact under GitHub Pages' ~1GB
-  // limit (the per-tag pages pushed the build to ~4GB and the deploy timed out).
-  const tagsDir = path.join(DOCS, "tags");
-  await fs.mkdir(tagsDir, { recursive: true });
-  const tagIndex = `---
-title: Browse by tag
----
+  // home
+  const home = pageTemplate({
+    title: "Badlands Wiki",
+    body: `<h1>Badlands Wiki</h1>
+<p>A community-compiled knowledge base covering the people, institutions, concepts, and narratives of the Badlands Media corpus.</p>
+<ul>
+<li><strong>Entities</strong> (${indexData.filter((d) => d.section === "entities").length}): <a href="${BASE}entities/">browse all</a> — people, organizations, institutions</li>
+<li><strong>Concepts</strong> (${indexData.filter((d) => d.section === "concepts").length}): <a href="${BASE}concepts/">browse all</a> — ideas and narratives</li>
+</ul>
+<p>Use the search box above, or open <a href="${BASE}tags/">Tags</a> to browse by topic.</p>`,
+  });
+  await fs.writeFile(path.join(DIST, "index.html"), home, "utf-8");
 
-# Browse by tag
+  // section + tag browsers (client-side; site.js populates them)
+  for (const [section, label] of [["entities", "Entities"], ["concepts", "Concepts"]]) {
+    const html = pageTemplate({
+      title: label,
+      bodyClass: "browser-page",
+      body: `<h1>${label}</h1>
+<p>Search, filter, and browse the ${label.toLowerCase()} index.</p>
+<div class="browser" data-section="${section}"></div>`,
+    });
+    await fs.mkdir(path.join(DIST, section), { recursive: true });
+    await fs.writeFile(path.join(DIST, section, "index.html"), html, "utf-8");
+  }
 
-Select a tag on any wiki page to filter the index, or use the form below.
+  const tagHtml = pageTemplate({
+    title: "Browse by tag",
+    bodyClass: "browser-page tag-page",
+    body: `<h1>Browse by tag</h1>
+<p>Select a tag on any wiki page to filter the index, or search below.</p>
+<div class="browser" data-section="all" data-tag-from-url="1"></div>`,
+  });
+  await fs.mkdir(path.join(DIST, "tags"), { recursive: true });
+  await fs.writeFile(path.join(DIST, "tags", "index.html"), tagHtml, "utf-8");
 
-<IndexBrowser tag-from-url />
-`;
-  await fs.writeFile(path.join(tagsDir, "index.md"), tagIndex, "utf-8");
-  console.log("generated tags/index.md (client-side tag browsing)");
-
-  // ---- VitePress config: write docs/.vitepress/config.mjs ----
-  // ignoreDeadLinks is required because the CI build renders the entities and
-  // concepts halves separately, so each half references pages in the other
-  // half (cross-half links would otherwise fail the build).
-  const config = `import { defineConfig } from "vitepress";
-
-export default defineConfig({
-  title: "Badlands Wiki",
-  description: "Community-compiled knowledge base of the Badlands Media corpus",
-  base: "/badlands-substack/",
-  // cleanUrls MUST be false: GitHub Pages has no extensionless-URL rewrite, so
-  // with cleanUrls:true VitePress emits page.html but links to /page/, which
-  // 404s on GH Pages (no page/index.html). false -> emits page/index.html so
-  // /page/ resolves. (cleanUrls:true broke every individual entity/concept page.)
-  cleanUrls: false,
-  lastUpdated: false,
-  ignoreDeadLinks: true,
-  themeConfig: {
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Entities", link: "/entities/" },
-      { text: "Concepts", link: "/concepts/" },
-    ],
-    footer: { message: "Sourced from the Badlands Media corpus. Content reflects the views of the original authors." },
-  },
-});
-`;
-  await fs.mkdir(path.join(DOCS, ".vitepress"), { recursive: true });
-  await fs.writeFile(path.join(DOCS, ".vitepress", "config.mjs"), config, "utf-8");
-
-  // ---- copy committed theme (Layout.vue, HomeSearch.vue, IndexBrowser.vue, custom.css) into generated docs ----
-  const themeSrc = path.join(SITE, "theme-src", "theme");
-  const themeDst = path.join(DOCS, ".vitepress", "theme");
-  await fs.rm(themeDst, { recursive: true, force: true });
-  await fs.cp(themeSrc, themeDst, { recursive: true });
-  console.log("theme copied:", themeSrc, "->", themeDst);
-
-  console.log(`done: ${counts.entities} entities, ${counts.concepts} concepts, ${counts.articles} articles`);
+  console.log(`done: ${indexData.filter((d) => d.section === "entities").length} entities, ${indexData.filter((d) => d.section === "concepts").length} concepts`);
 }
 
 main().catch((e) => {

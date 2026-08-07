@@ -1,0 +1,146 @@
+:root {
+  --bg: #ffffff;
+  --bg-mute: #f6f6f4;
+  --text: #1a1a1a;
+  --text-2: #5a5a5a;
+  --border: #e3e3e0;
+  --brand: #3556a4;
+  --brand-soft: #eaf0fb;
+  --maxw: 880px;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.6;
+  font-size: 16px;
+}
+a { color: var(--brand); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* header / nav */
+.site-header {
+  position: sticky; top: 0; z-index: 20;
+  display: flex; align-items: center; gap: 18px;
+  padding: 10px 20px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+}
+.brand { font-weight: 700; font-size: 18px; color: var(--text); }
+.brand:hover { text-decoration: none; }
+.site-nav { display: flex; gap: 14px; font-size: 14px; }
+.site-nav a { color: var(--text-2); }
+.nav-search {
+  margin-left: auto;
+  width: 260px; max-width: 45vw;
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 14px;
+  background: var(--bg-mute);
+  color: var(--text);
+  outline: none;
+}
+.nav-search:focus { border-color: var(--brand); box-shadow: 0 0 0 3px var(--brand-soft); }
+
+/* page layout */
+.page {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 28px 20px 60px;
+}
+.page h1 { font-size: 1.9rem; margin: 0 0 0.4em; line-height: 1.2; border-bottom: 1px solid var(--border); padding-bottom: 0.3em; }
+.page h2 { font-size: 1.4rem; margin: 1.6em 0 0.5em; border-bottom: 1px solid var(--border); padding-bottom: 0.2em; }
+.page h3 { font-size: 1.15rem; margin: 1.3em 0 0.4em; }
+.page p { margin: 0.8em 0; }
+.page ul, .page ol { padding-left: 1.5em; }
+.page li { margin: 0.3em 0; }
+.page blockquote { border-left: 3px solid var(--border); margin: 1em 0; padding: 0.2em 1em; color: var(--text-2); }
+.page code { background: var(--bg-mute); padding: 1px 5px; border-radius: 4px; font-size: 0.9em; }
+.page pre { background: var(--bg-mute); padding: 12px 14px; border-radius: 8px; overflow-x: auto; }
+.page pre code { background: none; padding: 0; }
+.page img { max-width: 100%; height: auto; }
+.page table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+.page th, .page td { border: 1px solid var(--border); padding: 6px 10px; text-align: left; }
+
+/* citation footnotes */
+sup.cite-ref { font-size: 0.72em; }
+sup.cite-ref a { color: var(--brand); font-weight: 600; }
+ol#references, .page ol { padding-left: 1.6em; }
+.page ol li { margin: 0.35em 0; }
+.page ol li a { word-break: break-word; }
+
+/* tag chips */
+.wiki-tags {
+  display: flex; flex-wrap: wrap; gap: 6px;
+  margin: 14px 0 6px; padding: 10px 0;
+  border-top: 1px dashed var(--border); border-bottom: 1px dashed var(--border);
+}
+.wiki-tag {
+  display: inline-block;
+  padding: 3px 10px; border-radius: 999px;
+  background: var(--brand-soft); color: var(--brand);
+  font-size: 12.5px; font-weight: 600;
+}
+.wiki-tag:hover { background: var(--brand); color: #fff; text-decoration: none; }
+
+/* footer */
+.site-footer {
+  max-width: var(--maxw); margin: 0 auto; padding: 20px;
+  border-top: 1px solid var(--border);
+  color: var(--text-2); font-size: 13px; text-align: center;
+}
+
+/* ---- browse / search UI ---- */
+.browser-controls { display: flex; flex-direction: column; gap: 10px; margin: 16px 0; }
+.browser-search { position: relative; max-width: 480px; }
+.ib-search-icon { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--text-2); }
+.browser-search input {
+  width: 100%; padding: 10px 14px 10px 34px;
+  border-radius: 8px; border: 1px solid var(--border);
+  background: var(--bg-mute); color: var(--text); font-size: 14px; outline: none;
+}
+.browser-search input:focus { border-color: var(--brand); box-shadow: 0 0 0 3px var(--brand-soft); }
+.browser-chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.browser-chip {
+  padding: 6px 12px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--bg-mute);
+  color: var(--text-2); font-size: 13px; cursor: pointer; transition: all 0.15s;
+}
+.browser-chip:hover { border-color: var(--brand); color: var(--brand); }
+.browser-chip.active { background: var(--brand); border-color: var(--brand); color: #fff; }
+.browser-meta { font-size: 12px; color: var(--text-2); margin: 10px 0 4px; }
+.browser-group { margin-top: 18px; }
+.browser-letter { font-size: 15px; font-weight: 700; color: var(--brand); border-bottom: 1px solid var(--border); padding-bottom: 4px; margin-bottom: 6px; }
+.browser-list { list-style: none; padding: 0; margin: 0; columns: 2; column-gap: 28px; }
+@media (max-width: 640px) { .browser-list { columns: 1; } }
+.browser-item { break-inside: avoid; padding: 3px 0; }
+.browser-item a { color: var(--text); font-size: 14px; }
+.browser-item a:hover { color: var(--brand); }
+.browser-item .bi-tags { margin-left: 8px; }
+.browser-item .bi-tag { font-size: 10.5px; color: var(--text-2); background: var(--bg-mute); border: 1px solid var(--border); padding: 1px 6px; border-radius: 999px; }
+.browser-empty { color: var(--text-2); padding: 20px 0; }
+
+/* live search dropdown */
+.search-results {
+  position: absolute; right: 0; top: 110%;
+  width: min(420px, 92vw);
+  background: var(--bg); border: 1px solid var(--border);
+  border-radius: 10px; box-shadow: 0 8px 28px rgba(0,0,0,0.12);
+  max-height: 60vh; overflow-y: auto; z-index: 50; display: none;
+}
+.search-results.open { display: block; }
+.search-result { display: block; padding: 9px 14px; border-bottom: 1px solid var(--border); }
+.search-result:last-child { border-bottom: none; }
+.search-result .sr-title { font-size: 14px; color: var(--text); }
+.search-result .sr-section { font-size: 11px; color: var(--text-2); text-transform: uppercase; letter-spacing: 0.04em; }
+.search-result:hover { background: var(--bg-mute); text-decoration: none; }
+.search-empty { padding: 12px 14px; color: var(--text-2); font-size: 13px; }
+
+@media (max-width: 720px) {
+  .nav-search { width: 180px; }
+  .site-nav { display: none; }
+}

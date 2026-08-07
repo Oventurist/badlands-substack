@@ -1,4 +1,4 @@
-name: Deploy VitePress site to Pages
+name: Deploy static site to Pages
 
 on:
   # Runs on pushes to main (the hourly wiki sync auto-commit triggers this)
@@ -13,21 +13,16 @@ permissions:
   pages: write
   id-token: write
 
-# Only one build at a time (parallel 10K-page builds would OOM the runner).
+# Only one build at a time (parallel 10K-page builds would thrash the runner).
 # NOTE: cancel-in-progress MUST be false — with hourly wiki pushes and
-# ~45-min builds, canceling the in-progress run on each new push means a
-# build never finishes (every push kills the previous one). Queued builds
-# run serially instead; each deploys when done, and the last one carries
-# the newest wiki state.
+# ~1-min builds, canceling the in-progress run on each new push means a
+# build never finishes. Queued builds run serially; each deploys when done.
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
   build:
-    # Standard runner. The 10K-page OOM was the inlined sidebar payload
-    # (removed — config is now 4KB); NODE_OPTIONS 6GB heap is belt-and-
-    # braces. Larger runners cost 3x minutes and need plan support.
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -44,37 +39,12 @@ jobs:
         working-directory: site
         run: npm ci
 
-      - name: Build (split into entities + concepts halves)
+      - name: Generate static site
         working-directory: site
-        # The full 11.5K-page build OOMs GitHub's 7GB runner (6GB heap fits
-        # ~11K pages, not 11.5K). Build the two halves separately (each
-        # ~5.8K pages, well under the limit) and merge the dists. Both
-        # halves render the same theme/nav, so the merged site is complete.
-        env:
-          NODE_OPTIONS: "--max-old-space-size=6144"
-        run: |
-          set -e
-          echo "=== generate site (once) ==="
-          node scripts/generate-site.mjs
-
-          echo "=== build entities half ==="
-          # dot-prefixed so VitePress ignores the hidden dir during this
-          # half's build (a non-dot name like concepts.hidden gets scanned
-          # and double-builds the whole site — 22K pages, 4.5GB artifact).
-          mv docs/concepts docs/.concepts
-          npx vitepress build docs --outDir dist-entities
-          mv docs/.concepts docs/concepts
-
-          echo "=== build concepts half ==="
-          mv docs/entities docs/.entities
-          npx vitepress build docs --outDir dist-concepts
-          mv docs/.entities docs/entities
-
-          echo "=== merge halves ==="
-          mkdir -p dist-final
-          cp -r dist-concepts/. dist-final/
-          cp -r dist-entities/. dist-final/
-          echo "merged $(find dist-final -name '*.html' | wc -l) html pages"
+        # Lightweight static generator: markdown -> HTML + shared CSS/JS.
+        # Emits ~75MB total (vs the 1.4GB+ VitePress SPA build that exceeded
+        # GitHub Pages' 1GB limit and made deploys time out).
+        run: node scripts/generate-site.mjs
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -82,8 +52,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # upload the merged (entities + concepts) VitePress output
-          path: site/dist-final
+          path: site/dist
 
   deploy:
     environment:
@@ -96,7 +65,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          # Large 1.4GB artifact: GitHub Pages activation can take >10 min after
-          # upload, so raise the wait timeout from the 10-min default (the prior
-          # run timed out waiting and cancelled the deployment).
+          # Small artifact (~75MB) activates quickly; 45min is belt-and-braces.
           timeout: 45

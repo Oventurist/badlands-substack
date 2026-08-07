@@ -21,6 +21,9 @@ scripts/Substack2Markdown/
 
 # VitePress site (build artifacts + generated docs)
 site/node_modules/
+# lightweight static generator output
+site/dist/
+# legacy VitePress output (no longer used)
 site/docs/.vitepress/dist/
 site/docs/entities/
 site/docs/concepts/
@@ -29,7 +32,6 @@ site/docs/tags/
 site/docs/index.md
 site/docs/.vitepress/config.mjs
 site/docs/.vitepress/theme/
-site/docs/graph.md
 site/docs/public/
 .tmp144/
 .hermes/
