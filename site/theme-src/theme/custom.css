@@ -137,7 +137,42 @@ button[aria-label="Search"] .key {
   box-shadow: 0 16px 40px rgba(0, 0, 0, 0.22);
 }
 .nav-search .hs-list { max-height: 420px; }
-/* on small screens the navbar collapses to hamburger — hide the inline search */
-@media (max-width: 960px) {
-  .nav-search { display: none; }
+/* 9. Mobile search: navbar slot is hidden behind the hamburger on <=960px, so a
+   second (layout-top) instance is shown there as a full-width bar. */
+.nav-search--mobile {
+  display: none;
 }
+@media (max-width: 960px) {
+  /* hide the desktop (navbar) search instance */
+  .nav-search:not(.nav-search--mobile) {
+    display: none;
+  }
+  /* show the full-width mobile instance below the top nav bar */
+  .nav-search--mobile {
+    display: flex;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 60;
+    max-width: 100% !important;
+    width: 100%;
+    margin: 0 !important;
+    padding: 8px 12px;
+    background: var(--vp-c-bg);
+    border-bottom: 1px solid var(--vp-c-divider);
+  }
+  .nav-search--mobile .hs-input {
+    width: 100%;
+    font-size: 15px !important;
+    height: 38px !important;
+  }
+  .nav-search--mobile .hs-drop,
+  .nav-search--mobile .hs-none {
+    width: calc(100% - 24px);
+    min-width: 0;
+    left: 12px;
+    right: 12px;
+  }
+}
+

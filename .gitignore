@@ -25,6 +25,7 @@ site/docs/.vitepress/dist/
 site/docs/entities/
 site/docs/concepts/
 site/docs/articles/
+site/docs/tags/
 site/docs/index.md
 site/docs/.vitepress/config.mjs
 site/docs/.vitepress/theme/

@@ -51,6 +51,8 @@ import { withBase } from "vitepress";
 
 const props = defineProps({
   section: { type: String, default: "entities" },
+  // When set, only show items whose tags include this tag (used by /tags/<slug>/ pages).
+  tag: { type: String, default: "" },
 });
 
 const sectionLabel = computed(() =>
@@ -87,6 +89,8 @@ const visible = computed(() => {
     const inCategory = category.value === "all" ||
       categories.value.find((c) => c.id === category.value).match(item);
     if (!inCategory) return false;
+    // When a tag is requested (from a /tags/<slug>/ page), only show that tag.
+    if (props.tag && !item.tags.some((t) => slugify(t) === props.tag)) return false;
     if (!q) return true;
     return (
       item.title.toLowerCase().includes(q) ||
@@ -113,11 +117,23 @@ onMounted(async () => {
   try {
     const res = await fetch(withBase("/index-data.json"));
     const data = await res.json();
-    all.value = data.filter((d) => d.section === props.section);
+    // When filtering by tag, load BOTH sections so a tag page can show
+    // entities and concepts together. Otherwise scope to the given section.
+    all.value = props.tag
+      ? data
+      : data.filter((d) => d.section === props.section);
   } catch (e) {
     console.error("index data load failed", e);
   }
 });
+
+function slugify(s) {
+  return s
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-");
+}
 </script>
 
 <style scoped>
