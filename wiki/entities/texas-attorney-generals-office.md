@@ -14,7 +14,7 @@ The Office of the Attorney General (OAG) of Texas is the state's chief legal off
 
 ## Investigation of Media Matters (November 2023)
 
-On November 20, 2023, coinciding with the filing of [[x-corp|X Corp.]]'s lawsuit against [[media-matters|Media Matters]] in federal court in Fort Worth, the OAG announced it was opening an investigation into the organization for potential fraudulent activity.[1] The office stated that "under the Texas Business Organizations Code and the Deceptive Trade Practices Act, the OAG will vigorously enforce against nonprofits who commit fraudulent acts in or affecting the state of Texas."[1]
+On November 20, 2023, coinciding with the filing of [[x|X Corp.]]'s lawsuit against [[media-matters|Media Matters]] in federal court in Fort Worth, the OAG announced it was opening an investigation into the organization for potential fraudulent activity.[1] The office stated that "under the Texas Business Organizations Code and the Deceptive Trade Practices Act, the OAG will vigorously enforce against nonprofits who commit fraudulent acts in or affecting the state of Texas."[1]
 
 Paxton said he was "extremely troubled by the allegations that Media Matters, a radical anti-free speech organization, fraudulently manipulated data on X.com (formerly known as Twitter)," adding: "We are examining the issue closely to ensure that the public has not been deceived by the schemes of radical left-wing organizations who would like nothing more than to limit freedom by reducing participation in the public square."[1]
 

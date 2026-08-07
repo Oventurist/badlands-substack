@@ -10,7 +10,7 @@ confidence: medium
 
 # Stripe
 
-Stripe is an online payment processing platform. In June 2024 it took over identity-verification duties for [[x-corp|X]] after the platform ended its relationship with the Israeli-founded identity firm [[au10tix|AU10TIX]].[1]
+Stripe is an online payment processing platform. In June 2024 it took over identity-verification duties for [[x|X]] after the platform ended its relationship with the Israeli-founded identity firm [[au10tix|AU10TIX]].[1]
 
 ## Role in X identity verification
 

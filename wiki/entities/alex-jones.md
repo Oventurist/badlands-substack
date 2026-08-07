@@ -14,7 +14,7 @@ Alex Jones is an American broadcaster and host of the program Infowars, describe
 
 ## Ban and reinstatement on X
 
-Jones and his Infowars show were permanently banned from Twitter in 2018 for what the platform described as abusive behavior.[1] In December 2023, [[elon-musk|Elon Musk]] restored Jones's account on [[x-corp|X]], the platform formerly known as Twitter, after posting a public poll asking whether Jones should be reinstated. Roughly 70 percent of respondents favored reinstatement, and early on the Sunday following the poll Musk wrote, "The people have spoken and so it shall be."[1] A few hours later Jones's posts were visible again and he retweeted a post promoting his video game.[1]
+Jones and his Infowars show were permanently banned from Twitter in 2018 for what the platform described as abusive behavior.[1] In December 2023, [[elon-musk|Elon Musk]] restored Jones's account on [[x|X]], the platform formerly known as Twitter, after posting a public poll asking whether Jones should be reinstated. Roughly 70 percent of respondents favored reinstatement, and early on the Sunday following the poll Musk wrote, "The people have spoken and so it shall be."[1] A few hours later Jones's posts were visible again and he retweeted a post promoting his video game.[1]
 
 The Associated Press framed the restoration as posing new uncertainty for advertisers, who had already fled X over concerns about hate speech appearing alongside their ads, and characterized Jones as the latest divisive public personality to have a banned account returned.[1]
 

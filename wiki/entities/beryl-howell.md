@@ -29,7 +29,7 @@ Also in February 2023, federal prosecutors asked Howell, as chief judge of the W
 
 ## Trump Twitter subpoena fine
 
-Howell drew renewed scrutiny in August 2023 for her handling of Special Counsel [[jack-smith|Jack Smith]]'s secret subpoena of Twitter, now [[x-corp|X]], for records connected to [[donald-trump|Donald Trump]]'s account.[3] She imposed a $350,000 fine on the company over a three-day delay while it sought to address the demand, and justified the accompanying nondisclosure order in part on a finding that Trump was a flight risk.[3] Legal commentator [[jonathan-turley|Jonathan Turley]] wrote that both the secrecy and the flight-risk rationale were surprising and concerning, arguing that Trump already knew he was under investigation and that the court's reasoning that he might change his course of conduct seemed unlikely given his consistently undeterred social media practices.[3]
+Howell drew renewed scrutiny in August 2023 for her handling of Special Counsel [[jack-smith|Jack Smith]]'s secret subpoena of Twitter, now [[x|X]], for records connected to [[donald-trump|Donald Trump]]'s account.[3] She imposed a $350,000 fine on the company over a three-day delay while it sought to address the demand, and justified the accompanying nondisclosure order in part on a finding that Trump was a flight risk.[3] Legal commentator [[jonathan-turley|Jonathan Turley]] wrote that both the secrecy and the flight-risk rationale were surprising and concerning, arguing that Trump already knew he was under investigation and that the court's reasoning that he might change his course of conduct seemed unlikely given his consistently undeterred social media practices.[3]
 
 ## Perkins Coie injunction (2025)
 

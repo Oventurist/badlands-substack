@@ -54,7 +54,7 @@ Days before the November 2024 election, Carr — a Republican member of the five
 
 ## "Green light" statement on Musk (December 2023)
 
-In December 2023, after the [[federal-communications-commission|FCC]] rejected a $900 million subsidy for [[spacex|SpaceX]], Carr wrote on X that "President Biden gave federal agencies the green light to go after him [Musk]" — a statement cited as evidence that the [[joe-biden|Biden]] administration was weaponizing government agencies against [[elon-musk|Elon Musk]].[8] Badlands commentary treated Carr's confirmation as important context for the lawsuits Musk was then filing through [[x-corp|X]] against the [[censorship-industrial-complex|censorship industrial complex]], and as an illustration of coordination between federal agencies and nominally independent private enforcement arms.[8]
+In December 2023, after the [[federal-communications-commission|FCC]] rejected a $900 million subsidy for [[spacex|SpaceX]], Carr wrote on X that "President Biden gave federal agencies the green light to go after him [Musk]" — a statement cited as evidence that the [[joe-biden|Biden]] administration was weaponizing government agencies against [[elon-musk|Elon Musk]].[8] Badlands commentary treated Carr's confirmation as important context for the lawsuits Musk was then filing through [[x|X]] against the [[censorship-industrial-complex|censorship industrial complex]], and as an illustration of coordination between federal agencies and nominally independent private enforcement arms.[8]
 
 ## Broadcaster licensing pressure and the Vullo precedent (2025)
 

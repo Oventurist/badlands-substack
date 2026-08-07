@@ -10,7 +10,7 @@ confidence: medium
 
 # Geoffrey Kennett
 
-Geoffrey Kennett is a justice of the Federal Court of Australia who presided over the 2024 litigation between Australia's eSafety Commissioner and [[x-corp|X]] over the global removal of footage of the Wakeley church stabbing.[1]
+Geoffrey Kennett is a justice of the Federal Court of Australia who presided over the 2024 litigation between Australia's eSafety Commissioner and [[x|X]] over the global removal of footage of the Wakeley church stabbing.[1]
 
 ## The eSafety injunction ruling
 

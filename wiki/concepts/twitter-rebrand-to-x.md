@@ -14,7 +14,7 @@ The Twitter rebrand to X was the July 2023 replacement of the social media platf
 
 ## Background
 
-X.com was an early online bank founded by Musk, initially funded by Musk and Greg Kouri, who went on to fund Musk's later ventures [[tesla|Tesla]] and [[spacex|SpaceX]].[1] Musk has used the letter X across several of his business interests, including SpaceX and Tesla vehicle model names.[1] In March 2023 he established [[x-corp|X Corp.]] as the parent company of Twitter, a corporate step that cleared the way for the rebranding.[1]
+X.com was an early online bank founded by Musk, initially funded by Musk and Greg Kouri, who went on to fund Musk's later ventures [[tesla|Tesla]] and [[spacex|SpaceX]].[1] Musk has used the letter X across several of his business interests, including SpaceX and Tesla vehicle model names.[1] In March 2023 he established [[x|X Corp.]] as the parent company of Twitter, a corporate step that cleared the way for the rebranding.[1]
 
 ## The "everything app" strategy
 

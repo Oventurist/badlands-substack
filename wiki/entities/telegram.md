@@ -14,7 +14,7 @@ Telegram is a messaging and broadcast platform widely used by independent and al
 
 ## European pressure in 2024
 
-[[zerohedge|ZeroHedge]] reported that Durov's arrest was, in its assessment, "a trial balloon for how Europe will go after [[elon-musk|Elon Musk]]," and that within roughly two weeks "the wheels are now in motion."[1] The follow-on development cited was a call by [[anton-hofreiter|Anton Hofreiter]], a Green Party member of the German [[bundestag|Bundestag]] and chairman of its European policy committee, for Germany to block major social media platforms — Telegram and [[x-corp|X]] chief among them — if necessary to stop "extremist content" and "anti-constitutional content on the Internet."[1]
+[[zerohedge|ZeroHedge]] reported that Durov's arrest was, in its assessment, "a trial balloon for how Europe will go after [[elon-musk|Elon Musk]]," and that within roughly two weeks "the wheels are now in motion."[1] The follow-on development cited was a call by [[anton-hofreiter|Anton Hofreiter]], a Green Party member of the German [[bundestag|Bundestag]] and chairman of its European policy committee, for Germany to block major social media platforms — Telegram and [[x|X]] chief among them — if necessary to stop "extremist content" and "anti-constitutional content on the Internet."[1]
 
 The item appeared among the bonus stories in the September 10, 2024 edition of the Badlands News Brief published by [[badlands-media|Badlands Media]], which framed such measures as part of an escalating information war against platforms outside establishment control.[1]
 

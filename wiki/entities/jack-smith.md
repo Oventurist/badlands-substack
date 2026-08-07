@@ -176,7 +176,7 @@ In late February 2023, [[donald-trump|Donald Trump]] posted a USA Today report o
 
 ## X Corp. Supreme Court petition over the Trump account subpoena (2024)
 
-In June 2024, a year after federal courts compelled the company then known as Twitter to hand over account data pertaining to [[donald-trump|Donald Trump]] in response to Smith's demand, [[elon-musk|Elon Musk]]'s [[x-corp|X Corp.]] asked the [[supreme-court-of-the-united-states|Supreme Court]] to prevent a recurrence.[30] The company had provided the data without notifying Trump, having failed in an initial bid to delay production; the presiding federal judge questioned whether X was attempting to "cozy up" to the former president.[30] The petition asked the justices to decide whether social media platforms can be compelled to disclose user data to the government while simultaneously barred from informing the users concerned.[30]
+In June 2024, a year after federal courts compelled the company then known as Twitter to hand over account data pertaining to [[donald-trump|Donald Trump]] in response to Smith's demand, [[elon-musk|Elon Musk]]'s [[x|X Corp.]] asked the [[supreme-court-of-the-united-states|Supreme Court]] to prevent a recurrence.[30] The company had provided the data without notifying Trump, having failed in an initial bid to delay production; the presiding federal judge questioned whether X was attempting to "cozy up" to the former president.[30] The petition asked the justices to decide whether social media platforms can be compelled to disclose user data to the government while simultaneously barred from informing the users concerned.[30]
 
 ## June 2023 target notification
 

@@ -10,7 +10,7 @@ confidence: medium
 
 # eSafety Commissioner (Australia)
 
-The eSafety Commissioner is an Australian government regulator, described in reporting as a "world-first" office, empowered to order the removal of online material it deems offensive or harmful.[1] In 2024 the office became the defendant in a free-speech lawsuit brought by [[x-corp|X]], the platform owned by [[elon-musk|Elon Musk]].[1]
+The eSafety Commissioner is an Australian government regulator, described in reporting as a "world-first" office, empowered to order the removal of online material it deems offensive or harmful.[1] In 2024 the office became the defendant in a free-speech lawsuit brought by [[x|X]], the platform owned by [[elon-musk|Elon Musk]].[1]
 
 ## Takedown order and the X lawsuit (2024)
 
@@ -24,7 +24,7 @@ Writing in the [[badlands-news-brief|Badlands News Brief]], [[burning-bright|Bur
 
 ## The 2024 X litigation
 
-Under the Online Safety Act (2021), the eSafety Commissioner — [[julie-inman-grant|Julie Inman Grant]] — has authority to order removal of "class 1 material" within Australia under threat of hefty fines.[2] In April 2024 eSafety obtained a temporary injunction compelling [[x-corp|X]] to remove footage of the Wakeley church stabbing, an alleged religiously motivated terror attack, and argued that X had not gone far enough because Australian geo-blocking can be bypassed with a VPN.[2]
+Under the Online Safety Act (2021), the eSafety Commissioner — [[julie-inman-grant|Julie Inman Grant]] — has authority to order removal of "class 1 material" within Australia under threat of hefty fines.[2] In April 2024 eSafety obtained a temporary injunction compelling [[x|X]] to remove footage of the Wakeley church stabbing, an alleged religiously motivated terror attack, and argued that X had not gone far enough because Australian geo-blocking can be bypassed with a VPN.[2]
 
 X countered that eSafety was effectively seeking a global content ban outside the Australian regulator's jurisdiction.[2] Following a hearing on Friday 10 May 2024 and an extension of the expiring injunction to allow time for judgment, Justice [[geoffrey-kennett|Geoffrey Kennett]] refused the extension on 13 May 2024, stating that the application to extend was refused; eSafety said the matter would return for a case management hearing on Wednesday 15 May 2024.[2]
 

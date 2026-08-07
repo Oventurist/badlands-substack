@@ -10,11 +10,13 @@ confidence: medium
 
 # Twitter
 
-Twitter is the social media platform acquired by [[elon-musk|Elon Musk]], who as of mid-2023 served as its executive chair and chief technology officer.[1]
+Twitter was the social media platform acquired by [[elon-musk|Elon Musk]] in 2022 and rebranded as [[x|X]] in July 2023. This article covers the platform up to and including its rebrand; for the post-rebrand platform, see [[x|X]].
+
+Musk spent billions of dollars buying Twitter, presenting himself as a "free speech absolutist."[1] Commentary in the [[badlands-news-brief|Badlands News Brief]] credited him with helping to expose collusion between big tech and what the author termed the shadow government, and recalled his carrying a sink into Twitter headquarters as a gesture of defiance toward the industry figures angered by the takeover.[1]
 
 ## Musk's acquisition and free-speech positioning
 
-Musk spent billions of dollars buying Twitter, presenting himself as a "free speech absolutist."[1] Commentary in the [[badlands-news-brief|Badlands News Brief]] credited him with helping to expose collusion between big tech and what the author termed the shadow government, and recalled his carrying a sink into Twitter headquarters as a gesture of defiance toward the industry figures angered by the takeover.[1]
+Musk's purchase of the company and its move into private ownership was read by Badlands contributor [[joe-lange|Joe Lange]] as the enemy's loss of one of its most powerful weapons, and as the largest and most effective propaganda tool the enemy possessed.[18] In a June 15, 2024 feature, [[erik-carlson|Erik Carlson]] argued that Musk's purchase formed part of a decades-long operation against the [[deep-state|Deep State]], writing that in buying it Musk "released a major free speech platform from its chains, while gaining access to all of its Deep State secrets."[11] Carlson noted that since Musk announced the acquisition in 2022 he had become Deep State public enemy number two behind [[donald-trump|Donald Trump]].
 
 ## Community Notes
 
@@ -38,7 +40,7 @@ On May 9, 2023, former [[fox-news|Fox News]] host [[tucker-carlson|Tucker Carlso
 
 ## Rebranding to X (July 2023)
 
-In July 2023, after months of teasing by [[elon-musk|Elon Musk]], Twitter was officially rebranded as X, replacing its recognizable bird logo with a plain X and changing the app's color scheme from blue to black.[4] Musk had established [[x-corp|X Corp.]] in March 2023 as Twitter's parent company, a step that made way for the change.[4] The [[twitter-rebrand-to-x|rebrand]] was framed as part of a plan to turn the platform into an [[everything-app|"everything app"]] offering finance, banking, payments and data services alongside social features; in April 2023 the app had already introduced access to crypto markets and other financial market services from within the platform.[4] Musk said that if done correctly X could become "half of the global financial system."[4] Critics in the Truth Community responded that the outrage over a logo change was misplaced while accounts remained banned or shadow banned, and warned that consolidating behavioral and financial data in a single app dovetailed with an anticipated [[central-bank-digital-currency|central bank digital currency]].[4]
+In July 2023, after months of teasing by [[elon-musk|Elon Musk]], Twitter was officially rebranded as [[x|X]], replacing its recognizable bird logo with a plain X and changing the app's color scheme from blue to black.[4] Musk had established [[x|X Corp.]] in March 2023 as Twitter's parent company, a step that made way for the change.[4] The [[twitter-rebrand-to-x|rebrand]] was framed as part of a plan to turn the platform into an [[everything-app|"everything app"]] offering finance, banking, payments and data services alongside social features; in April 2023 the app had already introduced access to crypto markets and other financial market services from within the platform.[4] Musk said that if done correctly X could become "half of the global financial system."[4] Critics in the Truth Community responded that the outrage over a logo change was misplaced while accounts remained banned or shadow banned, and warned that consolidating behavioral and financial data in a single app dovetailed with an anticipated [[central-bank-digital-currency|central bank digital currency]].[4]
 
 ## Exit from the EU disinformation code (2023)
 
@@ -64,8 +66,7 @@ The July 2023 launch and rapid unraveling of Meta's [[threads|Threads]] was wide
 
 ## Shareholder list unsealed (2024)
 
-In August 2024 a federal judge ordered [[x-corp|X]] to unseal the roster of shareholders in X Holdings Corp., providing the first official public accounting of the investors who backed [[elon-musk|Elon Musk]]'s $44 billion acquisition of Twitter in October 2022.[10] Twitter founder and former chief executive [[jack-dorsey|Jack Dorsey]] was among the named investors, along with [[andreessen-horowitz|Andreessen Horowitz]], [[alwaleed-bin-talal|Alwaleed bin Talal]] and [[8vc|8VC]].[10]
-
+In August 2024 a federal judge ordered [[x|X]] to unseal the roster of shareholders in X Holdings Corp., providing the first official public accounting of the investors who backed [[elon-musk|Elon Musk]]'s $44 billion acquisition of Twitter in October 2022.[10] Twitter founder and former chief executive [[jack-dorsey|Jack Dorsey]] was among the named investors, along with [[andreessen-horowitz|Andreessen Horowitz]], [[alwaleed-bin-talal|Alwaleed bin Talal]] and [[8vc|8VC]].[10]
 
 ## Alwaleed's controlling interest
 
@@ -83,7 +84,26 @@ Citing the Washington Examiner and the New York Times, Lange reported that Twitt
 
 At a post-acquisition town hall, Musk told employees he envisions Twitter as "the people's financial institution," arguing that payments are an exchange of information with "not a huge difference" between sending a direct message and sending a payment, and that users should be able to send money to anyone, anywhere, "instantly and in real time."[14] He described verified users receiving seed funds in accounts held in a high-yield money market account, with above-market rates on positive balances, cheaper-than-typical overdraft charges, optional debit cards and checks, and automatic payments; asked about lending, he said a comprehensive service "can't be missing elements."[14] Lange paired this with the platform's role as a global "digital town square" reachable nearly anywhere via [[starlink|Starlink]], and with [[jack-dorsey|Jack Dorsey]]'s parallel work at [[block-inc|Block]] and on [[web5|Web5]], as evidence of a broader [[decentralization|decentralization]] of banking.[14]
 
+## The 2022 acquisition in Carlson's "sting operation" thesis
+
+[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay recounts that [[elon-musk|Elon Musk]] lost roughly 60% of Twitter's advertising immediately after buying the platform, and that subsequent disclosures showed how involved the [[fbi|FBI]] and [[central-intelligence-agency|CIA]] had been in controlling speech, shadow banning users and removing others.[15] Carlson treats the coincidence of the agencies' expulsion and the advertising collapse as support for his claim that advertising functions as a CIA laundering and control mechanism.[15]
+
+## The DeSantis Twitter Spaces announcement (May 2023)
+
+[[ron-desantis|Ron DeSantis]] announced his presidential candidacy in a Twitter Spaces event hosted with [[elon-musk|Elon Musk]] in May 2023. [[badlands-media|Badlands Media]] contributor [[erik-carlson|Erik Carlson]] described the event as "a bit of a flop" — "technology wise, it was a mess, content wise, it was boring."[16]
+
+Carlson raised the possibility that the widely shared satirical video mocking the failed launch had been produced before the event took place, reasoning that a video of that production quality would require planning yet "just popped up right after the Twitter Spaces debacle."[16] He observed that this would only be possible if the outcome were known in advance, which in turn would require Twitter itself to have been "in on it," while stressing that he was asking the question rather than asserting an answer.[16]
+
+## Targeted in the 2024 platform offensive
+
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] named Twitter, rebranded as [[x|X]], as one of the three most consequential platforms targeted in the 2024 escalation of the multinational censorship offensive, alongside [[rumble|Rumble]] and [[telegram|Telegram]].[17] Under [[elon-musk|Elon Musk]]'s ownership the platform was banned outright in [[brazil|Brazil]] by the [[supremo-tribunal-federal|Supremo Tribunal Federal]] before Musk capitulated to Justice [[alexandre-de-moraes|Alexandre de Moraes]]'s censorship orders, and DeLarme warned that EU authorities could pursue the same logic under the [[digital-services-act|Digital Services Act]].[17] Despite his criticism of Musk's capitulation, DeLarme described the platform as an indispensable tool where the bulk of online debate, activism and journalism take place.[17]
+
+## In Lange's counterinsurgency reading (December 2022)
+
+[[joe-lange|Joe Lange]] characterised Twitter in "What's Taking So Long?" (December 28, 2022) as the largest and most effective propaganda tool the enemy possessed, and argued that the [[qanon|Q]] operation's encouragement of anons to dig and share findings on the platform forced the enemy to ban them along with [[donald-trump|Donald Trump]] and to censor a wide range of subjects.[18] He read [[elon-musk|Elon Musk]]'s purchase of the company and its move into private ownership as the enemy's loss of one of its most powerful weapons.[18]
+
 ## References
+
 1. Badlands Brief — "Badlands News Brief: Hunter Hunted, Billionaire Boxing & Snopes Nopes", URL: https://badlands.substack.com/p/badlands-news-brief-090
 2. Badlands Brief — "Badlands News Brief: FOX Fights, Trump Trolls & Twitter Turns?", URL: https://badlands.substack.com/p/badlands-news-brief-148
 3. Badlands News Brief — "Tucker Returns, Trump Fights & Corruption Reigns", URL: https://badlands.substack.com/p/badlands-news-brief-3e5
@@ -94,39 +114,11 @@ At a post-acquisition town hall, Musk told employees he envisions Twitter as "th
 8. Badlands Brief — "Badlands News Brief: Satanic Idols, COVID Crimes & Twitter's Sins", URL: https://badlands.substack.com/p/badlands-news-brief-908
 9. Badlands Brief — "Badlands News Brief: Whistleblowers and Witch Hunts", URL: https://badlands.substack.com/p/badlands-news-brief-b76
 10. Badlands Brief — "Kamala's Coming Out Party is Kinda Lame ...", URL: https://badlands.substack.com/p/badlands-news-brief-d50
-
-
-## The 2022 acquisition in Carlson's "sting operation" thesis
-
-A June 15, 2024 Badlands feature by [[erik-carlson|Erik Carlson]] argued that [[elon-musk|Elon Musk]]'s purchase of Twitter formed part of a decades-long operation against the [[deep-state|Deep State]].[11] Carlson asked whether Musk "was asked to buy Twitter," and wrote that in buying it Musk released "a major free speech platform from its chains, while gaining access to all of its Deep State secrets."[11] He added that since Musk announced the acquisition in 2022 he had become Deep State public enemy number two behind [[donald-trump|Donald Trump]], and may briefly have taken the top spot that year.[11]
-
 11. Badlands Brief — "Has Trump's Whole Life Been a Sting Operation?", URL: https://badlands.substack.com/p/has-trumps-whole-life-been-a-sting
 12. Badlands Brief — "Q for Dummies - Chapter 18", URL: https://badlands.substack.com/p/q-for-dummies-chapter-18
 13. Badlands Media — "The Great Reset the Space: A New Frontier for American Community", raw/reset-the-space-reset-society.md
 14. Badlands Brief — "The Banking Revolution Is Underway", URL: https://badlands.substack.com/p/the-banking-revolution-is-underway
-
-## Advertising collapse after the Musk purchase (Carlson, 2024)
-
-[[erik-carlson|Erik Carlson]]'s September 17, 2024 essay recounts that [[elon-musk|Elon Musk]] lost roughly 60% of Twitter's advertising immediately after buying the platform, and that subsequent disclosures showed how involved the [[fbi|FBI]] and [[central-intelligence-agency|CIA]] had been in controlling speech, shadow banning users and removing others.[15] Carlson treats the coincidence of the agencies' expulsion and the advertising collapse as support for his claim that advertising functions as a CIA laundering and control mechanism.[15]
-
 15. Badlands Brief — "The Media is the Enemy of the People", URL: https://badlands.substack.com/p/the-media-is-the-enemy-of-the-people
-
-## The DeSantis Twitter Spaces announcement (May 2023)
-
-[[ron-desantis|Ron DeSantis]] announced his presidential candidacy in a Twitter Spaces event hosted with [[elon-musk|Elon Musk]] in May 2023. [[badlands-media|Badlands Media]] contributor [[erik-carlson|Erik Carlson]] described the event as "a bit of a flop" — "technology wise, it was a mess, content wise, it was boring."[16]
-
-Carlson raised the possibility that the widely shared satirical video mocking the failed launch had been produced before the event took place, reasoning that a video of that production quality would require planning yet "just popped up right after the Twitter Spaces debacle."[16] He observed that this would only be possible if the outcome were known in advance, which in turn would require Twitter itself to have been "in on it," while stressing that he was asking the question rather than asserting an answer.[16]
-
 16. Badlands Brief — "The Sting", URL: https://badlands.substack.com/p/the-sting
-
-## Targeted in the 2024 platform offensive
-
-Badlands contributor [[ryan-delarme|Ryan DeLarme]] named Twitter, rebranded as X, as one of the three most consequential platforms targeted in the 2024 escalation of the multinational censorship offensive, alongside [[rumble|Rumble]] and [[telegram|Telegram]].[17] Under [[elon-musk|Elon Musk]]'s ownership the platform was banned outright in [[brazil|Brazil]] by the [[supremo-tribunal-federal|Supremo Tribunal Federal]] before Musk capitulated to Justice [[alexandre-de-moraes|Alexandre de Moraes]]'s censorship orders, and DeLarme warned that EU authorities could pursue the same logic under the [[digital-services-act|Digital Services Act]].[17] Despite his criticism of Musk's capitulation, DeLarme described the platform as an indispensable tool where the bulk of online debate, activism and journalism take place.[17]
-
 17. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against
-
-## In Lange's counterinsurgency reading (December 2022)
-
-[[joe-lange|Joe Lange]] characterised Twitter in "What's Taking So Long?" (December 28, 2022) as the largest and most effective propaganda tool the enemy possessed, and argued that the [[qanon|Q]] operation's encouragement of anons to dig and share findings on the platform forced the enemy to ban them along with [[donald-trump|Donald Trump]] and to censor a wide range of subjects.[18] He read [[elon-musk|Elon Musk]]'s purchase of the company and its move into private ownership as the enemy's loss of one of its most powerful weapons.[18]
-
 18. Badlands Brief — "What's Taking So Long?", URL: https://badlands.substack.com/p/whats-taking-so-long

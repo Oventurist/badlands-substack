@@ -14,7 +14,7 @@ The spot Bitcoin exchange-traded fund (ETF) approval refers to the United States
 
 ## The premature announcement and claimed hack
 
-On January 9, 2024, an announcement proclaiming the approval of spot Bitcoin ETFs was posted from SEC Chair [[gary-gensler|Gary Gensler]]'s account on [[x-corp|X]], shortly after Gensler had issued a pre-emptive warning about the risks of crypto assets.[1] Minutes later, a further post stated that the announcement was false and that the account had been compromised.[1]
+On January 9, 2024, an announcement proclaiming the approval of spot Bitcoin ETFs was posted from SEC Chair [[gary-gensler|Gary Gensler]]'s account on [[x|X]], shortly after Gensler had issued a pre-emptive warning about the risks of crypto assets.[1] Minutes later, a further post stated that the announcement was false and that the account had been compromised.[1]
 
 X's Safety team subsequently published the results of its probe, confirming that the breach did not involve any of X's own systems and that the compromised account "did not have two-factor authentication enabled at the time the account was compromised."[1] Commentators noted that although the mainstream establishment might have preferred to blame [[elon-musk|Elon Musk]] or the platform, the episode instead showed that the world's leading securities regulator had failed to enable basic two-factor authentication on an account capable of moving markets.[1]
 

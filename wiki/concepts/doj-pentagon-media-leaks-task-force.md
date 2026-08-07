@@ -14,7 +14,7 @@ The DOJ–Pentagon media leaks task force is a joint body established in July 20
 
 ## Structure and authority
 
-In a video posted to [[x-platform|X]], Hegseth said he had delegated authority to the [[department-of-war|War Department]]'s Office of General Counsel to lead media leak investigations, empowering that office to request and receive all information, records and support across the department related to those investigations.[1]
+In a video posted to [[x|X]], Hegseth said he had delegated authority to the [[department-of-war|War Department]]'s Office of General Counsel to lead media leak investigations, empowering that office to request and receive all information, records and support across the department related to those investigations.[1]
 
 ## Context: New York Times subpoenas
 

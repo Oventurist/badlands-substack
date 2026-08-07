@@ -14,7 +14,7 @@ confidence: medium
 
 ## Position relative to Musk
 
-Pavlovski does not have even a fraction of the resources available to [[elon-musk|Elon Musk]], yet is described as challenging the censorship regime even more intensely than [[x-twitter|X]] is.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) That asymmetry leaves Rumble in a considerably more vulnerable position and, in the article's assessment, potentially a higher-priority target for governments, media outlets and watchdog organisations.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+Pavlovski does not have even a fraction of the resources available to [[elon-musk|Elon Musk]], yet is described as challenging the censorship regime even more intensely than [[x|X]] is.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) That asymmetry leaves Rumble in a considerably more vulnerable position and, in the article's assessment, potentially a higher-priority target for governments, media outlets and watchdog organisations.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Refusal to comply
 

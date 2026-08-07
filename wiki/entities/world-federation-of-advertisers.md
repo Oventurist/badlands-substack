@@ -18,7 +18,7 @@ Through its combined membership, the WFA and its GARM initiative represented rou
 
 ## Congressional scrutiny
 
-An interim staff report released by the [[house-judiciary-committee|House Judiciary Committee]] on July 10, 2024 — "GARM's Harm: How the World's Biggest Brands Seek to Control Online Speech" — described a coordinated effort by the WFA and GARM to demonetize and suppress disfavored content across the internet. [[elon-musk|Elon Musk]] responded by announcing that [[x-corp|X]] would sue the parties involved in what he called "the advertising boycott racket," and suggested that some states should consider criminal prosecution.[1]
+An interim staff report released by the [[house-judiciary-committee|House Judiciary Committee]] on July 10, 2024 — "GARM's Harm: How the World's Biggest Brands Seek to Control Online Speech" — described a coordinated effort by the WFA and GARM to demonetize and suppress disfavored content across the internet. [[elon-musk|Elon Musk]] responded by announcing that [[x|X]] would sue the parties involved in what he called "the advertising boycott racket," and suggested that some states should consider criminal prosecution.[1]
 
 ## References
 

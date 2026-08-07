@@ -10,7 +10,7 @@ confidence: low
 
 # Twitter Files
 
-The Twitter Files are a set of internal disclosures from the pre-acquisition era of the platform now known as [[x-platform|X]], cited by Badlands Media as documentary evidence of the censorship apparatus it describes.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+The Twitter Files are a set of internal disclosures from the pre-acquisition era of the platform now known as [[x|X]], cited by Badlands Media as documentary evidence of the censorship apparatus it describes.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
 The article invokes the Twitter Files to argue that, while an open platform inevitably surfaces opinions users find reprehensible, it is by far more dangerous to have the federal government and intelligence agencies colluding with big tech to determine which conversations the public may engage in.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism) This contrast forms the core of the author's defense of [[elon-musk|Elon Musk]]'s stewardship of the platform against the criticisms advanced by [[media-matters|Media Matters]] and the [[anti-defamation-league|ADL]].1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 

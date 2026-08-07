@@ -14,7 +14,7 @@ The "Trump-Musk Narrative Pincer" is a framework advanced by Badlands Media cont
 
 ## The August 2024 X conversation
 
-The framework received its most visible test when Trump officially returned to [[x-corp|X]] and held a roughly two-hour live conversation with Musk on X Spaces that generated more than a billion views.[1] The stream had to overcome significant technical problems caused by a sustained DDoS attack on the platform shortly before it began.[1] The attack followed sustained complaints from legacy media that Musk would allow Trump to say "whatever he wants to."[1]
+The framework received its most visible test when Trump officially returned to [[x|X]] and held a roughly two-hour live conversation with Musk on X Spaces that generated more than a billion views.[1] The stream had to overcome significant technical problems caused by a sustained DDoS attack on the platform shortly before it began.[1] The attack followed sustained complaints from legacy media that Musk would allow Trump to say "whatever he wants to."[1]
 
 ## Argument
 

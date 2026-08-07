@@ -34,7 +34,7 @@ As of 1 a.m. Thursday, five House Republicans had voted no, theoretically enough
 
 ## Inquiry into X's actions in Brazil
 
-In April 2024 the House sent an inquiry to [[x-corp|X]] concerning "actions taken in Brazil that were in violation of Brazilian law," according to [[elon-musk|Elon Musk]], who said the platform had been asked to suspend accounts belonging to sitting members of the Brazilian parliament and many journalists.[5] The inquiry came after Brazilian Supreme Court judge [[alexandre-de-moraes|Alexandre de Moraes]] opened a probe into Musk over his refusal to keep certain accounts blocked.[5]
+In April 2024 the House sent an inquiry to [[x|X]] concerning "actions taken in Brazil that were in violation of Brazilian law," according to [[elon-musk|Elon Musk]], who said the platform had been asked to suspend accounts belonging to sitting members of the Brazilian parliament and many journalists.[5] The inquiry came after Brazilian Supreme Court judge [[alexandre-de-moraes|Alexandre de Moraes]] opened a probe into Musk over his refusal to keep certain accounts blocked.[5]
 
 ## April 2024 foreign aid votes
 

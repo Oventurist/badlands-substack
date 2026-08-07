@@ -10,7 +10,7 @@ confidence: medium
 
 # U.S. District Court for the Northern District of Texas
 
-The United States District Court for the Northern District of Texas is the federal trial court whose Fort Worth Division received the lawsuit filed by [[x-corp|X Corp.]] against [[media-matters|Media Matters for America]] in November 2023.[1]
+The United States District Court for the Northern District of Texas is the federal trial court whose Fort Worth Division received the lawsuit filed by [[x|X Corp.]] against [[media-matters|Media Matters for America]] in November 2023.[1]
 
 ## Role in X Corp. v. Media Matters
 

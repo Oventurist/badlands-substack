@@ -10,7 +10,7 @@ confidence: medium
 
 # CTIL Files
 
-The "CTIL Files" are a set of disclosures released in late November 2023 by journalists [[michael-shellenberger|Michael Shellenberger]] and [[matt-taibbi|Matt Taibbi]], published the day before the two independent journalists testified before the House Weaponization Subcommittee.[1] At the time of the Badlands report the material consisted of three threads on [[x-platform|X]] together with supplemental media distributed across multiple alternative outlets.[1]
+The "CTIL Files" are a set of disclosures released in late November 2023 by journalists [[michael-shellenberger|Michael Shellenberger]] and [[matt-taibbi|Matt Taibbi]], published the day before the two independent journalists testified before the House Weaponization Subcommittee.[1] At the time of the Badlands report the material consisted of three threads on [[x|X]] together with supplemental media distributed across multiple alternative outlets.[1]
 
 ## Contents
 

@@ -12,7 +12,7 @@ confidence: low
 
 Jonathan Greenblatt heads the [[anti-defamation-league|Anti-Defamation League]] and is described by Badlands Media as a Democrat operative.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
-Under his leadership the ADL spent months harassing and haranguing [[elon-musk|Elon Musk]] for failing to crack down sufficiently on speech the organization deemed "hateful," and led a campaign that drove corporate advertisers away from [[x-platform|X]] by characterizing Musk as an antisemite.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism) After Musk banned phrases including "decolonization" and "from the river to the sea," the organization abruptly softened its posture toward him, a sequence the article presents as illustrating how such pressure groups operate.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+Under his leadership the ADL spent months harassing and haranguing [[elon-musk|Elon Musk]] for failing to crack down sufficiently on speech the organization deemed "hateful," and led a campaign that drove corporate advertisers away from [[x|X]] by characterizing Musk as an antisemite.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism) After Musk banned phrases including "decolonization" and "from the river to the sea," the organization abruptly softened its posture toward him, a sequence the article presents as illustrating how such pressure groups operate.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
 ## March 2026: West Bloomfield and the speech debate
 
@@ -42,7 +42,7 @@ Greenblatt, a former Obama administration staffer, leads the [[anti-defamation-l
 
 ## Clash with Elon Musk
 
-In late 2023 Greenblatt posted a tweet addressed to [[elon-musk|Elon Musk]] that Badlands Media read as a veiled extortive threat — an implicit warning that the ADL would declare [[x-twitter|X]] a vector of hate speech and render it radioactive to advertisers, coupled with a promise of public praise if the platform "addressed hate effectively."[5] Musk responded by floating a public poll on the organisation and raising the prospect of a defamation lawsuit, and said on the [[all-in-podcast|All-In Podcast]] that the ADL had been instrumental in getting [[donald-trump|Donald Trump]] removed from the platform.[5]
+In late 2023 Greenblatt posted a tweet addressed to [[elon-musk|Elon Musk]] that Badlands Media read as a veiled extortive threat — an implicit warning that the ADL would declare [[x|X]] a vector of hate speech and render it radioactive to advertisers, coupled with a promise of public praise if the platform "addressed hate effectively."[5] Musk responded by floating a public poll on the organisation and raising the prospect of a defamation lawsuit, and said on the [[all-in-podcast|All-In Podcast]] that the ADL had been instrumental in getting [[donald-trump|Donald Trump]] removed from the platform.[5]
 
 ## Financial deplatforming initiative
 

@@ -10,7 +10,7 @@ confidence: medium
 
 # #BanTheADL campaign
 
-**#BanTheADL** was a hashtag campaign that trended on [[x-twitter|X]] in September 2023, calling for the [[anti-defamation-league|Anti-Defamation League]] to be removed from the platform amid its public confrontation with [[elon-musk|Elon Musk]].[1]
+**#BanTheADL** was a hashtag campaign that trended on [[x|X]] in September 2023, calling for the [[anti-defamation-league|Anti-Defamation League]] to be removed from the platform amid its public confrontation with [[elon-musk|Elon Musk]].[1]
 
 The campaign gathered momentum after ADL chief executive [[jonathan-greenblatt|Jonathan Greenblatt]] posted a message that Musk and Badlands Media read as an implicit threat to declare X a vector of hate speech and thereby make it radioactive to advertisers.[1] Commentator [[eva-vlaardingerbroek|Eva Vlaardingerbroek]] noted the hashtag's trending status while criticising the censorship tactics she associated with such organisations, and Musk responded by floating the idea of running a poll to gauge public sentiment toward the ADL.[1]
 

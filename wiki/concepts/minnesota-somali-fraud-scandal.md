@@ -26,7 +26,7 @@ Debate over the fraud opened new rifts between the state's Somali community and 
 
 Kayseh Magan, a Somali American who previously worked as a fraud investigator for the Minnesota attorney general's office, was quoted saying, "There is a perception that forcefully tackling this issue might cause political backlash among the Somali community, which is a core voting bloc" for Democrats.[2]
 
-Badlands commentary noted that allegations of racism circulated on [[x-platform|X]] against anyone who pointed out the scandal, and argued that "it's not racist to say true things."[2] Ashe in America asked whether defrauding taxpayers becomes acceptable when done for political reasons, concluding sardonically that the volume of politically motivated fraud arrests suggested the practical answer was yes.[2]
+Badlands commentary noted that allegations of racism circulated on [[x|X]] against anyone who pointed out the scandal, and argued that "it's not racist to say true things."[2] Ashe in America asked whether defrauding taxpayers becomes acceptable when done for political reasons, concluding sardonically that the volume of politically motivated fraud arrests suggested the practical answer was yes.[2]
 
 ## Quality Learning Center exposé (December 2025)
 

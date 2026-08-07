@@ -88,7 +88,7 @@ Badlands Media commentary framed the denial as one element of a coordinated camp
 
 ## Freezing of Brazilian accounts (August 2024)
 
-During the [[supremo-tribunal-federal|Supremo Tribunal Federal]]'s confrontation with [[x-corp|X]], Justice [[alexandre-de-moraes|Alexandre de Moraes]] froze Starlink's Brazilian bank accounts and seized millions of dollars into Brazilian state coffers.[11] Badlands contributor [[ryan-delarme|Ryan DeLarme]] stressed the significance of the move: Starlink exists under [[spacex|SpaceX]], a completely separate entity from X with different shareholders and separate incorporation, even though [[elon-musk|Elon Musk]] is the major shareholder of both.[11]
+During the [[supremo-tribunal-federal|Supremo Tribunal Federal]]'s confrontation with [[x|X]], Justice [[alexandre-de-moraes|Alexandre de Moraes]] froze Starlink's Brazilian bank accounts and seized millions of dollars into Brazilian state coffers.[11] Badlands contributor [[ryan-delarme|Ryan DeLarme]] stressed the significance of the move: Starlink exists under [[spacex|SpaceX]], a completely separate entity from X with different shareholders and separate incorporation, even though [[elon-musk|Elon Musk]] is the major shareholder of both.[11]
 
 DeLarme noted that Starlink is beloved by many in [[brazil|Brazil]] because it provides free internet services to people in the Amazon and other places previously without access, and that Musk had received awards and homage for what many see as a genuinely beneficial philanthropic endeavor.[11] The seizure added pressure from SpaceX investors, who were unwilling to risk their assets and have their bank accounts frozen over a political cause tied to a company in which they had never invested.[11]
 

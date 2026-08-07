@@ -19,6 +19,10 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SITE = path.resolve(__dirname, "..");
 const WIKI = path.resolve(SITE, "..", "wiki");
 const DOCS = path.join(SITE, "docs");
+// GitHub Pages project site: repo lives under /badlands-substack/. Every link
+// must be rooted there (VitePress only rewrites its own <routerLink>/<a> by
+// base, not raw markdown links in generated .md files).
+const BASE = "/badlands-substack/";
 const OUT = {
   entities: path.join(DOCS, "entities"),
   concepts: path.join(DOCS, "concepts"),
@@ -194,8 +198,8 @@ title: Badlands Wiki
 
 A community-compiled knowledge base covering the people, institutions, concepts, and narratives of the Badlands Media corpus.
 
-- **Entities** (${counts.entities}): [browse all](/entities/) — people, organizations, and institutions
-- **Concepts** (${counts.concepts}): [browse all](/concepts/) — ideas and narratives
+- **Entities** (${counts.entities}): [browse all](${BASE}entities/) — people, organizations, and institutions
+- **Concepts** (${counts.concepts}): [browse all](${BASE}concepts/) — ideas and narratives
 
 Built automatically from the wiki.
 `;
@@ -265,9 +269,9 @@ export default defineConfig({
   ignoreDeadLinks: true,
   themeConfig: {
     nav: [
-      { text: "Home", link: "/" },
-      { text: "Entities", link: "/entities/" },
-      { text: "Concepts", link: "/concepts/" },
+      { text: "Home", link: "/badlands-substack/" },
+      { text: "Entities", link: "/badlands-substack/entities/" },
+      { text: "Concepts", link: "/badlands-substack/concepts/" },
     ],
     // sidebar removed: with 10K+ pages the full sidebar made every rendered
     // page carry a huge inlined JSON payload (JS heap OOM at build) and was

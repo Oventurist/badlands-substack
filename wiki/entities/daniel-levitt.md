@@ -10,7 +10,7 @@ confidence: low
 
 # Daniel Levitt
 
-**Daniel Levitt** was a [[x-twitter|Twitter]] user, posting under the handle @daniellevitt22, whose September 16, 2020 tweet summarising eight claims about COVID-19 was cited by [[badlands-media|Badlands Media]] contributor [[j-b-white|J.B. White]] as capturing a widely shared dissenting view of the pandemic response.1(https://badlands.substack.com/p/anthony-fauci)
+**Daniel Levitt** was a [[x|Twitter]] user, posting under the handle @daniellevitt22, whose September 16, 2020 tweet summarising eight claims about COVID-19 was cited by [[badlands-media|Badlands Media]] contributor [[j-b-white|J.B. White]] as capturing a widely shared dissenting view of the pandemic response.1(https://badlands.substack.com/p/anthony-fauci)
 
 ## The tweet
 

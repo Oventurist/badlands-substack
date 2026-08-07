@@ -32,7 +32,7 @@ On Monday, September 16, 2024, Breton resigned as the [[european-union|European 
 
 ## Announcement of the X infringement proceedings (December 2023)
 
-On Monday, December 18, 2023, Breton announced that the [[european-union|EU]] had opened infringement proceedings against [[x-corp|X]] — the first probe under the [[digital-services-act|Digital Services Act]] — in response to suspected breaches of the platform's transparency obligations and its duties to counter illegal content and disinformation, as well as what the bloc called a "deceptive" design of its user interface relating to blue checks.[4] X replied that it remained committed to complying with the Act and urged that the process remain "free of political influence."[4]
+On Monday, December 18, 2023, Breton announced that the [[european-union|EU]] had opened infringement proceedings against [[x|X]] — the first probe under the [[digital-services-act|Digital Services Act]] — in response to suspected breaches of the platform's transparency obligations and its duties to counter illegal content and disinformation, as well as what the bloc called a "deceptive" design of its user interface relating to blue checks.[4] X replied that it remained committed to complying with the Act and urged that the process remain "free of political influence."[4]
 
 
 ## Digital COVID certificate advocacy
@@ -53,7 +53,7 @@ Writing in February 2025, Badlands contributor [[ryan-delarme|Ryan DeLarme]] nam
 
 ## Stress test of X's California headquarters (June 2023)
 
-As the internal market commissioner responsible for enforcing the [[digital-services-act|Digital Services Act]], Breton led a team of EU officials to [[x-corp|X]]'s California headquarters in June 2023 to "stress test" the company's moderation and compliance systems, after which the platform — which had quit the EU's voluntary code of practice — said it would comply with the rules.[7] Breton welcomed [[elon-musk|Elon Musk]]'s change of heart but warned there would be "no half measures" when it came to sanctions for online crimes.[7]
+As the internal market commissioner responsible for enforcing the [[digital-services-act|Digital Services Act]], Breton led a team of EU officials to [[x|X]]'s California headquarters in June 2023 to "stress test" the company's moderation and compliance systems, after which the platform — which had quit the EU's voluntary code of practice — said it would comply with the rules.[7] Breton welcomed [[elon-musk|Elon Musk]]'s change of heart but warned there would be "no half measures" when it came to sanctions for online crimes.[7]
 
 Following the visit, Breton said the EU would be extremely vigilant heading into the following year's European elections, stating: "I told Elon Musk and Linda Yaccarino [Twitter's chief executive] that Twitter should be very diligent in preparing to tackle illegal content in the European Union," and that "fighting disinformation, including pro-Russian propaganda, will also be a focus area in particular as we are entering a period of elections in Europe."[7] Badlands contributor [[erik-carlson|Erik Carlson]] treated this warning as evidence that the DSA's enforcement machinery was aimed at political speech ahead of the 2024 election cycle.[7]
 
@@ -61,6 +61,6 @@ Following the visit, Breton said the EU would be extremely vigilant heading into
 
 ## Enforcement of the Digital Services Act against X (2024)
 
-Badlands contributor [[ryan-delarme|Ryan DeLarme]] identified Thierry Breton as the EU official who used the [[digital-services-act|Digital Services Act]] to target [[elon-musk|Elon Musk]] and [[x-corp|X]] during 2024.[8] DeLarme argued that the Act's vague definitions of "harmful" and "false" communications, combined with its grant of immunity to newspapers, television channels and streaming services, mean that only information approved by what he called the International Corpo-Government amalgam would be allowed to circulate.[8]
+Badlands contributor [[ryan-delarme|Ryan DeLarme]] identified Thierry Breton as the EU official who used the [[digital-services-act|Digital Services Act]] to target [[elon-musk|Elon Musk]] and [[x|X]] during 2024.[8] DeLarme argued that the Act's vague definitions of "harmful" and "false" communications, combined with its grant of immunity to newspapers, television channels and streaming services, mean that only information approved by what he called the International Corpo-Government amalgam would be allowed to circulate.[8]
 
 8. Badlands Brief — "The Multinational Offensive Against Free Speech Online", URL: https://badlands.substack.com/p/the-multinational-offensive-against

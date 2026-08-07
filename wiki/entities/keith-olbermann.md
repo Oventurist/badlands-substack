@@ -10,7 +10,7 @@ confidence: medium
 
 # Keith Olbermann
 
-Keith Olbermann is an American broadcaster and political commentator known for combative left-leaning commentary and for his heavy use of social media. In late November 2023 he became the subject of conservative media coverage after announcing that he was leaving the platform [[x-corp|X]] in protest of its owner, [[elon-musk|Elon Musk]].[1]
+Keith Olbermann is an American broadcaster and political commentator known for combative left-leaning commentary and for his heavy use of social media. In late November 2023 he became the subject of conservative media coverage after announcing that he was leaving the platform [[x|X]] in protest of its owner, [[elon-musk|Elon Musk]].[1]
 
 ## Departure from X (November 2023)
 

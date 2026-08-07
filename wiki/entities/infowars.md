@@ -18,7 +18,7 @@ Jones and his Infowars show were permanently banned from Twitter in 2018 for abu
 
 ## Reinstatement
 
-In December 2023, [[elon-musk|Elon Musk]] restored Jones's account on [[x-corp|X]] following a user poll in which about 70 percent of respondents favored reinstatement.[1] The Associated Press reported the move created new uncertainty for advertisers who had already left the platform over hate-speech concerns.[1] [[badlands-media|Badlands Media]] commentary argued the restoration was selective theater, since other independent creators—including Badlands writers—remained banned or visibility filtered.[1]
+In December 2023, [[elon-musk|Elon Musk]] restored Jones's account on [[x|X]] following a user poll in which about 70 percent of respondents favored reinstatement.[1] The Associated Press reported the move created new uncertainty for advertisers who had already left the platform over hate-speech concerns.[1] [[badlands-media|Badlands Media]] commentary argued the restoration was selective theater, since other independent creators—including Badlands writers—remained banned or visibility filtered.[1]
 
 ## Bankruptcy auction (November 2024)
 

@@ -14,7 +14,7 @@ The "Great Replacement" is the claim that native populations of Western countrie
 
 ## In the Musk coverage
 
-CNN's March 2024 analysis of [[elon-musk|Elon Musk]]'s interview with [[don-lemon|Don Lemon]] accused Musk of "yet again" giving credence to the racist Great Replacement theory, alongside equating content moderation to censorship, criticizing the press, attacking DEI programs and disparaging advertisers who left [[x-corp|X]].[1]
+CNN's March 2024 analysis of [[elon-musk|Elon Musk]]'s interview with [[don-lemon|Don Lemon]] accused Musk of "yet again" giving credence to the racist Great Replacement theory, alongside equating content moderation to censorship, criticizing the press, attacking DEI programs and disparaging advertisers who left [[x|X]].[1]
 
 ## In the Buffalo litigation
 

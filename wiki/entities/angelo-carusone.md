@@ -14,7 +14,7 @@ Angelo Carusone is the president of [[media-matters|Media Matters for America]],
 
 ## Resurfaced blog posts
 
-In November 2023, amid the escalating dispute between Media Matters and [[elon-musk|Elon Musk]]'s [[x-corp|X]], blog posts Carusone had written in the early 2000s resurfaced in conservative media. The posts, which used slurs including "Japs, Jewry and Trannies," were characterized in coverage as "super antisemitic," and had originally been uncovered by the Daily Caller's Peter Hasson in 2019.[1] Their recirculation was framed by critics as evidence of hypocrisy, given that the Media Matters campaign against X had centered on allegations of antisemitic content on the platform.[1]
+In November 2023, amid the escalating dispute between Media Matters and [[elon-musk|Elon Musk]]'s [[x|X]], blog posts Carusone had written in the early 2000s resurfaced in conservative media. The posts, which used slurs including "Japs, Jewry and Trannies," were characterized in coverage as "super antisemitic," and had originally been uncovered by the Daily Caller's Peter Hasson in 2019.[1] Their recirculation was framed by critics as evidence of hypocrisy, given that the Media Matters campaign against X had centered on allegations of antisemitic content on the platform.[1]
 
 ## Context
 

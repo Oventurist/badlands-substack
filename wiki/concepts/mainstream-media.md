@@ -14,7 +14,7 @@ The **mainstream media** (MSM) is treated in [[badlands-media|Badlands Media]] c
 
 ## Scope and definition
 
-In a February 14, 2024 essay, [[erik-carlson|Erik Carlson]] describes explaining to critics of his [[donald-trump|Trump]] support that he does not get his information from the mainstream media, which he believes is compromised and paid to report disinformation.[1] He notes that interlocutors commonly protest that they also watch FOX, to which he replies that FOX is mainstream media; when they add the Washington Post and the New York Times, he replies that these are mainstream media as well.[1] By contrast he cites alternative media sources and people he trusts directly on [[x-corp|X]], [[truth-social|Truth Social]] and [[rumble|Rumble]], adding that he does not accept what he hears at face value but researches it independently.[1]
+In a February 14, 2024 essay, [[erik-carlson|Erik Carlson]] describes explaining to critics of his [[donald-trump|Trump]] support that he does not get his information from the mainstream media, which he believes is compromised and paid to report disinformation.[1] He notes that interlocutors commonly protest that they also watch FOX, to which he replies that FOX is mainstream media; when they add the Washington Post and the New York Times, he replies that these are mainstream media as well.[1] By contrast he cites alternative media sources and people he trusts directly on [[x|X]], [[truth-social|Truth Social]] and [[rumble|Rumble]], adding that he does not accept what he hears at face value but researches it independently.[1]
 
 ## The Gollum analogy
 

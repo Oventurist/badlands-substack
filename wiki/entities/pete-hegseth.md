@@ -24,7 +24,7 @@ As Secretary of War during the March 2026 US–Israeli strikes on [[iran|Iran]],
 
 ## Media leaks task force (2026)
 
-In July 2026, Hegseth announced that the [[department-of-justice|Department of Justice]] and the [[pentagon|Pentagon]] had established a [[doj-pentagon-media-leaks-task-force|joint task force]] to identify and prosecute unauthorized disclosures of sensitive information to the news media.[3] In a video posted to [[x-platform|X]], he said he had delegated authority to the [[department-of-war|War Department]]'s Office of General Counsel to lead media leak investigations, empowering that office to request and receive all information, records and support across the department related to those investigations.[3]
+In July 2026, Hegseth announced that the [[department-of-justice|Department of Justice]] and the [[pentagon|Pentagon]] had established a [[doj-pentagon-media-leaks-task-force|joint task force]] to identify and prosecute unauthorized disclosures of sensitive information to the news media.[3] In a video posted to [[x|X]], he said he had delegated authority to the [[department-of-war|War Department]]'s Office of General Counsel to lead media leak investigations, empowering that office to request and receive all information, records and support across the department related to those investigations.[3]
 
 ## Europe force posture review (July 2026)
 

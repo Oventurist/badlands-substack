@@ -12,7 +12,7 @@ confidence: low
 
 K2 Integrity is a risk and investigations advisory firm founded by Jules Kroll, named in [[badlands-media|Badlands Media]] commentary as a possible target of racketeering scrutiny in the wake of the August 2024 advertising-boycott litigation.[1]
 
-Discussing [[elon-musk|Elon Musk]]'s public reference to RICO after [[x-corp|X]] and [[rumble|Rumble]] sued the [[global-alliance-for-responsible-media|Global Alliance for Responsible Media]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] asked whether Musk might be pointing at ratings and reputational-risk intermediaries such as [[newsguard|NewsGuard]], [[jules-kroll|Jules Kroll]], or K2 Integrity.[1]
+Discussing [[elon-musk|Elon Musk]]'s public reference to RICO after [[x|X]] and [[rumble|Rumble]] sued the [[global-alliance-for-responsible-media|Global Alliance for Responsible Media]], [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] asked whether Musk might be pointing at ratings and reputational-risk intermediaries such as [[newsguard|NewsGuard]], [[jules-kroll|Jules Kroll]], or K2 Integrity.[1]
 
 ## References
 

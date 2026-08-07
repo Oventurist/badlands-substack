@@ -40,7 +40,7 @@ Badlands contributor [[ryan-delarme|Ryan DeLarme]] argued the WHO had "bamboozle
 
 ## Teddy Cook expert panel appointment
 
-Australian activist [[teddy-cook|Teddy Cook]], a female-to-male trans man who has advocated for taxpayer-funded surgeries for all transgender Australians, was controversially appointed to a World Health Organisation expert panel.[5] Cook was the subject of the post that Australia's [[esafety-commissioner|eSafety Commissioner]] ordered [[x-corp|X]] to remove in 2024, triggering the platform's free-speech lawsuit against the Australian government.[5]
+Australian activist [[teddy-cook|Teddy Cook]], a female-to-male trans man who has advocated for taxpayer-funded surgeries for all transgender Australians, was controversially appointed to a World Health Organisation expert panel.[5] Cook was the subject of the post that Australia's [[esafety-commissioner|eSafety Commissioner]] ordered [[x|X]] to remove in 2024, triggering the platform's free-speech lawsuit against the Australian government.[5]
 
 ## 2024 mpox emergency declaration
 

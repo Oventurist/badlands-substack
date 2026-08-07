@@ -16,7 +16,7 @@ The Institute for the Analysis of Global Security (IAGS) is a Washington-based t
 
 In July 2023, federal prosecutors in Manhattan accused Luft of paying a former high-ranking U.S. government official on behalf of principals based in China in 2016, and of seeking to broker the sale of weapons and Iranian oil.[1] Luft, a dual U.S.–Israeli citizen, was arrested in [[cyprus|Cyprus]] in February 2023 but fled while released on bail; prosecutors said in September 2024 that he had since been re-arrested and would be extradited within weeks or months.[1]
 
-Luft said in posts on [[x-corp|X]] that he had never been an arms dealer and that the charges were "politically motivated."[1] IAGS itself stated in 2023 that it was convinced of Luft's innocence.[1]
+Luft said in posts on [[x|X]] that he had never been an arms dealer and that the charges were "politically motivated."[1] IAGS itself stated in 2023 that it was convinced of Luft's innocence.[1]
 
 ## Badlands commentary
 

@@ -10,7 +10,7 @@ confidence: medium
 
 # Elon Musk–Trump X Interview
 
-The **Elon Musk–Trump X interview** was a long-form live conversation between [[elon-musk|Elon Musk]] and former President [[donald-trump|Donald Trump]] held on Monday, August 12, 2024 at 5 p.m. Pacific time on [[x-corp|X]].[1] [[badlands-media|Badlands Media]] covered the event before, during and after its broadcast, streaming immediate reaction and analysis.[1]
+The **Elon Musk–Trump X interview** was a long-form live conversation between [[elon-musk|Elon Musk]] and former President [[donald-trump|Donald Trump]] held on Monday, August 12, 2024 at 5 p.m. Pacific time on [[x|X]].[1] [[badlands-media|Badlands Media]] covered the event before, during and after its broadcast, streaming immediate reaction and analysis.[1]
 
 ## Reception within the Badlands orbit
 

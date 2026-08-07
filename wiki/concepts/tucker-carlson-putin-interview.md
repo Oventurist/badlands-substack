@@ -38,7 +38,7 @@ Carlson's visit to Russia, and his announcement on Tuesday, February 6, 2024 tha
 
 ## Effect on X
 
-Anticipation of the interview — released exclusively on [[x-corp|X]] and Carlson's own website — drove a surge of downloads of [[elon-musk|Elon Musk]]'s platform among iPhone and iPad users on Apple's App Store, with X becoming the number one free app there ahead of ChatGPT, [[threads|Threads]], and TikTok.[4] ZeroHedge reported that the prospect of the interview had already caused a stir among neoconservatives and the legacy outlets it described as overseeing the censorship-industrial complex.[4]
+Anticipation of the interview — released exclusively on [[x|X]] and Carlson's own website — drove a surge of downloads of [[elon-musk|Elon Musk]]'s platform among iPhone and iPad users on Apple's App Store, with X becoming the number one free app there ahead of ChatGPT, [[threads|Threads]], and TikTok.[4] ZeroHedge reported that the prospect of the interview had already caused a stir among neoconservatives and the legacy outlets it described as overseeing the censorship-industrial complex.[4]
 
 [[burning-bright|Burning Bright]] read the download surge as the Truth Community's message reaching mainstream audiences, writing "Welcome to the show, Normieville."[4] He argued that many Anons who followed the Q operation had long anticipated a partnership between Trump, Putin, [[xi-jinping|Xi Jinping]] and [[mohammed-bin-salman|Mohammed bin Salman]] against a globalist cabal — a grouping he calls the [[sovereign-alliance|Sovereign Alliance]] — and that direct-path Info Warriors capable of traversing narrative layers and front-running the [[overton-window|Overton Window]] would serve as the informational and psychological support for newly arriving normies.[4]
 

@@ -16,7 +16,7 @@ Anton Hofreiter is a German member of parliament from the Green Party and the ch
 
 Speaking to reporters from the Funke Media Group on a Saturday in early September 2024, Hofreiter said Germany must act to stop the dissemination of "extremist content" online and should be prepared to block major social media platforms.[1] "One of the biggest problems of extremism is online radicalization," he stated, adding that the dissemination of "anti-constitutional content on the Internet" must be stopped.[1] He also said, "We need to tackle the root of the problem and push back radicalization in digital space as well as in society."[1]
 
-The remarks were reported as implicit threats against [[x-corp|X]] and [[telegram|Telegram]] specifically.[1]
+The remarks were reported as implicit threats against [[x|X]] and [[telegram|Telegram]] specifically.[1]
 
 ## Commentary
 

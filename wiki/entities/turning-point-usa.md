@@ -16,7 +16,7 @@ Turning Point USA (TPUSA) is the conservative youth organization founded by [[ch
 
 In July 2026, TPUSA became a focal point of a public rupture among prominent conservatives over the preliminary hearing of [[tyler-robinson|Tyler Robinson]], the accused in Charlie Kirk's murder.[1] [[candace-owens|Candace Owens]] argued that Robinson did not act alone, implicating [[israel|Israel]], Egypt, the US military, TPUSA staff, and Kirk's widow [[erika-kirk|Erika Kirk]].[1]
 
-Politico reported that TPUSA staff received death threats and increased security after Owens' broadcasts named them.[1] Owens responded on [[x-platform|X]] by alleging a coordinated "Zionist PR" campaign against her, and her spokesperson accused TPUSA figures of targeting her for months.[1]
+Politico reported that TPUSA staff received death threats and increased security after Owens' broadcasts named them.[1] Owens responded on [[x|X]] by alleging a coordinated "Zionist PR" campaign against her, and her spokesperson accused TPUSA figures of targeting her for months.[1]
 
 ## Politico investigation and security response (July 2026)
 

@@ -10,7 +10,7 @@ confidence: low
 
 # Chris Elston
 
-Chris Elston is a Canadian activist whose social-media post triggered the 2024 confrontation between [[x-corp|X]] and Australia's [[esafety-commissioner|eSafety Commissioner]].[1]
+Chris Elston is a Canadian activist whose social-media post triggered the 2024 confrontation between [[x|X]] and Australia's [[esafety-commissioner|eSafety Commissioner]].[1]
 
 ## The 2024 takedown order
 

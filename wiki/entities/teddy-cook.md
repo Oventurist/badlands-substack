@@ -10,7 +10,7 @@ confidence: low
 
 # Teddy Cook
 
-Teddy Cook is an Australian activist at the center of the 2024 takedown order that led [[x-corp|X]] to sue Australia's [[esafety-commissioner|eSafety Commissioner]].[1]
+Teddy Cook is an Australian activist at the center of the 2024 takedown order that led [[x|X]] to sue Australia's [[esafety-commissioner|eSafety Commissioner]].[1]
 
 Cook, 45, is a female-to-male trans man who has advocated for taxpayer-funded surgeries for all transgender Australians, and was controversially appointed to a [[world-health-organization|World Health Organisation]] expert panel.[1]
 

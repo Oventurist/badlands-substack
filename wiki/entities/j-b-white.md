@@ -16,7 +16,7 @@ confidence: medium
 
 White explained that the ongoing [[twitter-files|Twitter Files]] revelations — which he characterised as exposing wrongdoing by a "RICO-worthy collection of fascistic rascals unworthy of American public service" — made it an appropriate moment to begin making regular submissions to the Badlands Media series on Substack.1(https://badlands.substack.com/p/anthony-fauci) He framed the Fauci column as a companion to a Twitter Files exposé on [[anthony-fauci|Anthony Fauci]] that he expected would eventually appear.1(https://badlands.substack.com/p/anthony-fauci)
 
-Before writing for Badlands, White had a prior connection to the outlet's orbit: he had delivered a 70-post thread on [[x-twitter|Twitter]] about what he called "the new kind of war," which was read aloud by his future *Trash Talk* co-host [[patrick-gunnels|Patrick Gunnels]] in the *Reading Epic Threads* series.1(https://badlands.substack.com/p/anthony-fauci)
+Before writing for Badlands, White had a prior connection to the outlet's orbit: he had delivered a 70-post thread on [[x|Twitter]] about what he called "the new kind of war," which was read aloud by his future *Trash Talk* co-host [[patrick-gunnels|Patrick Gunnels]] in the *Reading Epic Threads* series.1(https://badlands.substack.com/p/anthony-fauci)
 
 ## Political outlook
 

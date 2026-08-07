@@ -10,7 +10,7 @@ confidence: low
 
 # Patrick Gunnels
 
-**Patrick Gunnels** is a [[badlands-media|Badlands Media]] host associated with the *Trash Talk* program and with the *Reading Epic Threads* series on [[x-twitter|Twitter]], in which he read long-form threads aloud on video.1(https://badlands.substack.com/p/anthony-fauci)
+**Patrick Gunnels** is a [[badlands-media|Badlands Media]] host associated with the *Trash Talk* program and with the *Reading Epic Threads* series on [[x|Twitter]], in which he read long-form threads aloud on video.1(https://badlands.substack.com/p/anthony-fauci)
 
 Contributor [[j-b-white|J.B. White]] recounted that a 70-post thread he had written about "the new kind of war" was read by Gunnels on one of the *Reading Epic Threads* installments, a roughly 26-minute video later archived on Odysee.1(https://badlands.substack.com/p/anthony-fauci) White identified Gunnels as his future *Trash Talk* co-host, indicating that the reading preceded their later on-air partnership at Badlands Media.1(https://badlands.substack.com/p/anthony-fauci)
 

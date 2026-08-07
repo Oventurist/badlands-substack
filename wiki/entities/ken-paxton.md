@@ -12,7 +12,7 @@ confidence: medium
 
 Ken Paxton is the Attorney General of Texas.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
-Paxton opened an investigation into [[media-matters|Media Matters]] over potential fraudulent activity in the wake of the organization's November 2023 report on advertisement placement on [[x-platform|X]].1(https://badlands.substack.com/p/a-cancer-on-modern-journalism) Badlands Media groups the investigation with [[elon-musk|Elon Musk]]'s "thermonuclear lawsuit" and the public statement by [[chris-pavlovski|Chris Pavlovski]] as signs that the tactics of media watchdogs are rebounding on [[david-brock|David Brock]] and his organization.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+Paxton opened an investigation into [[media-matters|Media Matters]] over potential fraudulent activity in the wake of the organization's November 2023 report on advertisement placement on [[x|X]].1(https://badlands.substack.com/p/a-cancer-on-modern-journalism) Badlands Media groups the investigation with [[elon-musk|Elon Musk]]'s "thermonuclear lawsuit" and the public statement by [[chris-pavlovski|Chris Pavlovski]] as signs that the tactics of media watchdogs are rebounding on [[david-brock|David Brock]] and his organization.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
 ## 2026 US Senate primary runoff
 
@@ -26,7 +26,7 @@ Paxton, a hard-charging conservative and strong ally of [[donald-trump|Donald Tr
 
 ## Media Matters investigation (November 2023)
 
-On 20 November 2023, the day [[x-corp|X]] filed its suit against [[media-matters|Media Matters]], Paxton's Office of the Attorney General formally announced an investigation into the organization for potential fraudulent activity.[4] The OAG said it would "vigorously enforce against nonprofits who commit fraudulent acts in or affecting the state of Texas" under the Texas Business Organizations Code and the Deceptive Trade Practices Act.[4] Paxton said he was "extremely troubled by the allegations that Media Matters, a radical anti-free speech organization, fraudulently manipulated data on X.com (formerly known as Twitter)," and added that his office was "examining the issue closely to ensure that the public has not been deceived by the schemes of radical left-wing organizations who would like nothing more than to limit freedom by reducing participation in the public square."[4]
+On 20 November 2023, the day [[x|X]] filed its suit against [[media-matters|Media Matters]], Paxton's Office of the Attorney General formally announced an investigation into the organization for potential fraudulent activity.[4] The OAG said it would "vigorously enforce against nonprofits who commit fraudulent acts in or affecting the state of Texas" under the Texas Business Organizations Code and the Deceptive Trade Practices Act.[4] Paxton said he was "extremely troubled by the allegations that Media Matters, a radical anti-free speech organization, fraudulently manipulated data on X.com (formerly known as Twitter)," and added that his office was "examining the issue closely to ensure that the public has not been deceived by the schemes of radical left-wing organizations who would like nothing more than to limit freedom by reducing participation in the public square."[4]
 
 ## Blocking the border wall materials sale
 

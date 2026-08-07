@@ -128,7 +128,7 @@ In the January 31, 2023 edition of the [[badlands-news-brief|Badlands News Brief
 
 ## Departure from X (February 2024)
 
-In a February 5, 2024 Badlands Media essay, [[erik-carlson|Erik Carlson]] noted that Paul, whom he described as "a very smart and interesting guy on Badlands Media," had announced he was quitting Twitter ([[x-platform|X]]) for good.[27] Carlson wrote that Paul took heat for the decision from people arguing that patriots are called to remain on the "battlefield," citing [[qanon|Q]]'s June 24, 2020 Post 4510 instruction never to retreat from Twitter or Facebook.[27] Carlson sided with Paul, observing that no patriot-controlled platforms such as [[truth-social|Truth Social]] or [[rumble|Rumble]] existed in June 2020 and that [[elon-musk|Elon Musk]] did not then own the platform.[27]
+In a February 5, 2024 Badlands Media essay, [[erik-carlson|Erik Carlson]] noted that Paul, whom he described as "a very smart and interesting guy on Badlands Media," had announced he was quitting Twitter ([[x|X]]) for good.[27] Carlson wrote that Paul took heat for the decision from people arguing that patriots are called to remain on the "battlefield," citing [[qanon|Q]]'s June 24, 2020 Post 4510 instruction never to retreat from Twitter or Facebook.[27] Carlson sided with Paul, observing that no patriot-controlled platforms such as [[truth-social|Truth Social]] or [[rumble|Rumble]] existed in June 2020 and that [[elon-musk|Elon Musk]] did not then own the platform.[27]
 
 ## References
 

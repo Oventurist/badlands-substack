@@ -22,11 +22,11 @@ In 2022 the French government, angered that Rumble continued to allow Russian ne
 
 ## Strategic significance
 
-Rumble's chief executive [[chris-pavlovski|Chris Pavlovski]] is described as challenging the regime more intensely than [[x-twitter|X]] does, while commanding a fraction of the resources available to [[elon-musk|Elon Musk]] — leaving Rumble in a more vulnerable and possibly higher-priority position.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Badlands Media notes that its own operations depend on Rumble's hard stance against censorship, and argues that if Rumble falls the loss would extend beyond one platform: it would set a standard and serve as a warning to any other company hoping to fill the void.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) The article closes with the injunction that Rumble must be protected and supported at all costs.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+Rumble's chief executive [[chris-pavlovski|Chris Pavlovski]] is described as challenging the regime more intensely than [[x|X]] does, while commanding a fraction of the resources available to [[elon-musk|Elon Musk]] — leaving Rumble in a more vulnerable and possibly higher-priority position.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Badlands Media notes that its own operations depend on Rumble's hard stance against censorship, and argues that if Rumble falls the loss would extend beyond one platform: it would set a standard and serve as a warning to any other company hoping to fill the void.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) The article closes with the injunction that Rumble must be protected and supported at all costs.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Targeted by Brazil's censorship regime (2026)
 
-An interim staff report by the [[house-judiciary-committee|House Judiciary Committee]] released in April 2026 stated that when platforms such as [[x-corp|X]] and Rumble refused to fully comply with takedown orders issued under [[brazil|Brazil]]'s censorship system, Brazilian authorities fined them and threatened or ordered them to cease operations in the country.[2] The report warned that forcing American companies to censor US residents' speech creates a broader threat to [[first-amendment|First Amendment]] protections.[2]
+An interim staff report by the [[house-judiciary-committee|House Judiciary Committee]] released in April 2026 stated that when platforms such as [[x|X]] and Rumble refused to fully comply with takedown orders issued under [[brazil|Brazil]]'s censorship system, Brazilian authorities fined them and threatened or ordered them to cease operations in the country.[2] The report warned that forcing American companies to censor US residents' speech creates a broader threat to [[first-amendment|First Amendment]] protections.[2]
 
 ## Badlands Media broadcasting (2023)
 
@@ -73,7 +73,7 @@ As the Online Safety Bill cleared the UK Parliament in September 2023, Rumble pu
 
 ## Erik Carlson on patriot-controlled platforms (February 2024)
 
-In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-carlson|Erik Carlson]] cited Rumble alongside [[truth-social|Truth Social]] as patriot-controlled platforms that did not exist when [[qanon|Q]] posted on June 24, 2020, "Never retreat from the battlefield (Twitter, FB, etc.)" — a point he used to argue that the instruction no longer binds users to [[x-platform|X]].[15] He concluded that community effort should be directed toward building up Truth Social and Rumble rather than arguing on X.[15]
+In the February 5, 2024 Badlands Media essay "Control Through Language," [[erik-carlson|Erik Carlson]] cited Rumble alongside [[truth-social|Truth Social]] as patriot-controlled platforms that did not exist when [[qanon|Q]] posted on June 24, 2020, "Never retreat from the battlefield (Twitter, FB, etc.)" — a point he used to argue that the instruction no longer binds users to [[x|X]].[15] He concluded that community effort should be directed toward building up Truth Social and Rumble rather than arguing on X.[15]
 
 ## Funding by Narya Capital
 
@@ -93,7 +93,7 @@ Rumble was funded by [[narya-capital|Narya Capital]], the venture firm founded b
 11. Badlands Brief — "Badlands News Brief: Rising Demand for DC Defenders & A Sovereign Spring Social", URL: https://badlands.substack.com/p/badlands-news-brief-a34
 ## Joining the GARM lawsuit (August 2024)
 
-Shortly after [[x-corp|X]] filed its August 2024 antitrust complaint against the [[global-alliance-for-responsible-media|Global Alliance for Responsible Media]] (GARM), Rumble joined the lawsuit.[12] The filing described a conspiracy centered on GARM, an initiative created by the [[world-federation-of-advertisers|World Federation of Advertisers]], which established arbitrary standards for content on digital platforms where its members might wish to advertise and used those one-size-fits-all standards to perpetrate an advertiser boycott against Rumble and other platforms.[12] The suit stressed GARM's vast reach, noting that its membership included the six largest ad agency holding companies, among them defendant [[wpp|WPP]].[12]
+Shortly after [[x|X]] filed its August 2024 antitrust complaint against the [[global-alliance-for-responsible-media|Global Alliance for Responsible Media]] (GARM), Rumble joined the lawsuit.[12] The filing described a conspiracy centered on GARM, an initiative created by the [[world-federation-of-advertisers|World Federation of Advertisers]], which established arbitrary standards for content on digital platforms where its members might wish to advertise and used those one-size-fits-all standards to perpetrate an advertiser boycott against Rumble and other platforms.[12] The suit stressed GARM's vast reach, noting that its membership included the six largest ad agency holding companies, among them defendant [[wpp|WPP]].[12]
 
 12. Badlands Brief — "Fake Vice Presidents and Effective Lawsuits", URL: https://badlands.substack.com/p/badlands-news-brief-ca1
 

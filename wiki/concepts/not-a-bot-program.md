@@ -10,7 +10,7 @@ confidence: medium
 
 # Not A Bot Program
 
-"Not A Bot" was a subscription test launched by [[x-corp|X]] in October 2023 that charged new, unverified accounts $1 per year for the ability to post and interact on the platform, framed by [[elon-musk|Elon Musk]] as an anti-manipulation measure.[1]
+"Not A Bot" was a subscription test launched by [[x|X]] in October 2023 that charged new, unverified accounts $1 per year for the ability to post and interact on the platform, framed by [[elon-musk|Elon Musk]] as an anti-manipulation measure.[1]
 
 ## The test
 
@@ -22,7 +22,7 @@ X began charging new users in New Zealand and the Philippines $1 per year to pos
 
 ## Proposed extension to all new users (April 2024)
 
-On April 15, 2024, [[elon-musk|Elon Musk]] suggested that new users on [[x-corp|X]] would need to pay a small fee to use basic functions such as posting, liking, bookmarking and replying, describing a fee as "the only way to curb the relentless onslaught of bots" and noting that AI bots and trolls pass bot-identifying tests "with ease."[2] The proposal mirrored the existing Not a Bot program, which had required new accounts in New Zealand and the Philippines to pay a $1 annual fee since October 2023; Musk did not specify a start date or mechanism.[2] The suggestion followed by less than two weeks a platform-wide bot purge that Musk said would bring "the full force of the law" upon those responsible for bot accounts.[2]
+On April 15, 2024, [[elon-musk|Elon Musk]] suggested that new users on [[x|X]] would need to pay a small fee to use basic functions such as posting, liking, bookmarking and replying, describing a fee as "the only way to curb the relentless onslaught of bots" and noting that AI bots and trolls pass bot-identifying tests "with ease."[2] The proposal mirrored the existing Not a Bot program, which had required new accounts in New Zealand and the Philippines to pay a $1 annual fee since October 2023; Musk did not specify a start date or mechanism.[2] The suggestion followed by less than two weeks a platform-wide bot purge that Musk said would bring "the full force of the law" upon those responsible for bot accounts.[2]
 
 ## References
 1. Badlands News Brief — "Biden Bumbles & Narrative Whiplash Abounds", URL: https://badlands.substack.com/p/badlands-news-brief-6f0

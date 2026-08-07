@@ -207,7 +207,7 @@ The plan stated that Hamas members committing to "peaceful coexistence" would re
 
 Following the collapse of the week-long Israel–Hamas ceasefire on December 1, 2023, mediation efforts resumed with a December 18 meeting in Poland between [[cia|CIA]] Director [[william-burns|William Burns]], [[mossad|Mossad]] chief [[david-barnea|David Barnea]] and Qatari Prime Minister [[mohammed-bin-abdulrahman-al-thani|Mohammad bin Abdulrahman al Thani]] aimed at freeing dozens of hostages still held in Gaza.[35] U.S. and Israeli officials said previous talks had stalled over an impasse concerning the remaining female hostages, whose release Israel insisted on before considering elderly and infirm men; Hamas claimed the women it continued to hold were IDF soldiers, an assertion the United States and Israel denied.[35]
 
-Separately, the [[european-commission|European Commission]] cited the dissemination of illegal content in the context of Hamas' attacks against Israel among the grounds for its first [[digital-services-act|Digital Services Act]] proceedings against [[x-corp|X]] that same month.[35]
+Separately, the [[european-commission|European Commission]] cited the dissemination of illegal content in the context of Hamas' attacks against Israel among the grounds for its first [[digital-services-act|Digital Services Act]] proceedings against [[x|X]] that same month.[35]
 
 ## January 2025 ceasefire finalization dispute
 

@@ -62,7 +62,7 @@ In October 2023 America First Legal announced that its Freedom of Information Ac
 
 ## Investigation into Brazil's censorship of X (September 2024)
 
-In September 2024, America First Legal launched an investigation into the Biden–Harris administration's possible knowledge of Brazil's censorship of [[elon-musk|Elon Musk]]'s social media platform [[x-corp|X]], requesting documents from three U.S. agencies.[14] Brazil had banned the site under the directive of Supreme Court judge [[alexandre-de-moraes|Alexandre de Moraes]], causing an uproar among free speech advocates.[14]
+In September 2024, America First Legal launched an investigation into the Biden–Harris administration's possible knowledge of Brazil's censorship of [[elon-musk|Elon Musk]]'s social media platform [[x|X]], requesting documents from three U.S. agencies.[14] Brazil had banned the site under the directive of Supreme Court judge [[alexandre-de-moraes|Alexandre de Moraes]], causing an uproar among free speech advocates.[14]
 
 AFL pointed to the administration's National Strategy for Countering Domestic Terrorism, a 2021 document that promised to tackle "disinformation" and to work with governments and technology companies to address terrorist online content.[14] The group's press release noted that ten days before Brazil's 2022 election, Moraes — whom Musk had called a "dictator" — gained the power to direct tech companies to censor "disinformation."[14]
 

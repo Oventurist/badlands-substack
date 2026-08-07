@@ -16,7 +16,7 @@ The "Mega MAGA fracture" refers to the July 2026 public rupture among prominent 
 
 Prominent conservatives condemned [[candace-owens|Candace Owens]], claiming evidence from Robinson's preliminary hearing undercut her assertions of a conspiracy in Kirk's murder.[1] Owens had argued that Robinson did not act alone, implicating [[israel|Israel]], Egypt, the US military, [[turning-point-usa|Turning Point USA]] staff, and Kirk's widow [[erika-kirk|Erika Kirk]].[1]
 
-[[dinesh-dsouza|Dinesh D'Souza]] called Owens a "malignant narcissist," while [[ben-shapiro|Ben Shapiro]], [[laura-loomer|Laura Loomer]], Catturd and Lauren Southern also condemned her.[1] [[politico|Politico]] reported that TPUSA staff received death threats and increased security after Owens' broadcasts named them.[1] Owens fired back on [[x-platform|X]], alleging a coordinated "Zionist PR" campaign against her, while her spokesperson accused TPUSA figures of targeting her for months.[1] [[tucker-carlson|Tucker Carlson]] and [[megyn-kelly|Megyn Kelly]] faced backlash for continuing to stand by Owens amid the growing rift.[1]
+[[dinesh-dsouza|Dinesh D'Souza]] called Owens a "malignant narcissist," while [[ben-shapiro|Ben Shapiro]], [[laura-loomer|Laura Loomer]], Catturd and Lauren Southern also condemned her.[1] [[politico|Politico]] reported that TPUSA staff received death threats and increased security after Owens' broadcasts named them.[1] Owens fired back on [[x|X]], alleging a coordinated "Zionist PR" campaign against her, while her spokesperson accused TPUSA figures of targeting her for months.[1] [[tucker-carlson|Tucker Carlson]] and [[megyn-kelly|Megyn Kelly]] faced backlash for continuing to stand by Owens amid the growing rift.[1]
 
 ## Badlands analysis
 

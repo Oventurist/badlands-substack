@@ -20,7 +20,7 @@ On Wednesday, July 16, 2025, the Second Circuit overturned the conviction, holdi
 
 ## Account reinstatement
 
-Following the acquittal, the social media platform [[x-corp|X]] reinstated Mackey's meme account; as of reporting, the @Ricky_Vaughn99 account was active and no longer subject to platform restrictions, though it had not posted since 2016, when the platform was still Twitter.[1]
+Following the acquittal, the social media platform [[x|X]] reinstated Mackey's meme account; as of reporting, the @Ricky_Vaughn99 account was active and no longer subject to platform restrictions, though it had not posted since 2016, when the platform was still Twitter.[1]
 
 ## References
 1. Badlands Brief — "Badlands News Brief: Double Comey Drama & Magic Moon Soil", URL: https://badlands.substack.com/p/badlands-news-brief-5f2

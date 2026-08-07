@@ -266,7 +266,7 @@ After [[2025-israeli-strike-on-doha|Israel's strike on Hamas leaders in Doha]], 
 
 ## December 2025: EU fine on X and the 28-point Ukraine plan
 
-Following the [[european-commission|European Commission]]'s 120 million euro ($140 million) [[digital-services-act|Digital Services Act]] fine against [[x-corp|X]], Rubio wrote on X that the penalty was "an attack on all American tech platforms and the American people by foreign governments."[53] His statement was part of an intensified pushback by senior U.S. officials against the [[european-union|EU]]'s online-platform regulation, alongside [[elon-musk|Elon Musk]]'s call for the bloc's abolition.[53]
+Following the [[european-commission|European Commission]]'s 120 million euro ($140 million) [[digital-services-act|Digital Services Act]] fine against [[x|X]], Rubio wrote on X that the penalty was "an attack on all American tech platforms and the American people by foreign governments."[53] His statement was part of an intensified pushback by senior U.S. officials against the [[european-union|EU]]'s online-platform regulation, alongside [[elon-musk|Elon Musk]]'s call for the bloc's abolition.[53]
 
 Rubio was also identified as one of the three architects — with [[steve-witkoff|Steve Witkoff]] and [[jared-kushner|Jared Kushner]] — of a 28-point peace plan for [[ukraine|Ukraine]] intended to secure American interests, stabilize relations with [[russia|Russia]] and strike a new balance of power.[53] The plan offered Kiev EU membership without [[nato|NATO]] expansion while conceding eastern territories to Russia, sidelining European leaders who publicly fumed at their loss of influence over asset freezes and peace terms.[53]
 

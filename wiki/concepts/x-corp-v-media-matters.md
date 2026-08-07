@@ -10,7 +10,7 @@ confidence: high
 
 # X Corp. v. Media Matters
 
-**X Corp. v. Media Matters** is the defamation and business-disparagement lawsuit filed on Monday, November 20, 2023 by [[x-corp|X]] against the left-leaning non-profit [[media-matters|Media Matters]] and "all those who colluded" with it, over a report that X's owner said "completely misrepresent[ed]" the real user experience on the platform.[1] The suit was filed in the U.S. District Court for the Northern District of Texas, Fort Worth Division, and alleges that the organization's tactics were manipulative and deceptive.[1]
+**X Corp. v. Media Matters** is the defamation and business-disparagement lawsuit filed on Monday, November 20, 2023 by [[x|X]] against the left-leaning non-profit [[media-matters|Media Matters]] and "all those who colluded" with it, over a report that X's owner said "completely misrepresent[ed]" the real user experience on the platform.[1] The suit was filed in the U.S. District Court for the Northern District of Texas, Fort Worth Division, and alleges that the organization's tactics were manipulative and deceptive.[1]
 
 ## Background
 
