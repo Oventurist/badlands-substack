@@ -83,3 +83,26 @@ button[aria-label="Search"] .key {
 :root {
   --vp-aside-width: 300px;
 }
+
+/* 7. Clickable inline citations (Wikipedia-style footnotes) */
+.vp-doc sup.cite-ref {
+  font-size: 0.72em;
+  line-height: 1;
+}
+.vp-doc sup.cite-ref a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+  font-family: var(--vp-font-family-base, -apple-system, sans-serif);
+  font-weight: 500;
+}
+.vp-doc sup.cite-ref a:hover {
+  text-decoration: underline;
+}
+/* highlight the source row when jumped to via #[ref-N] */
+.vp-doc li[id^="ref-"]:target {
+  background-color: color-mix(in srgb, var(--vp-c-brand-1) 12%, transparent);
+  border-radius: 4px;
+  padding: 2px 6px;
+  margin: 2px -6px;
+  scroll-margin-top: 80px;
+}

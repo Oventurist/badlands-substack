@@ -77,6 +77,60 @@ function rewriteWikilinks(content, pages, currentSlug) {
   });
 }
 
+/* Linkify inline citation markers [N] -> <sup>[<a href="#ref-N">N</a>]</sup>
+   and give every ## References list item an id="ref-N" anchor, so the inline
+   markers jump to the matching source (Wikipedia-style footnotes).
+
+   Safety rules:
+   - Only touch [N] where N is a bare integer (1-3 digits).
+   - Skip [N] inside existing markdown links [text](url), wikilinks (already
+     rewritten by the time this runs, so none remain), code spans, and the
+     ## References / ## Sources sections themselves.
+   - The References section is converted from a markdown ordered list into an
+     <ol> of <li id="ref-N"> so anchors exist to jump to. */
+function linkifyCitations(content) {
+  // 1. Convert the References list into anchored <li> items first.
+  let out = content.replace(
+    /(^##\s+References\s*\n+)((?:^\d+\.\s+.*\n?)+)/m,
+    (m, heading, listBlock) => {
+      const items = listBlock
+        .trim()
+        .split("\n")
+        .map((line) => {
+          const mm = line.match(/^(\d+)\.\s+(.*)$/);
+          if (!mm) return line;
+          // linkify the bare URL inside the item (raw HTML in <li> is not
+          // auto-linkified by the markdown parser)
+          const text = mm[2].replace(
+            /(https?:\/\/[^\s]+)/g,
+            '<a href="$1" target="_blank" rel="noreferrer">$1</a>'
+          );
+          return `<li id="ref-${mm[1]}">${text}</li>`;
+        })
+        .join("\n");
+      return `${heading}<ol>\n${items}\n</ol>`;
+    }
+  );
+
+  // 2. Linkify inline [N] markers, skipping anything inside:
+  //    - markdown links: [N](...) or [text](url)
+  //    - code spans: `[N]`
+  //    - headings (# ...) — [N] there is literal text, not a citation
+  //    - the References/Sources headings themselves (handled above)
+  out = out
+    .split("\n")
+    .map((line) => {
+      if (/^\s{0,3}#/.test(line)) return line; // heading — leave untouched
+      return line.replace(
+        /(^|[^`\[])\[(\d{1,3})\](?!\()/g,
+        (m, pre, n) => `${pre}<sup class="cite-ref"><a href="#ref-${n}">[${n}]</a></sup>`
+      );
+    })
+    .join("\n");
+
+  return out;
+}
+
 function slugifyTitle(title) {
   return title
     .toLowerCase()
@@ -86,7 +140,7 @@ function slugifyTitle(title) {
 }
 
 async function writePage(outDir, file, content, pages, currentSlug) {
-  const rewritten = rewriteWikilinks(content, pages, currentSlug);
+  const rewritten = linkifyCitations(rewriteWikilinks(content, pages, currentSlug));
   await fs.mkdir(outDir, { recursive: true });
   await fs.writeFile(path.join(outDir, file), rewritten, "utf-8");
 }
