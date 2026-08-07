@@ -351,7 +351,11 @@ export default defineConfig({
   title: "Badlands Wiki",
   description: "Community-compiled knowledge base of the Badlands Media corpus",
   base: "/badlands-substack/",
-  cleanUrls: true,
+  // cleanUrls MUST be false: GitHub Pages has no extensionless-URL rewrite, so
+  // with cleanUrls:true VitePress emits page.html but links to /page/, which
+  // 404s on GH Pages (no page/index.html). false -> emits page/index.html so
+  // /page/ resolves. (cleanUrls:true broke every individual entity/concept page.)
+  cleanUrls: false,
   lastUpdated: false,
   ignoreDeadLinks: true,
   themeConfig: {
