@@ -77,6 +77,25 @@ function rewriteWikilinks(content, pages, currentSlug) {
   });
 }
 
+/* Ensure the ## References section is the LAST section of the page. The
+   ingest model sometimes wrote more sections after it (238 pages as of the
+   Aug 2026 rebuild). VitePress renders a mid-page References + trailing
+   sections; Wikipedia convention is references at the very end. This is
+   idempotent: pages already ending with References are untouched. */
+function normalizeReferencesPosition(content) {
+  // Match a References heading (## or ###) plus everything until the next
+  // heading of the same-or-higher level or EOF.
+  const re = /^#{2,3}\s+References\s*\n[\s\S]*?(?=^#{1,3}\s+\S|\Z)/m;
+  const m = content.match(re);
+  if (!m) return content;
+  const refSection = m[0];
+  const rest = content.slice(0, m.index) + content.slice(m.index + m[0].length);
+  // If the section was already at the very end, nothing to do.
+  if (content.endsWith(refSection.trimEnd())) return content;
+  // Re-append at the end, separated by a blank line.
+  return `${rest.trimEnd()}\n\n${refSection.trimEnd()}\n`;
+}
+
 /* Linkify inline citation markers [N] -> <sup>[<a href="#ref-N">N</a>]</sup>
    and give every ## References list item an id="ref-N" anchor, so the inline
    markers jump to the matching source (Wikipedia-style footnotes).
@@ -140,7 +159,7 @@ function slugifyTitle(title) {
 }
 
 async function writePage(outDir, file, content, pages, currentSlug) {
-  const rewritten = linkifyCitations(rewriteWikilinks(content, pages, currentSlug));
+  const rewritten = linkifyCitations(rewriteWikilinks(normalizeReferencesPosition(content), pages, currentSlug));
   await fs.mkdir(outDir, { recursive: true });
   await fs.writeFile(path.join(outDir, file), rewritten, "utf-8");
 }
