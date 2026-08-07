@@ -6,7 +6,7 @@
         <input
           v-model="query"
           type="search"
-          :placeholder="`Filter ${sectionLabel} by name or category…`"
+          :placeholder="activeTag ? `Filter pages tagged “${activeTag}” by name…` : `Filter ${sectionLabel} by name or category…`"
           class="ib-input"
         />
       </div>
@@ -53,11 +53,26 @@ const props = defineProps({
   section: { type: String, default: "entities" },
   // When set, only show items whose tags include this tag (used by /tags/<slug>/ pages).
   tag: { type: String, default: "" },
+  // When true, read the tag from the ?tag=<slug> query param (the single
+  // /tags/ page handles all tags client-side, avoiding thousands of static pages).
+  tagFromUrl: { type: Boolean, default: false },
 });
 
-const sectionLabel = computed(() =>
-  props.section === "concepts" ? "Concepts" : "Entities"
-);
+// Resolve the active tag: explicit prop, else the ?tag= URL param (when
+// tagFromUrl is set). Kept in a ref so it populates after mount (window access).
+const urlTag = ref("");
+onMounted(() => {
+  if (props.tagFromUrl && typeof window !== "undefined") {
+    const p = new URLSearchParams(window.location.search);
+    urlTag.value = p.get("tag") || "";
+  }
+});
+const activeTag = computed(() => props.tag || urlTag.value);
+
+const sectionLabel = computed(() => {
+  if (activeTag.value) return "Pages";
+  return props.section === "concepts" ? "Concepts" : "Entities";
+});
 
 const all = ref([]);
 const query = ref("");
@@ -89,8 +104,9 @@ const visible = computed(() => {
     const inCategory = category.value === "all" ||
       categories.value.find((c) => c.id === category.value).match(item);
     if (!inCategory) return false;
-    // When a tag is requested (from a /tags/<slug>/ page), only show that tag.
-    if (props.tag && !item.tags.some((t) => slugify(t) === props.tag)) return false;
+    // When a tag is requested (from a /tags/<slug>/ page or ?tag= param), only
+    // show that tag.
+    if (activeTag.value && !item.tags.some((t) => slugify(t) === activeTag.value)) return false;
     if (!q) return true;
     return (
       item.title.toLowerCase().includes(q) ||
@@ -119,7 +135,7 @@ onMounted(async () => {
     const data = await res.json();
     // When filtering by tag, load BOTH sections so a tag page can show
     // entities and concepts together. Otherwise scope to the given section.
-    all.value = props.tag
+    all.value = activeTag.value
       ? data
       : data.filter((d) => d.section === props.section);
   } catch (e) {

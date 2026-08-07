@@ -262,7 +262,7 @@ function renderTags(content) {
     .map((tag) => {
       const slug = slugifyTitle(tag);
       const safe = tag.replace(/"/g, "&quot;");
-      return `<a class="wiki-tag" href="/tags/${slug}/" title="Browse pages tagged ${safe}">${tag}</a>`;
+      return `<a class="wiki-tag" href="/tags/?tag=${slug}" title="Browse pages tagged ${safe}">${tag}</a>`;
     })
     .join(" ");
 
@@ -292,6 +292,8 @@ async function main() {
   for (const d of Object.values(OUT)) {
     await fs.rm(d, { recursive: true, force: true });
   }
+  // clean stale tag pages (generated fresh below as a single client-side page)
+  await fs.rm(path.join(DOCS, "tags"), { recursive: true, force: true });
 
   // copy + rewrite all pages
   for (const slug of Object.keys(pages)) {
@@ -360,31 +362,24 @@ Search, filter, and browse the ${label.toLowerCase()} index.
   await fs.mkdir(path.join(DOCS, "public"), { recursive: true });
   await fs.writeFile(path.join(DOCS, "public", "index-data.json"), JSON.stringify(indexData), "utf-8");
 
-  // ---- tag browse pages: /tags/<slug>/ lists every entity+concept with that tag ----
-  const tagMap = new Map(); // slug -> { slug, label, count }
-  for (const d of indexData) {
-    for (const t of d.tags) {
-      const slug = slugifyTitle(t);
-      if (!tagMap.has(slug)) tagMap.set(slug, { slug, label: t, count: 0 });
-      tagMap.get(slug).count++;
-    }
-  }
+  // ---- tag browse page: a SINGLE client-side page reads the tag from the URL
+  // (?tag=<slug>) and filters index-data.json. Generating one static page instead
+  // of 6,581 per-tag HTML pages keeps the artifact under GitHub Pages' ~1GB
+  // limit (the per-tag pages pushed the build to ~4GB and the deploy timed out).
   const tagsDir = path.join(DOCS, "tags");
   await fs.mkdir(tagsDir, { recursive: true });
-  for (const { slug, label, count } of tagMap.values()) {
-    const tagPage = `---
-title: ${label}
+  const tagIndex = `---
+title: Browse by tag
 ---
 
-# Pages tagged "${label}"
+# Browse by tag
 
-${count} ${count === 1 ? "page" : "pages"} in the wiki are tagged **${label}**. Search, filter, and browse them below.
+Select a tag on any wiki page to filter the index, or use the form below.
 
-<IndexBrowser tag="${slug}" />
+<IndexBrowser tag-from-url />
 `;
-    await fs.writeFile(path.join(tagsDir, `${slug}.md`), tagPage, "utf-8");
-  }
-  console.log(`generated ${tagMap.size} tag pages`);
+  await fs.writeFile(path.join(tagsDir, "index.md"), tagIndex, "utf-8");
+  console.log("generated tags/index.md (client-side tag browsing)");
 
   // ---- VitePress config: write docs/.vitepress/config.mjs ----
   // ignoreDeadLinks is required because the CI build renders the entities and
