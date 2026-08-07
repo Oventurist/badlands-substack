@@ -19,9 +19,11 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SITE = path.resolve(__dirname, "..");
 const WIKI = path.resolve(SITE, "..", "wiki");
 const DOCS = path.join(SITE, "docs");
-// GitHub Pages project site: repo lives under /badlands-substack/. Every link
-// must be rooted there (VitePress only rewrites its own <routerLink>/<a> by
-// base, not raw markdown links in generated .md files).
+// GitHub Pages project site: repo lives under /badlands-substack/. VitePress
+// `base` is set in the generated config and it auto-prefixes EVERY internal
+// link it can resolve (nav, markdown [links](/x/), wikilinks). So all
+// internal links below are written WITHOUT the base, letting VitePress add it
+// exactly once. Hardcoding the base here would double it -> 404.
 const BASE = "/badlands-substack/";
 const OUT = {
   entities: path.join(DOCS, "entities"),
@@ -198,8 +200,8 @@ title: Badlands Wiki
 
 A community-compiled knowledge base covering the people, institutions, concepts, and narratives of the Badlands Media corpus.
 
-- **Entities** (${counts.entities}): [browse all](${BASE}entities/) — people, organizations, and institutions
-- **Concepts** (${counts.concepts}): [browse all](${BASE}concepts/) — ideas and narratives
+- **Entities** (${counts.entities}): [browse all](/entities/) — people, organizations, and institutions
+- **Concepts** (${counts.concepts}): [browse all](/concepts/) — ideas and narratives
 
 Built automatically from the wiki.
 `;
@@ -268,10 +270,14 @@ export default defineConfig({
   // in the other half. Don't fail the build on those cross-half links.
   ignoreDeadLinks: true,
   themeConfig: {
+    // NOTE: base is "/badlands-substack/", and VitePress auto-prefixes it to
+    // every internal link. Use BASE-relative paths (no leading base) so links
+    // aren't doubled -> 404. Resolved to absolute "/" so VitePress still
+    // treats them as internal and prefixes exactly once.
     nav: [
-      { text: "Home", link: "/badlands-substack/" },
-      { text: "Entities", link: "/badlands-substack/entities/" },
-      { text: "Concepts", link: "/badlands-substack/concepts/" },
+      { text: "Home", link: "/" },
+      { text: "Entities", link: "/entities/" },
+      { text: "Concepts", link: "/concepts/" },
     ],
     // sidebar removed: with 10K+ pages the full sidebar made every rendered
     // page carry a huge inlined JSON payload (JS heap OOM at build) and was
