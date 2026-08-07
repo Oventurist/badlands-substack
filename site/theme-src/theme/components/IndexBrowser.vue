@@ -33,7 +33,7 @@
       <h3 class="ib-letter">{{ group.letter }}</h3>
       <ul class="ib-list">
         <li v-for="item in group.items" :key="item.id" class="ib-item">
-          <a :href="withBase(`/${item.section}/${item.id}`)" class="ib-link">
+          <a :href="withBase(`/${item.section}/${item.id}/`)" class="ib-link">
             {{ item.title }}
           </a>
           <span v-if="item.tags.length" class="ib-tags">

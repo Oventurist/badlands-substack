@@ -78,7 +78,7 @@ function rewriteWikilinks(content, pages, currentSlug) {
     const target = pages[key];
     const label = (text || slug).trim();
     if (!target) return label; // dangling link -> plain text
-    const link = `/${target.section}/${key}`;
+    const link = `/${target.section}/${key}/`;
     return `[${label}](${link})`;
   });
 }
