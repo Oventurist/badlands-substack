@@ -106,3 +106,38 @@ button[aria-label="Search"] .key {
   margin: 2px -6px;
   scroll-margin-top: 80px;
 }
+
+/* 8. HomeSearch in the navbar (all pages) — compact variant */
+/* specificity must beat the component's scoped styles (0,2,0) */
+.nav-search.hs-wrap {
+  max-width: 260px !important;
+  margin: 0 0 0 8px !important;
+  flex: none;
+}
+.nav-search .hs-input {
+  height: 34px !important;
+  font-size: 13px !important;
+  padding: 0 12px 0 32px !important;
+  border-radius: 8px !important;
+  background: transparent;
+}
+.nav-search .hs-icon { left: 10px; }
+.nav-search .hs-icon svg { width: 15px; height: 15px; }
+.nav-search .hs-clear { right: 4px; width: 22px; height: 22px; }
+.nav-search .hs-input:hover { border-color: var(--vp-c-brand-1); }
+/* dropdown anchored below the navbar (position: fixed would escape; keep
+   absolute within the navbar slot — VitePress navbar has no overflow:hidden) */
+.nav-search .hs-drop,
+.nav-search .hs-none {
+  top: calc(100% + 10px);
+  width: 320px;
+  min-width: 320px;
+  right: 0;
+  left: auto;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.22);
+}
+.nav-search .hs-list { max-height: 420px; }
+/* on small screens the navbar collapses to hamburger — hide the inline search */
+@media (max-width: 960px) {
+  .nav-search { display: none; }
+}

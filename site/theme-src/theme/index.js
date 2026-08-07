@@ -1,15 +1,12 @@
 import DefaultTheme from "vitepress/theme";
-// GraphView removed with the graph page (its d3 dependency alone is ~750KB
-// of client bundle, a major part of the build's peak memory at the bundling
-// phase on 11K-page sites).
+import Layout from "./Layout.vue";
 import IndexBrowser from "./components/IndexBrowser.vue";
-import HomeSearch from "./components/HomeSearch.vue";
 import "./custom.css";
 
 export default {
-  extends: DefaultTheme,
+  ...DefaultTheme,
+  Layout,
   enhanceApp({ app }) {
     app.component("IndexBrowser", IndexBrowser);
-    app.component("HomeSearch", HomeSearch);
   },
 };
