@@ -38,7 +38,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const SITE = path.resolve(__dirname, "..");
 const ROOT = path.resolve(SITE, "..");
 const WIKI = path.join(ROOT, "wiki");
-const DIST = path.join(SITE, "public");
+const DIST = path.join(SITE, "web");
 // GitHub Pages project site lives under /badlands-substack/. Every internal
 // link + asset reference is prefixed with this.
 const BASE = "/badlands-substack/";

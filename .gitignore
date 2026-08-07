@@ -22,8 +22,10 @@ scripts/Substack2Markdown/
 # VitePress site (build artifacts + generated docs)
 site/node_modules/
 # lightweight static generator output
+site/web/
 site/public/
-# legacy locked dir (cleaned up separately)
+site/dist/
+site/public/
 site/dist/
 # legacy VitePress output (no longer used)
 site/docs/.vitepress/dist/
