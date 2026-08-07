@@ -20,11 +20,11 @@ const SITE = path.resolve(__dirname, "..");
 const WIKI = path.resolve(SITE, "..", "wiki");
 const DOCS = path.join(SITE, "docs");
 // GitHub Pages project site: repo lives under /badlands-substack/. VitePress
-// `base` is set in the generated config and it auto-prefixes EVERY internal
-// link it can resolve (nav, markdown [links](/x/), wikilinks). So all
-// internal links below are written WITHOUT the base, letting VitePress add it
-// exactly once. Hardcoding the base here would double it -> 404.
-const BASE = "/badlands-substack/";
+// `base` is set in the generated config (docs/.vitepress/config.mjs) and it
+// auto-prefixes EVERY internal link it can resolve (nav, markdown
+// [links](/x/), wikilinks). So all internal links below are written WITHOUT
+// the base, letting VitePress add it exactly once. Hardcoding the base here
+// would double it -> 404.
 const OUT = {
   entities: path.join(DOCS, "entities"),
   concepts: path.join(DOCS, "concepts"),
@@ -340,6 +340,39 @@ ${count} ${count === 1 ? "page" : "pages"} in the wiki are tagged **${label}**. 
     await fs.writeFile(path.join(tagsDir, `${slug}.md`), tagPage, "utf-8");
   }
   console.log(`generated ${tagMap.size} tag pages`);
+
+  // ---- VitePress config: write docs/.vitepress/config.mjs ----
+  // ignoreDeadLinks is required because the CI build renders the entities and
+  // concepts halves separately, so each half references pages in the other
+  // half (cross-half links would otherwise fail the build).
+  const config = `import { defineConfig } from "vitepress";
+
+export default defineConfig({
+  title: "Badlands Wiki",
+  description: "Community-compiled knowledge base of the Badlands Media corpus",
+  base: "/badlands-substack/",
+  cleanUrls: true,
+  lastUpdated: false,
+  ignoreDeadLinks: true,
+  themeConfig: {
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "Entities", link: "/entities/" },
+      { text: "Concepts", link: "/concepts/" },
+    ],
+    footer: { message: "Sourced from the Badlands Media corpus. Content reflects the views of the original authors." },
+  },
+});
+`;
+  await fs.mkdir(path.join(DOCS, ".vitepress"), { recursive: true });
+  await fs.writeFile(path.join(DOCS, ".vitepress", "config.mjs"), config, "utf-8");
+
+  // ---- copy committed theme (Layout.vue, HomeSearch.vue, IndexBrowser.vue, custom.css) into generated docs ----
+  const themeSrc = path.join(SITE, "theme-src", "theme");
+  const themeDst = path.join(DOCS, ".vitepress", "theme");
+  await fs.rm(themeDst, { recursive: true, force: true });
+  await fs.cp(themeSrc, themeDst, { recursive: true });
+  console.log("theme copied:", themeSrc, "->", themeDst);
 
   console.log(`done: ${counts.entities} entities, ${counts.concepts} concepts, ${counts.articles} articles`);
 }
