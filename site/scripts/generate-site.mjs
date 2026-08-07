@@ -139,9 +139,10 @@ function consolidateReferences(content) {
     return na - nb;
   });
 
-  // Remove any existing bare "## References" heading line from the kept body
-  // (the references themselves were already pulled into `refs`).
-  const body = kept.join("\n").replace(/^#{1,3}\s+References\s*$/m, "");
+  // Remove any existing "## References" heading lines (and trailing blanks)
+  // from the kept body — the references themselves were already pulled into
+  // `refs` above, so only the now-empty heading remains.
+  const body = kept.join("\n").replace(/^#{1,3}\s+References\b.*$\n*/gm, "");
   const block = `\n\n## References\n\n${deduped.join("\n")}\n`;
   return `${body.replace(/\s*$/, "")}${block}`;
 }
@@ -278,7 +279,7 @@ async function writePage(outDir, file, content, pages, currentSlug) {
   // Normalize CRLF (Git autocrlf on Windows keeps the working tree CRLF) so all
   // line-anchored regexes in the transforms below behave consistently.
   content = content.replace(/\r\n/g, "\n");
-  const rewritten = renderTags(linkifyCitations(rewriteWikilinks(convertInlineCitations(normalizeReferencesPosition(consolidateReferences(content)), pages, currentSlug))));
+  const rewritten = renderTags(linkifyCitations(rewriteWikilinks(convertInlineCitations(normalizeReferencesPosition(consolidateReferences(content))), pages, currentSlug)));
   await fs.mkdir(outDir, { recursive: true });
   await fs.writeFile(path.join(outDir, file), rewritten, "utf-8");
 }
