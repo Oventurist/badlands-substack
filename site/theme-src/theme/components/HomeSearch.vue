@@ -12,7 +12,7 @@
         v-model="query"
         type="search"
         class="hs-input"
-        :placeholder="`Search ${all.length.toLocaleString()} pages by name or tag…`"
+        :placeholder="`Search ${indexCount} pages by name or tag…`"
         aria-label="Search the wiki"
         role="combobox"
         aria-expanded="true"
@@ -79,6 +79,10 @@ const open = ref(false);
 const activeIndex = ref(0);
 const input = ref(null);
 const wrap = ref(null);
+
+// Static page count for the placeholder (all[] is empty during SSR — the
+// index loads client-side in onMounted).
+const indexCount = "12,000";
 
 const results = computed(() => {
   const q = query.value.trim().toLowerCase();
