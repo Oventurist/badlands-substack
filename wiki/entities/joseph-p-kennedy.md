@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [joseph-kennedy, prohibition, bootlegging, kennedy-family, ambassador]
-sources: [raw/dope-inc.md, raw/four-pillars-of-government-control.md, raw/the-werewolf-game-a-new-class-of.md]]
+sources: [raw/dope-inc.md, raw/four-pillars-of-government-control.md, raw/the-werewolf-game-a-new-class-of.md]
 confidence: medium
 ---
 

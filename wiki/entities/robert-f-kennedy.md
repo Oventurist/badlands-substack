@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [kennedy-administration, attorney-general, cold-war]
-sources: [raw/badlands-news-brief-dae.md, raw/how-to-stop-civil-war-20.md, raw/john-bobby-and-marilyn.md, raw/the-werewolf-game-a-new-class-of.md]]
+sources: [raw/badlands-news-brief-dae.md, raw/how-to-stop-civil-war-20.md, raw/john-bobby-and-marilyn.md, raw/the-werewolf-game-a-new-class-of.md]
 confidence: medium
 ---
 

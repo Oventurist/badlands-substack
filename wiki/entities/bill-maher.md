@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, democrats, dsa, 2028-election]
-sources: [raw/badlands-brief-a84.md, raw/badlands-brief-ac2.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b52.md, raw/the-werewolf-game-a-new-class-of.md]]
+sources: [raw/badlands-brief-a84.md, raw/badlands-brief-ac2.md, raw/badlands-brief-e9a.md, raw/badlands-news-brief-023.md, raw/badlands-news-brief-09d.md, raw/badlands-news-brief-7c6.md, raw/badlands-news-brief-83b.md, raw/badlands-news-brief-a57.md, raw/badlands-news-brief-b52.md, raw/the-werewolf-game-a-new-class-of.md]
 confidence: medium
 ---
 

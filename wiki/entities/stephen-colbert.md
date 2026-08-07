@@ -4,7 +4,7 @@ created: 2026-08-06
 updated: 2026-08-06
 type: entity
 tags: [media, television, cbs, fcc, late-night]
-sources: [raw/badlands-brief-7c6.md, raw/the-werewolf-game-a-new-class-of.md]]
+sources: [raw/badlands-brief-7c6.md, raw/the-werewolf-game-a-new-class-of.md]
 confidence: medium
 ---
 
