@@ -10,13 +10,13 @@ confidence: medium
 
 # Church Committee
 
-The **Church Committee** was the 1975 congressional committee, led by Senator Frank Church, that investigated abuses by U.S. intelligence agencies.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+The **Church Committee** was the 1975 congressional committee, led by Senator Frank Church, that investigated abuses by U.S. intelligence agencies.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Findings on media control
 
-According to *America Has a CIA-Run Economy*, the Church Committee discovered in 1975 that the [[cia|CIA]] had manipulated and controlled American media since 1960, and possibly earlier.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) The committee grilled CIA Director William Colby under oath, and he revealed the existence of [[operation-mockingbird|Operation Mockingbird]] — the program under which the CIA maintained assets working inside various media companies.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+According to *America Has a CIA-Run Economy*, the Church Committee discovered in 1975 that the [[cia|CIA]] had manipulated and controlled American media since 1960, and possibly earlier.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) The committee grilled CIA Director William Colby under oath, and he revealed the existence of [[operation-mockingbird|Operation Mockingbird]] — the program under which the CIA maintained assets working inside various media companies.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
-[[erik-carlson|Erik Carlson]] uses this history as the foundation for his argument that when the internet broke the CIA's grip on legacy media in the 1990s, the agency responded by creating and controlling search engines and social media platforms instead.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+[[erik-carlson|Erik Carlson]] uses this history as the foundation for his argument that when the internet broke the CIA's grip on legacy media in the 1990s, the agency responded by creating and controlling search engines and social media platforms instead.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Findings on assassination, coups and mind control
 

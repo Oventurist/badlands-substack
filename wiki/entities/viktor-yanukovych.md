@@ -10,9 +10,9 @@ confidence: low
 
 # Viktor Yanukovych
 
-Viktor Yanukovych was the President of Ukraine deposed in the 2014 coup, an event [[matthew-ehret|Matthew Ehret]] treats as the hinge after which the unipolar script began visibly failing.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+Viktor Yanukovych was the President of Ukraine deposed in the 2014 coup, an event [[matthew-ehret|Matthew Ehret]] treats as the hinge after which the unipolar script began visibly failing.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 
-Within [[chrystia-freeland|Chrystia Freeland]]'s implicit taxonomy of plutocrats, Yanukovych counted as a "good" plutocrat until he decided not to sacrifice Ukraine on the altar of the collapsing European Union and instead threw Ukraine's destiny into the [[eurasian-economic-union|Eurasian Economic Union]] in October 2013.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems) That choice, in Ehret's framing, reclassified him among the bad plutocrats who do not conform to the British Empire's program of global governance and depopulation.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+Within [[chrystia-freeland|Chrystia Freeland]]'s implicit taxonomy of plutocrats, Yanukovych counted as a "good" plutocrat until he decided not to sacrifice Ukraine on the altar of the collapsing European Union and instead threw Ukraine's destiny into the [[eurasian-economic-union|Eurasian Economic Union]] in October 2013.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems) That choice, in Ehret's framing, reclassified him among the bad plutocrats who do not conform to the British Empire's program of global governance and depopulation.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 
 ## Ousting and the Burisma sequence
 

@@ -10,19 +10,19 @@ confidence: medium
 
 # Chevron
 
-**Chevron** is one of the Western energy majors that Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] identifies as a funder of the [[atlantic-council|Atlantic Council]] and as a commercial interest with a direct stake in the [[joint-comprehensive-plan-of-action|Iran Deal]].[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+**Chevron** is one of the Western energy majors that Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] identifies as a funder of the [[atlantic-council|Atlantic Council]] and as a commercial interest with a direct stake in the [[joint-comprehensive-plan-of-action|Iran Deal]].1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Funding of the foreign policy establishment
 
-Chevron, along with Exxon, British Petroleum and Royal Dutch Shell, donates to the Atlantic Council and, in DeLarme's account, thereby gains influence over the [[state-department|State Department]], the [[cia|CIA]] and the [[pentagon|Pentagon]], allowing it to lobby for policies that would open [[iran|Iran]] to Western capital.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+Chevron, along with Exxon, British Petroleum and Royal Dutch Shell, donates to the Atlantic Council and, in DeLarme's account, thereby gains influence over the [[state-department|State Department]], the [[cia|CIA]] and the [[pentagon|Pentagon]], allowing it to lobby for policies that would open [[iran|Iran]] to Western capital.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Ukraine precedent
 
-These firms' interest in Iran is described as not unlike their previous interest in [[ukraine|Ukraine]], where Chevron signed $10 billion deals with Naftogaz, Ukraine's state-owned oil and gas company.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) They wanted to do the same deal on a much larger scale with Iran, an episode DeLarme calls a crucial part of the backstory to the present crisis.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+These firms' interest in Iran is described as not unlike their previous interest in [[ukraine|Ukraine]], where Chevron signed $10 billion deals with Naftogaz, Ukraine's state-owned oil and gas company.1(https://badlands.substack.com/p/and-iran-iran-so-far-away) They wanted to do the same deal on a much larger scale with Iran, an episode DeLarme calls a crucial part of the backstory to the present crisis.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Ownership
 
-The article notes that [[blackrock|BlackRock]] holds considerable — if not majority — equity stakes in Chevron, Exxon, BP and Shell, all of which stood to gain tremendously from sanctions relief on Iran.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+The article notes that [[blackrock|BlackRock]] holds considerable — if not majority — equity stakes in Chevron, Exxon, BP and Shell, all of which stood to gain tremendously from sanctions relief on Iran.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Venezuela asset waiver (May 2025)
 

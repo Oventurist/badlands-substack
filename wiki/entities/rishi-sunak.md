@@ -10,15 +10,15 @@ confidence: medium
 
 # Rishi Sunak
 
-**Rishi Sunak** was Prime Minister of the United Kingdom at the time the [[uk-parliament|U.K. Parliament]] passed the [[online-safety-bill|Online Safety Bill]] in September 2023.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+**Rishi Sunak** was Prime Minister of the United Kingdom at the time the [[uk-parliament|U.K. Parliament]] passed the [[online-safety-bill|Online Safety Bill]] in September 2023.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Statement on the Brand allegations
 
-Sunak responded to the sexual-abuse allegations against [[russell-brand|Russell Brand]] through his spokesman, Max Blain, who said the claims were "very serious and concerning" and that those making the allegations should be "treated seriously and treated with sensitivity."[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+Sunak responded to the sexual-abuse allegations against [[russell-brand|Russell Brand]] through his spokesman, Max Blain, who said the claims were "very serious and concerning" and that those making the allegations should be "treated seriously and treated with sensitivity."1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Conflict of interest raised
 
-Badlands Media notes that Brand is one of Sunak's biggest critics, and questions whether the Prime Minister's decision to devote attention to unproven allegations reflected compassion for the accusers or self-interest.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) The intervention is placed alongside that of Conservative legislator Caroline Nokes and the [[british-government|British Government]]'s subsequent requests that platforms censor Brand's content.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+Badlands Media notes that Brand is one of Sunak's biggest critics, and questions whether the Prime Minister's decision to devote attention to unproven allegations reflected compassion for the accusers or self-interest.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) The intervention is placed alongside that of Conservative legislator Caroline Nokes and the [[british-government|British Government]]'s subsequent requests that platforms censor Brand's content.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Return to Goldman Sachs
 

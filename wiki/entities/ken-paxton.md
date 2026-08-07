@@ -10,9 +10,9 @@ confidence: medium
 
 # Ken Paxton
 
-Ken Paxton is the Attorney General of Texas.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+Ken Paxton is the Attorney General of Texas.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
-Paxton opened an investigation into [[media-matters|Media Matters]] over potential fraudulent activity in the wake of the organization's November 2023 report on advertisement placement on [[x-platform|X]].[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism) Badlands Media groups the investigation with [[elon-musk|Elon Musk]]'s "thermonuclear lawsuit" and the public statement by [[chris-pavlovski|Chris Pavlovski]] as signs that the tactics of media watchdogs are rebounding on [[david-brock|David Brock]] and his organization.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+Paxton opened an investigation into [[media-matters|Media Matters]] over potential fraudulent activity in the wake of the organization's November 2023 report on advertisement placement on [[x-platform|X]].1(https://badlands.substack.com/p/a-cancer-on-modern-journalism) Badlands Media groups the investigation with [[elon-musk|Elon Musk]]'s "thermonuclear lawsuit" and the public statement by [[chris-pavlovski|Chris Pavlovski]] as signs that the tactics of media watchdogs are rebounding on [[david-brock|David Brock]] and his organization.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
 ## 2026 US Senate primary runoff
 

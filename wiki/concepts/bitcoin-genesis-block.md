@@ -10,7 +10,7 @@ confidence: medium
 
 # Bitcoin Genesis Block
 
-The Genesis Block is the first block of the [[concepts/bitcoin|Bitcoin]] blockchain, mined on January 3, 2009 by the pseudonymous [[entities/satoshi-nakamoto|Satoshi Nakamoto]]. It contains an embedded line of text referencing a contemporaneous newspaper headline about bank bailouts, which Badlands Media commentary reads as a deliberate statement of purpose.[1]
+The Genesis Block is the first block of the Bitcoin blockchain, mined on January 3, 2009 by the pseudonymous Satoshi Nakamoto. It contains an embedded line of text referencing a contemporaneous newspaper headline about bank bailouts, which Badlands Media commentary reads as a deliberate statement of purpose.[1]
 
 ## Interpretation as an indictment
 
@@ -20,7 +20,7 @@ The essay extended the metaphor to the entire chain: every ten minutes, Bitcoin 
 
 ## Relationship to Q drops
 
-The essay tied the Genesis Block to [[concepts/qanon|Q]] drops #3716 and #3717, which were posted simultaneously with identical text and which stated that a first indictment would trigger a mass population awakening and that a first arrest would verify action and confirm future direction.[1] The author argued the Genesis Block satisfied the former and that each subsequent ten-minute block satisfies the latter.[1] Because of the duplicated post, the drops' "Marker [9]" line was read as [9][9], which the author linked playfully to RAREPEPE, described as the first Pepe NFT minted on Bitcoin, created on September 9, 2016 by a creator who remains anonymous.[1]
+The essay tied the Genesis Block to Q drops #3716 and #3717, which were posted simultaneously with identical text and which stated that a first indictment would trigger a mass population awakening and that a first arrest would verify action and confirm future direction.[1] The author argued the Genesis Block satisfied the former and that each subsequent ten-minute block satisfies the latter.[1] Because of the duplicated post, the drops' "Marker [9]" line was read as [9][9], which the author linked playfully to RAREPEPE, described as the first Pepe NFT minted on Bitcoin, created on September 9, 2016 by a creator who remains anonymous.[1]
 
 ## References
 

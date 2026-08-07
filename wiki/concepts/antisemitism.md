@@ -10,17 +10,17 @@ confidence: medium
 
 # Antisemitism
 
-Antisemitism is hostility toward or discrimination against Jews. In "A Glaring Double Standard," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] treats the term less as a settled description than as a contested political instrument, calling it "overblown, amorphous and often recklessly employed."[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+Antisemitism is hostility toward or discrimination against Jews. In "A Glaring Double Standard," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] treats the term less as a settled description than as a contested political instrument, calling it "overblown, amorphous and often recklessly employed."1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Contested scope
 
-DeLarme argues that the excessive and inappropriate application of the term diminishes examples of genuine antisemitism, and that policing discourse around a topic tends to make that topic more charged — a dynamic he says holds equally for COVID-19 and conspiracy theories.[[1]](https://badlands.substack.com/p/a-glaring-double-standard) He notes that one can be both a Jew and an anti-Zionist simultaneously, a distinction he says figures such as [[nikki-haley|Nikki Haley]] elide.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+DeLarme argues that the excessive and inappropriate application of the term diminishes examples of genuine antisemitism, and that policing discourse around a topic tends to make that topic more charged — a dynamic he says holds equally for COVID-19 and conspiracy theories.1(https://badlands.substack.com/p/a-glaring-double-standard) He notes that one can be both a Jew and an anti-Zionist simultaneously, a distinction he says figures such as [[nikki-haley|Nikki Haley]] elide.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-The [[anti-defamation-league|ADL]] reported 1,200 antisemitic incidents on U.S. college campuses between October 7, 2023, and September 24, 2024, including assaults, vandalism, harassment, and hate speech, with the vast majority classified as harassment or hate speech.[[1]](https://badlands.substack.com/p/a-glaring-double-standard) DeLarme contends that many of these reported incidents amount to differences of opinion — criticism of the Israeli government, or expressions of sympathy for civilians starved in Gaza or bombed in Rafah — recorded as harassment.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+The [[anti-defamation-league|ADL]] reported 1,200 antisemitic incidents on U.S. college campuses between October 7, 2023, and September 24, 2024, including assaults, vandalism, harassment, and hate speech, with the vast majority classified as harassment or hate speech.1(https://badlands.substack.com/p/a-glaring-double-standard) DeLarme contends that many of these reported incidents amount to differences of opinion — criticism of the Israeli government, or expressions of sympathy for civilians starved in Gaza or bombed in Rafah — recorded as harassment.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Codification
 
-The [[ihra-definition-of-antisemitism|IHRA working definition]] would, under the [[antisemitism-awareness-act|Antisemitism Awareness Act]], be written into federal civil rights enforcement, and it underpins [[executive-order-14188|Executive Order 14188]].[[1]](https://badlands.substack.com/p/a-glaring-double-standard) DeLarme argues that "antisemitism" has replaced "terrorism" as the cudgel used to justify censorship in American politics.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+The [[ihra-definition-of-antisemitism|IHRA working definition]] would, under the [[antisemitism-awareness-act|Antisemitism Awareness Act]], be written into federal civil rights enforcement, and it underpins [[executive-order-14188|Executive Order 14188]].1(https://badlands.substack.com/p/a-glaring-double-standard) DeLarme argues that "antisemitism" has replaced "terrorism" as the cudgel used to justify censorship in American politics.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## March 2026: West Bloomfield and enforcement proposals
 

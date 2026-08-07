@@ -10,9 +10,9 @@ confidence: low
 
 # Sylvester Stallone
 
-Sylvester Stallone is the American actor appointed by [[donald-trump|Donald Trump]], along with [[jon-voight|Jon Voight]] and [[mel-gibson|Mel Gibson]], as an ambassador to [[hollywood|Hollywood]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Sylvester Stallone is the American actor appointed by [[donald-trump|Donald Trump]], along with [[jon-voight|Jon Voight]] and [[mel-gibson|Mel Gibson]], as an ambassador to [[hollywood|Hollywood]].1(https://badlands.substack.com/p/a-new-hollywood)
 
-Stallone's screen personae are woven through [[erik-carlson|Erik Carlson]]'s account of his own formation: he lists *Rocky III* and *Rambo* among the films that defined his adolescence, and describes becoming "Dirty Harry, Johnny Rambo and Rocky all rolled into one" when he intervened to save a man from being beaten by five attackers.[[1]](https://badlands.substack.com/p/a-new-hollywood) Carlson also notes that [[ronald-reagan|Ronald Reagan]] pushed for movies promoting strong American characters like Rambo during his eight years in office.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Stallone's screen personae are woven through [[erik-carlson|Erik Carlson]]'s account of his own formation: he lists *Rocky III* and *Rambo* among the films that defined his adolescence, and describes becoming "Dirty Harry, Johnny Rambo and Rocky all rolled into one" when he intervened to save a man from being beaten by five attackers.1(https://badlands.substack.com/p/a-new-hollywood) Carlson also notes that [[ronald-reagan|Ronald Reagan]] pushed for movies promoting strong American characters like Rambo during his eight years in office.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Hollywood special ambassador (2025)
 

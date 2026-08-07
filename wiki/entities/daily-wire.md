@@ -10,11 +10,11 @@ confidence: low
 
 # The Daily Wire
 
-The Daily Wire is a conservative American media outlet co-founded by [[ben-shapiro|Ben Shapiro]]. Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] groups it with the Babylon Bee as a "Con INC." outlet that, in the years preceding October 7, 2023, billed itself as opposed to [[cancel-culture|cancel culture]], advocated freedom of thought, and rallied against the policing of public discourse — especially when conservatives were fired from their jobs for expressing their beliefs.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+The Daily Wire is a conservative American media outlet co-founded by [[ben-shapiro|Ben Shapiro]]. Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] groups it with the Babylon Bee as a "Con INC." outlet that, in the years preceding October 7, 2023, billed itself as opposed to [[cancel-culture|cancel culture]], advocated freedom of thought, and rallied against the policing of public discourse — especially when conservatives were fired from their jobs for expressing their beliefs.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-In February 2021, Daily Wire writer Tim Pierce published a piece titled "Shapiro: Gina Carano Firing Part Of A Movement To 'Expel' Half Of America," reporting Disney's dismissal of actress Gina Carano over an Instagram post comparing hatred based on political views to the social conditions that preceded the Nazi roundup of Jews.[[1]](https://badlands.substack.com/p/a-glaring-double-standard) The outlet also carried Shapiro's podcast commentary calling the firing "a terrible moment for American culture."[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+In February 2021, Daily Wire writer Tim Pierce published a piece titled "Shapiro: Gina Carano Firing Part Of A Movement To 'Expel' Half Of America," reporting Disney's dismissal of actress Gina Carano over an Instagram post comparing hatred based on political views to the social conditions that preceded the Nazi roundup of Jews.1(https://badlands.substack.com/p/a-glaring-double-standard) The outlet also carried Shapiro's podcast commentary calling the firing "a terrible moment for American culture."1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-DeLarme cites this coverage as a benchmark for the outlet's stated principles, against which he measures the silence of right-wing free-speech advocates following the later firings of Americans critical of Israel.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+DeLarme cites this coverage as a benchmark for the outlet's stated principles, against which he measures the silence of right-wing free-speech advocates following the later firings of Americans critical of Israel.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Possible acquisition by Fox (December 2024)
 

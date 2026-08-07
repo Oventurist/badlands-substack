@@ -10,9 +10,9 @@ confidence: low
 
 # Ezra Cohen Watnick
 
-Ezra Cohen Watnick is a U.S. intelligence official described in Badlands Media's account as General Michael Flynn's right-hand man, whom [[donald-trump|Donald Trump]] prevented H.R. McMaster from firing.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+Ezra Cohen Watnick is a U.S. intelligence official described in Badlands Media's account as General Michael Flynn's right-hand man, whom [[donald-trump|Donald Trump]] prevented H.R. McMaster from firing.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
-A [[qanon|Q]] drop asked who briefed [[bob-goodlatte|Bob Goodlatte]] and [[trey-gowdy|Trey Gowdy]] on classified intelligence regarding the [[department-of-justice|DOJ]] and [[fbi|FBI]]; the author identifies Cohen Watnick as that person.[[1]](https://badlands.substack.com/p/america-for-sale-part-2) According to the article, after Cohen Watnick had gathered sufficient evidence, Trump installed him at the DOJ for the express purpose of transmitting classified intelligence evidence to Goodlatte and Gowdy, and that evidence is now in the public records awaiting release at what the author calls the perfect time.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+A [[qanon|Q]] drop asked who briefed [[bob-goodlatte|Bob Goodlatte]] and [[trey-gowdy|Trey Gowdy]] on classified intelligence regarding the [[department-of-justice|DOJ]] and [[fbi|FBI]]; the author identifies Cohen Watnick as that person.1(https://badlands.substack.com/p/america-for-sale-part-2) According to the article, after Cohen Watnick had gathered sufficient evidence, Trump installed him at the DOJ for the express purpose of transmitting classified intelligence evidence to Goodlatte and Gowdy, and that evidence is now in the public records awaiting release at what the author calls the perfect time.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
 ## Cited on the September 11 trail
 

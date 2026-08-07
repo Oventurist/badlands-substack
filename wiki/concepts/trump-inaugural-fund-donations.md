@@ -10,27 +10,27 @@ confidence: medium
 
 # Trump Inaugural Fund Donations (2025)
 
-The 2025 donations by large American technology companies to [[donald-trump|Donald Trump]]'s presidential inaugural fund are treated in "America Has a CIA-Run Economy" as a symbolic act of submission by firms the author regards as intelligence-linked.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+The 2025 donations by large American technology companies to [[donald-trump|Donald Trump]]'s presidential inaugural fund are treated in "America Has a CIA-Run Economy" as a symbolic act of submission by firms the author regards as intelligence-linked.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## The donations
 
-Ahead of the January 2025 inauguration, big tech companies and their chief executives donated one million dollars each to Trump's inaugural fund.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) The article names [[alphabet|Google]], [[microsoft|Microsoft]], [[meta-platforms|Meta]], [[amazon|Amazon]], [[apple|Apple]] and [[openai|OpenAI]] among the donors, noting the common theme that all are massive technology companies heavily involved in the development of artificial intelligence.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Ahead of the January 2025 inauguration, big tech companies and their chief executives donated one million dollars each to Trump's inaugural fund.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) The article names [[alphabet|Google]], [[microsoft|Microsoft]], [[meta-platforms|Meta]], [[amazon|Amazon]], [[apple|Apple]] and [[openai|OpenAI]] among the donors, noting the common theme that all are massive technology companies heavily involved in the development of artificial intelligence.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
-The sums are described as "purely symbolic," a drop in the bucket for firms of that size.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+The sums are described as "purely symbolic," a drop in the bucket for firms of that size.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Interpretation as "the real pardoning"
 
-[[erik-carlson|Erik Carlson]] argues that this, rather than the outgoing administration's clemency actions, constitutes "the real pardoning that is happening in America," with Joe Biden's pardons dismissed as "purely optics."[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) In this reading Trump is allowing chief executives and companies he judges valuable to the American economy to "essentially kiss the ring" and thereby be permitted to continue.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+[[erik-carlson|Erik Carlson]] argues that this, rather than the outgoing administration's clemency actions, constitutes "the real pardoning that is happening in America," with Joe Biden's pardons dismissed as "purely optics."1(https://badlands.substack.com/p/america-has-a-cia-run-economy) In this reading Trump is allowing chief executives and companies he judges valuable to the American economy to "essentially kiss the ring" and thereby be permitted to continue.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
-The article situates the donations within a broader pattern of accommodation: [[elon-musk|Elon Musk]] has been the most supportive of Trump both vocally and financially; [[mark-zuckerberg|Mark Zuckerberg]] has agreed to open his platforms to more free speech and terminated DEI programs; and [[jeff-bezos|Jeff Bezos]] has said the *[[washington-post|Washington Post]]* should be less biased and more trustworthy, while ordering Amazon employees back into the office.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+The article situates the donations within a broader pattern of accommodation: [[elon-musk|Elon Musk]] has been the most supportive of Trump both vocally and financially; [[mark-zuckerberg|Mark Zuckerberg]] has agreed to open his platforms to more free speech and terminated DEI programs; and [[jeff-bezos|Jeff Bezos]] has said the *[[washington-post|Washington Post]]* should be less biased and more trustworthy, while ordering Amazon employees back into the office.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Nvidia's absence
 
-The article flags that, as of writing, [[nvidia|Nvidia]] was the one major artificial-intelligence company absent from the donor list, and asks whether this means Nvidia is not part of Trump's future plans.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+The article flags that, as of writing, [[nvidia|Nvidia]] was the one major artificial-intelligence company absent from the donor list, and asks whether this means Nvidia is not part of Trump's future plans.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Expected consequences
 
-Carlson predicts that some companies and executives will not be chosen to take part in what he calls the American Renaissance, that some mega-corporations will be broken up into smaller companies, and that [[cia|CIA]] and Deep State strings will continue to be cut — while conceding that the American economy cannot be destroyed in order to obtain the justice he believes is deserved.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Carlson predicts that some companies and executives will not be chosen to take part in what he calls the American Renaissance, that some mega-corporations will be broken up into smaller companies, and that [[cia|CIA]] and Deep State strings will continue to be cut — while conceding that the American economy cannot be destroyed in order to obtain the justice he believes is deserved.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Meta's December 2024 donation
 

@@ -10,15 +10,15 @@ confidence: medium
 
 # Alphabet
 
-**Alphabet** is the parent company of Google and one of the five largest American companies by market capitalization in both 2020 and 2025.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+**Alphabet** is the parent company of Google and one of the five largest American companies by market capitalization in both 2020 and 2025.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Allegations
 
-*America Has a CIA-Run Economy* groups Alphabet among the mega-cap technology firms [[erik-carlson|Erik Carlson]] argues answer to the [[cia|CIA]] and function as instruments of propaganda and control.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson argues that after the internet arrived in the 1990s the CIA lost the easy control it had over Hollywood, music, television, radio, print and broadcast news, and needed to create and control search engines and social media in order to monitor what was said and findable online.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) He further states that Google Earth is an old CIA satellite system handed over to the company.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+*America Has a CIA-Run Economy* groups Alphabet among the mega-cap technology firms [[erik-carlson|Erik Carlson]] argues answer to the [[cia|CIA]] and function as instruments of propaganda and control.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson argues that after the internet arrived in the 1990s the CIA lost the easy control it had over Hollywood, music, television, radio, print and broadcast news, and needed to create and control search engines and social media in order to monitor what was said and findable online.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) He further states that Google Earth is an old CIA satellite system handed over to the company.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Trump-era realignment
 
-Google was among the big tech firms donating a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund, alongside [[microsoft|Microsoft]], [[meta-platforms|Meta]], [[amazon|Amazon]], [[apple|Apple]] and [[openai|OpenAI]].[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Google was among the big tech firms donating a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund, alongside [[microsoft|Microsoft]], [[meta-platforms|Meta]], [[amazon|Amazon]], [[apple|Apple]] and [[openai|OpenAI]].1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 
 ## AI capital expenditure, 2026

@@ -10,11 +10,11 @@ confidence: medium
 
 # Fox News
 
-Fox News is an American cable news network, part of Rupert Murdoch's NewsCorp, which Badlands Media treats as the conservative mirror image of the liberal mainstream rather than a genuine alternative to it.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Fox News is an American cable news network, part of Rupert Murdoch's NewsCorp, which Badlands Media treats as the conservative mirror image of the liberal mainstream rather than a genuine alternative to it.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-The article argues that what passes for journalism at Fox is the equivalent of what appears on [[msnbc|MSNBC]] — substance-free affirmations of a partisan audience's talking points, catering to "garden variety conservatives."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) Viewers receive either establishment Democrat talking points or establishment Republican talking points, with little else on offer.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The article argues that what passes for journalism at Fox is the equivalent of what appears on [[msnbc|MSNBC]] — substance-free affirmations of a partisan audience's talking points, catering to "garden variety conservatives."1(https://badlands.substack.com/p/a-swan-song-for-the-msm) Viewers receive either establishment Democrat talking points or establishment Republican talking points, with little else on offer.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-Badlands further notes that the Fox News audience is never served the difficult but important subjects discussed on [[badlands-media|Badlands Media]], just as [[cnn|CNN]] avoids the reporting found at [[the-grayzone|The Grayzone]] or [[consortium-news|Consortium News]]. Though the two networks appear to present opposing perspectives, they are described as "two heads on the same wretched snake."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Badlands further notes that the Fox News audience is never served the difficult but important subjects discussed on [[badlands-media|Badlands Media]], just as [[cnn|CNN]] avoids the reporting found at [[the-grayzone|The Grayzone]] or [[consortium-news|Consortium News]]. Though the two networks appear to present opposing perspectives, they are described as "two heads on the same wretched snake."1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 
 ## Singham network investigation

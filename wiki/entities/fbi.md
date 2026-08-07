@@ -10,13 +10,13 @@ confidence: low
 
 # Federal Bureau of Investigation (FBI)
 
-The Federal Bureau of Investigation appears in Erik Carlson's *A Journey of Ever-changing Truths* as one of the two agencies alleged to have engineered the emergence of [[gangster-rap|gangster rap]].[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+The Federal Bureau of Investigation appears in Erik Carlson's *A Journey of Ever-changing Truths* as one of the two agencies alleged to have engineered the emergence of [[gangster-rap|gangster rap]].1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## Role in the article
 
-Carlson states that the late-1980s shift in rap music — from lyrics about positivity, unity and ending violence to lyrics about shooting cops and selling drugs — was not organic but was spurred on by the FBI and the [[cia|CIA]], acting because crime rates were down and the newly privatized prison system needed to be filled.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths) He asserts that the two agencies were by that point running record labels, and that artists who did not rap about crime and killing police found no place in the genre.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+Carlson states that the late-1980s shift in rap music — from lyrics about positivity, unity and ending violence to lyrics about shooting cops and selling drugs — was not organic but was spurred on by the FBI and the [[cia|CIA]], acting because crime rates were down and the newly privatized prison system needed to be filled.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths) He asserts that the two agencies were by that point running record labels, and that artists who did not rap about crime and killing police found no place in the genre.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
-The FBI's role is thus the cultural component of a wider scheme in the essay that also includes [[prison-privatization|prison privatization]], the [[crime-bill-1994|1994 Crime Bill]], and CIA drug importation.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+The FBI's role is thus the cultural component of a wider scheme in the essay that also includes [[prison-privatization|prison privatization]], the [[crime-bill-1994|1994 Crime Bill]], and CIA drug importation.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## Brennan investigation and Section 702 (2026)
 

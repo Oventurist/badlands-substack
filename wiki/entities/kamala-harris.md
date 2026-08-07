@@ -10,13 +10,13 @@ confidence: low
 
 # Kamala Harris
 
-Kamala Harris was the Democratic presidential candidate whose [[60-minutes|60 Minutes]] interview became the basis of [[donald-trump|Donald Trump]]'s $10 billion lawsuit against [[cbs|CBS]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Kamala Harris was the Democratic presidential candidate whose [[60-minutes|60 Minutes]] interview became the basis of [[donald-trump|Donald Trump]]'s $10 billion lawsuit against [[cbs|CBS]].1(https://badlands.substack.com/p/a-new-hollywood)
 
-During the campaign, it was quickly discovered that the interview had been edited to make Harris look better, with the producers removing as much unintelligible word-salad as they could.[[1]](https://badlands.substack.com/p/a-new-hollywood) Trump viewed the edit as election tampering.[[1]](https://badlands.substack.com/p/a-new-hollywood) [[erik-carlson|Erik Carlson]] uses the episode to argue that the resulting litigation gave Trump leverage over [[paramount-global|Paramount Global]] during its merger with [[skydance-media|Skydance Media]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+During the campaign, it was quickly discovered that the interview had been edited to make Harris look better, with the producers removing as much unintelligible word-salad as they could.1(https://badlands.substack.com/p/a-new-hollywood) Trump viewed the edit as election tampering.1(https://badlands.substack.com/p/a-new-hollywood) [[erik-carlson|Erik Carlson]] uses the episode to argue that the resulting litigation gave Trump leverage over [[paramount-global|Paramount Global]] during its merger with [[skydance-media|Skydance Media]].1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Succession to Biden, 2024
 
-Harris's elevation follows [[joe-biden|Joe Biden]]'s withdrawal from the 2024 race, which Badlands Media commentary treats as a decision imposed on Biden rather than taken by him.[[2]](https://badlands.substack.com/p/a-week-to-remember) [[erik-carlson|Erik Carlson]] asks which [[deep-state-cabal|Cabal]] families back Harris and which might back a different candidate, and whether the Deep State would succeed in creating unity within what he calls the cartel or whether the power struggle would continue.[[2]](https://badlands.substack.com/p/a-week-to-remember)
+Harris's elevation follows [[joe-biden|Joe Biden]]'s withdrawal from the 2024 race, which Badlands Media commentary treats as a decision imposed on Biden rather than taken by him.2(https://badlands.substack.com/p/a-week-to-remember) [[erik-carlson|Erik Carlson]] asks which [[deep-state-cabal|Cabal]] families back Harris and which might back a different candidate, and whether the Deep State would succeed in creating unity within what he calls the cartel or whether the power struggle would continue.2(https://badlands.substack.com/p/a-week-to-remember)
 
 ## As a source of division and fear
 

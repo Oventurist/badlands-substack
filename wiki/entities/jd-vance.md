@@ -10,11 +10,11 @@ confidence: medium
 
 # JD Vance
 
-JD Vance was selected by [[donald-trump|Donald Trump]] as his vice-presidential running mate in July 2024, days after the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Trump]] at the Butler, Pennsylvania rally.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+JD Vance was selected by [[donald-trump|Donald Trump]] as his vice-presidential running mate in July 2024, days after the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Trump]] at the Butler, Pennsylvania rally.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Place in the July 2024 sequence
 
-Badlands Media commentary lists the Vance selection alongside the Republican National Convention and [[joe-biden|Joe Biden]]'s withdrawal from the race as the three developments that followed the Butler shooting in rapid succession — a period [[erik-carlson|Erik Carlson]] characterized as one in which "with every new day, a tectonic shift of the narrative occurs."[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Badlands Media commentary lists the Vance selection alongside the Republican National Convention and [[joe-biden|Joe Biden]]'s withdrawal from the race as the three developments that followed the Butler shooting in rapid succession — a period [[erik-carlson|Erik Carlson]] characterized as one in which "with every new day, a tectonic shift of the narrative occurs."1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Big Tech and cryptocurrency ties
 

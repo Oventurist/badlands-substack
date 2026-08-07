@@ -10,9 +10,9 @@ confidence: low
 
 # Harmeet Dhillon
 
-Harmeet Dhillon is an attorney prominent in conservative election-integrity litigation, described by Badlands Media contributor [[kitty-gillespie|Kitty Gillespie]] as one of the "savage lawyers fighting for election integrity in Arizona" and as "our beloved Harmeet Dhillon."[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero)
+Harmeet Dhillon is an attorney prominent in conservative election-integrity litigation, described by Badlands Media contributor [[kitty-gillespie|Kitty Gillespie]] as one of the "savage lawyers fighting for election integrity in Arizona" and as "our beloved Harmeet Dhillon."1(https://badlands.substack.com/p/an-sos-from-ground-zero)
 
-Dhillon was among the lawyers active in Arizona in the weeks after the [[2022-arizona-general-election|2022 general election]], a period Gillespie characterized by lawyers "swarming again" while candidates' paid staff and volunteers worked to document irregularities in [[maricopa-county|Maricopa County]].[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero) Republican gubernatorial candidate [[kari-lake|Kari Lake]] stated on November 21, 2022 that "attorneys are working diligently to gather information" and that whistleblowers were coming forward.[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero)
+Dhillon was among the lawyers active in Arizona in the weeks after the [[2022-arizona-general-election|2022 general election]], a period Gillespie characterized by lawyers "swarming again" while candidates' paid staff and volunteers worked to document irregularities in [[maricopa-county|Maricopa County]].1(https://badlands.substack.com/p/an-sos-from-ground-zero) Republican gubernatorial candidate [[kari-lake|Kari Lake]] stated on November 21, 2022 that "attorneys are working diligently to gather information" and that whistleblowers were coming forward.1(https://badlands.substack.com/p/an-sos-from-ground-zero)
 
 ## Assistant Attorney General for Civil Rights
 

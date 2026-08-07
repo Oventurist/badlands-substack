@@ -10,9 +10,9 @@ confidence: low
 
 # Babylon Bee
 
-The *Babylon Bee* is a conservative Christian satirical news outlet. It had been suspended from Twitter before the platform's 2022 change of ownership, and its reinstatement was treated by right-leaning commentators as a marker of restored speech on the platform.[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero)
+The *Babylon Bee* is a conservative Christian satirical news outlet. It had been suspended from Twitter before the platform's 2022 change of ownership, and its reinstatement was treated by right-leaning commentators as a marker of restored speech on the platform.1(https://badlands.substack.com/p/an-sos-from-ground-zero)
 
-[[kitty-gillespie|Kitty Gillespie]] closed her November 2022 [[badlands-media|Badlands Media]] article on the [[2022-arizona-general-election|Arizona election crisis]] with a joke from the *Babylon Bee*, noting approvingly that the outlet was "BACK ON TWITTER."[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero)
+[[kitty-gillespie|Kitty Gillespie]] closed her November 2022 [[badlands-media|Badlands Media]] article on the [[2022-arizona-general-election|Arizona election crisis]] with a joke from the *Babylon Bee*, noting approvingly that the outlet was "BACK ON TWITTER."1(https://badlands.substack.com/p/an-sos-from-ground-zero)
 
 ## Woke Right Controversy (May 2025)
 

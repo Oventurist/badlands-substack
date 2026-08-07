@@ -10,9 +10,9 @@ confidence: low
 
 # Valerie Jarrett
 
-Valerie Jarrett was a senior adviser to President [[barack-obama|Barack Obama]] and appears in the Badlands account as the counterpart to [[huma-abedin|Huma Abedin]] in an alleged coordinated infiltration of the United States government.[[1]](https://badlands.substack.com/p/america-for-sale-part-1)
+Valerie Jarrett was a senior adviser to President [[barack-obama|Barack Obama]] and appears in the Badlands account as the counterpart to [[huma-abedin|Huma Abedin]] in an alleged coordinated infiltration of the United States government.1(https://badlands.substack.com/p/america-for-sale-part-1)
 
-The connection is drawn from [[qanon|Q]] drop #4750 of September 23, 2020, which described competing foreign factions each seeking direct White House control and concluded that they were "All working together [coordinated][INFILTRATION not invasion][VJ _HA]."[[1]](https://badlands.substack.com/p/america-for-sale-part-1) The article reads the bracketed initials as Valerie Jarrett and Huma Abedin, and asserts that both women were connected to [[prince-alwaleed-bin-talal|Prince Alwaleed bin Talal]] — Jarrett serving as Obama's "handler" as Abedin served as [[hillary-clinton|Hillary Clinton]]'s.[[1]](https://badlands.substack.com/p/america-for-sale-part-1) A promised follow-up article was to explore the connections among Abedin, Hillary Clinton, Obama and Jarrett in greater depth.[[1]](https://badlands.substack.com/p/america-for-sale-part-1)
+The connection is drawn from [[qanon|Q]] drop #4750 of September 23, 2020, which described competing foreign factions each seeking direct White House control and concluded that they were "All working together [coordinated][INFILTRATION not invasion][VJ _HA]."1(https://badlands.substack.com/p/america-for-sale-part-1) The article reads the bracketed initials as Valerie Jarrett and Huma Abedin, and asserts that both women were connected to [[prince-alwaleed-bin-talal|Prince Alwaleed bin Talal]] — Jarrett serving as Obama's "handler" as Abedin served as [[hillary-clinton|Hillary Clinton]]'s.1(https://badlands.substack.com/p/america-for-sale-part-1) A promised follow-up article was to explore the connections among Abedin, Hillary Clinton, Obama and Jarrett in greater depth.1(https://badlands.substack.com/p/america-for-sale-part-1)
 
 ## Named as a handler in Q drop 1948
 

@@ -10,11 +10,11 @@ confidence: low
 
 # Joe Lange
 
-Joe Lange is a [[badlands-media|Badlands Media]] contributor who writes feature essays for the outlet's Substack, where he maintains an author profile.[[1]](https://badlands.substack.com/p/a-look-at-recent-features-84d)
+Joe Lange is a [[badlands-media|Badlands Media]] contributor who writes feature essays for the outlet's Substack, where he maintains an author profile.1(https://badlands.substack.com/p/a-look-at-recent-features-84d)
 
 ## Featured work
 
-Lange's essay "Disinformation is Necessary," published 28 October 2025, was among the features collected in the 7 November 2025 [[badlands-news-brief|Badlands News Brief]] retrospective.[[1]](https://badlands.substack.com/p/a-look-at-recent-features-84d) The piece is framed around a single question — what would be the purpose of creating confusion? — treating [[disinformation|disinformation]] as a deliberate instrument with an identifiable strategic function rather than as mere noise.[[1]](https://badlands.substack.com/p/a-look-at-recent-features-84d)
+Lange's essay "Disinformation is Necessary," published 28 October 2025, was among the features collected in the 7 November 2025 [[badlands-news-brief|Badlands News Brief]] retrospective.1(https://badlands.substack.com/p/a-look-at-recent-features-84d) The piece is framed around a single question — what would be the purpose of creating confusion? — treating [[disinformation|disinformation]] as a deliberate instrument with an identifiable strategic function rather than as mere noise.1(https://badlands.substack.com/p/a-look-at-recent-features-84d)
 
 ## Financial series and CBDCs
 

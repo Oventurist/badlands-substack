@@ -10,13 +10,13 @@ confidence: medium
 
 # Mar-a-Lago
 
-**Mar-a-Lago** is [[donald-trump|Donald Trump]]'s Palm Beach, Florida estate and the venue from which he delivered the November 2022 address announcing his candidacy for the 2024 presidential election.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+**Mar-a-Lago** is [[donald-trump|Donald Trump]]'s Palm Beach, Florida estate and the venue from which he delivered the November 2022 address announcing his candidacy for the 2024 presidential election.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## The November 2022 announcement
 
-Badlands commentary treated the Mar-a-Lago speech as a set piece whose function had been anticipated in advance. The author had argued, before the speech was delivered, that its purpose would be twofold: to separate the MAGA and America First wheat from the [[con-inc|Con Inc.]] controlled-opposition chaff, and to undercut any political move being entertained by other influential figures gathering directed political energy from the conservative base in an attempt to sweep that base out from under Trump's leadership.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+Badlands commentary treated the Mar-a-Lago speech as a set piece whose function had been anticipated in advance. The author had argued, before the speech was delivered, that its purpose would be twofold: to separate the MAGA and America First wheat from the [[con-inc|Con Inc.]] controlled-opposition chaff, and to undercut any political move being entertained by other influential figures gathering directed political energy from the conservative base in an attempt to sweep that base out from under Trump's leadership.1(https://badlands.substack.com/p/all-assets-deployed)
 
-Expectations that Trump would use the stage to audit the 2022 midterms or to announce the arrest of the sitting president were dismissed as implausible, given that the audience was highly partisan and the [[media-industrial-complex|Media Industrial Complex]] had already branded it extremist.[[1]](https://badlands.substack.com/p/all-assets-deployed) The speech contained no major revelations but did include what the author called tantalizing tidbits, notably the statement that "the voting will be much, much different in 2024" and a warning that things would get "much worse" before people "see clearly."[[1]](https://badlands.substack.com/p/all-assets-deployed)
+Expectations that Trump would use the stage to audit the 2022 midterms or to announce the arrest of the sitting president were dismissed as implausible, given that the audience was highly partisan and the [[media-industrial-complex|Media Industrial Complex]] had already branded it extremist.1(https://badlands.substack.com/p/all-assets-deployed) The speech contained no major revelations but did include what the author called tantalizing tidbits, notably the statement that "the voting will be much, much different in 2024" and a warning that things would get "much worse" before people "see clearly."1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## February 2026 perimeter breach
 

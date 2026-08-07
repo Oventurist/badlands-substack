@@ -10,15 +10,15 @@ confidence: medium
 
 # Patriot Act
 
-The **Patriot Act** is invoked in this Badlands Media analysis as the template for legislation that acquires sweeping powers under an emotionally compelling pretext.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+The **Patriot Act** is invoked in this Badlands Media analysis as the template for legislation that acquires sweeping powers under an emotionally compelling pretext.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## As a comparison for the Online Safety Bill
 
-The article argues that the UK's [[online-safety-bill|Online Safety Bill]], much like the Patriot Act, plays upon the psychology of the undiscerning by using evocative framing and claiming to combat something far removed from how the law will actually be used.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) In the OSB's case the marketed purpose was combating child pornography, despite the fact that the overwhelming majority of such material exists on the deep web, outside the legislation's purview.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+The article argues that the UK's [[online-safety-bill|Online Safety Bill]], much like the Patriot Act, plays upon the psychology of the undiscerning by using evocative framing and claiming to combat something far removed from how the law will actually be used.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) In the OSB's case the marketed purpose was combating child pornography, despite the fact that the overwhelming majority of such material exists on the deep web, outside the legislation's purview.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## The pretext principle
 
-The general rule the article draws from both statutes is stated bluntly: in order to strip people of their rights, a good pretext is required.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) The anticipated real application of the OSB — threats to platforms to remove effective critics of the state as purveyors of "harmful conspiracy theories" — mirrors the gap between the Patriot Act's advertised counterterrorism purpose and its subsequent use.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+The general rule the article draws from both statutes is stated bluntly: in order to strip people of their rights, a good pretext is required.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) The anticipated real application of the OSB — threats to platforms to remove effective critics of the state as purveyors of "harmful conspiracy theories" — mirrors the gap between the Patriot Act's advertised counterterrorism purpose and its subsequent use.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Post-9/11 legislative sequence
 

@@ -10,9 +10,9 @@ confidence: medium
 
 # The Atlantic
 
-The Atlantic is an American magazine listed by Badlands Media among the "mainstream, historically spook-friendly outlets" — with [[new-york-times|The New York Times]] and [[washington-post|The Washington Post]] — that are said to recruit journalists already inclined to support establishment narratives.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The Atlantic is an American magazine listed by Badlands Media among the "mainstream, historically spook-friendly outlets" — with [[new-york-times|The New York Times]] and [[washington-post|The Washington Post]] — that are said to recruit journalists already inclined to support establishment narratives.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-The magazine is also named as one of the billionaire-owned national outlets that conducted layoffs during the 2023–2024 contraction of the industry, cited in [[taylor-lorenz|Taylor Lorenz]]'s survey of the collapse; Lorenz previously worked there.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) Badlands uses these outlets to argue that the press has ceased functioning as a counterbalance to power and instead constitutes part of the establishment itself.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The magazine is also named as one of the billionaire-owned national outlets that conducted layoffs during the 2023–2024 contraction of the industry, cited in [[taylor-lorenz|Taylor Lorenz]]'s survey of the collapse; Lorenz previously worked there.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) Badlands uses these outlets to argue that the press has ceased functioning as a counterbalance to power and instead constitutes part of the establishment itself.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## 2026 defamation litigation and Venezuela reporting
 

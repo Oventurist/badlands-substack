@@ -10,15 +10,15 @@ confidence: medium
 
 # BuzzFeed
 
-BuzzFeed is an American digital media company whose news division became, in the Badlands Media account, both a symbol of "fake news" and an early casualty of the collapse of the digital media ecosystem.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+BuzzFeed is an American digital media company whose news division became, in the Badlands Media account, both a symbol of "fake news" and an early casualty of the collapse of the digital media ecosystem.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## The Steele Dossier
 
-BuzzFeed was the outlet responsible for publishing the Steele Dossier — described by Badlands as "one of the most notorious instances of fake news."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) The publication of unverified allegations concerning [[donald-trump|Donald Trump]]'s supposed ties to Russia is treated in the article as emblematic of how entangled the press had become with establishment political interests during and after the 2016 campaign.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+BuzzFeed was the outlet responsible for publishing the Steele Dossier — described by Badlands as "one of the most notorious instances of fake news."1(https://badlands.substack.com/p/a-swan-song-for-the-msm) The publication of unverified allegations concerning [[donald-trump|Donald Trump]]'s supposed ties to Russia is treated in the article as emblematic of how entangled the press had become with establishment political interests during and after the 2016 campaign.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Shutdown of BuzzFeed News
 
-In 2023 the company completely abolished its news division.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) [[taylor-lorenz|Taylor Lorenz]], in her February 2024 assessment of the industry, listed BuzzFeed News among the "major media companies" that had "completely shuttered their news operations," part of the hollowing out of the digital media ecosystem in which she and other millennial journalists had built their careers.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+In 2023 the company completely abolished its news division.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) [[taylor-lorenz|Taylor Lorenz]], in her February 2024 assessment of the industry, listed BuzzFeed News among the "major media companies" that had "completely shuttered their news operations," part of the hollowing out of the digital media ecosystem in which she and other millennial journalists had built their careers.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Reporting on the 2009 Clinton–Kim memo
 

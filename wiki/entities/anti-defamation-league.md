@@ -10,15 +10,15 @@ confidence: medium
 
 # Anti-Defamation League
 
-The **Anti-Defamation League** (ADL) is one of the organisations Badlands Media classes among "watchdog" groups that function in practice as attack dogs within the censorship regime.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+The **Anti-Defamation League** (ADL) is one of the organisations Badlands Media classes among "watchdog" groups that function in practice as attack dogs within the censorship regime.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Campaign against Musk
 
-After [[elon-musk|Elon Musk]] refused to satisfy the ADL's demands regarding [[x-twitter|X]], the organisation mounted a pressure campaign against him — an effort the article treats as structurally identical to the advertiser-pressure tactics used against [[rumble]] and against Barstool Sports' Dave Portnoy.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Badlands Media had covered the group the previous week in a piece titled "The Anti-Dissent League," and states that the ADL's actions are directly connected to the wider coordinated offensive that recurs every four years.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+After [[elon-musk|Elon Musk]] refused to satisfy the ADL's demands regarding [[x-twitter|X]], the organisation mounted a pressure campaign against him — an effort the article treats as structurally identical to the advertiser-pressure tactics used against [[rumble]] and against Barstool Sports' Dave Portnoy.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Badlands Media had covered the group the previous week in a piece titled "The Anti-Dissent League," and states that the ADL's actions are directly connected to the wider coordinated offensive that recurs every four years.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Role in the wider pattern
 
-The ADL appears in the article as one node in a network of governments, legacy media outlets and non-governmental organisations that together enforce narrative discipline ahead of elections, alongside the [[trusted-news-initiative|Trusted News Initiative]] and the regulatory machinery of the [[online-safety-bill|Online Safety Bill]].[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+The ADL appears in the article as one node in a network of governments, legacy media outlets and non-governmental organisations that together enforce narrative discipline ahead of elections, alongside the [[trusted-news-initiative|Trusted News Initiative]] and the regulatory machinery of the [[online-safety-bill|Online Safety Bill]].1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## March 2026 antisemitism campaign
 

@@ -10,11 +10,11 @@ confidence: low
 
 # Randy Fine
 
-Randy Fine is a Florida State Senator cited by Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] as an example of extreme rhetoric that nonetheless attracted no doxxing or termination campaign.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+Randy Fine is a Florida State Senator cited by Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] as an example of extreme rhetoric that nonetheless attracted no doxxing or termination campaign.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-Fine posted a series of tweets claiming there were no innocent Palestinian civilians, calling them "demons that live on Earth" who "deserve death," and demanding that "Gaza must be destroyed."[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+Fine posted a series of tweets claiming there were no innocent Palestinian civilians, calling them "demons that live on Earth" who "deserve death," and demanding that "Gaza must be destroyed."1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-DeLarme sets these statements against the firings of [[maura-finkelstein|Maura Finkelstein]], Hesen Jabr, and Nikki Noor Aytoglu for anti-Zionist speech, asking readers who believe those individuals deserved termination to consider what has been said about Palestinian civilians without consequence.[[1]](https://badlands.substack.com/p/a-glaring-double-standard) The contrast is central to his argument that enforcement of speech norms tracks political alignment rather than principle, and that the [[first-amendment|First Amendment]] must protect repellent speech in both directions.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+DeLarme sets these statements against the firings of [[maura-finkelstein|Maura Finkelstein]], Hesen Jabr, and Nikki Noor Aytoglu for anti-Zionist speech, asking readers who believe those individuals deserved termination to consider what has been said about Palestinian civilians without consequence.1(https://badlands.substack.com/p/a-glaring-double-standard) The contrast is central to his argument that enforcement of speech norms tracks political alignment rather than principle, and that the [[first-amendment|First Amendment]] must protect repellent speech in both directions.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## HB 269 and the campaign against Tucker Carlson
 

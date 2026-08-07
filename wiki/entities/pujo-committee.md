@@ -10,17 +10,17 @@ confidence: medium
 
 # Pujo Committee
 
-The Pujo Committee was a special congressional committee formed by Representative [[arsene-pujo|Arsene Pujo]] to investigate the monopoly of [[jp-morgan|J. P. Morgan]] and New York's other powerful bankers, following the creation of the [[federal-reserve|Federal Reserve]] and the [[internal-revenue-service|IRS]].[[1]](https://badlands.substack.com/p/1913)
+The Pujo Committee was a special congressional committee formed by Representative [[arsene-pujo|Arsene Pujo]] to investigate the monopoly of [[jp-morgan|J. P. Morgan]] and New York's other powerful bankers, following the creation of the [[federal-reserve|Federal Reserve]] and the [[internal-revenue-service|IRS]].1(https://badlands.substack.com/p/1913)
 
-The article treats the Committee's 1913 findings as direct confirmation that a master plan was consummated that year.[[1]](https://badlands.substack.com/p/1913) The Committee stated that it had "unanimously determined that a small CABAL of financiers had gained consolidated control of numerous industries through the abuse of the public trust in the United States."[[1]](https://badlands.substack.com/p/1913)
+The article treats the Committee's 1913 findings as direct confirmation that a master plan was consummated that year.1(https://badlands.substack.com/p/1913) The Committee stated that it had "unanimously determined that a small CABAL of financiers had gained consolidated control of numerous industries through the abuse of the public trust in the United States."1(https://badlands.substack.com/p/1913)
 
 ## Findings on the banking trade
 
-The Committee also issued a report on the banking trade at large. It found that no fewer than eighteen different major financial corporations were under the control of a cartel led by J. P. Morgan, George F. Baker, and James Stillman.[[1]](https://badlands.substack.com/p/1913) The report singled out individual bankers including [[paul-warburg|Paul Warburg]], Jacob H. Schiff, Felix M. Warburg, Frank E. Peabody, William Rockefeller, and [[benjamin-strong|Benjamin Strong Jr.]][[1]](https://badlands.substack.com/p/1913) It identified over $22 billion in resources and capitalization controlled through 341 directorships held in 112 corporations by members of the empire headed by J. P. Morgan.[[1]](https://badlands.substack.com/p/1913)
+The Committee also issued a report on the banking trade at large. It found that no fewer than eighteen different major financial corporations were under the control of a cartel led by J. P. Morgan, George F. Baker, and James Stillman.1(https://badlands.substack.com/p/1913) The report singled out individual bankers including [[paul-warburg|Paul Warburg]], Jacob H. Schiff, Felix M. Warburg, Frank E. Peabody, William Rockefeller, and [[benjamin-strong|Benjamin Strong Jr.]]1(https://badlands.substack.com/p/1913) It identified over $22 billion in resources and capitalization controlled through 341 directorships held in 112 corporations by members of the empire headed by J. P. Morgan.1(https://badlands.substack.com/p/1913)
 
 ## Aftermath
 
-Arsene Pujo left Congress in 1913 and had some support in the years that followed, but nothing came of it.[[1]](https://badlands.substack.com/p/1913) According to the article, the [[cabal]] squashed the Committee's findings and, because it controlled the media, the report never reached the mass public — tactics the article says remain in use today.[[1]](https://badlands.substack.com/p/1913)
+Arsene Pujo left Congress in 1913 and had some support in the years that followed, but nothing came of it.1(https://badlands.substack.com/p/1913) According to the article, the [[cabal]] squashed the Committee's findings and, because it controlled the media, the report never reached the mass public — tactics the article says remain in use today.1(https://badlands.substack.com/p/1913)
 
 ## Legacy in Badlands commentary
 

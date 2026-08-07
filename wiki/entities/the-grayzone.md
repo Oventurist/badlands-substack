@@ -10,11 +10,11 @@ confidence: medium
 
 # The Grayzone
 
-The Grayzone is an independent news outlet cited by Badlands Media as an example of the [[decentralized-media|decentralized media]] that reports on subjects the corporate press will not touch.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The Grayzone is an independent news outlet cited by Badlands Media as an example of the [[decentralized-media|decentralized media]] that reports on subjects the corporate press will not touch.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-The article notes that "you won't see the corporate hacks at [[cnn|CNN]] reporting on things you might see on The Grayzone or [[consortium-news|Consortium News]]," presenting the outlet as evidence that the mainstream and independent sectors cover fundamentally different ground rather than competing on the same terrain.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The article notes that "you won't see the corporate hacks at [[cnn|CNN]] reporting on things you might see on The Grayzone or [[consortium-news|Consortium News]]," presenting the outlet as evidence that the mainstream and independent sectors cover fundamentally different ground rather than competing on the same terrain.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-The Grayzone is also offered as a case study in financial deplatforming: Badlands points to the freezing of crowdfunding donations to the outlet as proof that opposition to independent media extends beyond Big Tech to major financial institutions, an episode that sparked a broader free-speech debate.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) This kind of pressure is part of what the article calls the [[censorship-industrial-complex|Censorship Industrial Complex]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The Grayzone is also offered as a case study in financial deplatforming: Badlands points to the freezing of crowdfunding donations to the outlet as proof that opposition to independent media extends beyond Big Tech to major financial institutions, an episode that sparked a broader free-speech debate.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) This kind of pressure is part of what the article calls the [[censorship-industrial-complex|Censorship Industrial Complex]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Reporting on Ukrainian neo-Nazism
 

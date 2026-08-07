@@ -10,9 +10,9 @@ confidence: medium
 
 # Office of Strategic Services
 
-The Office of Strategic Services (OSS) was the wartime U.S. intelligence agency and the precursor to the [[cia|Central Intelligence Agency]].[[1]](https://badlands.substack.com/p/a-more-perfect-labor-union) The article dates the exploitation of American labor for political ends to the closing days of World War II, when the OSS began collaborating with American unions to counter emerging communist influence in Europe.[[1]](https://badlands.substack.com/p/a-more-perfect-labor-union)
+The Office of Strategic Services (OSS) was the wartime U.S. intelligence agency and the precursor to the [[cia|Central Intelligence Agency]].1(https://badlands.substack.com/p/a-more-perfect-labor-union) The article dates the exploitation of American labor for political ends to the closing days of World War II, when the OSS began collaborating with American unions to counter emerging communist influence in Europe.1(https://badlands.substack.com/p/a-more-perfect-labor-union)
 
-That collaboration predated the 1955 creation of the [[afl-cio|AFL-CIO]] and ran in parallel with the AFL's own [[free-trade-union-committee|Free Trade Union Committee]], established in 1944.[[1]](https://badlands.substack.com/p/a-more-perfect-labor-union) When the CIA was created and the Cold War came into focus, interventionists in government recognized the work the AFL had already been doing in Europe and chose to operate through union channels because foreign workers were more likely to trust fellow union members.[[1]](https://badlands.substack.com/p/a-more-perfect-labor-union)
+That collaboration predated the 1955 creation of the [[afl-cio|AFL-CIO]] and ran in parallel with the AFL's own [[free-trade-union-committee|Free Trade Union Committee]], established in 1944.1(https://badlands.substack.com/p/a-more-perfect-labor-union) When the CIA was created and the Cold War came into focus, interventionists in government recognized the work the AFL had already been doing in Europe and chose to operate through union channels because foreign workers were more likely to trust fellow union members.1(https://badlands.substack.com/p/a-more-perfect-labor-union)
 
 ## Transition into the CIA and the Gladio networks
 

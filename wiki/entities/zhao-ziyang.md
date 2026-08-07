@@ -14,7 +14,7 @@ Zhao Ziyang served as Premier of China from 1980 to 1987 and then as General Sec
 
 ## Science policy and the Club of Rome
 
-Cambridge researcher Julian Gewertz's 2019 study "Futurists of Beijing" is cited for the finding that [[song-jian|Song Jian]], as head of China's State Science and Technology Commission, interfaced closely with Zhao to keep Chinese science policy tied to the [[club-of-rome|Club of Rome]]'s closed-system paradigm.[1] Under Zhao's lead, transhumanist futurists such as [[alvin-toffler|Alvin Toffler]], author of *The Third Wave*, were brought into China, while millions of young Chinese economists received Western scholarships and were trained in free-market economics at Harvard, Yale and Oxford.[1]
+Cambridge researcher Julian Gewertz's 2019 study "Futurists of Beijing" is cited for the finding that [[song-jian|Song Jian]], as head of China's State Science and Technology Commission, interfaced closely with Zhao to keep Chinese science policy tied to the [[club-of-rome|Club of Rome]]'s closed-system paradigm.[1] Under Zhao's lead, transhumanist futurists such as Alvin Toffler, author of *The Third Wave*, were brought into China, while millions of young Chinese economists received Western scholarships and were trained in free-market economics at Harvard, Yale and Oxford.[1]
 
 Speaking at an October 9, 1983 conference in Beijing, Zhao articulated a version of the [[four-modernizations|Four Modernizations]] that diverged sharply from the conception of [[zhou-enlai|Zhou Enlai]] and [[deng-xiaoping|Deng Xiaoping]], stating that whether one calls it the Fourth Industrial Revolution or the Third Wave, Western countries had reached high industrialization in the 1950s and 1960s and were "now moving to an information society," which he framed as both an opportunity and a challenge for China.[1]
 
@@ -24,7 +24,7 @@ In his 1990 book *Underwriting Democracy*, Soros described discussing a foundati
 
 ## 1989 and downfall
 
-Ehret argues that the [[cia|CIA]]-backed color revolution attempt of 1989, which would have installed Zhao as a Chinese free-market dictator, collapsed; Zhao was arrested along with hundreds of Soros assets, and Soros was banned from China.[1] Many violent operatives who had helped turn the student protests into a regime-change effort were exfiltrated from the mainland via [[operation-yellowbird|Operation Yellowbird]].[1]
+Ehret argues that the [[cia|CIA]]-backed color revolution attempt of 1989, which would have installed Zhao as a Chinese free-market dictator, collapsed; Zhao was arrested along with hundreds of Soros assets, and Soros was banned from China.[1] Many violent operatives who had helped turn the student protests into a regime-change effort were exfiltrated from the mainland via Operation Yellowbird.[1]
 
 ## References
 1. Badlands Brief — "How China Broke From the Slave Labor Agenda", URL: https://badlands.substack.com/p/how-china-broke-from-the-slave-labor

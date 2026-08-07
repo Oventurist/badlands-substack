@@ -10,13 +10,13 @@ confidence: medium
 
 # Los Angeles Police Department (LAPD)
 
-The Los Angeles Police Department is the municipal police force whose officers beat [[rodney-king|Rodney King]] in 1991, the incident that opens Erik Carlson's essay *A Journey of Ever-changing Truths*.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+The Los Angeles Police Department is the municipal police force whose officers beat [[rodney-king|Rodney King]] in 1991, the incident that opens Erik Carlson's essay *A Journey of Ever-changing Truths*.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## Role in the article
 
-Carlson describes the officers involved as having given an oath to protect and serve while appearing to be trying to kill a man, and argues that whatever job pressures they were under, their conduct disqualified them from continued police service.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths) Four officers tried in court a year later were acquitted by a jury, an outcome that triggered the [[la-riots-1992|1992 Los Angeles riots]].[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+Carlson describes the officers involved as having given an oath to protect and serve while appearing to be trying to kill a man, and argues that whatever job pressures they were under, their conduct disqualified them from continued police service.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths) Four officers tried in court a year later were acquitted by a jury, an outcome that triggered the [[la-riots-1992|1992 Los Angeles riots]].1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
-In Carlson's revised account, the beating is treated not simply as police misconduct but as a staged event — the camcorder footage having been captured, in his reading, too conveniently from an apartment balcony at night before the era of cell-phone cameras — serving a broader program of engineered racial division.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+In Carlson's revised account, the beating is treated not simply as police misconduct but as a staged event — the camcorder footage having been captured, in his reading, too conveniently from an apartment balcony at night before the era of cell-phone cameras — serving a broader program of engineered racial division.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## 2025 immigration enforcement protests
 

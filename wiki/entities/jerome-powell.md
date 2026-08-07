@@ -10,15 +10,15 @@ confidence: medium
 
 # Jerome Powell
 
-Jerome Powell became Chairman of the [[federal-reserve|Federal Reserve]] in 2018, having been elevated to the post by [[donald-trump|Donald Trump]].[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Jerome Powell became Chairman of the [[federal-reserve|Federal Reserve]] in 2018, having been elevated to the post by [[donald-trump|Donald Trump]].1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Rate normalization under Trump
 
-Badlands Media commentary describes Powell as having begun raising interest rates aggressively upon taking over, to Trump's displeasure.[[1]](https://badlands.substack.com/p/a-week-to-remember) A roughly 20% stock market decline followed in the fall of 2018, which led to rate cuts in 2019 and a recovery in equities.[[1]](https://badlands.substack.com/p/a-week-to-remember) [[erik-carlson|Erik Carlson]] writes that Trump understood rates needed to rise but insisted the process had to be gradual, adding that Trump "was right, as he always seems to be."[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Badlands Media commentary describes Powell as having begun raising interest rates aggressively upon taking over, to Trump's displeasure.1(https://badlands.substack.com/p/a-week-to-remember) A roughly 20% stock market decline followed in the fall of 2018, which led to rate cuts in 2019 and a recovery in equities.1(https://badlands.substack.com/p/a-week-to-remember) [[erik-carlson|Erik Carlson]] writes that Trump understood rates needed to rise but insisted the process had to be gradual, adding that Trump "was right, as he always seems to be."1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Covid-era money printing
 
-When the Covid lockdowns were imposed in early 2020, Carlson holds that Trump forced the Fed to print money at a rate never previously seen in order to save the economy, knowing that massive [[inflation|inflation]] would follow — an act Carlson frames as fighting the [[cabal|Cabal]] with its own weapon.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+When the Covid lockdowns were imposed in early 2020, Carlson holds that Trump forced the Fed to print money at a rate never previously seen in order to save the economy, knowing that massive [[inflation|inflation]] would follow — an act Carlson frames as fighting the [[cabal|Cabal]] with its own weapon.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## End of term and succession
 
@@ -102,7 +102,7 @@ On September 18, 2024, Powell's [[federal-open-market-committee|Federal Open Mar
 
 ## Erosion of the Republican firewall (July 2025)
 
-During Trump's first term, [[donald-trump|Donald Trump]] publicly badgered Powell over the [[federal-reserve|Federal Reserve]]'s refusal to lower interest rates, at one point declaring the chair had "No guts, no sense, no vision!"[16] At that time GOP lawmakers served as a firewall against the president's attacks on the central bank; then-Senator [[pat-toomey|Pat Toomey]] of Pennsylvania said he was "grateful" for Powell's effective management of borrowing costs.[16]
+During Trump's first term, [[donald-trump|Donald Trump]] publicly badgered Powell over the [[federal-reserve|Federal Reserve]]'s refusal to lower interest rates, at one point declaring the chair had "No guts, no sense, no vision!"[16] At that time GOP lawmakers served as a firewall against the president's attacks on the central bank; then-Senator Pat Toomey of Pennsylvania said he was "grateful" for Powell's effective management of borrowing costs.[16]
 
 By July 2025, six months into Trump's second term, that legislative check was showing signs of degradation.[16] A small but growing contingent of Republicans had become comfortable demanding Powell's ouster after the Fed declined to adjust interest rates four times over the course of the year, and they were using the expensive renovations of two buildings at the Fed's historic headquarters as leverage.[16]
 

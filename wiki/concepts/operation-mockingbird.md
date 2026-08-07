@@ -10,15 +10,15 @@ confidence: medium
 
 # Operation Mockingbird
 
-**Operation Mockingbird** was the [[cia|CIA]] program under which the agency placed assets inside media companies in order to shape American news coverage.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+**Operation Mockingbird** was the [[cia|CIA]] program under which the agency placed assets inside media companies in order to shape American news coverage.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Disclosure
 
-Its existence was revealed in 1975 when CIA Director William Colby testified under oath before the [[church-committee|Church Committee]], the congressional committee led by Frank Church. The committee established that the CIA had manipulated and controlled American media since at least 1960.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Its existence was revealed in 1975 when CIA Director William Colby testified under oath before the [[church-committee|Church Committee]], the congressional committee led by Frank Church. The committee established that the CIA had manipulated and controlled American media since at least 1960.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Legacy argument
 
-[[erik-carlson|Erik Carlson]] argues that before the 1990s controlling the media was straightforward — the CIA only had to control Hollywood, the music industry, television, radio, books, magazines, newspapers and broadcast news. The arrival of the internet, described as "the Wild West," broke that control at a moment when anti-government sentiment was rising, and by 2000 some 52% of Americans had internet access.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson contends the CIA's solution was to create and control social media platforms and search engines so it could monitor what was said online and govern what people could find.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+[[erik-carlson|Erik Carlson]] argues that before the 1990s controlling the media was straightforward — the CIA only had to control Hollywood, the music industry, television, radio, books, magazines, newspapers and broadcast news. The arrival of the internet, described as "the Wild West," broke that control at a moment when anti-government sentiment was rising, and by 2000 some 52% of Americans had internet access.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson contends the CIA's solution was to create and control social media platforms and search engines so it could monitor what was said online and govern what people could find.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 
 ## Invoked in coverage of Syria

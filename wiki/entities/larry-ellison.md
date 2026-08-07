@@ -10,15 +10,15 @@ confidence: medium
 
 # Larry Ellison
 
-Larry Ellison is the cofounder of the technology company [[oracle|Oracle]] and, in the account given in "A New Hollywood," a well-known and very wealthy ally and financial supporter of [[donald-trump|Donald Trump]].[[1]](https://badlands.substack.com/p/a-new-hollywood) He is the father of [[david-ellison|David Ellison]], who runs [[skydance-media|Skydance Media]], the company merging with [[paramount-global|Paramount Global]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Larry Ellison is the cofounder of the technology company [[oracle|Oracle]] and, in the account given in "A New Hollywood," a well-known and very wealthy ally and financial supporter of [[donald-trump|Donald Trump]].1(https://badlands.substack.com/p/a-new-hollywood) He is the father of [[david-ellison|David Ellison]], who runs [[skydance-media|Skydance Media]], the company merging with [[paramount-global|Paramount Global]].1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Role in Trump's plans
 
-[[erik-carlson|Erik Carlson]] notes that Ellison is in the news as Trump rolls out [[project-stargate|Project Stargate]], a plan for the United States to invest $500 billion in AI infrastructure in partnership with Oracle, [[openai|OpenAI]] and [[softbank|SoftBank]].[[1]](https://badlands.substack.com/p/a-new-hollywood) At the same time, Trump suggested that either [[elon-musk|Elon Musk]] or Ellison buy [[tiktok|TikTok]].[[1]](https://badlands.substack.com/p/a-new-hollywood) Carlson concludes it is "safe to say Ellison is a big part of Trump's plan going forward."[[1]](https://badlands.substack.com/p/a-new-hollywood)
+[[erik-carlson|Erik Carlson]] notes that Ellison is in the news as Trump rolls out [[project-stargate|Project Stargate]], a plan for the United States to invest $500 billion in AI infrastructure in partnership with Oracle, [[openai|OpenAI]] and [[softbank|SoftBank]].1(https://badlands.substack.com/p/a-new-hollywood) At the same time, Trump suggested that either [[elon-musk|Elon Musk]] or Ellison buy [[tiktok|TikTok]].1(https://badlands.substack.com/p/a-new-hollywood) Carlson concludes it is "safe to say Ellison is a big part of Trump's plan going forward."1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## The "CIA stooge" charge
 
-Carlson acknowledges that some within the truther community — or people pretending to be in it — describe Ellison as a [[cia|CIA]] stooge. He responds that essentially everyone in the American tech space has some past connection to DARPA or the CIA, which does not mean they are currently working against Trump or that their strings have not been cut.[[1]](https://badlands.substack.com/p/a-new-hollywood) He frames this as part of a broader pattern in which commentators oscillate between treating Trump as a genius and as mentally challenged, a superhero and a super villain.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Carlson acknowledges that some within the truther community — or people pretending to be in it — describe Ellison as a [[cia|CIA]] stooge. He responds that essentially everyone in the American tech space has some past connection to DARPA or the CIA, which does not mean they are currently working against Trump or that their strings have not been cut.1(https://badlands.substack.com/p/a-new-hollywood) He frames this as part of a broader pattern in which commentators oscillate between treating Trump as a genius and as mentally challenged, a superhero and a super villain.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## PCAST appointment (March 2026)
 

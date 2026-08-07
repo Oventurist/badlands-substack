@@ -10,13 +10,13 @@ confidence: medium
 
 # United States Secret Service
 
-The United States Secret Service is the federal agency responsible for the protection of current and former presidents and major presidential candidates. Badlands Media commentary examines the agency's role in the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]] at Butler, Pennsylvania on July 13, 2024.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+The United States Secret Service is the federal agency responsible for the protection of current and former presidents and major presidential candidates. Badlands Media commentary examines the agency's role in the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]] at Butler, Pennsylvania on July 13, 2024.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Leadership crisis of July 2024
 
-The agency's director, [[kimberly-cheatle|Kimberly Cheatle]], was called before the [[house-committee-on-oversight-and-accountability|Committee on Oversight and Accountability]] in the days following the attempt, and resigned the day after that testimony.[[1]](https://badlands.substack.com/p/a-week-to-remember) During the hearing Cheatle noted that Representative [[sheila-jackson-lee|Sheila Jackson Lee]], who had died six days after the assassination attempt, had been engaged in oversight of the Secret Service.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+The agency's director, [[kimberly-cheatle|Kimberly Cheatle]], was called before the [[house-committee-on-oversight-and-accountability|Committee on Oversight and Accountability]] in the days following the attempt, and resigned the day after that testimony.1(https://badlands.substack.com/p/a-week-to-remember) During the hearing Cheatle noted that Representative [[sheila-jackson-lee|Sheila Jackson Lee]], who had died six days after the assassination attempt, had been engaged in oversight of the Secret Service.1(https://badlands.substack.com/p/a-week-to-remember)
 
-In the Badlands framing, the sequence of a protective failure, the death of a legislator with oversight responsibility over the agency, and the director's rapid departure is presented as a set of unresolved questions about the agency's conduct rather than a settled account.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+In the Badlands framing, the sequence of a protective failure, the death of a legislator with oversight responsibility over the agency, and the director's rapid departure is presented as a set of unresolved questions about the agency's conduct rather than a settled account.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Correspondents' Dinner security (July 2026)
 

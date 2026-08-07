@@ -10,13 +10,13 @@ confidence: medium
 
 # Commodity Futures Trading Commission
 
-The **Commodity Futures Trading Commission (CFTC)** is the U.S. federal regulator of commodity futures and derivatives markets. It appears in the Badlands Media article "Are CBDCs The Path To Fear, or Freedom?" chiefly through its chairman during the [[donald-trump|Trump]] administration, [[j-christopher-giancarlo|J. Christopher Giancarlo]].[[1]](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+The **Commodity Futures Trading Commission (CFTC)** is the U.S. federal regulator of commodity futures and derivatives markets. It appears in the Badlands Media article "Are CBDCs The Path To Fear, or Freedom?" chiefly through its chairman during the [[donald-trump|Trump]] administration, [[j-christopher-giancarlo|J. Christopher Giancarlo]].1(https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
 
 ## Role in the article
 
-Giancarlo served as acting chair from Trump's inauguration on January 20, 2017, was nominated as full-time chairman on March 14, 2017, and was confirmed by the U.S. Senate on August 3, 2017.[[1]](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom) [[joe-lange|Joe Lange]] emphasizes that Trump installed at the head of the CFTC "the very guy who has been pushing hard for a CBDC," framing the appointment as a deliberate early move in a long-running plan.[[1]](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+Giancarlo served as acting chair from Trump's inauguration on January 20, 2017, was nominated as full-time chairman on March 14, 2017, and was confirmed by the U.S. Senate on August 3, 2017.1(https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom) [[joe-lange|Joe Lange]] emphasizes that Trump installed at the head of the CFTC "the very guy who has been pushing hard for a CBDC," framing the appointment as a deliberate early move in a long-running plan.1(https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
 
-Under CFTC oversight, a regulated [[bitcoin|Bitcoin]] futures market was launched in December 2017, and Giancarlo said he routinely briefed Treasury Secretary [[steven-mnuchin|Steven Mnuchin]] throughout 2018 on that market's operation and supervision.[[1]](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom) The agency is thus presented as the institutional bridge between cryptocurrency markets and federal policymaking on a [[central-bank-digital-currency|digital dollar]].[[1]](https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
+Under CFTC oversight, a regulated [[bitcoin|Bitcoin]] futures market was launched in December 2017, and Giancarlo said he routinely briefed Treasury Secretary [[steven-mnuchin|Steven Mnuchin]] throughout 2018 on that market's operation and supervision.1(https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom) The agency is thus presented as the institutional bridge between cryptocurrency markets and federal policymaking on a [[central-bank-digital-currency|digital dollar]].1(https://badlands.substack.com/p/are-cbdcs-the-path-to-fear-or-freedom)
 
 ## Hershey cocoa position request (2025)
 

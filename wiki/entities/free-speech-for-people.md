@@ -10,11 +10,11 @@ confidence: low
 
 # Free Speech For People
 
-Free Speech For People is a legal advocacy organization that served as counsel for the plaintiffs in [[naacp-v-useip|*NAACP et al. v. USEIP et al.*]].[[1]](https://badlands.substack.com/p/always-fight-back)
+Free Speech For People is a legal advocacy organization that served as counsel for the plaintiffs in [[naacp-v-useip|*NAACP et al. v. USEIP et al.*]].1(https://badlands.substack.com/p/always-fight-back)
 
-On Inauguration Day, January 20, 2017, the organization launched a campaign to impeach President [[donald-trump|Donald Trump]], announcing the effort in a *Washington Post* article titled "The Campaign to Impeach President Trump Has Begun."[[1]](https://badlands.substack.com/p/always-fight-back) Defendants cited this history to argue that the organization's later characterization of election-questioning speech as voter intimidation was selective, given its own record of contesting the legitimacy of a sitting president.[[1]](https://badlands.substack.com/p/always-fight-back)
+On Inauguration Day, January 20, 2017, the organization launched a campaign to impeach President [[donald-trump|Donald Trump]], announcing the effort in a *Washington Post* article titled "The Campaign to Impeach President Trump Has Begun."1(https://badlands.substack.com/p/always-fight-back) Defendants cited this history to argue that the organization's later characterization of election-questioning speech as voter intimidation was selective, given its own record of contesting the legitimacy of a sitting president.1(https://badlands.substack.com/p/always-fight-back)
 
-The litigation it brought ended in July 2024 with judgement on partial findings for the defendants and an award of costs, after Judge [[charlotte-sweeney|Charlotte Sweeney]] found no evidence of intimidating or threatening conduct — a result defendants described as a damning rebuke of the plaintiff organizations and their lawyers.[[1]](https://badlands.substack.com/p/always-fight-back)
+The litigation it brought ended in July 2024 with judgement on partial findings for the defendants and an award of costs, after Judge [[charlotte-sweeney|Charlotte Sweeney]] found no evidence of intimidating or threatening conduct — a result defendants described as a damning rebuke of the plaintiff organizations and their lawyers.1(https://badlands.substack.com/p/always-fight-back)
 
 ## Campaign Against Kurt Olsen (2026)
 

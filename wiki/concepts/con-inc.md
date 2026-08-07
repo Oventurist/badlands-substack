@@ -10,19 +10,19 @@ confidence: medium
 
 # Con Inc.
 
-**Con Inc.** is a pejorative used within the MAGA and America First community to describe the professionalized conservative movement — commentators, media outfits and would-be thought leaders who trade on movement branding while, in the view of their critics, functioning as controlled opposition.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+**Con Inc.** is a pejorative used within the MAGA and America First community to describe the professionalized conservative movement — commentators, media outfits and would-be thought leaders who trade on movement branding while, in the view of their critics, functioning as controlled opposition.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## The 2022 "turn"
 
-Badlands commentary described a baited and then actualized "turn" by Con Inc. and a substantial portion of the alternative right against the heart and soul of the America First movement in the aftermath of the 2022 midterms.[[1]](https://badlands.substack.com/p/all-assets-deployed) The author noted pointedly that the figures who turned were, conveniently, those who had retained immense influence and engagement on the most notorious globalist censorious platforms during the height of Big Tech's collective crackdown on sovereign thought.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+Badlands commentary described a baited and then actualized "turn" by Con Inc. and a substantial portion of the alternative right against the heart and soul of the America First movement in the aftermath of the 2022 midterms.1(https://badlands.substack.com/p/all-assets-deployed) The author noted pointedly that the figures who turned were, conveniently, those who had retained immense influence and engagement on the most notorious globalist censorious platforms during the height of Big Tech's collective crackdown on sovereign thought.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## Why the turn was welcomed
 
-Rather than treating the defection as a loss, the author argued it was both expected and to be welcomed, because any opportunity to draw a clear and confident line between the truth of the America First movement and those who would wear it like a skin suit — en route to riding a more controllable candidate into the halls of American power — should be taken without hesitation, every time.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+Rather than treating the defection as a loss, the author argued it was both expected and to be welcomed, because any opportunity to draw a clear and confident line between the truth of the America First movement and those who would wear it like a skin suit — en route to riding a more controllable candidate into the halls of American power — should be taken without hesitation, every time.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## Function after Trump's announcement
 
-Following [[donald-trump|Donald Trump]]'s 2024 candidacy announcement, Con Inc. and the "DeSantis over Trump" crowd were expected to smell blood in the water from a demoralized base and to work to turn hairline fractures into breaks and chasms, converting the movement into an archipelago of intra-faction wars.[[1]](https://badlands.substack.com/p/all-assets-deployed) In an [[information-war|information war]], the article argues, knowing who is who and what is what *is* the war itself, and the resulting sorting was expected to leave the game board significantly less obscured than before.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+Following [[donald-trump|Donald Trump]]'s 2024 candidacy announcement, Con Inc. and the "DeSantis over Trump" crowd were expected to smell blood in the water from a demoralized base and to work to turn hairline fractures into breaks and chasms, converting the movement into an archipelago of intra-faction wars.1(https://badlands.substack.com/p/all-assets-deployed) In an [[information-war|information war]], the article argues, knowing who is who and what is what *is* the war itself, and the resulting sorting was expected to leave the game board significantly less obscured than before.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## See also
 

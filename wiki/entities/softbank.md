@@ -10,9 +10,9 @@ confidence: low
 
 # SoftBank
 
-SoftBank is the Japanese investment conglomerate identified in "A New Hollywood" as one of the three corporate partners — with [[oracle|Oracle]] and [[openai|OpenAI]] — in [[project-stargate|Project Stargate]], the $500 billion American artificial intelligence infrastructure plan announced by [[donald-trump|Donald Trump]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+SoftBank is the Japanese investment conglomerate identified in "A New Hollywood" as one of the three corporate partners — with [[oracle|Oracle]] and [[openai|OpenAI]] — in [[project-stargate|Project Stargate]], the $500 billion American artificial intelligence infrastructure plan announced by [[donald-trump|Donald Trump]].1(https://badlands.substack.com/p/a-new-hollywood)
 
-[[erik-carlson|Erik Carlson]] cites the partnership mainly to establish the scale of Trump's AI push and the centrality of [[larry-ellison|Larry Ellison]] within it.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+[[erik-carlson|Erik Carlson]] cites the partnership mainly to establish the scale of Trump's AI push and the centrality of [[larry-ellison|Larry Ellison]] within it.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## $100 billion U.S. investment pledge (2024)
 

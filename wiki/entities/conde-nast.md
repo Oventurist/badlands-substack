@@ -10,9 +10,9 @@ confidence: medium
 
 # Condé Nast
 
-Condé Nast is the parent company of "pretty much every major magazine from GQ to Vogue to The New Yorker to Vanity Fair," cited in Badlands Media's account of the 2024 media collapse.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Condé Nast is the parent company of "pretty much every major magazine from GQ to Vogue to The New Yorker to Vanity Fair," cited in Badlands Media's account of the 2024 media collapse.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-Hundreds of Condé Nast workers were on strike at the time of [[taylor-lorenz|Taylor Lorenz]]'s February 2024 "State of the Media" video, because they were facing impending layoffs.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) The strike is listed among the industry-wide symptoms Lorenz enumerated — the obliteration of local news, the cratering of the newspaper industry, the effective death of radio outside a gutted NPR, and layoffs even at billionaire-owned outlets such as [[washington-post|The Washington Post]] and [[the-atlantic|The Atlantic]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Hundreds of Condé Nast workers were on strike at the time of [[taylor-lorenz|Taylor Lorenz]]'s February 2024 "State of the Media" video, because they were facing impending layoffs.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) The strike is listed among the industry-wide symptoms Lorenz enumerated — the obliteration of local news, the cratering of the newspaper industry, the effective death of radio outside a gutted NPR, and layoffs even at billionaire-owned outlets such as [[washington-post|The Washington Post]] and [[the-atlantic|The Atlantic]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## January 2024 strike
 

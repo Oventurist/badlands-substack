@@ -10,19 +10,19 @@ confidence: medium
 
 # Pakistan
 
-**Pakistan** appears in Badlands Media contributor [[ryan-delarme|Ryan DeLarme]]'s analysis of the [[iran|Iran]] question as one of the theatres in which the wider ripple effects of the Iran policy are visible.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+**Pakistan** appears in Badlands Media contributor [[ryan-delarme|Ryan DeLarme]]'s analysis of the [[iran|Iran]] question as one of the theatres in which the wider ripple effects of the Iran policy are visible.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## The ouster of Imran Khan
 
-When the [[joe-biden|Biden]] administration and the foreign policy establishment went all in on Iran, DeLarme writes, they also engaged in a series of additional foreign policy moves that altered the geopolitical equation, one of which was the overthrow of [[imran-khan|Imran Khan]].[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) Khan was removed by a parliamentary no-confidence vote in April 2022, which he attributed to military and [[inter-services-intelligence|ISI]] interference.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) With Khan gone, DeLarme argues, CIA-, military-industrial- and deep state-friendly assets are once again running Pakistan and the ISI.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+When the [[joe-biden|Biden]] administration and the foreign policy establishment went all in on Iran, DeLarme writes, they also engaged in a series of additional foreign policy moves that altered the geopolitical equation, one of which was the overthrow of [[imran-khan|Imran Khan]].1(https://badlands.substack.com/p/and-iran-iran-so-far-away) Khan was removed by a parliamentary no-confidence vote in April 2022, which he attributed to military and [[inter-services-intelligence|ISI]] interference.1(https://badlands.substack.com/p/and-iran-iran-so-far-away) With Khan gone, DeLarme argues, CIA-, military-industrial- and deep state-friendly assets are once again running Pakistan and the ISI.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Strategic utility
 
-Pakistan is described as indispensable to the United States as an ally against Russia, just as it was in the 1980s when the Reagan government was arming and funding the [[al-qaeda|Al Qaeda]] precursors fighting the Soviets — a story treated in the Badlands piece "Operation Cyclone: The Seeds of Terror."[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) One function of the CIA-controlled ISI at that time, which continues today, was serving as a major clearinghouse for U.S. weapons, equipment and funds destined for [[cia|CIA]] and Department of Defense conflict zones.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+Pakistan is described as indispensable to the United States as an ally against Russia, just as it was in the 1980s when the Reagan government was arming and funding the [[al-qaeda|Al Qaeda]] precursors fighting the Soviets — a story treated in the Badlands piece "Operation Cyclone: The Seeds of Terror."1(https://badlands.substack.com/p/and-iran-iran-so-far-away) One function of the CIA-controlled ISI at that time, which continues today, was serving as a major clearinghouse for U.S. weapons, equipment and funds destined for [[cia|CIA]] and Department of Defense conflict zones.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Nuclear flashpoint
 
-DeLarme notes that in the month before publication Pakistan had threatened to nuke [[israel|Israel]], and that "we already have more conflict with Pakistan than the NatSec wizards would like."[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) He warns that missteps over Iran could draw in nuclear-armed states such as Pakistan and India, escalating the crisis well beyond the Middle East.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+DeLarme notes that in the month before publication Pakistan had threatened to nuke [[israel|Israel]], and that "we already have more conflict with Pakistan than the NatSec wizards would like."1(https://badlands.substack.com/p/and-iran-iran-so-far-away) He warns that missteps over Iran could draw in nuclear-armed states such as Pakistan and India, escalating the crisis well beyond the Middle East.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## April 2026 role in Iran diplomacy
 

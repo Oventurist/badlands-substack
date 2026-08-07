@@ -10,11 +10,11 @@ confidence: low
 
 # Mossad
 
-Mossad, Israel's intelligence service, appears in Erik Carlson's essay as one of the agencies subordinate to British [[mi6|MI6]] in his proposed hierarchy of power.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+Mossad, Israel's intelligence service, appears in Erik Carlson's essay as one of the agencies subordinate to British [[mi6|MI6]] in his proposed hierarchy of power.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## Role in the article
 
-Carlson states that above the [[cia|CIA]] and Mossad is MI6, and above Tel Aviv and Washington, DC, is the [[city-of-london|City of London]].[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths) The placement supports his broader contention that Israel — like the [[italian-mafia|Italian Mafia]] before it — serves as a visible front while the [[deep-state-cabal|Cabal]] that actually controls Israel operates in the shadows.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+Carlson states that above the [[cia|CIA]] and Mossad is MI6, and above Tel Aviv and Washington, DC, is the [[city-of-london|City of London]].1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths) The placement supports his broader contention that Israel — like the [[italian-mafia|Italian Mafia]] before it — serves as a visible front while the [[deep-state-cabal|Cabal]] that actually controls Israel operates in the shadows.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## Marc Rich's protection
 

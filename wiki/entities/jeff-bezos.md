@@ -10,17 +10,17 @@ confidence: medium
 
 # Jeff Bezos
 
-**Jeff Bezos** is the founder of [[amazon|Amazon]] and the owner of *[[washington-post|The Washington Post]]*.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+**Jeff Bezos** is the founder of [[amazon|Amazon]] and the owner of *[[washington-post|The Washington Post]]*.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## CIA and media
 
-In *America Has a CIA-Run Economy*, [[erik-carlson|Erik Carlson]] notes that in early 2013 Amazon received a $600 million contract with the [[cia|CIA]] through [[amazon-web-services|Amazon Web Services]], and that in August 2013 Bezos bought *The Washington Post*, which the article characterizes as a CIA-run newspaper, for $250 million.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson also alludes to Bezos's founding mythology — the man selling books online out of a small one-person office — as one of the cover stories used to obscure the [[darpa|DARPA]] and intelligence origins of big tech.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+In *America Has a CIA-Run Economy*, [[erik-carlson|Erik Carlson]] notes that in early 2013 Amazon received a $600 million contract with the [[cia|CIA]] through [[amazon-web-services|Amazon Web Services]], and that in August 2013 Bezos bought *The Washington Post*, which the article characterizes as a CIA-run newspaper, for $250 million.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson also alludes to Bezos's founding mythology — the man selling books online out of a small one-person office — as one of the cover stories used to obscure the [[darpa|DARPA]] and intelligence origins of big tech.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Trump-era conduct
 
-Bezos is described as having said *The Washington Post* should be less biased and more trustworthy, and as being committed to cleaning up bias and misinformation at the paper.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) He also ordered Amazon employees back into the office, which Carlson argues helps alleviate the commercial real estate crisis caused by remote work while forcing humans to interact again.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Bezos is described as having said *The Washington Post* should be less biased and more trustworthy, and as being committed to cleaning up bias and misinformation at the paper.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) He also ordered Amazon employees back into the office, which Carlson argues helps alleviate the commercial real estate crisis caused by remote work while forcing humans to interact again.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
-Carlson places Bezos among the big tech figures climbing aboard the "Trump Train" and apologizing for past behavior he describes as corrupt and arguably treasonous, and says he does not believe figures like Bezos and [[mark-zuckerberg|Mark Zuckerberg]] will walk away from their crimes completely unscathed — while accepting that they will nonetheless be seated at [[donald-trump|Donald Trump]]'s inauguration.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Carlson places Bezos among the big tech figures climbing aboard the "Trump Train" and apologizing for past behavior he describes as corrupt and arguably treasonous, and says he does not believe figures like Bezos and [[mark-zuckerberg|Mark Zuckerberg]] will walk away from their crimes completely unscathed — while accepting that they will nonetheless be seated at [[donald-trump|Donald Trump]]'s inauguration.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Washington Post opinion mandate (2025)
 

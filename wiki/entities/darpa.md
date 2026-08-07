@@ -10,21 +10,21 @@ confidence: medium
 
 # DARPA
 
-The **Defense Advanced Research Projects Agency (DARPA)** is the research and development agency of the United States Department of Defense, tasked with developing new technologies for the military.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+The **Defense Advanced Research Projects Agency (DARPA)** is the research and development agency of the United States Department of Defense, tasked with developing new technologies for the military.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Role in the civilian economy
 
-Badlands Media contributor [[erik-carlson|Erik Carlson]] argues that American tax dollars fund DARPA technology that then migrates into American society and the commercial economy. The internet is described as probably the biggest and most important DARPA creation to end up in every American's office, home and pocket.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Badlands Media contributor [[erik-carlson|Erik Carlson]] argues that American tax dollars fund DARPA technology that then migrates into American society and the commercial economy. The internet is described as probably the biggest and most important DARPA creation to end up in every American's office, home and pocket.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
-Carlson contrasts DARPA's public relations with NASA's: where NASA allowed the popular myth that it invented Tang and Velcro to stand because it made the agency seem more important, DARPA-derived technologies were instead sold to the public through founder mythology — "a hoody wearing tech nerd from Harvard," friends working out of a mother's garage, or a man selling books online from a one-person office — with films sometimes made to cement those origin stories in the public mind.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Carlson contrasts DARPA's public relations with NASA's: where NASA allowed the popular myth that it invented Tang and Velcro to stand because it made the agency seem more important, DARPA-derived technologies were instead sold to the public through founder mythology — "a hoody wearing tech nerd from Harvard," friends working out of a mother's garage, or a man selling books online from a one-person office — with films sometimes made to cement those origin stories in the public mind.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Alleged pipeline to the CIA
 
-The article contends that in some cases the [[cia|CIA]] has taken DARPA-created technology and used it to influence and monitor Americans. Because Americans would not voluntarily hand information to the CIA, the agency is alleged to create companies and install public faces to front them.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson further suggests DARPA probably created Apple's Siri assistant.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+The article contends that in some cases the [[cia|CIA]] has taken DARPA-created technology and used it to influence and monitor Americans. Because Americans would not voluntarily hand information to the CIA, the agency is alleged to create companies and install public faces to front them.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson further suggests DARPA probably created Apple's Siri assistant.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## LifeLog
 
-DARPA's Information Processing Techniques Office ran [[lifelog|LifeLog]], a program to compile a comprehensive electronic database of every activity and relationship a person engages in, which was cancelled on 4 February 2004 after privacy criticism — the same day, the article notes, that Facebook launched.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+DARPA's Information Processing Techniques Office ran [[lifelog|LifeLog]], a program to compile a comprehensive electronic database of every activity and relationship a person engages in, which was cancelled on 4 February 2004 after privacy criticism — the same day, the article notes, that Facebook launched.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Social Media in Strategic Communication
 

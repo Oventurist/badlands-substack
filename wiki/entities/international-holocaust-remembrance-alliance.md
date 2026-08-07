@@ -10,11 +10,11 @@ confidence: medium
 
 # International Holocaust Remembrance Alliance
 
-The International Holocaust Remembrance Alliance (IHRA) is the international body that authored the working definition of antisemitism at the center of recent U.S. speech legislation.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+The International Holocaust Remembrance Alliance (IHRA) is the international body that authored the working definition of antisemitism at the center of recent U.S. speech legislation.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-The [[ihra-definition-of-antisemitism|IHRA working definition]] states that "antisemitism is a certain perception of Jews, which may be expressed as hatred toward Jews," with rhetorical and physical manifestations directed toward Jewish or non-Jewish individuals and their property, and toward Jewish community institutions and religious facilities.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+The [[ihra-definition-of-antisemitism|IHRA working definition]] states that "antisemitism is a certain perception of Jews, which may be expressed as hatred toward Jews," with rhetorical and physical manifestations directed toward Jewish or non-Jewish individuals and their property, and toward Jewish community institutions and religious facilities.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-The [[antisemitism-awareness-act|Antisemitism Awareness Act]], passed by the U.S. House in May 2024, would codify the IHRA definition into federal civil rights law for use by the [[department-of-education|Department of Education]], and the definition also underpins [[executive-order-14188|Executive Order 14188]].[[1]](https://badlands.substack.com/p/a-glaring-double-standard) Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] criticizes the definition's accompanying examples as overly broad or vaguely worded, arguing the resulting ambiguity invites politically biased enforcement and sweeps in legitimate criticism of Israel.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+The [[antisemitism-awareness-act|Antisemitism Awareness Act]], passed by the U.S. House in May 2024, would codify the IHRA definition into federal civil rights law for use by the [[department-of-education|Department of Education]], and the definition also underpins [[executive-order-14188|Executive Order 14188]].1(https://badlands.substack.com/p/a-glaring-double-standard) Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] criticizes the definition's accompanying examples as overly broad or vaguely worded, arguing the resulting ambiguity invites politically biased enforcement and sweeps in legitimate criticism of Israel.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Role in U.S. state speech measures
 

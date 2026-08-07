@@ -10,17 +10,17 @@ confidence: medium
 
 # Badlands News Brief
 
-The Badlands News Brief is the daily newsletter published on Substack by [[badlands-media|Badlands Media]].[[1]](https://badlands.substack.com/p/a-look-at-recent-features) It is distributed free of charge, with an optional paid subscription tier offered as a means of supporting what the outlet calls a "collective of citizen journalists" working to "take back the narrative," summarized in the recurring sign-off "We are the news now."[[1]](https://badlands.substack.com/p/a-look-at-recent-features)
+The Badlands News Brief is the daily newsletter published on Substack by [[badlands-media|Badlands Media]].1(https://badlands.substack.com/p/a-look-at-recent-features) It is distributed free of charge, with an optional paid subscription tier offered as a means of supporting what the outlet calls a "collective of citizen journalists" working to "take back the narrative," summarized in the recurring sign-off "We are the news now."1(https://badlands.substack.com/p/a-look-at-recent-features)
 
 ## Editorial practice
 
-Each edition closes with a standing disclaimer stating that the opinions expressed in the Badlands News Brief are those of the authors and do not necessarily reflect the attitudes or positions of Badlands Media.[[1]](https://badlands.substack.com/p/a-look-at-recent-features) Readers are routinely invited to share editions widely and to discuss them in the comments with "fellow Badlanders."[[1]](https://badlands.substack.com/p/a-look-at-recent-features)
+Each edition closes with a standing disclaimer stating that the opinions expressed in the Badlands News Brief are those of the authors and do not necessarily reflect the attitudes or positions of Badlands Media.1(https://badlands.substack.com/p/a-look-at-recent-features) Readers are routinely invited to share editions widely and to discuss them in the comments with "fellow Badlanders."1(https://badlands.substack.com/p/a-look-at-recent-features)
 
-The Brief occasionally suspends normal daily news coverage. On August 15, 2025, with the team attending [[gart|GART]], the edition was replaced by a retrospective roundup of recent feature articles from Badlands contributors, and readers were told the Brief would return the following week.[[1]](https://badlands.substack.com/p/a-look-at-recent-features)
+The Brief occasionally suspends normal daily news coverage. On August 15, 2025, with the team attending [[gart|GART]], the edition was replaced by a retrospective roundup of recent feature articles from Badlands contributors, and readers were told the Brief would return the following week.1(https://badlands.substack.com/p/a-look-at-recent-features)
 
 ## Sponsorship
 
-Editions carry sponsor placements; the August 15, 2025 issue promoted All Good, a tallow-based product line by Jessica Storm advertised as free of junk ingredients and made with organic oils and 100% premium grass-fed tallow, offered with a "Badlands" promo code.[[1]](https://badlands.substack.com/p/a-look-at-recent-features)
+Editions carry sponsor placements; the August 15, 2025 issue promoted All Good, a tallow-based product line by Jessica Storm advertised as free of junk ingredients and made with organic oils and 100% premium grass-fed tallow, offered with a "Badlands" promo code.1(https://badlands.substack.com/p/a-look-at-recent-features)
 
 ## Format and purpose
 

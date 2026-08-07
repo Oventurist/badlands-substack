@@ -10,11 +10,11 @@ confidence: medium
 
 # Janet Yellen
 
-Janet Yellen served as Chair of the [[federal-reserve|Federal Reserve]] and was inherited in that role by [[donald-trump|Donald Trump]] upon his 2016 election victory.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Janet Yellen served as Chair of the [[federal-reserve|Federal Reserve]] and was inherited in that role by [[donald-trump|Donald Trump]] upon his 2016 election victory.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Tenure under Trump
 
-Badlands Media commentary states that Trump had to keep Yellen — described by [[erik-carlson|Erik Carlson]] in derisive terms as "shroom-tripping" — for two years before she could be replaced by [[jerome-powell|Jerome Powell]] in 2018.[[1]](https://badlands.substack.com/p/a-week-to-remember) The first interest rate hike of the post-2008 era occurred following Trump's 2016 win, in Carlson's account marking the moment when easy money began to disappear and "a fake, stimulated economy was being forced to become a real economy."[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Badlands Media commentary states that Trump had to keep Yellen — described by [[erik-carlson|Erik Carlson]] in derisive terms as "shroom-tripping" — for two years before she could be replaced by [[jerome-powell|Jerome Powell]] in 2018.1(https://badlands.substack.com/p/a-week-to-remember) The first interest rate hike of the post-2008 era occurred following Trump's 2016 win, in Carlson's account marking the moment when easy money began to disappear and "a fake, stimulated economy was being forced to become a real economy."1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Warning against decoupling from China
 

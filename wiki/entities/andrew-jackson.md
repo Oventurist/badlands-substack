@@ -10,13 +10,13 @@ confidence: medium
 
 # Andrew Jackson
 
-Andrew Jackson was a President of the United States who opposed the [[second-bank-of-the-united-states|Second Bank of the United States]] and championed [[hard-money|hard money]] over the bankers' paper money.[[1]](https://badlands.substack.com/p/1913)
+Andrew Jackson was a President of the United States who opposed the [[second-bank-of-the-united-states|Second Bank of the United States]] and championed [[hard-money|hard money]] over the bankers' paper money.1(https://badlands.substack.com/p/1913)
 
-When the Second Bank was established, Jackson concluded that the bankers were overreaching and acting as a fourth branch of government run by the elite.[[1]](https://badlands.substack.com/p/1913) He believed that if the bankers succeeded in their ultimate plan they would enslave every citizen in the country, and he therefore sought to root them out.[[1]](https://badlands.substack.com/p/1913) Jackson also argued that bankers would extend their loans to prominent people rather than the common citizen and would use their financial power to enable further corruption.[[1]](https://badlands.substack.com/p/1913)
+When the Second Bank was established, Jackson concluded that the bankers were overreaching and acting as a fourth branch of government run by the elite.1(https://badlands.substack.com/p/1913) He believed that if the bankers succeeded in their ultimate plan they would enslave every citizen in the country, and he therefore sought to root them out.1(https://badlands.substack.com/p/1913) Jackson also argued that bankers would extend their loans to prominent people rather than the common citizen and would use their financial power to enable further corruption.1(https://badlands.substack.com/p/1913)
 
-Jackson was, according to the article, the only U.S. President in history to completely pay off the national debt.[[1]](https://badlands.substack.com/p/1913) The [[cabal]] nonetheless later obtained what it wanted in the form of the [[federal-reserve|Federal Reserve]], and, in the article's telling, added insult to injury by placing Jackson's portrait on the $20 bill.[[1]](https://badlands.substack.com/p/1913)
+Jackson was, according to the article, the only U.S. President in history to completely pay off the national debt.1(https://badlands.substack.com/p/1913) The [[cabal]] nonetheless later obtained what it wanted in the form of the [[federal-reserve|Federal Reserve]], and, in the article's telling, added insult to injury by placing Jackson's portrait on the $20 bill.1(https://badlands.substack.com/p/1913)
 
-Jackson was [[donald-trump|Donald Trump]]'s favorite U.S. President because he took on the cabal bankers and won, a posture Trump is said to have adopted since taking office.[[1]](https://badlands.substack.com/p/1913)
+Jackson was [[donald-trump|Donald Trump]]'s favorite U.S. President because he took on the cabal bankers and won, a posture Trump is said to have adopted since taking office.1(https://badlands.substack.com/p/1913)
 
 ## A contrasting assessment
 

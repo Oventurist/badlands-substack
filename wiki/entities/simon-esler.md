@@ -10,9 +10,9 @@ confidence: low
 
 # Simon Esler
 
-**Simon Esler** is a writer associated with [[badlands-media|Badlands Media]] who is credited as having assisted [[justin-deschamps|Justin Deschamps]] with the article "AI Can Help Us Expose the NWO," published 22 January 2024.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo) The credit appears at the foot of the piece, linking to Esler's Substack profile.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+**Simon Esler** is a writer associated with [[badlands-media|Badlands Media]] who is credited as having assisted [[justin-deschamps|Justin Deschamps]] with the article "AI Can Help Us Expose the NWO," published 22 January 2024.1(https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo) The credit appears at the foot of the piece, linking to Esler's Substack profile.1(https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
 
-The article in which he is credited documents an extended experiment in prompting ChatGPT with passages from the [[toronto-protocols|Toronto Protocols]] and asking it to render them as a layered warfare plan spanning strategic objectives, operations and tactics.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+The article in which he is credited documents an extended experiment in prompting ChatGPT with passages from the [[toronto-protocols|Toronto Protocols]] and asking it to render them as a layered warfare plan spanning strategic objectives, operations and tactics.1(https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
 
 
 ## Commentary on the 2024 Easter proclamation

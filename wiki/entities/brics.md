@@ -10,15 +10,15 @@ confidence: medium
 
 # BRICS
 
-BRICS is the grouping of major non-Western economies that Badlands Media commentary presents as the principal challenger to dollar hegemony and the [[petrodollar|petrodollar]] system.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+BRICS is the grouping of major non-Western economies that Badlands Media commentary presents as the principal challenger to dollar hegemony and the [[petrodollar|petrodollar]] system.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Gold-backed currency initiative
 
-[[erik-carlson|Erik Carlson]] notes that the fifty-year-old American statute barring payment of foreign entities in gold — enacted under [[richard-nixon|Nixon]] after France demanded gold repayment — was quietly repealed a couple of years ago, precisely when the BRICS nations began discussing the creation of their own gold-backed currency for international transactions in place of the US dollar.[[1]](https://badlands.substack.com/p/a-week-to-remember) He calls the timing ironic and invites readers to consider whether it is coincidental that these are the same countries whose leaders [[donald-trump|Donald Trump]] met with in 2017.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+[[erik-carlson|Erik Carlson]] notes that the fifty-year-old American statute barring payment of foreign entities in gold — enacted under [[richard-nixon|Nixon]] after France demanded gold repayment — was quietly repealed a couple of years ago, precisely when the BRICS nations began discussing the creation of their own gold-backed currency for international transactions in place of the US dollar.1(https://badlands.substack.com/p/a-week-to-remember) He calls the timing ironic and invites readers to consider whether it is coincidental that these are the same countries whose leaders [[donald-trump|Donald Trump]] met with in 2017.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Rejection of the dollar system
 
-Carlson argues it is unsurprising that BRICS states no longer wish to participate, describing the US government as "like a crack dealer who smokes half his supply and charges double for the crack he sells to make up the difference."[[1]](https://badlands.substack.com/p/a-week-to-remember) Under the petrodollar arrangement the whole world, not merely Americans, paid for money created by the [[federal-reserve|Federal Reserve]] through [[inflation|inflation]] — and that money was often used to terrorize and control the same foreign nations funding it.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Carlson argues it is unsurprising that BRICS states no longer wish to participate, describing the US government as "like a crack dealer who smokes half his supply and charges double for the crack he sells to make up the difference."1(https://badlands.substack.com/p/a-week-to-remember) Under the petrodollar arrangement the whole world, not merely Americans, paid for money created by the [[federal-reserve|Federal Reserve]] through [[inflation|inflation]] — and that money was often used to terrorize and control the same foreign nations funding it.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Parallel financial system and digital currency
 

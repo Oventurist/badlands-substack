@@ -10,9 +10,9 @@ confidence: low
 
 # Sheri Redstone
 
-Sheri Redstone is the executive who runs [[paramount-global|Paramount Global]], the parent company of [[cbs|CBS]], [[showtime|Showtime]] and Paramount+.[[1]](https://badlands.substack.com/p/a-new-hollywood) According to "A New Hollywood," she is a [[donald-trump|Trump]] ally who took over the company from her father [[sumner-redstone|Sumner Redstone]] in 2016.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Sheri Redstone is the executive who runs [[paramount-global|Paramount Global]], the parent company of [[cbs|CBS]], [[showtime|Showtime]] and Paramount+.1(https://badlands.substack.com/p/a-new-hollywood) According to "A New Hollywood," she is a [[donald-trump|Trump]] ally who took over the company from her father [[sumner-redstone|Sumner Redstone]] in 2016.1(https://badlands.substack.com/p/a-new-hollywood)
 
-[[erik-carlson|Erik Carlson]] places her at the center of his argument that [[hollywood|Hollywood]] has already been infiltrated by Trump's allies, noting that Paramount+ programming under her tenure — including [[lioness|Lioness]], *Landman* and Showtime's *The Agency* — cuts against prevailing woke conditioning.[[1]](https://badlands.substack.com/p/a-new-hollywood) Her company is also in the process of merging with [[skydance-media|Skydance Media]], run by [[david-ellison|David Ellison]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+[[erik-carlson|Erik Carlson]] places her at the center of his argument that [[hollywood|Hollywood]] has already been infiltrated by Trump's allies, noting that Paramount+ programming under her tenure — including [[lioness|Lioness]], *Landman* and Showtime's *The Agency* — cuts against prevailing woke conditioning.1(https://badlands.substack.com/p/a-new-hollywood) Her company is also in the process of merging with [[skydance-media|Skydance Media]], run by [[david-ellison|David Ellison]].1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## December 2023 Warner Bros. Discovery talks
 

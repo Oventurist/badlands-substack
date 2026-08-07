@@ -10,9 +10,9 @@ confidence: low
 
 # Bilderberg
 
-**Bilderberg** is one of the "prestigious deep political think tanks" Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cites when establishing the establishment credentials of figures involved in the [[joint-comprehensive-plan-of-action|Iran Deal]].[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+**Bilderberg** is one of the "prestigious deep political think tanks" Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cites when establishing the establishment credentials of figures involved in the [[joint-comprehensive-plan-of-action|Iran Deal]].1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
-[[tom-donilon|Tom Donilon]], former National Security Advisor and chairman of the BlackRock Investment Institute, is described as a regular fixture at Bilderberg, where he sat on the steering committee, as well as at the [[council-on-foreign-relations|Council on Foreign Relations]], the [[trilateral-commission|Trilateral Commission]] and the [[world-economic-forum|World Economic Forum]].[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) Such venues are, in DeLarme's framing, where the heads of industry, finance, military, intelligence and politics convene to form the foreign policy consensus.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+[[tom-donilon|Tom Donilon]], former National Security Advisor and chairman of the BlackRock Investment Institute, is described as a regular fixture at Bilderberg, where he sat on the steering committee, as well as at the [[council-on-foreign-relations|Council on Foreign Relations]], the [[trilateral-commission|Trilateral Commission]] and the [[world-economic-forum|World Economic Forum]].1(https://badlands.substack.com/p/and-iran-iran-so-far-away) Such venues are, in DeLarme's framing, where the heads of industry, finance, military, intelligence and politics convene to form the foreign policy consensus.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## The 69th Bilderberg Meeting (2023)
 

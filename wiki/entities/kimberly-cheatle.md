@@ -10,13 +10,13 @@ confidence: medium
 
 # Kimberly Cheatle
 
-Kimberly Cheatle was the Director of the [[united-states-secret-service|United States Secret Service]] at the time of the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]] in Butler, Pennsylvania on July 13, 2024.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Kimberly Cheatle was the Director of the [[united-states-secret-service|United States Secret Service]] at the time of the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]] in Butler, Pennsylvania on July 13, 2024.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Congressional testimony and resignation
 
-Roughly nine days after the attempt — and one day after [[joe-biden|Joe Biden]] withdrew from the presidential race — Cheatle sat before the [[house-committee-on-oversight-and-accountability|Committee on Oversight and Accountability]] to answer for the security failure.[[1]](https://badlands.substack.com/p/a-week-to-remember) During that appearance she mentioned the recent death of Representative [[sheila-jackson-lee|Sheila Jackson Lee]] and observed that Jackson Lee had been engaged in oversight of the Secret Service.[[1]](https://badlands.substack.com/p/a-week-to-remember) The following day Cheatle stepped down from her position atop the agency.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Roughly nine days after the attempt — and one day after [[joe-biden|Joe Biden]] withdrew from the presidential race — Cheatle sat before the [[house-committee-on-oversight-and-accountability|Committee on Oversight and Accountability]] to answer for the security failure.1(https://badlands.substack.com/p/a-week-to-remember) During that appearance she mentioned the recent death of Representative [[sheila-jackson-lee|Sheila Jackson Lee]] and observed that Jackson Lee had been engaged in oversight of the Secret Service.1(https://badlands.substack.com/p/a-week-to-remember) The following day Cheatle stepped down from her position atop the agency.1(https://badlands.substack.com/p/a-week-to-remember)
 
-Badlands Media commentary treats the tight clustering of the assassination attempt, Jackson Lee's death, Biden's withdrawal, Cheatle's testimony and her resignation as a single chain of events worth interrogating rather than a coincidence.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Badlands Media commentary treats the tight clustering of the assassination attempt, Jackson Lee's death, Biden's withdrawal, Cheatle's testimony and her resignation as a single chain of events worth interrogating rather than a coincidence.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## "Sloped roof" explanation (July 2024)
 

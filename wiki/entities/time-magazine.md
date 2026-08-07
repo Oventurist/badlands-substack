@@ -10,11 +10,11 @@ confidence: medium
 
 # Time Magazine
 
-Time Magazine is a long-running American news magazine listed by Badlands Media among the widely recognized outlets that suffered significant workforce reductions during the media contraction of early 2024.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Time Magazine is a long-running American news magazine listed by Badlands Media among the widely recognized outlets that suffered significant workforce reductions during the media contraction of early 2024.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-In January 2024 the magazine laid off roughly 15% of its unionized editorial staff, becoming one of a series of outlets to slash its workforce within a matter of weeks.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) [[taylor-lorenz|Taylor Lorenz]] cited the cuts in her "State of the Media" video, noting that "Time Magazine also just laid off a ton of people" alongside the shuttering of [[buzzfeed|BuzzFeed News]] and the effective shutdown of [[sports-illustrated|Sports Illustrated]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+In January 2024 the magazine laid off roughly 15% of its unionized editorial staff, becoming one of a series of outlets to slash its workforce within a matter of weeks.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) [[taylor-lorenz|Taylor Lorenz]] cited the cuts in her "State of the Media" video, noting that "Time Magazine also just laid off a ton of people" alongside the shuttering of [[buzzfeed|BuzzFeed News]] and the effective shutdown of [[sports-illustrated|Sports Illustrated]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-Badlands groups Time with the [[los-angeles-times|Los Angeles Times]], NBC News, National Geographic and Business Insider as organizations whose decline demonstrates that the death of the [[centralized-media|centralized media]] "is no longer a question of if they/it will die, but when."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Badlands groups Time with the [[los-angeles-times|Los Angeles Times]], NBC News, National Geographic and Business Insider as organizations whose decline demonstrates that the death of the [[centralized-media|centralized media]] "is no longer a question of if they/it will die, but when."1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## The February 2021 "fortification" article
 

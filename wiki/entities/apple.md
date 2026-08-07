@@ -10,17 +10,17 @@ confidence: medium
 
 # Apple
 
-**Apple** is an American technology company and, as of 2025, the largest American company by market capitalization.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+**Apple** is an American technology company and, as of 2025, the largest American company by market capitalization.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Market position
 
-Apple ranked first among the top five U.S. companies by market cap in 2025 and 2020, and second in 2010 behind Exxon.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) In 2025 Apple was roughly ten times larger than the twentieth-largest company, Home Depot — a spread cited as evidence of extreme concentration in the [[sp-500-index|S&P 500 Index]], where the top five firms hold about a third of the index weighting.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Apple ranked first among the top five U.S. companies by market cap in 2025 and 2020, and second in 2010 behind Exxon.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) In 2025 Apple was roughly ten times larger than the twentieth-largest company, Home Depot — a spread cited as evidence of extreme concentration in the [[sp-500-index|S&P 500 Index]], where the top five firms hold about a third of the index weighting.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Allegations in Badlands coverage
 
-In *America Has a CIA-Run Economy*, [[erik-carlson|Erik Carlson]] groups Apple with the other mega-cap technology firms he argues share "the same master, the [[cia|CIA]]," describing them as critical instruments of propaganda and global control.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) He suggests [[darpa|DARPA]] probably created Siri, and states that iPhones listen to everything said around them and track everywhere the user goes.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+In *America Has a CIA-Run Economy*, [[erik-carlson|Erik Carlson]] groups Apple with the other mega-cap technology firms he argues share "the same master, the [[cia|CIA]]," describing them as critical instruments of propaganda and global control.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) He suggests [[darpa|DARPA]] probably created Siri, and states that iPhones listen to everything said around them and track everywhere the user goes.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
-Apple was among the companies — alongside Google, [[microsoft|Microsoft]], [[meta-platforms|Meta]], [[amazon|Amazon]] and [[openai|OpenAI]] — that donated a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund, which Carlson characterizes as big tech "kissing the ring."[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) He also argues it is hard to imagine an America without Apple, framing the company as a necessary component of the U.S. economy going forward.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Apple was among the companies — alongside Google, [[microsoft|Microsoft]], [[meta-platforms|Meta]], [[amazon|Amazon]] and [[openai|OpenAI]] — that donated a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund, which Carlson characterizes as big tech "kissing the ring."1(https://badlands.substack.com/p/america-has-a-cia-run-economy) He also argues it is hard to imagine an America without Apple, framing the company as a necessary component of the U.S. economy going forward.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Involvement in the 2023 Google antitrust trial
 

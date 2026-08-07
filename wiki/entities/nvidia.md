@@ -10,15 +10,15 @@ confidence: medium
 
 # Nvidia
 
-**Nvidia** is an American semiconductor company central to artificial intelligence computing and, as of 2025, the second-largest American company by market capitalization.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+**Nvidia** is an American semiconductor company central to artificial intelligence computing and, as of 2025, the second-largest American company by market capitalization.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Position in the 2025 landscape
 
-Nvidia's entry into the top five reflects the shift in the [[sp-500-index|S&P 500 Index]] toward AI-focused big tech, replacing the pre-AI cohort of 2020.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Nvidia's entry into the top five reflects the shift in the [[sp-500-index|S&P 500 Index]] toward AI-focused big tech, replacing the pre-AI cohort of 2020.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Absence from the inaugural donor list
 
-*America Has a CIA-Run Economy* notes that, at the time of writing, Nvidia was the one major AI company absent from the list of firms donating a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund, prompting [[erik-carlson|Erik Carlson]] to ask whether Nvidia is not part of Trump's future plans.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+*America Has a CIA-Run Economy* notes that, at the time of writing, Nvidia was the one major AI company absent from the list of firms donating a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund, prompting [[erik-carlson|Erik Carlson]] to ask whether Nvidia is not part of Trump's future plans.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Targeted for displacement by China
 

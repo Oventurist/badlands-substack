@@ -10,11 +10,11 @@ confidence: medium
 
 # MSNBC
 
-MSNBC is an American cable news network presented by Badlands Media as the archetype of partisan mainstream punditry aimed at establishment Democratic audiences.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+MSNBC is an American cable news network presented by Badlands Media as the archetype of partisan mainstream punditry aimed at establishment Democratic audiences.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-Like [[cnn|CNN]], MSNBC was hemorrhaging viewers before the rise of [[donald-trump|Donald Trump]], and both networks were revived temporarily as previously disinterested liberals became "maniacally obsessed" with politics during his presidency.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) Badlands describes this as a sugar high that would inevitably wane.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Like [[cnn|CNN]], MSNBC was hemorrhaging viewers before the rise of [[donald-trump|Donald Trump]], and both networks were revived temporarily as previously disinterested liberals became "maniacally obsessed" with politics during his presidency.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) Badlands describes this as a sugar high that would inevitably wane.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-The article singles out the programs of Joy Reid and Jen Psaki as examples of content it characterizes as substance-free affirmations of liberal cult-of-personality talking points, inviting readers to "try to sit through five minutes" of either.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) The emphasis of such programming, Badlands argues, is on highlighting differences and asserting why "our team" is better than "their team" — the same criticism it levels at most Fox News hosts.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The article singles out the programs of Joy Reid and Jen Psaki as examples of content it characterizes as substance-free affirmations of liberal cult-of-personality talking points, inviting readers to "try to sit through five minutes" of either.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) The emphasis of such programming, Badlands argues, is on highlighting differences and asserting why "our team" is better than "their team" — the same criticism it levels at most Fox News hosts.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Coverage of Trump's Colorado disqualification
 

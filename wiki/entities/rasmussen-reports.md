@@ -10,11 +10,11 @@ confidence: medium
 
 # Rasmussen Reports
 
-**Rasmussen Reports** is an American polling organization whose survey data on public attitudes toward the press is cited in alternative-media commentary.[[1]](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
+**Rasmussen Reports** is an American polling organization whose survey data on public attitudes toward the press is cited in alternative-media commentary.1(https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
 
 ## Cited polling on media trust
 
-An October 2023 [[badlands-media|Badlands Media]] essay cites Rasmussen for the finding that 58% of Americans believe the media is deliberately misleading them — reported by the pollster under the headline that 58% of voters agree the media are the "enemy of the people."[[1]](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine) The essay's author, [[american-hypnotist|American Hypnotist]], argues that this number is reasonably expected to climb sharply in the following months, while cautioning that many of those same respondents likely believe *their own* preferred outlets could not be deceiving them, because tribal loyalty keeps audiences tethered to old programming.[[1]](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine) The figure is used as evidence that the [[mockingbird-media|Mockingbird media]] edifice is cracking.[[1]](https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
+An October 2023 [[badlands-media|Badlands Media]] essay cites Rasmussen for the finding that 58% of Americans believe the media is deliberately misleading them — reported by the pollster under the headline that 58% of voters agree the media are the "enemy of the people."1(https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine) The essay's author, [[american-hypnotist|American Hypnotist]], argues that this number is reasonably expected to climb sharply in the following months, while cautioning that many of those same respondents likely believe *their own* preferred outlets could not be deceiving them, because tribal loyalty keeps audiences tethered to old programming.1(https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine) The figure is used as evidence that the [[mockingbird-media|Mockingbird media]] edifice is cracking.1(https://badlands.substack.com/p/a-hypnotists-take-on-israel-palestine)
 
 ## Election-integrity polling (2026)
 

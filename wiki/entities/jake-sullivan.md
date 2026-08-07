@@ -10,15 +10,15 @@ confidence: medium
 
 # Jake Sullivan
 
-**Jake Sullivan** is identified by Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] as one of the principal architects of the [[joint-comprehensive-plan-of-action|Iran Nuclear Deal]] at the policy level, and as a recurring character in the geopolitical drama the [[deep-state|deep state]] series has been tracking.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+**Jake Sullivan** is identified by Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] as one of the principal architects of the [[joint-comprehensive-plan-of-action|Iran Nuclear Deal]] at the policy level, and as a recurring character in the geopolitical drama the [[deep-state|deep state]] series has been tracking.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Affiliations
 
-Sullivan is associated with the so-called 7th Floor group at the [[state-department|State Department]], the [[carnegie-endowment-for-international-peace|Carnegie Endowment for International Peace]], the [[trilateral-commission|Trilateral Commission]], and the Rhodes Scholarship.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) DeLarme groups him with [[william-burns|William Burns]] as one of "two certified swamp creatures in high places."[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+Sullivan is associated with the so-called 7th Floor group at the [[state-department|State Department]], the [[carnegie-endowment-for-international-peace|Carnegie Endowment for International Peace]], the [[trilateral-commission|Trilateral Commission]], and the Rhodes Scholarship.1(https://badlands.substack.com/p/and-iran-iran-so-far-away) DeLarme groups him with [[william-burns|William Burns]] as one of "two certified swamp creatures in high places."1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Career
 
-Sullivan was the top cabinet official for [[joe-biden|Joe Biden]] and had earlier been a substantial behind-the-scenes part of [[hillary-clinton|Hillary Clinton]]'s campaign.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) At the time of the Iran Deal negotiations, [[tom-donilon|Tom Donilon]] was technically Sullivan's boss.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) Sullivan's role in the deal places him among the officials of the foreign policy establishment who, in DeLarme's account, fought to keep the United States from withdrawing from the agreement.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+Sullivan was the top cabinet official for [[joe-biden|Joe Biden]] and had earlier been a substantial behind-the-scenes part of [[hillary-clinton|Hillary Clinton]]'s campaign.1(https://badlands.substack.com/p/and-iran-iran-so-far-away) At the time of the Iran Deal negotiations, [[tom-donilon|Tom Donilon]] was technically Sullivan's boss.1(https://badlands.substack.com/p/and-iran-iran-so-far-away) Sullivan's role in the deal places him among the officials of the foreign policy establishment who, in DeLarme's account, fought to keep the United States from withdrawing from the agreement.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Badlands framing of the Seditious Six link
 

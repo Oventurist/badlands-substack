@@ -10,11 +10,11 @@ confidence: medium
 
 # Leon Panetta
 
-Leon Panetta was Secretary of Defense at the time of the September 11, 2012 [[benghazi-attack|Benghazi attack]].[[1]](https://badlands.substack.com/p/a-dereliction-of-duty)
+Leon Panetta was Secretary of Defense at the time of the September 11, 2012 [[benghazi-attack|Benghazi attack]].1(https://badlands.substack.com/p/a-dereliction-of-duty)
 
-Panetta was among the officials — with President [[barack-obama|Barack Obama]], the Chairman of the Joint Chiefs of Staff and the National Security Advisor — who convened at the [[white-house|White House]] by 5 p.m. on the night of the attack, a meeting at which Obama directed that all available resources be used to save lives.[[1]](https://badlands.substack.com/p/a-dereliction-of-duty) Panetta testified that by 6 p.m. he had identified "three distinct capabilities" to deploy to Benghazi, and that by 7 p.m. he "issued the order to deploy the identified assets."[[1]](https://badlands.substack.com/p/a-dereliction-of-duty)
+Panetta was among the officials — with President [[barack-obama|Barack Obama]], the Chairman of the Joint Chiefs of Staff and the National Security Advisor — who convened at the [[white-house|White House]] by 5 p.m. on the night of the attack, a meeting at which Obama directed that all available resources be used to save lives.1(https://badlands.substack.com/p/a-dereliction-of-duty) Panetta testified that by 6 p.m. he had identified "three distinct capabilities" to deploy to Benghazi, and that by 7 p.m. he "issued the order to deploy the identified assets."1(https://badlands.substack.com/p/a-dereliction-of-duty)
 
-No assets arrived. The article notes that Panetta and Obama were both absent from the 7:30 p.m. deputies meeting led by [[hillary-clinton|Hillary Clinton]], and characterizes the pattern of issuing an order and then disappearing as a "cover your ass" political play designed to deflect blame.[[1]](https://badlands.substack.com/p/a-dereliction-of-duty) The gap between Panetta's stated order and the [[pentagon|Pentagon]]'s non-deployment is central to the article's charge of a [[dereliction-of-duty|dereliction of duty]].[[1]](https://badlands.substack.com/p/a-dereliction-of-duty)
+No assets arrived. The article notes that Panetta and Obama were both absent from the 7:30 p.m. deputies meeting led by [[hillary-clinton|Hillary Clinton]], and characterizes the pattern of issuing an order and then disappearing as a "cover your ass" political play designed to deflect blame.1(https://badlands.substack.com/p/a-dereliction-of-duty) The gap between Panetta's stated order and the [[pentagon|Pentagon]]'s non-deployment is central to the article's charge of a [[dereliction-of-duty|dereliction of duty]].1(https://badlands.substack.com/p/a-dereliction-of-duty)
 
 ## Hunter Biden laptop letter
 

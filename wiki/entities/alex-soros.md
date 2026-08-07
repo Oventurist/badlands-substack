@@ -10,11 +10,11 @@ confidence: medium
 
 # Alex Soros
 
-Alex Soros is the son of [[george-soros|George Soros]] and his successor in the family's philanthropic and political operations. Badlands Media commentary treats his 2024 engagement announcement as a signal about internal Cabal politics.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Alex Soros is the son of [[george-soros|George Soros]] and his successor in the family's philanthropic and political operations. Badlands Media commentary treats his 2024 engagement announcement as a signal about internal Cabal politics.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Engagement to Huma Abedin
 
-[[erik-carlson|Erik Carlson]] notes the announced engagement of Alex Soros and [[huma-abedin|Huma Abedin]], comparing it to the way "royal families marry into other royal families to keep peace and consolidate power."[[1]](https://badlands.substack.com/p/a-week-to-remember) He asks whether the engagement was announced to calm the mayhem among the [[cabal|Cabal]] families, or whether the mayhem itself resulted from an ongoing power grab.[[1]](https://badlands.substack.com/p/a-week-to-remember) The question is raised in the context of visible [[deep-state|Deep State]] disarray during July 2024, in which some figures stood by [[joe-biden|Joe Biden]] while others abandoned him.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+[[erik-carlson|Erik Carlson]] notes the announced engagement of Alex Soros and [[huma-abedin|Huma Abedin]], comparing it to the way "royal families marry into other royal families to keep peace and consolidate power."1(https://badlands.substack.com/p/a-week-to-remember) He asks whether the engagement was announced to calm the mayhem among the [[cabal|Cabal]] families, or whether the mayhem itself resulted from an ongoing power grab.1(https://badlands.substack.com/p/a-week-to-remember) The question is raised in the context of visible [[deep-state|Deep State]] disarray during July 2024, in which some figures stood by [[joe-biden|Joe Biden]] while others abandoned him.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Capital Research Center allegations (September 2025)
 

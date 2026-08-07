@@ -20,9 +20,9 @@ Rubin, known in financial circles as "Howie" or "H," worked for years at the inv
 
 Rubin, 70, was arrested at his home in Fairfield, Connecticut, on a Friday morning in late September 2025. Prosecutors allege that between 2009 and 2019 he lured "dozens" of women — including former Playboy models — to a Midtown Manhattan penthouse that had been converted into a BDSM "sex dungeon," where he restrained, beat and electrocuted them.[1]
 
-Prosecutors said Rubin appeared to revel in the encounters in text messages with his personal assistant, [[jennifer-powers|Jennifer Powers]], who also faces sex-trafficking charges tied to the alleged scheme.[1]
+Prosecutors said Rubin appeared to revel in the encounters in text messages with his personal assistant, Jennifer Powers, who also faces sex-trafficking charges tied to the alleged scheme.[1]
 
-Brooklyn U.S. Attorney [[joseph-nocella|Joseph Nocella]] said in a statement that "the defendants used Rubin's wealth to mislead and recruit women to engage in commercial sex acts, where Rubin then tortured women beyond their consent, causing lasting physical and/or psychological pain, in some cases physical injuries."[1]
+Brooklyn U.S. Attorney Joseph Nocella said in a statement that "the defendants used Rubin's wealth to mislead and recruit women to engage in commercial sex acts, where Rubin then tortured women beyond their consent, causing lasting physical and/or psychological pain, in some cases physical injuries."[1]
 
 ## Commentary
 

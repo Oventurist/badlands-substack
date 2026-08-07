@@ -10,15 +10,15 @@ confidence: medium
 
 # Mark Zuckerberg
 
-**Mark Zuckerberg** is the founder and chief executive of [[meta-platforms|Meta]], formerly Facebook.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+**Mark Zuckerberg** is the founder and chief executive of [[meta-platforms|Meta]], formerly Facebook.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Badlands framing
 
-In *America Has a CIA-Run Economy*, [[erik-carlson|Erik Carlson]] treats Zuckerberg as one of the installed public faces of a company he argues was seeded by [[cia|CIA]] shell-company funding and grew out of the cancelled [[darpa|DARPA]] program [[lifelog|LifeLog]].[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+In *America Has a CIA-Run Economy*, [[erik-carlson|Erik Carlson]] treats Zuckerberg as one of the installed public faces of a company he argues was seeded by [[cia|CIA]] shell-company funding and grew out of the cancelled [[darpa|DARPA]] program [[lifelog|LifeLog]].1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Trump-era conduct
 
-Zuckerberg has agreed to open his platforms to more free speech and has terminated DEI programs.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson counts him among the big tech CEOs who have endorsed [[donald-trump|Donald Trump]] or at least stopped working against him, and among those apologizing for past behavior described as corrupt and arguably treasonous.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson does not believe Zuckerberg and [[jeff-bezos|Jeff Bezos]] will escape their alleged crimes entirely unscathed, but accepts seeing them seated with [[elon-musk|Elon Musk]] at the inauguration.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Zuckerberg has agreed to open his platforms to more free speech and has terminated DEI programs.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson counts him among the big tech CEOs who have endorsed [[donald-trump|Donald Trump]] or at least stopped working against him, and among those apologizing for past behavior described as corrupt and arguably treasonous.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson does not believe Zuckerberg and [[jeff-bezos|Jeff Bezos]] will escape their alleged crimes entirely unscathed, but accepts seeing them seated with [[elon-musk|Elon Musk]] at the inauguration.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## PCAST appointment (March 2026)
 

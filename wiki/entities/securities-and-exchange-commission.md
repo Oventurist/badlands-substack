@@ -10,13 +10,13 @@ confidence: low
 
 # Securities and Exchange Commission
 
-The Securities and Exchange Commission (SEC) is the federal securities regulator, cited by [[erik-carlson|Erik Carlson]] as evidence that [[donald-trump|Donald Trump]] is a target rather than a beneficiary of entrenched power.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+The Securities and Exchange Commission (SEC) is the federal securities regulator, cited by [[erik-carlson|Erik Carlson]] as evidence that [[donald-trump|Donald Trump]] is a target rather than a beneficiary of entrenched power.1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
 ## Role in the article
 
-Carlson asks why the SEC took what he calls "the unprecedented step" of holding up the merger between DWAC and [[trump-media-and-technology-group|Trump Media]], keeping Trump from growing his media business and from injecting money into [[truth-social|Truth Social]].[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+Carlson asks why the SEC took what he calls "the unprecedented step" of holding up the merger between DWAC and [[trump-media-and-technology-group|Trump Media]], keeping Trump from growing his media business and from injecting money into [[truth-social|Truth Social]].1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
-The action is listed alongside the decline in Trump's net worth after becoming president and the mainstream media's uniform demonization of him, as part of an argument that if Trump were corrupt and part of the [[deep-state|Deep State]], he does not appear to benefit from that membership in any way whatsoever.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+The action is listed alongside the decline in Trump's net worth after becoming president and the mainstream media's uniform demonization of him, as part of an argument that if Trump were corrupt and part of the [[deep-state|Deep State]], he does not appear to benefit from that membership in any way whatsoever.1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
 ## Proposed corporate governance rules (2025)
 

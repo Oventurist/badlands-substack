@@ -10,11 +10,11 @@ confidence: low
 
 # Dave Rubin
 
-Dave Rubin is an American commentator identified by Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] as one of the self-proclaimed free-speech champions who emerged on the right in the years preceding October 7, 2023, "spouting all kinds of platitudes about the First Amendment."[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+Dave Rubin is an American commentator identified by Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] as one of the self-proclaimed free-speech champions who emerged on the right in the years preceding October 7, 2023, "spouting all kinds of platitudes about the First Amendment."1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-Rubin is grouped with [[bari-weiss|Bari Weiss]] and outlets such as [[daily-wire|The Daily Wire]] and the Babylon Bee, all of which billed themselves as opposed to [[cancel-culture|cancel culture]], advocated freedom of thought, and rallied against the policing of public discourse — especially when conservatives were fired from their jobs for expressing their beliefs.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+Rubin is grouped with [[bari-weiss|Bari Weiss]] and outlets such as [[daily-wire|The Daily Wire]] and the Babylon Bee, all of which billed themselves as opposed to [[cancel-culture|cancel culture]], advocated freedom of thought, and rallied against the policing of public discourse — especially when conservatives were fired from their jobs for expressing their beliefs.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-In the essay's conclusion DeLarme names Rubin alongside [[ben-shapiro|Ben Shapiro]] and Weiss as conservative figures who once decried [[safe-spaces|safe spaces]] and cancel culture but now cheer or tacitly support the silencing of Israel critics, which he presents as evidence that their commitment to free speech was always conditional and tethered to tribal loyalties rather than principle.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+In the essay's conclusion DeLarme names Rubin alongside [[ben-shapiro|Ben Shapiro]] and Weiss as conservative figures who once decried [[safe-spaces|safe spaces]] and cancel culture but now cheer or tacitly support the silencing of Israel critics, which he presents as evidence that their commitment to free speech was always conditional and tethered to tribal loyalties rather than principle.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Tenet Media indictment (2024)
 

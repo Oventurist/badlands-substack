@@ -10,13 +10,13 @@ confidence: low
 
 # Truth Social
 
-Truth Social is the social media platform operated by [[trump-media-and-technology-group|Trump Media]], mentioned in [[erik-carlson|Erik Carlson]]'s *A Virus, or a Metaphor?* as the specific asset starved of capital by regulatory action.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+Truth Social is the social media platform operated by [[trump-media-and-technology-group|Trump Media]], mentioned in [[erik-carlson|Erik Carlson]]'s *A Virus, or a Metaphor?* as the specific asset starved of capital by regulatory action.1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
 ## In the article
 
-Carlson notes that the [[securities-and-exchange-commission|SEC]]'s hold on the DWAC–Trump Media merger kept [[donald-trump|Donald Trump]] from growing his media business, including injecting money into Truth Social.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor) The point serves his broader argument that Trump is being obstructed by the system rather than served by it.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+Carlson notes that the [[securities-and-exchange-commission|SEC]]'s hold on the DWAC–Trump Media merger kept [[donald-trump|Donald Trump]] from growing his media business, including injecting money into Truth Social.1(https://badlands.substack.com/p/a-virus-or-a-metaphor) The point serves his broader argument that Trump is being obstructed by the system rather than served by it.1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
-Carlson also refers to Trump's "past posts" as material worth revisiting with the substitution of "Communism" for "virus," treating the platform's archive as a corpus for decoding [[trump-comms|Trump comms]].[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+Carlson also refers to Trump's "past posts" as material worth revisiting with the substitution of "Communism" for "virus," treating the platform's archive as a corpus for decoding [[trump-comms|Trump comms]].1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
 ## April 2026 Lebanon post
 

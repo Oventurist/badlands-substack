@@ -10,15 +10,15 @@ confidence: medium
 
 # Media Industrial Complex
 
-The **Media Industrial Complex** is the term Badlands Media writers use for the integrated apparatus of legacy outlets, platform gatekeepers and allied commentary that they hold responsible for manufacturing and enforcing narrative consensus.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+The **Media Industrial Complex** is the term Badlands Media writers use for the integrated apparatus of legacy outlets, platform gatekeepers and allied commentary that they hold responsible for manufacturing and enforcing narrative consensus.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## Role in the 2022 post-midterm period
 
-The complex is described as having spent the better part of eight years tearing at [[donald-trump|Donald Trump]] and as having branded his supporters and audiences election-denying extremists.[[1]](https://badlands.substack.com/p/all-assets-deployed) This branding was offered as one reason Trump could not plausibly have used his Mar-a-Lago announcement to conduct an on-stage audit of the 2022 midterms or to announce the arrest of the sitting president.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+The complex is described as having spent the better part of eight years tearing at [[donald-trump|Donald Trump]] and as having branded his supporters and audiences election-denying extremists.1(https://badlands.substack.com/p/all-assets-deployed) This branding was offered as one reason Trump could not plausibly have used his Mar-a-Lago announcement to conduct an on-stage audit of the 2022 midterms or to announce the arrest of the sitting president.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## Divisive rhetoric
 
-Badlands framed the choice facing the movement after the announcement as one between embracing the challenge before its chosen leaders or following those who advance the same divisive, defeating and directed rhetoric the Media Industrial Complex "has been vomiting all along."[[1]](https://badlands.substack.com/p/all-assets-deployed) Readers were counselled to pay attention to those who scream the loudest while simultaneously guarding their minds against them.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+Badlands framed the choice facing the movement after the announcement as one between embracing the challenge before its chosen leaders or following those who advance the same divisive, defeating and directed rhetoric the Media Industrial Complex "has been vomiting all along."1(https://badlands.substack.com/p/all-assets-deployed) Readers were counselled to pay attention to those who scream the loudest while simultaneously guarding their minds against them.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## Guessing the game (2026)
 

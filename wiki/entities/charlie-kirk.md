@@ -10,9 +10,9 @@ confidence: low
 
 # Charlie Kirk
 
-Charlie Kirk is a prominent American conservative personality known for campus speaking engagements. In "A Glaring Double Standard," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cites Kirk alongside [[ben-shapiro|Ben Shapiro]] as an example of a conservative speaker who was met on college campuses with "howls of execration" and demands that universities cancel his events so the campus could serve as a [[safe-spaces|safe space]] for anyone who disagreed with the speaker's opinions.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+Charlie Kirk is a prominent American conservative personality known for campus speaking engagements. In "A Glaring Double Standard," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] cites Kirk alongside [[ben-shapiro|Ben Shapiro]] as an example of a conservative speaker who was met on college campuses with "howls of execration" and demands that universities cancel his events so the campus could serve as a [[safe-spaces|safe space]] for anyone who disagreed with the speaker's opinions.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-Kirk had several speaking engagements canceled during the same period in which Shapiro had at least five major engagements canceled between 2017 and 2019.[[1]](https://badlands.substack.com/p/a-glaring-double-standard) These cancellations form part of DeLarme's account of how conservative grievance over campus censorship was later inverted, with segments of the right adopting the same restrictions they had once opposed.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+Kirk had several speaking engagements canceled during the same period in which Shapiro had at least five major engagements canceled between 2017 and 2019.1(https://badlands.substack.com/p/a-glaring-double-standard) These cancellations form part of DeLarme's account of how conservative grievance over campus censorship was later inverted, with segments of the right adopting the same restrictions they had once opposed.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Ballistics analysis in the assassination case (2026)
 

@@ -10,11 +10,11 @@ confidence: low
 
 # John F. Kennedy
 
-John F. Kennedy was a United States president cited in Badlands Media commentary as one of the figures who attempted to revive the noble original purposes of the postwar institutions.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+John F. Kennedy was a United States president cited in Badlands Media commentary as one of the figures who attempted to revive the noble original purposes of the postwar institutions.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Role in the argument
 
-The article states that although the [[bretton-woods-system|Bretton Woods institutions]] such as the IMF and World Bank — and the US government itself — were hijacked by deep state operatives representing the worst oligarchical inclinations of humanity in the post-World War II years, the truth of the noble origins of these institutions should not be ignored, and that Kennedy attempted to revive them.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) [[donald-trump|Donald Trump]] is credited with a lesser but, in the author's view, relevant attempt at the same.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) The institutional design Kennedy sought to restore is traced to [[franklin-d-roosevelt|Franklin Roosevelt]] and the [[four-freedoms|Four Freedoms]].[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+The article states that although the [[bretton-woods-system|Bretton Woods institutions]] such as the IMF and World Bank — and the US government itself — were hijacked by deep state operatives representing the worst oligarchical inclinations of humanity in the post-World War II years, the truth of the noble origins of these institutions should not be ignored, and that Kennedy attempted to revive them.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) [[donald-trump|Donald Trump]] is credited with a lesser but, in the author's view, relevant attempt at the same.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) The institutional design Kennedy sought to restore is traced to [[franklin-d-roosevelt|Franklin Roosevelt]] and the [[four-freedoms|Four Freedoms]].1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## The War of the Letters (1963)
 

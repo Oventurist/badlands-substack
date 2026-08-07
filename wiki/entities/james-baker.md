@@ -10,9 +10,9 @@ confidence: medium
 
 # James Baker
 
-James Baker was a very close and loyal friend of [[george-hw-bush|George H.W. Bush]] and served in his administration.[[1]](https://badlands.substack.com/p/a-family-affair) His family founded [[texas-commerce-bank|Texas Commerce Bank]] in Houston, which the Badlands Media account describes as an optimal cover for CIA activities.[[1]](https://badlands.substack.com/p/a-family-affair)
+James Baker was a very close and loyal friend of [[george-hw-bush|George H.W. Bush]] and served in his administration.1(https://badlands.substack.com/p/a-family-affair) His family founded [[texas-commerce-bank|Texas Commerce Bank]] in Houston, which the Badlands Media account describes as an optimal cover for CIA activities.1(https://badlands.substack.com/p/a-family-affair)
 
-When Bush, as outgoing Director of Central Intelligence, wanted his son [[jeb-bush|Jeb Bush]] placed as a CIA non-official cover officer, all he had to do was call Baker to have Jeb hired into the bank's international division — the usual branch where NOCs were placed within banks and investment firms.[[1]](https://badlands.substack.com/p/a-family-affair)
+When Bush, as outgoing Director of Central Intelligence, wanted his son [[jeb-bush|Jeb Bush]] placed as a CIA non-official cover officer, all he had to do was call Baker to have Jeb hired into the bank's international division — the usual branch where NOCs were placed within banks and investment firms.1(https://badlands.substack.com/p/a-family-affair)
 
 ## Testimony on the 2016 leak authorization
 

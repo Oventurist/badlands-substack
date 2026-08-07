@@ -10,19 +10,19 @@ confidence: medium
 
 # The Washington Post
 
-The Washington Post is a major American daily newspaper, grouped by Badlands Media with [[new-york-times|The New York Times]] and [[the-atlantic|The Atlantic]] as "mainstream, historically spook-friendly outlets" that hire writers predisposed to support official narratives.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The Washington Post is a major American daily newspaper, grouped by Badlands Media with [[new-york-times|The New York Times]] and [[the-atlantic|The Atlantic]] as "mainstream, historically spook-friendly outlets" that hire writers predisposed to support official narratives.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Billionaire ownership and layoffs
 
-The Post is one of the billionaire-owned national outlets that nonetheless carried out layoffs during the 2023–2024 media contraction. [[taylor-lorenz|Taylor Lorenz]], who was employed there at the time of her February 2024 video, noted that "even mainstream national media outlets owned by billionaires like The Washington Post, where I work, and The Atlantic, where I used to work, have done layoffs."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) She added that young journalists now face almost no onramp into traditional journalism, and that salaries have been stagnant or declining from an already low base.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The Post is one of the billionaire-owned national outlets that nonetheless carried out layoffs during the 2023–2024 media contraction. [[taylor-lorenz|Taylor Lorenz]], who was employed there at the time of her February 2024 video, noted that "even mainstream national media outlets owned by billionaires like The Washington Post, where I work, and The Atlantic, where I used to work, have done layoffs."1(https://badlands.substack.com/p/a-swan-song-for-the-msm) She added that young journalists now face almost no onramp into traditional journalism, and that salaries have been stagnant or declining from an already low base.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Role in the Badlands critique
 
-The paper is cited as part of the [[centralized-media|centralized media]] apparatus that Badlands argues functions as the propaganda arm of the state, working in tandem with the [[us-security-state|United States intelligence apparatus]] and the [[military-industrial-complex|military-industrial complex]] rather than checking them.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The paper is cited as part of the [[centralized-media|centralized media]] apparatus that Badlands argues functions as the propaganda arm of the state, working in tandem with the [[us-security-state|United States intelligence apparatus]] and the [[military-industrial-complex|military-industrial complex]] rather than checking them.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## CIA ownership claim and the Bezos purchase
 
-"America Has a CIA-Run Economy" describes *The Washington Post* outright as a CIA-run newspaper, and notes that [[jeff-bezos|Jeff Bezos]] bought it for $250 million in August 2013 — months after [[amazon-web-services|Amazon Web Services]] was awarded a $600 million contract with the [[cia|CIA]] in early 2013.[[2]](https://badlands.substack.com/p/america-has-a-cia-run-economy) The article also reports that Bezos has since said the paper should be less biased and more trustworthy, and that he is committed to cleaning up bias and misinformation there.[[2]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+"America Has a CIA-Run Economy" describes *The Washington Post* outright as a CIA-run newspaper, and notes that [[jeff-bezos|Jeff Bezos]] bought it for $250 million in August 2013 — months after [[amazon-web-services|Amazon Web Services]] was awarded a $600 million contract with the [[cia|CIA]] in early 2013.2(https://badlands.substack.com/p/america-has-a-cia-run-economy) The article also reports that Bezos has since said the paper should be less biased and more trustworthy, and that he is committed to cleaning up bias and misinformation there.2(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 
 ## Coverage of the fall of Assad

@@ -24,7 +24,7 @@ The plaintiffs argue that federalizing the guard violates the Tenth Amendment of
 
 ## Administration response
 
-White House spokesperson [[abigail-jackson|Abigail Jackson]] said Trump's actions were "lawful" and would "make Portland safer," stating that the president was "using his lawful authority to direct the National Guard to protect federal assets and personnel in Portland following months of violent riots where officers have been assaulted and doxxed by left-wing rioters."[1]
+White House spokesperson Abigail Jackson said Trump's actions were "lawful" and would "make Portland safer," stating that the president was "using his lawful authority to direct the National Guard to protect federal assets and personnel in Portland following months of violent riots where officers have been assaulted and doxxed by left-wing rioters."[1]
 
 ## Related litigation
 

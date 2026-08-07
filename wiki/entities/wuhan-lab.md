@@ -10,13 +10,13 @@ confidence: low
 
 # Wuhan Lab
 
-The Wuhan lab is the Chinese laboratory from which, in [[erik-carlson|Erik Carlson]]'s account, a bioweapon was released — though he denies it is where that bioweapon was created.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+The Wuhan lab is the Chinese laboratory from which, in [[erik-carlson|Erik Carlson]]'s account, a bioweapon was released — though he denies it is where that bioweapon was created.1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
 ## Claims in the article
 
-Carlson states that he does believe some sort of bioweapon was released from a lab in Wuhan, China, but that he does not think this is where it originated.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor) He holds that it originated in a lab in North Carolina and was moved to Wuhan to maintain secrecy and control, with [[barack-obama|Barack Obama]] and [[anthony-fauci|Anthony Fauci]] alleged to have funded and run the program and to have relocated it overseas when [[donald-trump|Donald Trump]] took office.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+Carlson states that he does believe some sort of bioweapon was released from a lab in Wuhan, China, but that he does not think this is where it originated.1(https://badlands.substack.com/p/a-virus-or-a-metaphor) He holds that it originated in a lab in North Carolina and was moved to Wuhan to maintain secrecy and control, with [[barack-obama|Barack Obama]] and [[anthony-fauci|Anthony Fauci]] alleged to have funded and run the program and to have relocated it overseas when [[donald-trump|Donald Trump]] took office.1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
-[[donald-trump|Trump]] was called racist for insinuating that the virus came from a lab in China, and for referring to it as the "Chyna virus."[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor) Carlson takes it as safe to say Trump also knows where the Covid bioweapon actually originated, which is why he reads the "Chyna" formulation as a double meaning about Communism rather than a literal geographic claim.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor) Similar biolabs, in his account, existed in [[ukraine|Ukraine]] and possibly Taiwan.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+[[donald-trump|Trump]] was called racist for insinuating that the virus came from a lab in China, and for referring to it as the "Chyna virus."1(https://badlands.substack.com/p/a-virus-or-a-metaphor) Carlson takes it as safe to say Trump also knows where the Covid bioweapon actually originated, which is why he reads the "Chyna" formulation as a double meaning about Communism rather than a literal geographic claim.1(https://badlands.substack.com/p/a-virus-or-a-metaphor) Similar biolabs, in his account, existed in [[ukraine|Ukraine]] and possibly Taiwan.1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
 ## Classified State Department documents (2024)
 

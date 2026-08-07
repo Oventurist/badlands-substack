@@ -10,19 +10,19 @@ confidence: medium
 
 # Microsoft
 
-**Microsoft** is an American technology company co-founded by [[bill-gates|Bill Gates]] and one of the five largest U.S. companies by market capitalization in 2025.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+**Microsoft** is an American technology company co-founded by [[bill-gates|Bill Gates]] and one of the five largest U.S. companies by market capitalization in 2025.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Market position
 
-Microsoft appeared in the top five American companies by market cap in 2000-era rankings' successors — specifically 2010, 2020 and 2025 — as documented in *America Has a CIA-Run Economy*.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) It is grouped among the AI-focused big tech firms that dominate the [[sp-500-index|S&P 500 Index]].[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Microsoft appeared in the top five American companies by market cap in 2000-era rankings' successors — specifically 2010, 2020 and 2025 — as documented in *America Has a CIA-Run Economy*.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) It is grouped among the AI-focused big tech firms that dominate the [[sp-500-index|S&P 500 Index]].1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Allegations
 
-[[erik-carlson|Erik Carlson]] includes Microsoft among the mega-caps he argues serve the [[cia|CIA]] as instruments of influence and propaganda, and repeats the rumor that Gates's mother hired IBM engineers to produce the early Microsoft software rather than Gates writing it himself.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+[[erik-carlson|Erik Carlson]] includes Microsoft among the mega-caps he argues serve the [[cia|CIA]] as instruments of influence and propaganda, and repeats the rumor that Gates's mother hired IBM engineers to produce the early Microsoft software rather than Gates writing it himself.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Trump-era realignment
 
-Microsoft was among the companies donating a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) Gates is described as planning to fund nuclear power plants to supply electricity for Microsoft's artificial intelligence operations.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Microsoft was among the companies donating a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) Gates is described as planning to fund nuclear power plants to supply electricity for Microsoft's artificial intelligence operations.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## 2026 Justice Department referral
 

@@ -10,13 +10,13 @@ confidence: medium
 
 # Boeing
 
-Boeing is the American aerospace manufacturer whose share-price collapse and steady stream of negative coverage are used in Badlands Media commentary as evidence of a westward-to-eastward shift in [[deep-state|Deep State]] power.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Boeing is the American aerospace manufacturer whose share-price collapse and steady stream of negative coverage are used in Badlands Media commentary as evidence of a westward-to-eastward shift in [[deep-state|Deep State]] power.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Stock collapse and the Airbus contrast
 
-[[erik-carlson|Erik Carlson]] notes that Boeing stock stood at $323 on the day [[joe-biden|Joe Biden]] took office and fell to $95 a share within eight weeks.[[1]](https://badlands.substack.com/p/a-week-to-remember) He then asks whether readers have heard any bad news about [[airbus|Airbus]] over the same period, and where Airbus is located — answering: France.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+[[erik-carlson|Erik Carlson]] notes that Boeing stock stood at $323 on the day [[joe-biden|Joe Biden]] took office and fell to $95 a share within eight weeks.1(https://badlands.substack.com/p/a-week-to-remember) He then asks whether readers have heard any bad news about [[airbus|Airbus]] over the same period, and where Airbus is located — answering: France.1(https://badlands.substack.com/p/a-week-to-remember)
 
-The contrast supports Carlson's broader forecast that the Deep State in America will continue to shift toward Europe, outside [[donald-trump|Donald Trump]]'s control, with Cabal families in England, France and Germany contending for a larger share of power.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+The contrast supports Carlson's broader forecast that the Deep State in America will continue to shift toward Europe, outside [[donald-trump|Donald Trump]]'s control, with Cabal families in England, France and Germany contending for a larger share of power.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Safety crisis and the Barnett whistleblower death (2024)
 

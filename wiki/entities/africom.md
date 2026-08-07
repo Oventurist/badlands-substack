@@ -10,11 +10,11 @@ confidence: medium
 
 # United States Africa Command
 
-United States Africa Command (AFRICOM) is the combatant command with responsibility for Libya, and figures in the article's Benghazi timeline.[[1]](https://badlands.substack.com/p/a-dereliction-of-duty)
+United States Africa Command (AFRICOM) is the combatant command with responsibility for Libya, and figures in the article's Benghazi timeline.1(https://badlands.substack.com/p/a-dereliction-of-duty)
 
-According to the [[house-select-committee-on-benghazi|House Select Committee]] report as relayed by The Hill, AFRICOM learned of the attack just thirty minutes after it began, citing the 2014 Leidig transcript.[[1]](https://badlands.substack.com/p/a-dereliction-of-duty) The article observes that this left ample time to respond, given that the assault lasted more than seven hours, yet no help came.[[1]](https://badlands.substack.com/p/a-dereliction-of-duty)
+According to the [[house-select-committee-on-benghazi|House Select Committee]] report as relayed by The Hill, AFRICOM learned of the attack just thirty minutes after it began, citing the 2014 Leidig transcript.1(https://badlands.substack.com/p/a-dereliction-of-duty) The article observes that this left ample time to respond, given that the assault lasted more than seven hours, yet no help came.1(https://badlands.substack.com/p/a-dereliction-of-duty)
 
-It further states that the African Command already knew about the attack and was preparing to respond, and that the [[pentagon|Pentagon]] was "spinning up" assets to deploy — but that the order to launch was never given.[[1]](https://badlands.substack.com/p/a-dereliction-of-duty) AFRICOM's readiness is used alongside the Aviano Air Base squadron's account to argue that the failure at Benghazi was a matter of withheld orders rather than distance or capability.[[1]](https://badlands.substack.com/p/a-dereliction-of-duty)
+It further states that the African Command already knew about the attack and was preparing to respond, and that the [[pentagon|Pentagon]] was "spinning up" assets to deploy — but that the order to launch was never given.1(https://badlands.substack.com/p/a-dereliction-of-duty) AFRICOM's readiness is used alongside the Aviano Air Base squadron's account to argue that the failure at Benghazi was a matter of withheld orders rather than distance or capability.1(https://badlands.substack.com/p/a-dereliction-of-duty)
 
 ## Metele strike (May 2026)
 

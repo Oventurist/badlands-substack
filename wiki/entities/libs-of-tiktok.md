@@ -10,9 +10,9 @@ confidence: medium
 
 # Libs of TikTok
 
-Libs of TikTok is a popular social media account, run by [[chaya-raichik|Chaya Raichik]], that reposts content from progressive users. It features in Badlands Media's coverage chiefly through the controversy over its exposure by [[taylor-lorenz|Taylor Lorenz]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Libs of TikTok is a popular social media account, run by [[chaya-raichik|Chaya Raichik]], that reposts content from progressive users. It features in Badlands Media's coverage chiefly through the controversy over its exposure by [[taylor-lorenz|Taylor Lorenz]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-Lorenz gained a substantially greater degree of notoriety with the American right after she doxed the account, publishing identifying information about the person behind it.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) Badlands notes that she "then had the audacity to go on a media tour complaining about online harassment in its wake," offering the episode as evidence of the inability of journalists of her type to reflect on whether they deserve the hostility they invite.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Lorenz gained a substantially greater degree of notoriety with the American right after she doxed the account, publishing identifying information about the person behind it.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) Badlands notes that she "then had the audacity to go on a media tour complaining about online harassment in its wake," offering the episode as evidence of the inability of journalists of her type to reflect on whether they deserve the hostility they invite.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Laken Riley headline episode
 

@@ -10,17 +10,17 @@ confidence: medium
 
 # House Judiciary Committee
 
-The House Judiciary Committee is the standing committee of the U.S. House of Representatives with jurisdiction over the federal courts and the [[department-of-justice|Department of Justice]]. Under Chairman [[bob-goodlatte|Bob Goodlatte]] it conducted the investigation that Badlands Media credits with exposing the Obama-era DOJ settlement slush fund.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+The House Judiciary Committee is the standing committee of the U.S. House of Representatives with jurisdiction over the federal courts and the [[department-of-justice|Department of Justice]]. Under Chairman [[bob-goodlatte|Bob Goodlatte]] it conducted the investigation that Badlands Media credits with exposing the Obama-era DOJ settlement slush fund.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
 ## The slush fund investigation
 
-An extended committee investigation found that the DOJ had engaged in a pattern or practice of systematically subverting Congress's budget authority by using settlements from financial institutions to funnel money to what Goodlatte described as "left-wing activist groups."[[1]](https://badlands.substack.com/p/america-for-sale-part-2) Internal DOJ documents obtained by the committee confirmed the existence of the fund and showed that officials "went out of their way" to exclude conservative groups.[[1]](https://badlands.substack.com/p/america-for-sale-part-2) The committee calculated that approximately $1 billion had been directed to outside organizations over a two-year period, and in January it formally requested that the DOJ preserve all documents and emails related to the settlement money.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+An extended committee investigation found that the DOJ had engaged in a pattern or practice of systematically subverting Congress's budget authority by using settlements from financial institutions to funnel money to what Goodlatte described as "left-wing activist groups."1(https://badlands.substack.com/p/america-for-sale-part-2) Internal DOJ documents obtained by the committee confirmed the existence of the fund and showed that officials "went out of their way" to exclude conservative groups.1(https://badlands.substack.com/p/america-for-sale-part-2) The committee calculated that approximately $1 billion had been directed to outside organizations over a two-year period, and in January it formally requested that the DOJ preserve all documents and emails related to the settlement money.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
-Goodlatte released what he called "smoking gun" emails on the House floor in October 2017, ahead of a vote on legislation prohibiting government officials from entering into settlement agreements that provide payments to third parties rather than to the United States.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+Goodlatte released what he called "smoking gun" emails on the House floor in October 2017, ahead of a vote on legislation prohibiting government officials from entering into settlement agreements that provide payments to third parties rather than to the United States.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
 ## Broader role
 
-The committee's work, alongside that of [[trey-gowdy|Trey Gowdy]], is described as generating evidence later transferred to [[chuck-grassley|Chuck Grassley]] and the [[senate-judiciary-committee|Senate Judiciary Committee]], and as one of the triggers for Attorney General [[jeff-sessions|Jeff Sessions]]'s appointment of [[john-huber|John Huber]].[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+The committee's work, alongside that of [[trey-gowdy|Trey Gowdy]], is described as generating evidence later transferred to [[chuck-grassley|Chuck Grassley]] and the [[senate-judiciary-committee|Senate Judiciary Committee]], and as one of the triggers for Attorney General [[jeff-sessions|Jeff Sessions]]'s appointment of [[john-huber|John Huber]].1(https://badlands.substack.com/p/america-for-sale-part-2)
 
 ## Hur recordings (2026)
 

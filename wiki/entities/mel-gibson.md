@@ -10,9 +10,9 @@ confidence: low
 
 # Mel Gibson
 
-Mel Gibson is the actor and director appointed by [[donald-trump|Donald Trump]], together with [[jon-voight|Jon Voight]] and [[sylvester-stallone|Sylvester Stallone]], as an ambassador to [[hollywood|Hollywood]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Mel Gibson is the actor and director appointed by [[donald-trump|Donald Trump]], together with [[jon-voight|Jon Voight]] and [[sylvester-stallone|Sylvester Stallone]], as an ambassador to [[hollywood|Hollywood]].1(https://badlands.substack.com/p/a-new-hollywood)
 
-[[erik-carlson|Erik Carlson]] reads the trio of appointments as evidence that Trump regards Hollywood as salvageable rather than irredeemable, and as an institution that could again be used to inspire and shape audiences while entertaining them.[[1]](https://badlands.substack.com/p/a-new-hollywood) Gibson's *Road Warrior* is among the films Carlson lists as formative to his own Generation X moviegoing.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+[[erik-carlson|Erik Carlson]] reads the trio of appointments as evidence that Trump regards Hollywood as salvageable rather than irredeemable, and as an institution that could again be used to inspire and shape audiences while entertaining them.1(https://badlands.substack.com/p/a-new-hollywood) Gibson's *Road Warrior* is among the films Carlson lists as formative to his own Generation X moviegoing.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## The Passion of the Christ and the Hollywood backlash
 

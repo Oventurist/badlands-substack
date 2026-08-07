@@ -10,13 +10,13 @@ confidence: medium
 
 # House Committee on Oversight and Accountability
 
-The Committee on Oversight and Accountability is the principal investigative committee of the United States House of Representatives. Badlands Media commentary references its role in examining the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]] of July 13, 2024.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+The Committee on Oversight and Accountability is the principal investigative committee of the United States House of Representatives. Badlands Media commentary references its role in examining the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]] of July 13, 2024.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## The Cheatle hearing
 
-Approximately nine days after the Butler rally shooting, Secret Service Director [[kimberly-cheatle|Kimberly Cheatle]] sat before the committee.[[1]](https://badlands.substack.com/p/a-week-to-remember) In her testimony she mentioned the recent death of Representative [[sheila-jackson-lee|Sheila Jackson Lee]] and stated that Jackson Lee had been engaged in oversight of the [[united-states-secret-service|Secret Service]].[[1]](https://badlands.substack.com/p/a-week-to-remember) Cheatle stepped down from her post the following day.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Approximately nine days after the Butler rally shooting, Secret Service Director [[kimberly-cheatle|Kimberly Cheatle]] sat before the committee.1(https://badlands.substack.com/p/a-week-to-remember) In her testimony she mentioned the recent death of Representative [[sheila-jackson-lee|Sheila Jackson Lee]] and stated that Jackson Lee had been engaged in oversight of the [[united-states-secret-service|Secret Service]].1(https://badlands.substack.com/p/a-week-to-remember) Cheatle stepped down from her post the following day.1(https://badlands.substack.com/p/a-week-to-remember)
 
-The hearing occurred one day after [[joe-biden|Joe Biden]] withdrew from the presidential race, placing it at the center of what [[erik-carlson|Erik Carlson]] describes as a compressed and extraordinary political sequence.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+The hearing occurred one day after [[joe-biden|Joe Biden]] withdrew from the presidential race, placing it at the center of what [[erik-carlson|Erik Carlson]] describes as a compressed and extraordinary political sequence.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Epstein investigation and the Clinton depositions (2026)
 

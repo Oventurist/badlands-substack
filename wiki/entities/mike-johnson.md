@@ -10,9 +10,9 @@ confidence: low
 
 # Mike Johnson
 
-Mike Johnson is the Speaker of the United States House of Representatives. In "A Glaring Double Standard," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] notes that Johnson facilitated the House press conference at which [[eyal-yakoby|Eyal Yakoby]] spoke, held before the presidents of the [[university-of-pennsylvania|University of Pennsylvania]], Harvard, and MIT testified before [[congress|Congress]] on campus antisemitism.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+Mike Johnson is the Speaker of the United States House of Representatives. In "A Glaring Double Standard," Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] notes that Johnson facilitated the House press conference at which [[eyal-yakoby|Eyal Yakoby]] spoke, held before the presidents of the [[university-of-pennsylvania|University of Pennsylvania]], Harvard, and MIT testified before [[congress|Congress]] on campus antisemitism.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-Yakoby praised Johnson for showing "moral clarity" on the issue of antisemitism.[[1]](https://badlands.substack.com/p/a-glaring-double-standard) Johnson's role is presented as part of the institutional apparatus through which post–October 7 campus speech grievances were channeled into congressional action, a trajectory DeLarme links to the [[antisemitism-awareness-act|Antisemitism Awareness Act]] and broader [[government-sponsored-censorship|government-sponsored censorship]] efforts.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+Yakoby praised Johnson for showing "moral clarity" on the issue of antisemitism.1(https://badlands.substack.com/p/a-glaring-double-standard) Johnson's role is presented as part of the institutional apparatus through which post–October 7 campus speech grievances were channeled into congressional action, a trajectory DeLarme links to the [[antisemitism-awareness-act|Antisemitism Awareness Act]] and broader [[government-sponsored-censorship|government-sponsored censorship]] efforts.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Support for Howard Lutnick (2026)
 

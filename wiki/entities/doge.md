@@ -10,13 +10,13 @@ confidence: medium
 
 # DOGE (Department of Government Efficiency)
 
-DOGE appears in Erik Carlson's essay through an extended analogy to the film *Office Space*.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+DOGE appears in Erik Carlson's essay through an extended analogy to the film *Office Space*.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## The analogy
 
-Carlson invites readers to think of DOGE as the two "Bobs" brought into a company to improve efficiency: they interview employees, asking each what it is they actually do, and discover that many within the organization literally do nothing or are redundant — resulting in mass layoffs and a company living in fear.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths) He asks whether this sounds familiar.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+Carlson invites readers to think of DOGE as the two "Bobs" brought into a company to improve efficiency: they interview employees, asking each what it is they actually do, and discover that many within the organization literally do nothing or are redundant — resulting in mass layoffs and a company living in fear.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths) He asks whether this sounds familiar.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
-The comparison sits alongside his framing of Israel, Iran and China as the *Office Space* manager who circulates with a coffee mug asking staff to work Saturdays — the recognizable face who is not making the decisions.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths) Behind the scenes, Carlson argues, the real work is being done by President [[donald-trump|Donald Trump]] against the [[city-of-london|City of London]], while those in charge of the [[deep-state-cabal|Cabal]] are flushed out.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+The comparison sits alongside his framing of Israel, Iran and China as the *Office Space* manager who circulates with a coffee mug asking staff to work Saturdays — the recognizable face who is not making the decisions.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths) Behind the scenes, Carlson argues, the real work is being done by President [[donald-trump|Donald Trump]] against the [[city-of-london|City of London]], while those in charge of the [[deep-state-cabal|Cabal]] are flushed out.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## Legacy and the accountability phase
 

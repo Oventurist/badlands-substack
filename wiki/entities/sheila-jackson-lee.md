@@ -10,15 +10,15 @@ confidence: medium
 
 # Sheila Jackson Lee
 
-Sheila Jackson Lee was a Democratic member of the United States House of Representatives whose death in July 2024 falls inside the timeline Badlands Media commentary constructs around the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]].[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Sheila Jackson Lee was a Democratic member of the United States House of Representatives whose death in July 2024 falls inside the timeline Badlands Media commentary constructs around the [[attempted-assassination-of-donald-trump-2024|attempted assassination of Donald Trump]].1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Position in the July 2024 timeline
 
-[[erik-carlson|Erik Carlson]] lays out the sequence: the assassination attempt on Trump occurred July 13; six days later Jackson Lee died; two days after that [[joe-biden|Joe Biden]] withdrew from the campaign.[[1]](https://badlands.substack.com/p/a-week-to-remember) The following day, Secret Service Director [[kimberly-cheatle|Kimberly Cheatle]] appeared before the [[house-committee-on-oversight-and-accountability|Committee on Oversight and Accountability]], where she referred to Jackson Lee's passing and noted that Jackson Lee had been engaged in oversight of the [[united-states-secret-service|Secret Service]].[[1]](https://badlands.substack.com/p/a-week-to-remember)
+[[erik-carlson|Erik Carlson]] lays out the sequence: the assassination attempt on Trump occurred July 13; six days later Jackson Lee died; two days after that [[joe-biden|Joe Biden]] withdrew from the campaign.1(https://badlands.substack.com/p/a-week-to-remember) The following day, Secret Service Director [[kimberly-cheatle|Kimberly Cheatle]] appeared before the [[house-committee-on-oversight-and-accountability|Committee on Oversight and Accountability]], where she referred to Jackson Lee's passing and noted that Jackson Lee had been engaged in oversight of the [[united-states-secret-service|Secret Service]].1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Questions raised
 
-Carlson closes his article by posing, without asserting answers, four questions to readers: whether Jackson Lee was involved in planning the assassination attempt; if so, whether she died because of the attempt or because it failed; whether Biden stepped down fearing he would be next; and whether Jackson Lee would be buried wearing what he calls her "infamous pedophile ring."[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Carlson closes his article by posing, without asserting answers, four questions to readers: whether Jackson Lee was involved in planning the assassination attempt; if so, whether she died because of the attempt or because it failed; whether Biden stepped down fearing he would be next; and whether Jackson Lee would be buried wearing what he calls her "infamous pedophile ring."1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Death
 

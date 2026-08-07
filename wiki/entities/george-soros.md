@@ -10,9 +10,9 @@ confidence: low
 
 # George Soros
 
-George Soros is a financier counted by [[chrystia-freeland|Chrystia Freeland]] among her "close friends" in the West, alongside Larry Summers and Al Gore, and among the figures she was happy to bring into Canada during the re-organization of the [[liberal-party-of-canada|Liberal Party of Canada]] between 2011 and 2014 under the [[canada-2020|Canada 2020]] banner.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+George Soros is a financier counted by [[chrystia-freeland|Chrystia Freeland]] among her "close friends" in the West, alongside Larry Summers and Al Gore, and among the figures she was happy to bring into Canada during the re-organization of the [[liberal-party-of-canada|Liberal Party of Canada]] between 2011 and 2014 under the [[canada-2020|Canada 2020]] banner.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 
-In Freeland's taxonomy of the new plutocracy, Soros belongs with Bill Gates and Warren Buffett to the category of technocratically friendly plutocrats who are, in [[matthew-ehret|Matthew Ehret]]'s characterization, ideologically compatible with a New World Order of depopulation — as distinct from the "bad" plutocrats such as [[donald-trump|Donald Trump]] who do not conform to the British Empire's program of global governance under the green agenda.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+In Freeland's taxonomy of the new plutocracy, Soros belongs with Bill Gates and Warren Buffett to the category of technocratically friendly plutocrats who are, in [[matthew-ehret|Matthew Ehret]]'s characterization, ideologically compatible with a New World Order of depopulation — as distinct from the "bad" plutocrats such as [[donald-trump|Donald Trump]] who do not conform to the British Empire's program of global governance under the green agenda.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 
 ## Polish media acquisition (2023)
 

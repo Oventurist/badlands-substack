@@ -10,13 +10,13 @@ confidence: medium
 
 # CBS
 
-CBS is the American broadcast television network owned by [[paramount-global|Paramount Global]].[[1]](https://badlands.substack.com/p/a-new-hollywood) In "A New Hollywood," CBS features primarily as the defendant in [[donald-trump|Donald Trump]]'s $10 billion lawsuit over the editing of a [[60-minutes|60 Minutes]] interview with [[kamala-harris|Kamala Harris]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+CBS is the American broadcast television network owned by [[paramount-global|Paramount Global]].1(https://badlands.substack.com/p/a-new-hollywood) In "A New Hollywood," CBS features primarily as the defendant in [[donald-trump|Donald Trump]]'s $10 billion lawsuit over the editing of a [[60-minutes|60 Minutes]] interview with [[kamala-harris|Kamala Harris]].1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## The 60 Minutes lawsuit
 
-During the presidential campaign, 60 Minutes interviewed Harris, and it was quickly discovered that the interview had been edited to make her look better, with as much unintelligible word-salad removed as possible.[[1]](https://badlands.substack.com/p/a-new-hollywood) Trump viewed this as election tampering and sued CBS for $10 billion.[[1]](https://badlands.substack.com/p/a-new-hollywood) Trump critics and CBS leadership initially laughed the suit off as frivolous, but CBS has more recently discussed settling out of court.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+During the presidential campaign, 60 Minutes interviewed Harris, and it was quickly discovered that the interview had been edited to make her look better, with as much unintelligible word-salad removed as possible.1(https://badlands.substack.com/p/a-new-hollywood) Trump viewed this as election tampering and sued CBS for $10 billion.1(https://badlands.substack.com/p/a-new-hollywood) Trump critics and CBS leadership initially laughed the suit off as frivolous, but CBS has more recently discussed settling out of court.1(https://badlands.substack.com/p/a-new-hollywood)
 
-[[erik-carlson|Erik Carlson]] argues the shift is explained by ownership: Paramount Global, which owns CBS, is worth roughly $8 billion — less than the sum sought — and is in the middle of a merger with [[skydance-media|Skydance Media]] that it does not want disrupted.[[1]](https://badlands.substack.com/p/a-new-hollywood) He raises the question of what would cause a plaintiff to settle for less than the claim, suggesting control over the company as an answer.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+[[erik-carlson|Erik Carlson]] argues the shift is explained by ownership: Paramount Global, which owns CBS, is worth roughly $8 billion — less than the sum sought — and is in the middle of a merger with [[skydance-media|Skydance Media]] that it does not want disrupted.1(https://badlands.substack.com/p/a-new-hollywood) He raises the question of what would cause a plaintiff to settle for less than the claim, suggesting control over the company as an answer.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Colbert equal-time dispute (February 2026)
 

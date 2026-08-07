@@ -10,11 +10,11 @@ confidence: low
 
 # MI6
 
-MI6, the British foreign intelligence service, is placed by Erik Carlson at the top of the intelligence hierarchy in *A Journey of Ever-changing Truths*.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+MI6, the British foreign intelligence service, is placed by Erik Carlson at the top of the intelligence hierarchy in *A Journey of Ever-changing Truths*.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## Role in the article
 
-Carlson writes that above the [[cia|CIA]] and [[mossad|Mossad]] is the British MI6, just as above Tel Aviv and Washington, DC, is the [[city-of-london|City of London]].[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths) The claim forms part of his argument that people who blame Jews or Israel for the world's ills have missed a layer: the criminals running the United States and Israel are real, but function as middle management taking orders from their puppet masters.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+Carlson writes that above the [[cia|CIA]] and [[mossad|Mossad]] is the British MI6, just as above Tel Aviv and Washington, DC, is the [[city-of-london|City of London]].1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths) The claim forms part of his argument that people who blame Jews or Israel for the world's ills have missed a layer: the criminals running the United States and Israel are real, but function as middle management taking orders from their puppet masters.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## Chinese "super embassy" in London
 

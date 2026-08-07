@@ -10,21 +10,21 @@ confidence: low
 
 # Starbucks
 
-**Starbucks** is an American coffeehouse chain used in *America Has a CIA-Run Economy* as a case study in the deliberate reduction of human interaction.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+**Starbucks** is an American coffeehouse chain used in *America Has a CIA-Run Economy* as a case study in the deliberate reduction of human interaction.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Drive-throughs and pre-ordering
 
-[[erik-carlson|Erik Carlson]] observed that in the years before the Covid lockdowns, Starbucks locations without drive-throughs were being replaced by locations with them, and that nearly all newly built stores included a drive-through — asking how the company foresaw what was coming. A parallel push toward ordering ahead further minimized in-store interaction.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+[[erik-carlson|Erik Carlson]] observed that in the years before the Covid lockdowns, Starbucks locations without drive-throughs were being replaced by locations with them, and that nearly all newly built stores included a drive-through — asking how the company foresaw what was coming. A parallel push toward ordering ahead further minimized in-store interaction.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Removal of seating
 
-In the five years after the lockdowns, Carlson reports that many Starbucks locations permanently removed much of their seating, as if to discourage people gathering in community. In many smaller towns Starbucks functions as the town center where people meet for coffee and conversation; that role is being replaced by customers who never leave their cars or who order ahead and walk in and out without human contact.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+In the five years after the lockdowns, Carlson reports that many Starbucks locations permanently removed much of their seating, as if to discourage people gathering in community. In many smaller towns Starbucks functions as the town center where people meet for coffee and conversation; that role is being replaced by customers who never leave their cars or who order ahead and walk in and out without human contact.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
-Carlson situates this within a broader argument that the technology push of the past twenty years is designed to minimize daily human interaction — reducing connection, empathy and ultimately procreation — with the end state being residents who rarely leave their apartments in 15-minute cities.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Carlson situates this within a broader argument that the technology push of the past twenty years is designed to minimize daily human interaction — reducing connection, empathy and ultimately procreation — with the end state being residents who rarely leave their apartments in 15-minute cities.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Labor unrest, 2023
 
-Starbucks was one of the companies swept up in the 2023 American strike wave, with roughly 3,000 of its workers taking part in job actions that year according to Badlands Media's summary of Axios reporting on rising "worker activism."[[2]](https://badlands.substack.com/p/a-time-to-strike) The Starbucks walkouts were listed alongside 84 Amazon workers, 1,400 electrical workers and 75,000 Kaiser Permanente employees as part of the same cross-industry push to reshape the employer–employee relationship.[[2]](https://badlands.substack.com/p/a-time-to-strike)
+Starbucks was one of the companies swept up in the 2023 American strike wave, with roughly 3,000 of its workers taking part in job actions that year according to Badlands Media's summary of Axios reporting on rising "worker activism."2(https://badlands.substack.com/p/a-time-to-strike) The Starbucks walkouts were listed alongside 84 Amazon workers, 1,400 electrical workers and 75,000 Kaiser Permanente employees as part of the same cross-industry push to reshape the employer–employee relationship.2(https://badlands.substack.com/p/a-time-to-strike)
 
 ## 2024 earnings collapse
 

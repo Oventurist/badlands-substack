@@ -8,7 +8,7 @@ sources: [raw/behold-a-trojan-horse.md]
 confidence: medium
 ---
 
-Peter Daszak is a scientist and head of the [[ecohealth-alliance|EcoHealth Alliance]], an organization that funneled research funding from the U.S. [[niaid|National Institute of Allergy and Infectious Diseases (NIAID)]] to the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] for coronavirus research.[1] A May 2023 Badlands Media article cited him in the context of its argument that the proposed [[who-pandemic-treaty|pandemic treaty]] and [[international-health-regulations|IHR]] amendments ignore the danger of U.S.-funded labs creating bioweapons.[1]
+Peter Daszak is a scientist and head of the [[ecohealth-alliance|EcoHealth Alliance]], an organization that funneled research funding from the U.S. [[niaid|National Institute of Allergy and Infectious Diseases (NIAID)]] to the [[wuhan-institute-of-virology|Wuhan Institute of Virology]] for coronavirus research.[1] A May 2023 Badlands Media article cited him in the context of its argument that the proposed pandemic treaty and [[international-health-regulations|IHR]] amendments ignore the danger of U.S.-funded labs creating bioweapons.[1]
 
 The article quoted a 2015 statement by Daszak in which he argued for stoking public demand for medical countermeasures such as a pan-coronavirus vaccine, saying "the media and the economics will follow the hype" and "Investors will respond if they see profit at the end of the process."[1] Daszak was also cited as having publicly boasted about manipulating a killer SARS-like virus in Wuhan and as having claimed to have been "working with" the U.S. Central Intelligence Agency.[1]
 

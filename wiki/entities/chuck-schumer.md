@@ -10,9 +10,9 @@ confidence: medium
 
 # Chuck Schumer
 
-**Chuck Schumer**, then Senate Majority Leader, appears in Badlands Media contributor [[ryan-delarme|Ryan DeLarme]]'s account as one of the American officials involved in efforts to remove Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]].[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+**Chuck Schumer**, then Senate Majority Leader, appears in Badlands Media contributor [[ryan-delarme|Ryan DeLarme]]'s account as one of the American officials involved in efforts to remove Israeli Prime Minister [[benjamin-netanyahu|Benjamin Netanyahu]].1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
-DeLarme cites Schumer's March 2024 call for new elections in [[israel|Israel]] as evidence of the Atlanticist regime change effort against Netanyahu, reading it as essentially declaring the Israeli prime minister illegitimate.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) The call is listed alongside the ongoing corruption probe against Netanyahu and the [[usaid|USAID]]-funded judicial-reform protests of 2023 as part of the same campaign, which the article says ended abruptly after October 7th.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+DeLarme cites Schumer's March 2024 call for new elections in [[israel|Israel]] as evidence of the Atlanticist regime change effort against Netanyahu, reading it as essentially declaring the Israeli prime minister illegitimate.1(https://badlands.substack.com/p/and-iran-iran-so-far-away) The call is listed alongside the ongoing corruption probe against Netanyahu and the [[usaid|USAID]]-funded judicial-reform protests of 2023 as part of the same campaign, which the article says ended abruptly after October 7th.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## 2026 midterm scenario-planning sessions
 

@@ -10,23 +10,23 @@ confidence: medium
 
 # United Auto Workers (UAW)
 
-The United Auto Workers is the American labor union representing autoworkers, and one of the two central actors in the 2023 [[summer-of-strikes-2023|Summer of Strikes]].[[1]](https://badlands.substack.com/p/a-time-to-strike)
+The United Auto Workers is the American labor union representing autoworkers, and one of the two central actors in the 2023 [[summer-of-strikes-2023|Summer of Strikes]].1(https://badlands.substack.com/p/a-time-to-strike)
 
 ## The 2023 strike
 
-The UAW took to the picket line in the autumn of 2023 and made US labor history when, on the same day the [[writers-guild-of-america|Writers Guild of America]] reached agreement with the Hollywood studios, its picketers were joined for the first time in history by a sitting US President, [[joe-biden|Joe Biden]], in Wayne County, Michigan.[[1]](https://badlands.substack.com/p/a-time-to-strike)
+The UAW took to the picket line in the autumn of 2023 and made US labor history when, on the same day the [[writers-guild-of-america|Writers Guild of America]] reached agreement with the Hollywood studios, its picketers were joined for the first time in history by a sitting US President, [[joe-biden|Joe Biden]], in Wayne County, Michigan.1(https://badlands.substack.com/p/a-time-to-strike)
 
 ## Demands
 
-Per PBS, the UAW's demands included a 46-percent pay increase; a four-day work week with overtime pay beyond 32 hours; union representation at new electric battery plants; and an end to the employment tiers that created two classes of employees — an older, better-paid tier with more benefits, and a younger tier hired after 2007.[[1]](https://badlands.substack.com/p/a-time-to-strike) The article characterizes these demands as detached from reality and as flowing from what it calls a global communist vision of a much less populated utopia, noting that millennials — the first digital-native generation to reach the union negotiating table — had now entered labor negotiations.[[1]](https://badlands.substack.com/p/a-time-to-strike)
+Per PBS, the UAW's demands included a 46-percent pay increase; a four-day work week with overtime pay beyond 32 hours; union representation at new electric battery plants; and an end to the employment tiers that created two classes of employees — an older, better-paid tier with more benefits, and a younger tier hired after 2007.1(https://badlands.substack.com/p/a-time-to-strike) The article characterizes these demands as detached from reality and as flowing from what it calls a global communist vision of a much less populated utopia, noting that millennials — the first digital-native generation to reach the union negotiating table — had now entered labor negotiations.1(https://badlands.substack.com/p/a-time-to-strike)
 
 ## Layoffs during the strike
 
-One trigger for the auto and steel worker walk-off was the widespread and ongoing reductions in force underway across the industry.[[1]](https://badlands.substack.com/p/a-time-to-strike) As the strike continued, automakers kept issuing pink slips, with another round of layoffs announced on a Monday in October 2023 affecting suppliers and both GM and Ford operations; the article states that as much as 62% of some manufacturing workforces had been eliminated in the middle of a strike whose central demand was a four-day week.[[1]](https://badlands.substack.com/p/a-time-to-strike)
+One trigger for the auto and steel worker walk-off was the widespread and ongoing reductions in force underway across the industry.1(https://badlands.substack.com/p/a-time-to-strike) As the strike continued, automakers kept issuing pink slips, with another round of layoffs announced on a Monday in October 2023 affecting suppliers and both GM and Ford operations; the article states that as much as 62% of some manufacturing workforces had been eliminated in the middle of a strike whose central demand was a four-day week.1(https://badlands.substack.com/p/a-time-to-strike)
 
 ## Political context
 
-The piece argues that [[joe-biden|Biden]]'s economic policy and unprecedented spending destroyed US manufacturing, making his appearance on the picket line "astonishing" and "very telling."[[1]](https://badlands.substack.com/p/a-time-to-strike) It contrasts this with [[donald-trump|Donald Trump]]'s remark in a recent speech that "the auto industry is being assassinated," a judgment the author endorses given optimization policies that streamlined and automated manufacturing processes and global sourcing that moved remaining jobs outside the United States.[[1]](https://badlands.substack.com/p/a-time-to-strike)
+The piece argues that [[joe-biden|Biden]]'s economic policy and unprecedented spending destroyed US manufacturing, making his appearance on the picket line "astonishing" and "very telling."1(https://badlands.substack.com/p/a-time-to-strike) It contrasts this with [[donald-trump|Donald Trump]]'s remark in a recent speech that "the auto industry is being assassinated," a judgment the author endorses given optimization policies that streamlined and automated manufacturing processes and global sourcing that moved remaining jobs outside the United States.1(https://badlands.substack.com/p/a-time-to-strike)
 
 ## Factory Zero robot dispute (July 2026)
 

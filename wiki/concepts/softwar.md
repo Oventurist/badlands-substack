@@ -10,7 +10,7 @@ confidence: medium
 
 # Softwar (Jason Lowery)
 
-*Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin* is a book by United States Space Force Major [[entities/jason-lowery|Jason Lowery]] that treats [[concepts/bitcoin|Bitcoin]] proof-of-work as a new, non-kinetic domain of strategic competition rather than merely a financial technology.[1]
+*Softwar: A Novel Theory on Power Projection and the National Strategic Significance of Bitcoin* is a book by United States Space Force Major Jason Lowery that treats Bitcoin proof-of-work as a new, non-kinetic domain of strategic competition rather than merely a financial technology.[1]
 
 ## Core argument
 
@@ -18,7 +18,7 @@ Lowery's thesis, as quoted in Badlands Media commentary, asks readers to imagine
 
 ## Reception in Badlands commentary
 
-A Badlands Brief essay marking fifteen years of the Bitcoin blockchain used Lowery's framing to argue that the transition to this new war-fighting domain is already underway and that physical retribution — arrests, military tribunals, and executions at [[entities/guantanamo-bay|Guantanamo Bay]] — would be meaningless if the underlying monetary system could simply be reconstituted a few generations later.[1] The essay paired Lowery's argument with a 2014 remark by [[entities/julian-assange|Julian Assange]] that the cryptography underlying Bitcoin can "create situations that can defend itself or the people who use it, against even the full might of the superpower."[1]
+A Badlands Brief essay marking fifteen years of the Bitcoin blockchain used Lowery's framing to argue that the transition to this new war-fighting domain is already underway and that physical retribution — arrests, military tribunals, and executions at Guantanamo Bay — would be meaningless if the underlying monetary system could simply be reconstituted a few generations later.[1] The essay paired Lowery's argument with a 2014 remark by Julian Assange that the cryptography underlying Bitcoin can "create situations that can defend itself or the people who use it, against even the full might of the superpower."[1]
 
 ## Softwar versus Hardwar
 

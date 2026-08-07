@@ -10,9 +10,9 @@ confidence: medium
 
 # Consortium News
 
-Consortium News is an independent investigative outlet named by Badlands Media, alongside [[the-grayzone|The Grayzone]], as representative of the [[decentralized-media|decentralized media]] sector.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Consortium News is an independent investigative outlet named by Badlands Media, alongside [[the-grayzone|The Grayzone]], as representative of the [[decentralized-media|decentralized media]] sector.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-The article uses it to illustrate the coverage gap between the two media ecosystems: subjects thoroughly discussed at Consortium News and The Grayzone are absent from [[cnn|CNN]], just as the difficult topics examined on [[badlands-media|Badlands Media]] are avoided by [[fox-news|Fox News]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) Badlands argues that the apparent ideological opposition between mainstream outlets conceals a shared refusal to examine the establishment itself.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The article uses it to illustrate the coverage gap between the two media ecosystems: subjects thoroughly discussed at Consortium News and The Grayzone are absent from [[cnn|CNN]], just as the difficult topics examined on [[badlands-media|Badlands Media]] are avoided by [[fox-news|Fox News]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm) Badlands argues that the apparent ideological opposition between mainstream outlets conceals a shared refusal to examine the establishment itself.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Lawsuit against NewsGuard and the US government (2023)
 

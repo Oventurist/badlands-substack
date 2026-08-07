@@ -10,15 +10,15 @@ confidence: low
 
 # Palantir
 
-**Palantir** is referenced in Badlands Media commentary as a defence-technology firm whose chief executive publicly urged Americans to get ready for a three-front war with Russia, China and Iran.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+**Palantir** is referenced in Badlands Media commentary as a defence-technology firm whose chief executive publicly urged Americans to get ready for a three-front war with Russia, China and Iran.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Role in the article's argument
 
-Contributor [[matthew-ehret|Matthew Ehret]] cites the Palantir statement while describing a class of actors — including [[rand-corporation|RAND Corporation]] analysts and representatives of the [[military-industrial-complex|military industrial complex]] — who in his view regard a new world war as an exciting prospect and, on the basis of computer-modelled scenarios, a winnable one.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) Ehret rejects that assessment, arguing that hypersonic missile systems and underwater drones fielded by Russia and China have ended any prospect of a [[nato|NATO]] first-strike monopoly, so that no attack on either power could occur without retaliation destroying every major Western city.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+Contributor [[matthew-ehret|Matthew Ehret]] cites the Palantir statement while describing a class of actors — including [[rand-corporation|RAND Corporation]] analysts and representatives of the [[military-industrial-complex|military industrial complex]] — who in his view regard a new world war as an exciting prospect and, on the basis of computer-modelled scenarios, a winnable one.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) Ehret rejects that assessment, arguing that hypersonic missile systems and underwater drones fielded by Russia and China have ended any prospect of a [[nato|NATO]] first-strike monopoly, so that no attack on either power could occur without retaliation destroying every major Western city.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Context
 
-The reference forms part of the essay's case that an emergency peace summit modelled on the constructive precedents of the [[bretton-woods-system|Bretton Woods]] and [[united-nations|UN]] settlements must be convened before nuclear war, rather than after it.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+The reference forms part of the essay's case that an emergency peace summit modelled on the constructive precedents of the [[bretton-woods-system|Bretton Woods]] and [[united-nations|UN]] settlements must be convened before nuclear war, rather than after it.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Speculation about DOGE tooling
 

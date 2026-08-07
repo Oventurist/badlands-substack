@@ -10,15 +10,15 @@ confidence: medium
 
 # Carnegie Endowment for International Peace
 
-The **Carnegie Endowment for International Peace** is a Washington foreign policy think tank that appears in Badlands Media contributor [[ryan-delarme|Ryan DeLarme]]'s account of the [[joint-comprehensive-plan-of-action|Iran Deal]] as a common affiliation of its architects and as a recipient of substantial Chinese funding.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+The **Carnegie Endowment for International Peace** is a Washington foreign policy think tank that appears in Badlands Media contributor [[ryan-delarme|Ryan DeLarme]]'s account of the [[joint-comprehensive-plan-of-action|Iran Deal]] as a common affiliation of its architects and as a recipient of substantial Chinese funding.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Affiliations of Iran Deal figures
 
-Both [[jake-sullivan|Jake Sullivan]], who worked on the deal at the policy level, and [[william-burns|William Burns]], its lead negotiator, are listed as Carnegie Endowment affiliates.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+Both [[jake-sullivan|Jake Sullivan]], who worked on the deal at the policy level, and [[william-burns|William Burns]], its lead negotiator, are listed as Carnegie Endowment affiliates.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Chinese funding
 
-The article reports that while serving as president of the Carnegie Endowment board, Burns welcomed onto the board a Chinese businessman named Zhang Yichen, who had links to two Chinese Communist Party entities — the Center for China Globalization and the Chinese People's Political Consultative Conference.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) Yichen donated between $750,000 and $1.5 million to Carnegie.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away) Carnegie also received millions of dollars from another CCP-backed organisation, the China-U.S. Exchange Foundation (CUSEF), which the article describes as responsible for United Front work in the United States; the money was received to build the Carnegie-Tsinghua Center in Beijing.[[1]](https://badlands.substack.com/p/and-iran-iran-so-far-away)
+The article reports that while serving as president of the Carnegie Endowment board, Burns welcomed onto the board a Chinese businessman named Zhang Yichen, who had links to two Chinese Communist Party entities — the Center for China Globalization and the Chinese People's Political Consultative Conference.1(https://badlands.substack.com/p/and-iran-iran-so-far-away) Yichen donated between $750,000 and $1.5 million to Carnegie.1(https://badlands.substack.com/p/and-iran-iran-so-far-away) Carnegie also received millions of dollars from another CCP-backed organisation, the China-U.S. Exchange Foundation (CUSEF), which the article describes as responsible for United Front work in the United States; the money was received to build the Carnegie-Tsinghua Center in Beijing.1(https://badlands.substack.com/p/and-iran-iran-so-far-away)
 
 ## Lebanon crisis event (2024)
 

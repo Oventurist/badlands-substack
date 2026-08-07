@@ -10,19 +10,19 @@ confidence: medium
 
 # Meta Platforms
 
-**Meta Platforms**, formerly Facebook, is an American social media company led by [[mark-zuckerberg|Mark Zuckerberg]].[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+**Meta Platforms**, formerly Facebook, is an American social media company led by [[mark-zuckerberg|Mark Zuckerberg]].1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Origins and LifeLog
 
-*America Has a CIA-Run Economy* asserts that Facebook started up on 4 February 2004 — the same day [[darpa|DARPA]] cancelled its [[lifelog|LifeLog]] surveillance database program — and that much of Facebook's early funding came from [[cia|CIA]] shell companies.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) [[erik-carlson|Erik Carlson]] frames the "hoody wearing tech nerd from Harvard" origin story as a manufactured cover for a DARPA-derived project, reinforced by films that cement the myth in the public mind.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+*America Has a CIA-Run Economy* asserts that Facebook started up on 4 February 2004 — the same day [[darpa|DARPA]] cancelled its [[lifelog|LifeLog]] surveillance database program — and that much of Facebook's early funding came from [[cia|CIA]] shell companies.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) [[erik-carlson|Erik Carlson]] frames the "hoody wearing tech nerd from Harvard" origin story as a manufactured cover for a DARPA-derived project, reinforced by films that cement the myth in the public mind.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Market position
 
-Meta ranked among the top five American companies by market capitalization in 2020, and belongs to the cohort of big tech firms dominating the [[sp-500-index|S&P 500 Index]].[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Meta ranked among the top five American companies by market capitalization in 2020, and belongs to the cohort of big tech firms dominating the [[sp-500-index|S&P 500 Index]].1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Trump-era realignment
 
-Meta donated a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) Zuckerberg has publicly stated that his platforms will allow more free speech and has terminated DEI programs.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson concludes it is hard to imagine an America without Facebook, and that Trump treats such firms as necessary to the economy even as their intelligence-community "strings" are cut.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Meta donated a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) Zuckerberg has publicly stated that his platforms will allow more free speech and has terminated DEI programs.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson concludes it is hard to imagine an America without Facebook, and that Trump treats such firms as necessary to the economy even as their intelligence-community "strings" are cut.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Metaverse strategy shift (2026)
 

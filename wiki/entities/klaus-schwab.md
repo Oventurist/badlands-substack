@@ -10,9 +10,9 @@ confidence: low
 
 # Klaus Schwab
 
-**Klaus Schwab** is named in "AI Can Help Us Expose the NWO" as the author of the [[great-reset|Great Reset]], which [[justin-deschamps|Justin Deschamps]] instructed ChatGPT to incorporate as an additional plan for the fictional [[global-harmony-consortium|Global Harmony Consortium]] to utilise.[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+**Klaus Schwab** is named in "AI Can Help Us Expose the NWO" as the author of the [[great-reset|Great Reset]], which [[justin-deschamps|Justin Deschamps]] instructed ChatGPT to incorporate as an additional plan for the fictional [[global-harmony-consortium|Global Harmony Consortium]] to utilise.1(https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
 
-The Great Reset enters the article's warfare map alongside the [[world-economic-forum|World Economic Forum]], the [[world-health-organization|World Health Organization]], the [[united-nations|United Nations]] and the [[esg|ESG]] system, all of which Deschamps asked the model to place within the strategic, operational and tactical layers of the Consortium's campaign toward a [[new-world-order|New World Order]].[[1]](https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
+The Great Reset enters the article's warfare map alongside the [[world-economic-forum|World Economic Forum]], the [[world-health-organization|World Health Organization]], the [[united-nations|United Nations]] and the [[esg|ESG]] system, all of which Deschamps asked the model to place within the strategic, operational and tactical layers of the Consortium's campaign toward a [[new-world-order|New World Order]].1(https://badlands.substack.com/p/ai-can-help-us-expose-the-nwo)
 
 ## Remarks on AI, chatbots and digital identities (February 2023)
 

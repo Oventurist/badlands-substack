@@ -10,11 +10,11 @@ confidence: medium
 
 # Help America Vote Act
 
-The Help America Vote Act (HAVA) is federal legislation signed in 2002 to modernize United States elections in the wake of the Bush v. Gore controversy of 2000, in which broadcast media wrongly called Florida for Al Gore and the [[supreme-court-of-the-united-states|Supreme Court]] ultimately halted the Florida recount on equal-protection grounds.[[1]](https://badlands.substack.com/p/always-fight-back)
+The Help America Vote Act (HAVA) is federal legislation signed in 2002 to modernize United States elections in the wake of the Bush v. Gore controversy of 2000, in which broadcast media wrongly called Florida for Al Gore and the [[supreme-court-of-the-united-states|Supreme Court]] ultimately halted the Florida recount on equal-protection grounds.1(https://badlands.substack.com/p/always-fight-back)
 
-Critics argue HAVA gave birth to the elections industry: since its passage, US elections have become increasingly centralized and dependent on private vendors with little meaningful oversight.[[1]](https://badlands.substack.com/p/always-fight-back) They further note that no presidential election since HAVA has been held without allegations of irregularities, fraud, and corruption from both sides of the political aisle — including John Kerry's 2004 voter-access claims, ACORN's 2008 admission that only about a third of the 1.3 million voters it registered were legitimate, and Pew's finding that nearly 20 million voters encountered at least one problem in 2012.[[1]](https://badlands.substack.com/p/always-fight-back)
+Critics argue HAVA gave birth to the elections industry: since its passage, US elections have become increasingly centralized and dependent on private vendors with little meaningful oversight.1(https://badlands.substack.com/p/always-fight-back) They further note that no presidential election since HAVA has been held without allegations of irregularities, fraud, and corruption from both sides of the political aisle — including John Kerry's 2004 voter-access claims, ACORN's 2008 admission that only about a third of the 1.3 million voters it registered were legitimate, and Pew's finding that nearly 20 million voters encountered at least one problem in 2012.1(https://badlands.substack.com/p/always-fight-back)
 
-The vulnerabilities of the resulting technology-dependent system were themselves the subject of the Democrat-produced documentary *Kill Chain: The Cyber War on America's Elections*.[[1]](https://badlands.substack.com/p/always-fight-back) See also [[election-denial]].
+The vulnerabilities of the resulting technology-dependent system were themselves the subject of the Democrat-produced documentary *Kill Chain: The Cyber War on America's Elections*.1(https://badlands.substack.com/p/always-fight-back) See also [[election-denial]].
 
 ## Invoked in 2026 voter-roll litigation
 

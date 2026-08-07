@@ -10,9 +10,9 @@ confidence: low
 
 # NPR
 
-NPR (National Public Radio) is an American public radio network mentioned in Badlands Media's survey of the legacy media's contraction.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+NPR (National Public Radio) is an American public radio network mentioned in Badlands Media's survey of the legacy media's contraction.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-In her February 2024 assessment, [[taylor-lorenz|Taylor Lorenz]] stated that "radio is essentially dead, aside from NPR, which has been gutted," placing the network among the survivors of an industry-wide collapse that also encompassed the obliteration of local news, the cratering of the newspaper business and strikes at [[conde-nast|Condé Nast]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+In her February 2024 assessment, [[taylor-lorenz|Taylor Lorenz]] stated that "radio is essentially dead, aside from NPR, which has been gutted," placing the network among the survivors of an industry-wide collapse that also encompassed the obliteration of local news, the cratering of the newspaper business and strikes at [[conde-nast|Condé Nast]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Coverage of Badlands Media (November 2025)
 

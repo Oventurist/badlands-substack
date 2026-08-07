@@ -10,17 +10,17 @@ confidence: medium
 
 # FIFA
 
-FIFA is the international governing body of association football. Badlands Media's "America for Sale — Part 2" ties FIFA's 2015 corruption scandal to the [[clinton-foundation|Clinton Foundation]] orbit through the founders of [[teneo-holdings|Teneo]].[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+FIFA is the international governing body of association football. Badlands Media's "America for Sale — Part 2" ties FIFA's 2015 corruption scandal to the [[clinton-foundation|Clinton Foundation]] orbit through the founders of [[teneo-holdings|Teneo]].1(https://badlands.substack.com/p/america-for-sale-part-2)
 
 ## Clinton connections
 
-The USA bid committee for the World Cup hired [[paul-keary|Paul Keary]] in 2010 to help make its pitch for future tournaments; earlier that year [[doug-band|Doug Band]] had joined that committee's board of directors, and [[bill-clinton|Bill Clinton]] personally lobbied FIFA in the fall of 2010 to bring the tournament to the United States.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+The USA bid committee for the World Cup hired [[paul-keary|Paul Keary]] in 2010 to help make its pitch for future tournaments; earlier that year [[doug-band|Doug Band]] had joined that committee's board of directors, and [[bill-clinton|Bill Clinton]] personally lobbied FIFA in the fall of 2010 to bring the tournament to the United States.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
-FIFA reportedly gave the Clinton Foundation between $50,000 and $100,000 as a membership fee to participate in the [[clinton-global-initiative|Clinton Global Initiative]], plus a commitment to build 20 community centers in South Africa as part of its decision to award the 2010 World Cup to that country.[[1]](https://badlands.substack.com/p/america-for-sale-part-2) The Qatar 2022 Supreme Committee — established to build stadiums and facilities for [[qatar]]'s hosting of the 2022 World Cup — gave between $250,000 and $500,000 as a CGI sponsor in 2013, while the government of Qatar is reported to have given between $1 million and $5 million to the Foundation.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+FIFA reportedly gave the Clinton Foundation between $50,000 and $100,000 as a membership fee to participate in the [[clinton-global-initiative|Clinton Global Initiative]], plus a commitment to build 20 community centers in South Africa as part of its decision to award the 2010 World Cup to that country.1(https://badlands.substack.com/p/america-for-sale-part-2) The Qatar 2022 Supreme Committee — established to build stadiums and facilities for [[qatar]]'s hosting of the 2022 World Cup — gave between $250,000 and $500,000 as a CGI sponsor in 2013, while the government of Qatar is reported to have given between $1 million and $5 million to the Foundation.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
 ## 2015 arrests
 
-FIFA's leadership was largely carted away by police in Switzerland in 2015 on charges announced by the U.S. [[department-of-justice|Department of Justice]].[[1]](https://badlands.substack.com/p/america-for-sale-part-2) The article notes that Keary and Band had joined the U.S. bid committee in 2010 and asks whether the subsequent arrests were a coincidence, adding that Qatar won the bid, the Clinton Foundation profited, and no one examined the Clintons' involvement in the scandal.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+FIFA's leadership was largely carted away by police in Switzerland in 2015 on charges announced by the U.S. [[department-of-justice|Department of Justice]].1(https://badlands.substack.com/p/america-for-sale-part-2) The article notes that Keary and Band had joined the U.S. bid committee in 2010 and asks whether the subsequent arrests were a coincidence, adding that Qatar won the bid, the Clinton Foundation profited, and no one examined the Clintons' involvement in the scandal.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
 ## 2026 World Cup and refereeing allegations
 

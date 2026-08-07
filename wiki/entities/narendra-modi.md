@@ -10,11 +10,11 @@ confidence: medium
 
 # Narendra Modi
 
-Narendra Modi is the prime minister of India and one of the leaders of the three founding nations behind the [[shanghai-cooperation-organisation|Shanghai Cooperation Organisation]].[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+Narendra Modi is the prime minister of India and one of the leaders of the three founding nations behind the [[shanghai-cooperation-organisation|Shanghai Cooperation Organisation]].1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Tianjin summit
 
-Modi stood together with [[xi-jinping|Xi Jinping]] and [[vladimir-putin|Vladimir Putin]] at the SCO summit held in Tianjin, China on August 31 – September 1, 2025, joined by other world leaders representing nearly half the world's population and 20% of world GDP.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) The gathering endorsed the [[tianjin-declaration|Tianjin Declaration]] and its principles of sovereign equality, rejection of unilateral coercive measures, and the creation of an SCO Development Bank.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) India is named among the nations of the multipolar alliance that, in the author's assessment, will not abandon their sovereignty in exchange for a technocratic [[great-reset|Great Reset]].[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+Modi stood together with [[xi-jinping|Xi Jinping]] and [[vladimir-putin|Vladimir Putin]] at the SCO summit held in Tianjin, China on August 31 – September 1, 2025, joined by other world leaders representing nearly half the world's population and 20% of world GDP.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) The gathering endorsed the [[tianjin-declaration|Tianjin Declaration]] and its principles of sovereign equality, rejection of unilateral coercive measures, and the creation of an SCO Development Bank.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) India is named among the nations of the multipolar alliance that, in the author's assessment, will not abandon their sovereignty in exchange for a technocratic [[great-reset|Great Reset]].1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Target of regime change and Trump's counter-courtship
 

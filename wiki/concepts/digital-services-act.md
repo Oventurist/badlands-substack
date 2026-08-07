@@ -10,11 +10,11 @@ confidence: low
 
 # Digital Services Act
 
-The Digital Services Act (DSA) is a European Union regulatory framework governing online content. Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] characterizes it as "highly repressive" and cites it as the paradigmatic example of a censorship regime justified by the pretext of protecting people from [[hate-speech|hate speech]].[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+The Digital Services Act (DSA) is a European Union regulatory framework governing online content. Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] characterizes it as "highly repressive" and cites it as the paradigmatic example of a censorship regime justified by the pretext of protecting people from [[hate-speech|hate speech]].1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Significance in the essay
 
-In "A Glaring Double Standard," the DSA functions as evidence that the same rationale advanced by American campus activists and, later, by post–October 7 conservatives has already been enacted into law abroad by what DeLarme calls the interagency, international blob.[[1]](https://badlands.substack.com/p/a-glaring-double-standard) He argues the reasoning is identical across jurisdictions and causes, differing only in which group is designated as requiring protection — "some snowflakes are more precious than others."[[1]](https://badlands.substack.com/p/a-glaring-double-standard) The DSA thus stands as the international counterpart to the domestic [[antisemitism-awareness-act|Antisemitism Awareness Act]] and [[executive-order-14188|Executive Order 14188]] in the broader project of [[government-sponsored-censorship|government-sponsored censorship]].[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+In "A Glaring Double Standard," the DSA functions as evidence that the same rationale advanced by American campus activists and, later, by post–October 7 conservatives has already been enacted into law abroad by what DeLarme calls the interagency, international blob.1(https://badlands.substack.com/p/a-glaring-double-standard) He argues the reasoning is identical across jurisdictions and causes, differing only in which group is designated as requiring protection — "some snowflakes are more precious than others."1(https://badlands.substack.com/p/a-glaring-double-standard) The DSA thus stands as the international counterpart to the domestic [[antisemitism-awareness-act|Antisemitism Awareness Act]] and [[executive-order-14188|Executive Order 14188]] in the broader project of [[government-sponsored-censorship|government-sponsored censorship]].1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Enforcement against X (October 2023)
 

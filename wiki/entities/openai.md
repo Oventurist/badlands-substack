@@ -10,13 +10,13 @@ confidence: low
 
 # OpenAI
 
-OpenAI is the artificial intelligence company named in "A New Hollywood" as one of the partners in [[project-stargate|Project Stargate]], [[donald-trump|Donald Trump]]'s $500 billion US AI infrastructure plan, alongside [[oracle|Oracle]] and [[softbank|SoftBank]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+OpenAI is the artificial intelligence company named in "A New Hollywood" as one of the partners in [[project-stargate|Project Stargate]], [[donald-trump|Donald Trump]]'s $500 billion US AI infrastructure plan, alongside [[oracle|Oracle]] and [[softbank|SoftBank]].1(https://badlands.substack.com/p/a-new-hollywood)
 
-[[erik-carlson|Erik Carlson]] dates the beginning of the mainstream AI boom to the release of ChatGPT in late 2022, using that date to argue that *Mission Impossible: Dead Reckoning* — released roughly six months later with an all-powerful AI as its antagonist — must have entered production before AI became a popular talking point, and therefore reads as a deliberate warning.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+[[erik-carlson|Erik Carlson]] dates the beginning of the mainstream AI boom to the release of ChatGPT in late 2022, using that date to argue that *Mission Impossible: Dead Reckoning* — released roughly six months later with an all-powerful AI as its antagonist — must have entered production before AI became a popular talking point, and therefore reads as a deliberate warning.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Inaugural fund donation
 
-In "America Has a CIA-Run Economy," OpenAI is listed among the big tech firms that donated a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund, alongside Google, [[microsoft|Microsoft]], [[meta-platforms|Meta]], [[amazon|Amazon]] and [[apple|Apple]] — all of them massive companies heavily involved in the development of artificial intelligence.[[2]](https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson reads the donations as symbolic ring-kissing rather than material support, and as the real form of pardon being extended to companies deemed valuable to the American economy.[[2]](https://badlands.substack.com/p/america-has-a-cia-run-economy) He notes that [[nvidia|Nvidia]] was conspicuously absent from the donor list.[[2]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+In "America Has a CIA-Run Economy," OpenAI is listed among the big tech firms that donated a million dollars to [[donald-trump|Donald Trump]]'s inaugural fund, alongside Google, [[microsoft|Microsoft]], [[meta-platforms|Meta]], [[amazon|Amazon]] and [[apple|Apple]] — all of them massive companies heavily involved in the development of artificial intelligence.2(https://badlands.substack.com/p/america-has-a-cia-run-economy) Carlson reads the donations as symbolic ring-kissing rather than material support, and as the real form of pardon being extended to companies deemed valuable to the American economy.2(https://badlands.substack.com/p/america-has-a-cia-run-economy) He notes that [[nvidia|Nvidia]] was conspicuously absent from the donor list.2(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Advertising and access, January 2026
 

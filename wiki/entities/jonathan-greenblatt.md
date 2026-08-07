@@ -10,9 +10,9 @@ confidence: low
 
 # Jonathan Greenblatt
 
-Jonathan Greenblatt heads the [[anti-defamation-league|Anti-Defamation League]] and is described by Badlands Media as a Democrat operative.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+Jonathan Greenblatt heads the [[anti-defamation-league|Anti-Defamation League]] and is described by Badlands Media as a Democrat operative.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
-Under his leadership the ADL spent months harassing and haranguing [[elon-musk|Elon Musk]] for failing to crack down sufficiently on speech the organization deemed "hateful," and led a campaign that drove corporate advertisers away from [[x-platform|X]] by characterizing Musk as an antisemite.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism) After Musk banned phrases including "decolonization" and "from the river to the sea," the organization abruptly softened its posture toward him, a sequence the article presents as illustrating how such pressure groups operate.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+Under his leadership the ADL spent months harassing and haranguing [[elon-musk|Elon Musk]] for failing to crack down sufficiently on speech the organization deemed "hateful," and led a campaign that drove corporate advertisers away from [[x-platform|X]] by characterizing Musk as an antisemite.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism) After Musk banned phrases including "decolonization" and "from the river to the sea," the organization abruptly softened its posture toward him, a sequence the article presents as illustrating how such pressure groups operate.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
 ## March 2026: West Bloomfield and the speech debate
 

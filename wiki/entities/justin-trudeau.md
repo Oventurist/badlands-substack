@@ -10,9 +10,9 @@ confidence: low
 
 # Justin Trudeau
 
-Justin Trudeau is the Canadian politician who led the [[liberal-party-of-canada|Liberal Party of Canada]] to power and served as Prime Minister, with [[chrystia-freeland|Chrystia Freeland]] as his Finance Minister and Deputy Prime Minister.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+Justin Trudeau is the Canadian politician who led the [[liberal-party-of-canada|Liberal Party of Canada]] to power and served as Prime Minister, with [[chrystia-freeland|Chrystia Freeland]] as his Finance Minister and Deputy Prime Minister.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 
-In [[matthew-ehret|Matthew Ehret]]'s account, Trudeau was prepped for the prime ministership as the "Barack Obama of Canada," with Freeland cast in the role of a Valerie Jarrett figure beside him.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems) Her entry into his inner circle — and, in Ehret's framing, her position as his official handler — was engineered by the Rhodes Scholar [[bob-rae|Bob Rae]], who abdicated his seat to her.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems) The Liberal Party's preparation for power took place between 2011 and 2014 under the banner of the [[canada-2020|Canada 2020]] think tank.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+In [[matthew-ehret|Matthew Ehret]]'s account, Trudeau was prepped for the prime ministership as the "Barack Obama of Canada," with Freeland cast in the role of a Valerie Jarrett figure beside him.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems) Her entry into his inner circle — and, in Ehret's framing, her position as his official handler — was engineered by the Rhodes Scholar [[bob-rae|Bob Rae]], who abdicated his seat to her.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems) The Liberal Party's preparation for power took place between 2011 and 2014 under the banner of the [[canada-2020|Canada 2020]] think tank.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 
 ## December 2024 ski resort confrontation
 

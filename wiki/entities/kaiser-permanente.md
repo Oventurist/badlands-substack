@@ -10,15 +10,15 @@ confidence: medium
 
 # Kaiser Permanente
 
-Kaiser Permanente is a major American integrated healthcare provider and insurer whose workforce became one of the largest participants in the 2023 wave of American labor unrest.[[1]](https://badlands.substack.com/p/a-time-to-strike)
+Kaiser Permanente is a major American integrated healthcare provider and insurer whose workforce became one of the largest participants in the 2023 wave of American labor unrest.1(https://badlands.substack.com/p/a-time-to-strike)
 
 ## Role in the 2023 strike wave
 
-In coverage of what Axios termed "worker activism" during the [[summer-of-strikes-2023|Summer of Strikes]], Kaiser Permanente accounted for the single largest bloc of workers cited: roughly 75,000 employees, dwarfing the 84 [[amazon|Amazon]] workers, 1,400 electrical workers, and 3,000 [[starbucks|Starbucks]] workers listed alongside it.[[1]](https://badlands.substack.com/p/a-time-to-strike) Their action was presented as evidence that the impulse to reshape the relationship between employee and employer in 2023 was not confined to the headline disputes in Hollywood and Detroit but had spread across industries of widely varying size and character, including healthcare.[[1]](https://badlands.substack.com/p/a-time-to-strike)
+In coverage of what Axios termed "worker activism" during the [[summer-of-strikes-2023|Summer of Strikes]], Kaiser Permanente accounted for the single largest bloc of workers cited: roughly 75,000 employees, dwarfing the 84 [[amazon|Amazon]] workers, 1,400 electrical workers, and 3,000 [[starbucks|Starbucks]] workers listed alongside it.1(https://badlands.substack.com/p/a-time-to-strike) Their action was presented as evidence that the impulse to reshape the relationship between employee and employer in 2023 was not confined to the headline disputes in Hollywood and Detroit but had spread across industries of widely varying size and character, including healthcare.1(https://badlands.substack.com/p/a-time-to-strike)
 
 ## Interpretation in the source
 
-The article treats the Kaiser Permanente walkout less as a discrete labor dispute than as one data point in a systemic argument: that the corporate back offices of "the auto companies and studios and hospitals" had already been streamlined a decade earlier in the name of optimization, quietly and without unions or strikes, and that the current round of visible labor conflict is a late reaction to a transformation already substantially complete.[[1]](https://badlands.substack.com/p/a-time-to-strike) On that reading, healthcare workers, like autoworkers and writers, are striking against an industry talent model the author contends no longer exists.[[1]](https://badlands.substack.com/p/a-time-to-strike)
+The article treats the Kaiser Permanente walkout less as a discrete labor dispute than as one data point in a systemic argument: that the corporate back offices of "the auto companies and studios and hospitals" had already been streamlined a decade earlier in the name of optimization, quietly and without unions or strikes, and that the current round of visible labor conflict is a late reaction to a transformation already substantially complete.1(https://badlands.substack.com/p/a-time-to-strike) On that reading, healthcare workers, like autoworkers and writers, are striking against an industry talent model the author contends no longer exists.1(https://badlands.substack.com/p/a-time-to-strike)
 
 ## 2026 False Claims Act settlement
 

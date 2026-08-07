@@ -14,11 +14,11 @@ The **International Olympic Committee** (referred to in Badlands Media commentar
 
 ## Eligibility rules
 
-[[erik-carlson|Erik Carlson]] reported that the Olympic Committee had essentially banned transgender athletes from participating in the Games unless they had fully transitioned by the age of twelve, the committee having determined that anyone transitioning after that age holds an unfair advantage and therefore will not be allowed to compete.[[1]](https://badlands.substack.com/p/are-we-being-distracted)
+[[erik-carlson|Erik Carlson]] reported that the Olympic Committee had essentially banned transgender athletes from participating in the Games unless they had fully transitioned by the age of twelve, the committee having determined that anyone transitioning after that age holds an unfair advantage and therefore will not be allowed to compete.1(https://badlands.substack.com/p/are-we-being-distracted)
 
 ## Alleged instrumental role
 
-Carlson argued that the committee's simultaneous staging of an ostentatiously transgressive ceremony and its restriction of transgender competition reveals that its inclusivity is not sincere: if it truly cared about transgender people and their rights, it would allow them to compete.[[1]](https://badlands.substack.com/p/are-we-being-distracted) His conclusion is that the committee does not care about transgender or gay people at all but has been commissioned by its controllers to make people angry, and that transgender participants in its spectacles are being used by the [[cabal|Cabal]] to divide, distract, and anger the public while believing themselves appreciated.[[1]](https://badlands.substack.com/p/are-we-being-distracted)
+Carlson argued that the committee's simultaneous staging of an ostentatiously transgressive ceremony and its restriction of transgender competition reveals that its inclusivity is not sincere: if it truly cared about transgender people and their rights, it would allow them to compete.1(https://badlands.substack.com/p/are-we-being-distracted) His conclusion is that the committee does not care about transgender or gay people at all but has been commissioned by its controllers to make people angry, and that transgender participants in its spectacles are being used by the [[cabal|Cabal]] to divide, distract, and anger the public while believing themselves appreciated.1(https://badlands.substack.com/p/are-we-being-distracted)
 
 ## See also
 

@@ -10,11 +10,11 @@ confidence: medium
 
 # Council on Foreign Relations
 
-The Council on Foreign Relations (CFR) is an American foreign-policy think tank described by Badlands Media as one of the "elitist policy think tanks" where the ownership class of the mainstream media convenes.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The Council on Foreign Relations (CFR) is an American foreign-policy think tank described by Badlands Media as one of the "elitist policy think tanks" where the ownership class of the mainstream media convenes.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-The article states that representatives of the largest institutional investors — [[blackrock|BlackRock]], [[vanguard-group|the Vanguard Group]], [[state-street|State Street]] and [[berkshire-hathaway|Berkshire Hathaway]] — which mutually own the major media conglomerates, "remain regular fixtures" at the CFR and the [[world-economic-forum|World Economic Forum]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) This overlap underpins the claim that the "big six" media companies function as the propaganda arm of a single Western establishment, "the system of systems."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The article states that representatives of the largest institutional investors — [[blackrock|BlackRock]], [[vanguard-group|the Vanguard Group]], [[state-street|State Street]] and [[berkshire-hathaway|Berkshire Hathaway]] — which mutually own the major media conglomerates, "remain regular fixtures" at the CFR and the [[world-economic-forum|World Economic Forum]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm) This overlap underpins the claim that the "big six" media companies function as the propaganda arm of a single Western establishment, "the system of systems."1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-By contrast, Badlands defines the [[decentralized-media|decentralized media]] as journalism produced where "there are no emissaries of the think tank class telling journalists what to write and how to frame it."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+By contrast, Badlands defines the [[decentralized-media|decentralized media]] as journalism produced where "there are no emissaries of the think tank class telling journalists what to write and how to frame it."1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## The Iran Deal network
 

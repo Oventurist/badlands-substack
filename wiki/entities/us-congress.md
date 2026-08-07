@@ -10,9 +10,9 @@ confidence: low
 
 # United States Congress
 
-Congress appears in "A Bright Red Line" as one of the seats of the Western neoconservative faction pressing for Ukraine's entry into [[nato|NATO]], named alongside the [[us-security-state|Security State]] and the [[state-department|State Department]].[[1]](https://badlands.substack.com/p/a-bright-red-line) The article states that these actors are aware that such a commitment ends any possibility of negotiation with Russia, and are eager for that result.[[1]](https://badlands.substack.com/p/a-bright-red-line)
+Congress appears in "A Bright Red Line" as one of the seats of the Western neoconservative faction pressing for Ukraine's entry into [[nato|NATO]], named alongside the [[us-security-state|Security State]] and the [[state-department|State Department]].1(https://badlands.substack.com/p/a-bright-red-line) The article states that these actors are aware that such a commitment ends any possibility of negotiation with Russia, and are eager for that result.1(https://badlands.substack.com/p/a-bright-red-line)
 
-Congress is also implicated in the article's opening premise: from the outset of the war the United States made clear it would take primary responsibility for funding and arming Ukraine, an expenditure the article says unquestionably harms Americans economically while never being explained in terms of the American public's interest.[[1]](https://badlands.substack.com/p/a-bright-red-line)
+Congress is also implicated in the article's opening premise: from the outset of the war the United States made clear it would take primary responsibility for funding and arming Ukraine, an expenditure the article says unquestionably harms Americans economically while never being explained in terms of the American public's interest.1(https://badlands.substack.com/p/a-bright-red-line)
 
 ## Evaded oversight in the sanctions and uranium schemes
 

@@ -10,15 +10,15 @@ confidence: medium
 
 # Richard Nixon
 
-Richard Nixon was President of the United States during the early 1970s monetary transition that Badlands Media commentary identifies as foundational to the modern fiat system.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+Richard Nixon was President of the United States during the early 1970s monetary transition that Badlands Media commentary identifies as foundational to the modern fiat system.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## The French gold demand
 
-[[erik-carlson|Erik Carlson]] recounts that in the early 1970s France sought repayment of a loan the United States had borrowed, and that Nixon's government intended simply to print the money and send it.[[1]](https://badlands.substack.com/p/a-week-to-remember) France, aware of the scheme, refused American fiat money and demanded payment in gold instead.[[1]](https://badlands.substack.com/p/a-week-to-remember) Because gold cannot be created out of thin air, the US government responded by passing an amendment making it illegal to pay foreign entities with gold — after which, in Carlson's phrasing, "everyone had to take their fiat money."[[1]](https://badlands.substack.com/p/a-week-to-remember)
+[[erik-carlson|Erik Carlson]] recounts that in the early 1970s France sought repayment of a loan the United States had borrowed, and that Nixon's government intended simply to print the money and send it.1(https://badlands.substack.com/p/a-week-to-remember) France, aware of the scheme, refused American fiat money and demanded payment in gold instead.1(https://badlands.substack.com/p/a-week-to-remember) Because gold cannot be created out of thin air, the US government responded by passing an amendment making it illegal to pay foreign entities with gold — after which, in Carlson's phrasing, "everyone had to take their fiat money."1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## Legacy
 
-That statute stood for fifty years and was quietly repealed a couple of years ago, at the moment the [[brics|BRICS]] nations began discussing a gold-backed currency for international settlement.[[1]](https://badlands.substack.com/p/a-week-to-remember) The [[petrodollar|petrodollar]] arrangement was created in the same early-1970s period.[[1]](https://badlands.substack.com/p/a-week-to-remember)
+That statute stood for fifty years and was quietly repealed a couple of years ago, at the moment the [[brics|BRICS]] nations began discussing a gold-backed currency for international settlement.1(https://badlands.substack.com/p/a-week-to-remember) The [[petrodollar|petrodollar]] arrangement was created in the same early-1970s period.1(https://badlands.substack.com/p/a-week-to-remember)
 
 ## 1973 arms cutoff and the alleged Israeli nuclear threat
 

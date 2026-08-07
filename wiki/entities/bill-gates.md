@@ -10,19 +10,19 @@ confidence: medium
 
 # Bill Gates
 
-**Bill Gates** is the co-founder of [[microsoft|Microsoft]] and founder of the Bill and Melinda Gates Foundation.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+**Bill Gates** is the co-founder of [[microsoft|Microsoft]] and founder of the Bill and Melinda Gates Foundation.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Reputation shift
 
-In *America Has a CIA-Run Economy*, [[erik-carlson|Erik Carlson]] recalls that by the late 1990s Gates was one of the most hated men in the world. In 2000 he launched the Bill and Melinda Gates Foundation and was rapidly recast as one of the world's greatest philanthropists — yet while the public believed he was giving his money away, his net worth doubled within a year.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+In *America Has a CIA-Run Economy*, [[erik-carlson|Erik Carlson]] recalls that by the late 1990s Gates was one of the most hated men in the world. In 2000 he launched the Bill and Melinda Gates Foundation and was rapidly recast as one of the world's greatest philanthropists — yet while the public believed he was giving his money away, his net worth doubled within a year.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Origins of Microsoft software
 
-Carlson relays the rumor that Gates's genius is overstated, and that his mother hired engineers from IBM to develop the early Microsoft software.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Carlson relays the rumor that Gates's genius is overstated, and that his mother hired engineers from IBM to develop the early Microsoft software.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Energy and AI
 
-Gates is reported to be planning to fund nuclear power plants to power Microsoft's artificial intelligence infrastructure.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Gates is reported to be planning to fund nuclear power plants to power Microsoft's artificial intelligence infrastructure.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## On the 2023 AI pause debate
 

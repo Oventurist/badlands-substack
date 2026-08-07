@@ -10,9 +10,9 @@ confidence: low
 
 # Jon Voight
 
-Jon Voight is the American actor appointed by [[donald-trump|Donald Trump]], alongside [[sylvester-stallone|Sylvester Stallone]] and [[mel-gibson|Mel Gibson]], as an ambassador to [[hollywood|Hollywood]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Jon Voight is the American actor appointed by [[donald-trump|Donald Trump]], alongside [[sylvester-stallone|Sylvester Stallone]] and [[mel-gibson|Mel Gibson]], as an ambassador to [[hollywood|Hollywood]].1(https://badlands.substack.com/p/a-new-hollywood)
 
-[[erik-carlson|Erik Carlson]] treats the appointments as a signal of Trump's intentions toward the industry, asking why Trump would name Hollywood ambassadors at all unless he believed Hollywood had been, and could again be, an important part of what makes America America.[[1]](https://badlands.substack.com/p/a-new-hollywood) Trump plainly sees the destructive force Hollywood has become, Carlson writes, so the decision not to "burn it to the ground" implies he understands it could again be used to inspire and shape while entertaining.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+[[erik-carlson|Erik Carlson]] treats the appointments as a signal of Trump's intentions toward the industry, asking why Trump would name Hollywood ambassadors at all unless he believed Hollywood had been, and could again be, an important part of what makes America America.1(https://badlands.substack.com/p/a-new-hollywood) Trump plainly sees the destructive force Hollywood has become, Carlson writes, so the decision not to "burn it to the ground" implies he understands it could again be used to inspire and shape while entertaining.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Hollywood special ambassador (2025)
 

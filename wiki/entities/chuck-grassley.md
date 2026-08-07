@@ -10,7 +10,7 @@ confidence: medium
 
 # Chuck Grassley
 
-Chuck Grassley is a United States Senator and Chairman of the [[senate-judiciary-committee|Senate Judiciary Committee]]. Badlands Media identifies him as the recipient of the evidence assembled by [[bob-goodlatte|Bob Goodlatte]] and [[trey-gowdy|Trey Gowdy]] in the House, and as a central figure in the anticipated transparency and prosecution phase.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+Chuck Grassley is a United States Senator and Chairman of the [[senate-judiciary-committee|Senate Judiciary Committee]]. Badlands Media identifies him as the recipient of the evidence assembled by [[bob-goodlatte|Bob Goodlatte]] and [[trey-gowdy|Trey Gowdy]] in the House, and as a central figure in the anticipated transparency and prosecution phase.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
 ## 2023 letter on FBI handling of Biden-Ukraine allegations
 
@@ -18,15 +18,15 @@ In a letter released in October 2023, Grassley revealed that the [[fbi|FBI]] had
 
 ## Oversight powers
 
-The article enumerates the Senate Judiciary Committee's oversight functions: overseeing the [[department-of-justice|Department of Justice]], considering executive and judicial nominations, reviewing pending legislation, holding hearings and investigations, and exercising legislative jurisdiction.[[1]](https://badlands.substack.com/p/america-for-sale-part-2) Its legislative jurisdiction covers proposed constitutional amendments and legislation on federal criminal law, human rights law, immigration, intellectual property, antitrust law and internet privacy.[[1]](https://badlands.substack.com/p/america-for-sale-part-2) The author observes that these align closely with the Trump agenda: ending the two-tier justice system, an executive order on crimes against humanity, ending illegal immigration, protecting American intellectual property, breaking up monopolies, and an internet bill of rights.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+The article enumerates the Senate Judiciary Committee's oversight functions: overseeing the [[department-of-justice|Department of Justice]], considering executive and judicial nominations, reviewing pending legislation, holding hearings and investigations, and exercising legislative jurisdiction.1(https://badlands.substack.com/p/america-for-sale-part-2) Its legislative jurisdiction covers proposed constitutional amendments and legislation on federal criminal law, human rights law, immigration, intellectual property, antitrust law and internet privacy.1(https://badlands.substack.com/p/america-for-sale-part-2) The author observes that these align closely with the Trump agenda: ending the two-tier justice system, an executive order on crimes against humanity, ending illegal immigration, protecting American intellectual property, breaking up monopolies, and an internet bill of rights.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
-Grassley's authority over the DOJ is described as especially significant given the extent to which the author believes Obama corrupted and weaponized that department.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+Grassley's authority over the DOJ is described as especially significant given the extent to which the author believes Obama corrupted and weaponized that department.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
 ## The treason evidence
 
-Grassley was one of the three legislators — with Goodlatte and Gowdy — whose request prompted Attorney General [[jeff-sessions|Jeff Sessions]] to launch the [[john-huber|Huber]] investigation.[[1]](https://badlands.substack.com/p/america-for-sale-part-2) The article asserts that Grassley is sitting on evidence of treason from the Goodlatte and Gowdy investigations, evidence connected to the [[clinton-foundation|Clinton Foundation]], [[huma-abedin|Huma Abedin]] and [[doug-band|Doug Band]] and the alleged money-laundering operation running through [[teneo-holdings|Teneo]].[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+Grassley was one of the three legislators — with Goodlatte and Gowdy — whose request prompted Attorney General [[jeff-sessions|Jeff Sessions]] to launch the [[john-huber|Huber]] investigation.1(https://badlands.substack.com/p/america-for-sale-part-2) The article asserts that Grassley is sitting on evidence of treason from the Goodlatte and Gowdy investigations, evidence connected to the [[clinton-foundation|Clinton Foundation]], [[huma-abedin|Huma Abedin]] and [[doug-band|Doug Band]] and the alleged money-laundering operation running through [[teneo-holdings|Teneo]].1(https://badlands.substack.com/p/america-for-sale-part-2)
 
-The author predicts Grassley will be placed at center stage to expose "treason at the highest levels," which he argues explains the extreme efforts to frame and remove Trump and to steal the 2020 and 2024 elections.[[1]](https://badlands.substack.com/p/america-for-sale-part-2) He also expects Grassley to help transform the government through new legislation intended to safeguard the future.[[1]](https://badlands.substack.com/p/america-for-sale-part-2)
+The author predicts Grassley will be placed at center stage to expose "treason at the highest levels," which he argues explains the extreme efforts to frame and remove Trump and to steal the 2020 and 2024 elections.1(https://badlands.substack.com/p/america-for-sale-part-2) He also expects Grassley to help transform the government through new legislation intended to safeguard the future.1(https://badlands.substack.com/p/america-for-sale-part-2)
 
 ## March 2026 DHS oversight hearing
 

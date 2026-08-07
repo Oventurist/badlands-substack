@@ -10,11 +10,11 @@ confidence: medium
 
 # Voting Rights Act of 1965
 
-The Voting Rights Act of 1965 is the landmark federal statute protecting the electoral franchise. Its Section 11(b) prohibits intimidation, threats, and coercion of voters and of persons aiding others to vote, and has become the principal vehicle for modern voter-intimidation litigation.[[1]](https://badlands.substack.com/p/always-fight-back)
+The Voting Rights Act of 1965 is the landmark federal statute protecting the electoral franchise. Its Section 11(b) prohibits intimidation, threats, and coercion of voters and of persons aiding others to vote, and has become the principal vehicle for modern voter-intimidation litigation.1(https://badlands.substack.com/p/always-fight-back)
 
-Two of the three counts in [[naacp-v-useip|*NAACP et al. v. USEIP et al.*]] were brought under Section 11(b).[[1]](https://badlands.substack.com/p/always-fight-back) The plaintiffs' reading of the provision derived from the 2015 law-review article [[voters-strike-back|"Voters Strike Back"]], which argued that "section 11(b) was a deliberate attempt to expand the existing laws against voter intimidation, including by eliminating any legal requirement of racial targeting," and that contemporary intimidation takes subtler forms such as aggressive poll-watching, anonymous threats of harm, frivolous and excessive voter-registration challenges, and coercion by employers.[[1]](https://badlands.substack.com/p/always-fight-back)
+Two of the three counts in [[naacp-v-useip|*NAACP et al. v. USEIP et al.*]] were brought under Section 11(b).1(https://badlands.substack.com/p/always-fight-back) The plaintiffs' reading of the provision derived from the 2015 law-review article [[voters-strike-back|"Voters Strike Back"]], which argued that "section 11(b) was a deliberate attempt to expand the existing laws against voter intimidation, including by eliminating any legal requirement of racial targeting," and that contemporary intimidation takes subtler forms such as aggressive poll-watching, anonymous threats of harm, frivolous and excessive voter-registration challenges, and coercion by employers.1(https://badlands.substack.com/p/always-fight-back)
 
-Applied to [[useip|USEIP]], that theory treated questioning the 2020 election outcome and door-to-door [[canvassing]] as intimidation. The [[us-district-court-of-colorado|District of Colorado]] rejected it for want of any evidence of objectively intimidating conduct.[[1]](https://badlands.substack.com/p/always-fight-back)
+Applied to [[useip|USEIP]], that theory treated questioning the 2020 election outcome and door-to-door [[canvassing]] as intimidation. The [[us-district-court-of-colorado|District of Colorado]] rejected it for want of any evidence of objectively intimidating conduct.1(https://badlands.substack.com/p/always-fight-back)
 
 ## Section 2 and redistricting after Callais
 

@@ -22,7 +22,7 @@ The author presents this as deliberate: a systems-wide shift driven by those who
 
 ## Behaviorism
 
-The essay attributes the practical machinery of the shift to the behaviorists, naming [[b-f-skinner|B. F. Skinner]] (operant conditioning, rewards or punishments), [[edward-thorndike|Edward Thorndike]] (the Law of Effect, "honey vs vinegar") and [[ivan-pavlov|Ivan Pavlov]] (classical conditioning), who are said to have seen humans "not as beings of light and story, but as reactionary meat waiting to be conditioned."[1] Their methods, the author writes, were weaponized: standardized testing replaced story, behavioral psychology edged out mythic development, and "Skinner's boxes" became classrooms.[1] The mystery of the cosmos was shrunk into stimulus and response.[1]
+The essay attributes the practical machinery of the shift to the behaviorists, naming [[b-f-skinner|B. F. Skinner]] (operant conditioning, rewards or punishments), Edward Thorndike (the Law of Effect, "honey vs vinegar") and [[ivan-pavlov|Ivan Pavlov]] (classical conditioning), who are said to have seen humans "not as beings of light and story, but as reactionary meat waiting to be conditioned."[1] Their methods, the author writes, were weaponized: standardized testing replaced story, behavioral psychology edged out mythic development, and "Skinner's boxes" became classrooms.[1] The mystery of the cosmos was shrunk into stimulus and response.[1]
 
 ## Consequences and reversal
 

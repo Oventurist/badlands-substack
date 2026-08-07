@@ -10,9 +10,9 @@ confidence: medium
 
 # 60 Minutes
 
-60 Minutes is the [[cbs|CBS]] newsmagazine program at the center of a $10 billion lawsuit filed by [[donald-trump|Donald Trump]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+60 Minutes is the [[cbs|CBS]] newsmagazine program at the center of a $10 billion lawsuit filed by [[donald-trump|Donald Trump]].1(https://badlands.substack.com/p/a-new-hollywood)
 
-During the most recent presidential campaign, 60 Minutes conducted an interview with [[kamala-harris|Kamala Harris]] that was quickly found to have been edited to make her look better, chiefly by removing unintelligible word-salad from her answers.[[1]](https://badlands.substack.com/p/a-new-hollywood) Trump characterized the edit as election tampering and sued CBS for $10 billion.[[1]](https://badlands.substack.com/p/a-new-hollywood) The suit was initially dismissed as frivolous by Trump critics and CBS leadership, but [[paramount-global|Paramount Global]] — CBS's parent, then in the midst of a merger with [[skydance-media|Skydance Media]] — subsequently discussed settling out of court.[[1]](https://badlands.substack.com/p/a-new-hollywood) [[erik-carlson|Erik Carlson]] treats the episode as evidence of shifting control over legacy media institutions.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+During the most recent presidential campaign, 60 Minutes conducted an interview with [[kamala-harris|Kamala Harris]] that was quickly found to have been edited to make her look better, chiefly by removing unintelligible word-salad from her answers.1(https://badlands.substack.com/p/a-new-hollywood) Trump characterized the edit as election tampering and sued CBS for $10 billion.1(https://badlands.substack.com/p/a-new-hollywood) The suit was initially dismissed as frivolous by Trump critics and CBS leadership, but [[paramount-global|Paramount Global]] — CBS's parent, then in the midst of a merger with [[skydance-media|Skydance Media]] — subsequently discussed settling out of court.1(https://badlands.substack.com/p/a-new-hollywood) [[erik-carlson|Erik Carlson]] treats the episode as evidence of shifting control over legacy media institutions.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Netanyahu interview (May 2026)
 

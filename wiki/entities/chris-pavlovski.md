@@ -10,15 +10,15 @@ confidence: medium
 
 # Chris Pavlovski
 
-**Chris Pavlovski** is the chief executive of [[rumble]], the video platform Badlands Media identifies as the censorship regime's primary target ahead of the 2024 election.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+**Chris Pavlovski** is the chief executive of [[rumble]], the video platform Badlands Media identifies as the censorship regime's primary target ahead of the 2024 election.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Position relative to Musk
 
-Pavlovski does not have even a fraction of the resources available to [[elon-musk|Elon Musk]], yet is described as challenging the censorship regime even more intensely than [[x-twitter|X]] is.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) That asymmetry leaves Rumble in a considerably more vulnerable position and, in the article's assessment, potentially a higher-priority target for governments, media outlets and watchdog organisations.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+Pavlovski does not have even a fraction of the resources available to [[elon-musk|Elon Musk]], yet is described as challenging the censorship regime even more intensely than [[x-twitter|X]] is.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) That asymmetry leaves Rumble in a considerably more vulnerable position and, in the article's assessment, potentially a higher-priority target for governments, media outlets and watchdog organisations.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Refusal to comply
 
-Under Pavlovski, Rumble rejected the French government's demand that Russian news sources be removed, choosing instead to switch off access for France entirely, and has resisted subsequent demands to deplatform [[russell-brand|Russell Brand]].[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Badlands Media credits this hard stance with making its own work possible.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+Under Pavlovski, Rumble rejected the French government's demand that Russian news sources be removed, choosing instead to switch off access for France entirely, and has resisted subsequent demands to deplatform [[russell-brand|Russell Brand]].1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Badlands Media credits this hard stance with making its own work possible.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## May 2024 congressional testimony
 

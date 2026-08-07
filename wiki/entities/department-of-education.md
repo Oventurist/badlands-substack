@@ -10,11 +10,11 @@ confidence: medium
 
 # Department of Education
 
-The United States Department of Education is the federal agency that would carry out the central enforcement function of the [[antisemitism-awareness-act|Antisemitism Awareness Act]].[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+The United States Department of Education is the federal agency that would carry out the central enforcement function of the [[antisemitism-awareness-act|Antisemitism Awareness Act]].1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-The act, which passed the U.S. House in May 2024 by a vote of 320–91, would codify the [[ihra-definition-of-antisemitism|International Holocaust Remembrance Alliance definition of antisemitism]] into federal civil rights law and direct the Department of Education to use that definition when investigating antisemitic discrimination on college campuses.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+The act, which passed the U.S. House in May 2024 by a vote of 320–91, would codify the [[ihra-definition-of-antisemitism|International Holocaust Remembrance Alliance definition of antisemitism]] into federal civil rights law and direct the Department of Education to use that definition when investigating antisemitic discrimination on college campuses.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
-Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] argues that because the IHRA definition's examples are overly broad or vaguely worded, departmental enforcement would inevitably be inconsistent, with political biases determining what qualifies as antisemitic.[[1]](https://badlands.substack.com/p/a-glaring-double-standard) In his account this makes the department an operational arm of the wider project of [[government-sponsored-censorship|government-sponsored censorship]] conducted under a [[hate-speech|hate speech]] rationale.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] argues that because the IHRA definition's examples are overly broad or vaguely worded, departmental enforcement would inevitably be inconsistent, with political biases determining what qualifies as antisemitic.1(https://badlands.substack.com/p/a-glaring-double-standard) In his account this makes the department an operational arm of the wider project of [[government-sponsored-censorship|government-sponsored censorship]] conducted under a [[hate-speech|hate speech]] rationale.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Foreign funding disclosure agreement (February 2026)
 

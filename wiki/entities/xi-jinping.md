@@ -10,15 +10,15 @@ confidence: medium
 
 # Xi Jinping
 
-Xi Jinping is the president of China and one of the three leaders of the founding nations of the [[shanghai-cooperation-organisation|Shanghai Cooperation Organisation]] who appeared together at the 2025 summit in Tianjin.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+Xi Jinping is the president of China and one of the three leaders of the founding nations of the [[shanghai-cooperation-organisation|Shanghai Cooperation Organisation]] who appeared together at the 2025 summit in Tianjin.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Tianjin summit
 
-Xi hosted the summit held August 31 – September 1, 2025, standing with [[vladimir-putin|Vladimir Putin]] and [[narendra-modi|Narendra Modi]] alongside other world leaders representing nearly half the world's population and 20% of world GDP.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) Together they advanced a new financial and security architecture premised on the principles of the [[tianjin-declaration|Tianjin Declaration]].[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+Xi hosted the summit held August 31 – September 1, 2025, standing with [[vladimir-putin|Vladimir Putin]] and [[narendra-modi|Narendra Modi]] alongside other world leaders representing nearly half the world's population and 20% of world GDP.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) Together they advanced a new financial and security architecture premised on the principles of the [[tianjin-declaration|Tianjin Declaration]].1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Development architecture
 
-The productive financial architecture of China and its growing array of allies is credited with having unleashed over $3 trillion in large-scale infrastructure investment through the [[belt-and-road-initiative|Belt and Road Initiative]], tied increasingly to the [[eurasian-economic-union|Eurasian Economic Union]].[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+The productive financial architecture of China and its growing array of allies is credited with having unleashed over $3 trillion in large-scale infrastructure investment through the [[belt-and-road-initiative|Belt and Road Initiative]], tied increasingly to the [[eurasian-economic-union|Eurasian Economic Union]].1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Prospective alliance with Donald Trump
 

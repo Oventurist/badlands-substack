@@ -10,9 +10,9 @@ confidence: medium
 
 # WikiLeaks
 
-WikiLeaks is the publishing organization through which, according to "A Bright Red Line," the February 2008 U.S. embassy cable from Moscow became publicly available.[[1]](https://badlands.substack.com/p/a-bright-red-line) That cable, written by [[william-burns|William Burns]], stated that Ukrainian entry into [[nato|NATO]] was "the brightest of all redlines for the Russian elite (not just Putin)" and predicted Russian meddling in Crimea and eastern Ukraine if a Membership Action Plan were offered prematurely.[[1]](https://badlands.substack.com/p/a-bright-red-line)
+WikiLeaks is the publishing organization through which, according to "A Bright Red Line," the February 2008 U.S. embassy cable from Moscow became publicly available.1(https://badlands.substack.com/p/a-bright-red-line) That cable, written by [[william-burns|William Burns]], stated that Ukrainian entry into [[nato|NATO]] was "the brightest of all redlines for the Russian elite (not just Putin)" and predicted Russian meddling in Crimea and eastern Ukraine if a Membership Action Plan were offered prematurely.1(https://badlands.substack.com/p/a-bright-red-line)
 
-The article emphasizes the evidentiary value of such disclosures: because these are internal documents never meant for public scrutiny, they are void of the typical propaganda and largely deal in geopolitical fact.[[1]](https://badlands.substack.com/p/a-bright-red-line) WikiLeaks' work is attributed jointly to [[julian-assange|Julian Assange]], listed among the independent figures who broke through the Western media consensus on the war.[[1]](https://badlands.substack.com/p/a-bright-red-line)
+The article emphasizes the evidentiary value of such disclosures: because these are internal documents never meant for public scrutiny, they are void of the typical propaganda and largely deal in geopolitical fact.1(https://badlands.substack.com/p/a-bright-red-line) WikiLeaks' work is attributed jointly to [[julian-assange|Julian Assange]], listed among the independent figures who broke through the Western media consensus on the war.1(https://badlands.substack.com/p/a-bright-red-line)
 
 ## The Podesta emails
 

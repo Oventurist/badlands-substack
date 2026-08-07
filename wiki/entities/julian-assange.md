@@ -10,15 +10,15 @@ confidence: medium
 
 # Julian Assange
 
-**Julian Assange**, the WikiLeaks publisher, is cited by Badlands Media as the archetypal case of the tactic later applied to [[russell-brand|Russell Brand]]: the deployment of sexual-abuse allegations against a figure who had won broad public sympathy.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+**Julian Assange**, the WikiLeaks publisher, is cited by Badlands Media as the archetypal case of the tactic later applied to [[russell-brand|Russell Brand]]: the deployment of sexual-abuse allegations against a figure who had won broad public sympathy.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## The allegations
 
-Once it became evident that most people empathised with Assange, allegations of sexual abuse suddenly appeared, along with an attempt to have him extradited to Sweden.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Assange immediately denounced the allegations, describing them as a smear campaign assembled by the CIA.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+Once it became evident that most people empathised with Assange, allegations of sexual abuse suddenly appeared, along with an attempt to have him extradited to Sweden.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Assange immediately denounced the allegations, describing them as a smear campaign assembled by the CIA.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Place in the playbook
 
-The article uses Assange, alongside Matt Gaetz and [[donald-trump|Donald Trump]], to argue that the [[deep-state|Deep State]] playbook is small and repetitive, rehashing the same handful of strategies against successive targets.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) The underlying mechanism is psychological: accusations of rape, even without proof or supporting evidence, reliably provoke anger, aggression and disgust in audiences regardless of whether the claims are true.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+The article uses Assange, alongside Matt Gaetz and [[donald-trump|Donald Trump]], to argue that the [[deep-state|Deep State]] playbook is small and repetitive, rehashing the same handful of strategies against successive targets.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) The underlying mechanism is psychological: accusations of rape, even without proof or supporting evidence, reliably provoke anger, aggression and disgust in audiences regardless of whether the claims are true.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## February 2024 appeal hearing
 

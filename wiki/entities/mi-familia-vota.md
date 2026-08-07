@@ -10,9 +10,9 @@ confidence: low
 
 # Mi Familia Vota
 
-Mi Familia Vota is a civic-engagement and voter-mobilization organization that served as one of the three plaintiff organizations in [[naacp-v-useip|*NAACP et al. v. USEIP et al.*]], filed March 9, 2022 in the [[us-district-court-of-colorado|United States District Court for the District of Colorado]].[[1]](https://badlands.substack.com/p/always-fight-back) With the [[naacp|NAACP]]'s CO/MT/WY Area Conference and the [[league-of-women-voters-colorado|League of Women Voters of Colorado]], it alleged that [[useip|USEIP]] and named defendants engaged in voter suppression, intimidation, coercion, and threats.[[1]](https://badlands.substack.com/p/always-fight-back)
+Mi Familia Vota is a civic-engagement and voter-mobilization organization that served as one of the three plaintiff organizations in [[naacp-v-useip|*NAACP et al. v. USEIP et al.*]], filed March 9, 2022 in the [[us-district-court-of-colorado|United States District Court for the District of Colorado]].1(https://badlands.substack.com/p/always-fight-back) With the [[naacp|NAACP]]'s CO/MT/WY Area Conference and the [[league-of-women-voters-colorado|League of Women Voters of Colorado]], it alleged that [[useip|USEIP]] and named defendants engaged in voter suppression, intimidation, coercion, and threats.1(https://badlands.substack.com/p/always-fight-back)
 
-Like its co-plaintiffs, Mi Familia Vota conducts political [[canvassing]] as a matter of ordinary organizational practice, a point the defense raised to argue that door-knocking is not inherently intimidating conduct.[[1]](https://badlands.substack.com/p/always-fight-back) The suit ended in July 2024 with a Rule 52(c) judgement for the defendants and an award of costs.[[1]](https://badlands.substack.com/p/always-fight-back)
+Like its co-plaintiffs, Mi Familia Vota conducts political [[canvassing]] as a matter of ordinary organizational practice, a point the defense raised to argue that door-knocking is not inherently intimidating conduct.1(https://badlands.substack.com/p/always-fight-back) The suit ended in July 2024 with a Rule 52(c) judgement for the defendants and an award of costs.1(https://badlands.substack.com/p/always-fight-back)
 
 ## Role in the nonprofit-lawfare critique
 

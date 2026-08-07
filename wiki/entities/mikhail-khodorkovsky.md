@@ -10,9 +10,9 @@ confidence: low
 
 # Mikhail Khodorkovsky
 
-Mikhail Khodorkovsky is an oligarch listed among the figures who rose out of the privatization and liberalization reforms applied to the former Soviet bloc after 1991, in the company of Oleg Deripaska, Boris Berezovsky, Mikhail Fridman, Roman Abramovich, Petro Poroshenko, Rinat Akhmetov and [[viktor-pinchuk|Viktor Pinchuk]].[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+Mikhail Khodorkovsky is an oligarch listed among the figures who rose out of the privatization and liberalization reforms applied to the former Soviet bloc after 1991, in the company of Oleg Deripaska, Boris Berezovsky, Mikhail Fridman, Roman Abramovich, Petro Poroshenko, Rinat Akhmetov and [[viktor-pinchuk|Viktor Pinchuk]].1(https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 
-He is named as one of the high-level contacts [[chrystia-freeland|Chrystia Freeland]] made among Ukrainian, Russian and Western oligarchs.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems) [[matthew-ehret|Matthew Ehret]] notes that many oligarchs of this class purchased houses in the swank upmarket sections of London, an area that came to be known as "Moscow on Thames," and that when [[vladimir-putin|Vladimir Putin]] began exiling unrepentant oligarchs they quickly made their way to London, where many became disposable playthings of the British Empire.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+He is named as one of the high-level contacts [[chrystia-freeland|Chrystia Freeland]] made among Ukrainian, Russian and Western oligarchs.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems) [[matthew-ehret|Matthew Ehret]] notes that many oligarchs of this class purchased houses in the swank upmarket sections of London, an area that came to be known as "Moscow on Thames," and that when [[vladimir-putin|Vladimir Putin]] began exiling unrepentant oligarchs they quickly made their way to London, where many became disposable playthings of the British Empire.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 
 ## Yukos and the Putin de-privatization
 

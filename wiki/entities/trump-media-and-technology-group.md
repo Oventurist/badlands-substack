@@ -10,13 +10,13 @@ confidence: low
 
 # Trump Media and Technology Group
 
-Trump Media is [[donald-trump|Donald Trump]]'s media venture, parent of [[truth-social|Truth Social]], and the subject of the blocked merger [[erik-carlson|Erik Carlson]] cites in *A Virus, or a Metaphor?*[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+Trump Media is [[donald-trump|Donald Trump]]'s media venture, parent of [[truth-social|Truth Social]], and the subject of the blocked merger [[erik-carlson|Erik Carlson]] cites in *A Virus, or a Metaphor?*1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
 ## The DWAC merger
 
-Carlson writes that the [[securities-and-exchange-commission|SEC]] took the unprecedented step of holding up the merger between DWAC — the special-purpose acquisition company Digital World Acquisition Corp — and Trump Media, keeping Trump from growing his media operation, including injecting money into Truth Social.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+Carlson writes that the [[securities-and-exchange-commission|SEC]] took the unprecedented step of holding up the merger between DWAC — the special-purpose acquisition company Digital World Acquisition Corp — and Trump Media, keeping Trump from growing his media operation, including injecting money into Truth Social.1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
-He offers this as one of a series of rhetorical questions intended to show that Trump has not profited from the presidency: his net worth went down after becoming POTUS, his media venture was obstructed by regulators, and the whole of the mainstream press demonizes him.[[1]](https://badlands.substack.com/p/a-virus-or-a-metaphor)
+He offers this as one of a series of rhetorical questions intended to show that Trump has not profited from the presidency: his net worth went down after becoming POTUS, his media venture was obstructed by regulators, and the whole of the mainstream press demonizes him.1(https://badlands.substack.com/p/a-virus-or-a-metaphor)
 
 ## April 2026 leadership change
 

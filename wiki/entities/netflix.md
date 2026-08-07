@@ -10,9 +10,9 @@ confidence: low
 
 # Netflix
 
-Netflix is a streaming company that appears in Badlands Media's account as an advertiser targeted in a [[media-matters|Media Matters]] campaign against [[rumble|Rumble]].[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+Netflix is a streaming company that appears in Badlands Media's account as an advertiser targeted in a [[media-matters|Media Matters]] campaign against [[rumble|Rumble]].1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
-A March 2023 Media Matters article was headlined "Ads for Netflix are appearing next to Holocaust denial videos on Rumble."[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism) Rumble's traffic data reportedly showed that the Media Matters employee was the only human to view the instance of the video carrying the Netflix advertisement, and that the video had received essentially no engagement before the article's publication on 14 March.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism) Despite the weakness of the underlying claim, Netflix pulled its advertisements from Rumble out of fear of being labeled antisemitic, achieving the campaign's intended result.[[1]](https://badlands.substack.com/p/a-cancer-on-modern-journalism)
+A March 2023 Media Matters article was headlined "Ads for Netflix are appearing next to Holocaust denial videos on Rumble."1(https://badlands.substack.com/p/a-cancer-on-modern-journalism) Rumble's traffic data reportedly showed that the Media Matters employee was the only human to view the instance of the video carrying the Netflix advertisement, and that the video had received essentially no engagement before the article's publication on 14 March.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism) Despite the weakness of the underlying claim, Netflix pulled its advertisements from Rumble out of fear of being labeled antisemitic, achieving the campaign's intended result.1(https://badlands.substack.com/p/a-cancer-on-modern-journalism)
 
 ## Warner Bros. Discovery merger and 2026 waiver
 

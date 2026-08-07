@@ -14,11 +14,11 @@ Edward Snowden is a former U.S. intelligence contractor turned whistleblower who
 
 ## NOSTR post of February 2, 2023
 
-A Badlands Brief essay marking the fifteenth anniversary of the [[concepts/bitcoin|Bitcoin]] network highlighted a February 2, 2023 post published by Snowden on the decentralized social protocol NOSTR.[1] In that post, Snowden used a story about a friend's father to illustrate what the author described as the emergent behaviors and human consequences produced by the incentive structure of the modern monetary system.[1] The post pointed to [[entities/berkshire-hathaway|Berkshire Hathaway]] executive Charlie Munger — characterized in the essay as a "bankster" — and argued that Bitcoin's technology had effectively "arrested" him, with the author emphasizing that this phenomenon occurs "block by block."[1]
+A Badlands Brief essay marking the fifteenth anniversary of the Bitcoin network highlighted a February 2, 2023 post published by Snowden on the decentralized social protocol NOSTR.[1] In that post, Snowden used a story about a friend's father to illustrate what the author described as the emergent behaviors and human consequences produced by the incentive structure of the modern monetary system.[1] The post pointed to Berkshire Hathaway executive Charlie Munger — characterized in the essay as a "bankster" — and argued that Bitcoin's technology had effectively "arrested" him, with the author emphasizing that this phenomenon occurs "block by block."[1]
 
 ## Interpretation in Badlands commentary
 
-The essay's author, writing under the Patriots in Progress banner, treated Snowden's remarks as corroboration of a broader thesis: that Bitcoin functions as a continuous mechanism of indictment and arrest against what the author called the "system of slavery," rather than as a mere financial asset.[1] Snowden's framing was placed alongside a 2014 statement by [[entities/julian-assange|Julian Assange]] on cryptography's capacity to defend its users "against even the full might of the superpower," and alongside U.S. Space Force officer [[entities/jason-lowery|Jason Lowery]]'s theory of non-kinetic power projection.[1]
+The essay's author, writing under the Patriots in Progress banner, treated Snowden's remarks as corroboration of a broader thesis: that Bitcoin functions as a continuous mechanism of indictment and arrest against what the author called the "system of slavery," rather than as a mere financial asset.[1] Snowden's framing was placed alongside a 2014 statement by Julian Assange on cryptography's capacity to defend its users "against even the full might of the superpower," and alongside U.S. Space Force officer Jason Lowery's theory of non-kinetic power projection.[1]
 
 ## Treatment in the Q drops
 

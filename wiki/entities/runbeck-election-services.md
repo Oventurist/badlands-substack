@@ -10,9 +10,9 @@ confidence: low
 
 # Runbeck Election Services
 
-Runbeck Election Services is a private election-services vendor used by [[maricopa-county|Maricopa County]], Arizona, for ballot printing and related ballot handling. Transport trucks running between the county's voting operation and the vendor were the subject of one of the explanatory videos posted by [[maricopa-county-board-of-supervisors|Board of Supervisors]] chairman [[bill-gates-arizona|Bill Gates]] on the county's official Twitter account during the weekend after the [[2022-arizona-general-election|2022 general election]].[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero)
+Runbeck Election Services is a private election-services vendor used by [[maricopa-county|Maricopa County]], Arizona, for ballot printing and related ballot handling. Transport trucks running between the county's voting operation and the vendor were the subject of one of the explanatory videos posted by [[maricopa-county-board-of-supervisors|Board of Supervisors]] chairman [[bill-gates-arizona|Bill Gates]] on the county's official Twitter account during the weekend after the [[2022-arizona-general-election|2022 general election]].1(https://badlands.substack.com/p/an-sos-from-ground-zero)
 
-Runbeck was already a subject of scrutiny in [[badlands-media|Badlands Media]] contributor [[kitty-gillespie|Kitty Gillespie]]'s reporting: she had devoted a November 14, 2022 article, "The Plot Thickens in Maricopa County," to the company.[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero) She noted with interest that a [[qanon|Q]] drop dated November 18, 2022 also mentioned Runbeck, treating the coincidence of timing as corroboration of the vendor's significance.[[1]](https://badlands.substack.com/p/an-sos-from-ground-zero)
+Runbeck was already a subject of scrutiny in [[badlands-media|Badlands Media]] contributor [[kitty-gillespie|Kitty Gillespie]]'s reporting: she had devoted a November 14, 2022 article, "The Plot Thickens in Maricopa County," to the company.1(https://badlands.substack.com/p/an-sos-from-ground-zero) She noted with interest that a [[qanon|Q]] drop dated November 18, 2022 also mentioned Runbeck, treating the coincidence of timing as corroboration of the vendor's significance.1(https://badlands.substack.com/p/an-sos-from-ground-zero)
 
 ## Allegations in the Lake contest
 

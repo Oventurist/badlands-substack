@@ -10,9 +10,9 @@ confidence: medium
 
 # David Ellison
 
-David Ellison runs [[skydance-media|Skydance Media]] and is the son of [[larry-ellison|Larry Ellison]], cofounder of the technology company [[oracle|Oracle]].[[1]](https://badlands.substack.com/p/a-new-hollywood) In "A New Hollywood," [[erik-carlson|Erik Carlson]] identifies him as the executive who will eventually control [[paramount-global|Paramount Global]] once the Skydance merger completes, placing [[cbs|CBS]], [[showtime|Showtime]] and Paramount+ under a family closely allied with [[donald-trump|Donald Trump]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+David Ellison runs [[skydance-media|Skydance Media]] and is the son of [[larry-ellison|Larry Ellison]], cofounder of the technology company [[oracle|Oracle]].1(https://badlands.substack.com/p/a-new-hollywood) In "A New Hollywood," [[erik-carlson|Erik Carlson]] identifies him as the executive who will eventually control [[paramount-global|Paramount Global]] once the Skydance merger completes, placing [[cbs|CBS]], [[showtime|Showtime]] and Paramount+ under a family closely allied with [[donald-trump|Donald Trump]].1(https://badlands.substack.com/p/a-new-hollywood)
 
-Under Ellison, Skydance produced *Top Gun: Maverick*, the *Mission Impossible* films and *Jack Reacher*, along with the television series *Reacher* and *Jack Ryan* — a slate Carlson reads as evidence of a pro-American, intelligence-and-military-themed turn in [[hollywood|Hollywood]] output.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Under Ellison, Skydance produced *Top Gun: Maverick*, the *Mission Impossible* films and *Jack Reacher*, along with the television series *Reacher* and *Jack Ryan* — a slate Carlson reads as evidence of a pro-American, intelligence-and-military-themed turn in [[hollywood|Hollywood]] output.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Paramount and CBS News takeover
 

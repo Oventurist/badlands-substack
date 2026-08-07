@@ -10,27 +10,27 @@ confidence: medium
 
 # Elon Musk
 
-**Elon Musk** is the entrepreneur who acquired Twitter, now [[x-twitter|X]], and in Badlands Media's account a figure whose public reputation was inverted by the establishment the moment he moved against the censorship regime.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+**Elon Musk** is the entrepreneur who acquired Twitter, now [[x-twitter|X]], and in Badlands Media's account a figure whose public reputation was inverted by the establishment the moment he moved against the censorship regime.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Reversal of establishment favour
 
-Musk had been revered as a brilliant, quirky entrepreneur and the great tycoon of the modern age; the article describes the establishment turning on him overnight once he announced his plan to buy Twitter.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Beyond attacks from what the author calls former watchdog organisations, a number of formal investigations into Musk and his companies materialised that had not existed before he challenged the censorship regime.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+Musk had been revered as a brilliant, quirky entrepreneur and the great tycoon of the modern age; the article describes the establishment turning on him overnight once he announced his plan to buy Twitter.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Beyond attacks from what the author calls former watchdog organisations, a number of formal investigations into Musk and his companies materialised that had not existed before he challenged the censorship regime.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## The ADL campaign
 
-The [[anti-defamation-league|Anti-Defamation League]] mounted an advertiser- and reputation-pressure effort against Musk after he refused to satisfy its demands, a campaign the article treats as part of the same coordinated four-year offensive that produced the [[online-safety-bill|Online Safety Bill]] and the [[russell-brand|Russell Brand]] affair.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+The [[anti-defamation-league|Anti-Defamation League]] mounted an advertiser- and reputation-pressure effort against Musk after he refused to satisfy its demands, a campaign the article treats as part of the same coordinated four-year offensive that produced the [[online-safety-bill|Online Safety Bill]] and the [[russell-brand|Russell Brand]] affair.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## Position in the information war
 
-The article places X and [[rumble]] together as the frontlines of the information war, arguing that Truth Social, while useful, functions largely as an echo chamber.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) The establishment's objectives are described as taking Rumble out and reverting Twitter to its previous state.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Musk's comparatively vast resources are contrasted with those of Rumble's [[chris-pavlovski|Chris Pavlovski]], who is said to be challenging the regime more intensely with far less protection.[[1]](https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
+The article places X and [[rumble]] together as the frontlines of the information war, arguing that Truth Social, while useful, functions largely as an echo chamber.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) The establishment's objectives are described as taking Rumble out and reverting Twitter to its previous state.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship) Musk's comparatively vast resources are contrasted with those of Rumble's [[chris-pavlovski|Chris Pavlovski]], who is said to be challenging the regime more intensely with far less protection.1(https://badlands.substack.com/p/5gw-counter-offensive-the-censorship)
 
 ## TikTok proposal
 
-In "A New Hollywood," [[erik-carlson|Erik Carlson]] notes that while rolling out [[project-stargate|Project Stargate]], [[donald-trump|Donald Trump]] suggested that either Musk or [[larry-ellison|Larry Ellison]] buy [[tiktok|TikTok]].[[2]](https://badlands.substack.com/p/a-new-hollywood) Carlson uses the pairing to argue that Ellison, like Musk, is a major part of Trump's forward plan, and rejects the framing that past tech-sector ties to DARPA or the [[cia|CIA]] make such figures compromised.[[2]](https://badlands.substack.com/p/a-new-hollywood)
+In "A New Hollywood," [[erik-carlson|Erik Carlson]] notes that while rolling out [[project-stargate|Project Stargate]], [[donald-trump|Donald Trump]] suggested that either Musk or [[larry-ellison|Larry Ellison]] buy [[tiktok|TikTok]].2(https://badlands.substack.com/p/a-new-hollywood) Carlson uses the pairing to argue that Ellison, like Musk, is a major part of Trump's forward plan, and rejects the framing that past tech-sector ties to DARPA or the [[cia|CIA]] make such figures compromised.2(https://badlands.substack.com/p/a-new-hollywood)
 
 ## "Prosecute/Fauci"
 
-In December 2022, Musk announced by tweet that his pronouns were "Prosecute/Fauci," a declaration that [[badlands-media|Badlands Media]] contributor [[j-b-white|J.B. White]] read as a signal that accountability for [[anthony-fauci|Anthony Fauci]] was near.[[3]](https://badlands.substack.com/p/anthony-fauci) White paired the remark with the ongoing [[twitter-files|Twitter Files]] releases published under Musk's ownership of [[x-twitter|Twitter]], which he described as exposing remarkable wrongdoing by a collection of officials he considered unworthy of American public service.[[3]](https://badlands.substack.com/p/anthony-fauci)
+In December 2022, Musk announced by tweet that his pronouns were "Prosecute/Fauci," a declaration that [[badlands-media|Badlands Media]] contributor [[j-b-white|J.B. White]] read as a signal that accountability for [[anthony-fauci|Anthony Fauci]] was near.3(https://badlands.substack.com/p/anthony-fauci) White paired the remark with the ongoing [[twitter-files|Twitter Files]] releases published under Musk's ownership of [[x-twitter|Twitter]], which he described as exposing remarkable wrongdoing by a collection of officials he considered unworthy of American public service.3(https://badlands.substack.com/p/anthony-fauci)
 
 ## Population collapse
 

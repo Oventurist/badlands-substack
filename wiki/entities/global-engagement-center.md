@@ -10,15 +10,15 @@ confidence: medium
 
 # Global Engagement Center
 
-The Global Engagement Center (GEC) was an office established within the [[state-department|U.S. State Department]] under the Under Secretary for Public Diplomacy and Public Affairs, created by [[barack-obama|Barack Obama]] in connection with the [[countering-foreign-propaganda-and-disinformation-act-of-2016|Countering Foreign Propaganda and Disinformation Act of 2016]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The Global Engagement Center (GEC) was an office established within the [[state-department|U.S. State Department]] under the Under Secretary for Public Diplomacy and Public Affairs, created by [[barack-obama|Barack Obama]] in connection with the [[countering-foreign-propaganda-and-disinformation-act-of-2016|Countering Foreign Propaganda and Disinformation Act of 2016]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Mandate
 
-Its stated purpose was "to direct, lead, synchronize, integrate, and coordinate U.S. Federal Government efforts to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at undermining or influencing the policies, security, or stability of the United States, its allies, and partner nations."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Its stated purpose was "to direct, lead, synchronize, integrate, and coordinate U.S. Federal Government efforts to recognize, understand, expose, and counter foreign state and non-state propaganda and disinformation efforts aimed at undermining or influencing the policies, security, or stability of the United States, its allies, and partner nations."1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Badlands critique
 
-Badlands Media presents the GEC's creation as an admission that the [[centralized-media|mainstream media]] was already terminal before [[donald-trump|Donald Trump]]'s rise, and as a foundational institution of what independent journalists call the [[censorship-industrial-complex|Censorship Industrial Complex]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) The article contends that the apparatus enabled a durable strategy of labeling any incriminating evidence of establishment corruption "Russian disinformation" — a tactic it says persists today.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Badlands Media presents the GEC's creation as an admission that the [[centralized-media|mainstream media]] was already terminal before [[donald-trump|Donald Trump]]'s rise, and as a foundational institution of what independent journalists call the [[censorship-industrial-complex|Censorship Industrial Complex]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm) The article contends that the apparatus enabled a durable strategy of labeling any incriminating evidence of establishment corruption "Russian disinformation" — a tactic it says persists today.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Shutdown before the second Trump term
 

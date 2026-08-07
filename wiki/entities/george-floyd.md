@@ -10,13 +10,13 @@ confidence: medium
 
 # George Floyd
 
-George Floyd is the subject of the 2020 incident that Erik Carlson presents as the most recent instalment in an alleged thirty-year cycle of [[manufactured-race-riots|manufactured race riots]].[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+George Floyd is the subject of the 2020 incident that Erik Carlson presents as the most recent instalment in an alleged thirty-year cycle of [[manufactured-race-riots|manufactured race riots]].1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## Treatment in the article
 
-Carlson describes the Floyd incident as "very Rodney King-like," producing a similar reaction: BLM protests that led to violence, destruction and looting.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths) He notes that because the event is close to the present and because so many people now question what they see, many readers believe the killing was completely staged, or at minimum that something about it is not right.[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+Carlson describes the Floyd incident as "very Rodney King-like," producing a similar reaction: BLM protests that led to violence, destruction and looting.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths) He notes that because the event is close to the present and because so many people now question what they see, many readers believe the killing was completely staged, or at minimum that something about it is not right.1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
-Floyd's case is paired with the 1991 [[rodney-king|Rodney King]] beating and the [[la-riots-1992|1992 Los Angeles riots]] roughly thirty years earlier, alongside Watts in 1965 and Harlem in 1935, to establish the pattern Carlson attributes to the [[deep-state-cabal|Deep State Cabal]].[[1]](https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
+Floyd's case is paired with the 1991 [[rodney-king|Rodney King]] beating and the [[la-riots-1992|1992 Los Angeles riots]] roughly thirty years earlier, alongside Watts in 1965 and Harlem in 1935, to establish the pattern Carlson attributes to the [[deep-state-cabal|Deep State Cabal]].1(https://badlands.substack.com/p/a-journey-of-ever-changing-truths)
 
 ## 2023 Tucker Carlson segment
 

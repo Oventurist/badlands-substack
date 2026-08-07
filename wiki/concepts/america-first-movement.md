@@ -10,19 +10,19 @@ confidence: medium
 
 # America First Movement
 
-The **America First movement**, used largely interchangeably with MAGA in Badlands Media commentary, is the populist political current organized around [[donald-trump|Donald Trump]] and oriented toward national sovereignty and the restoration of what its adherents regard as the greatness inherent and implied in the American founding.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+The **America First movement**, used largely interchangeably with MAGA in Badlands Media commentary, is the populist political current organized around [[donald-trump|Donald Trump]] and oriented toward national sovereignty and the restoration of what its adherents regard as the greatness inherent and implied in the American founding.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## Fracture and cohesion
 
-In November 2022 the movement was described as passing through contentious times, with negative emotion and frustration widely felt and, in the author's view, not without merit.[[1]](https://badlands.substack.com/p/all-assets-deployed) The central claim advanced was that MAGA fractures only if its members allow it to; the emergence of hostile actors "out of the woodwork" was reframed as exposure, on the principle that sunlight is the best disinfectant and that disclosure must precede justice.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+In November 2022 the movement was described as passing through contentious times, with negative emotion and frustration widely felt and, in the author's view, not without merit.1(https://badlands.substack.com/p/all-assets-deployed) The central claim advanced was that MAGA fractures only if its members allow it to; the emergence of hostile actors "out of the woodwork" was reframed as exposure, on the principle that sunlight is the best disinfectant and that disclosure must precede justice.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## The expectation game
 
-Much of the movement's distress was attributed to what the author called the expectation game — a serpent that has bitten everyone, and one whose scars should be worn not as a mark of shame but as evidence of perceptive, engaged and discerning minds.[[1]](https://badlands.substack.com/p/all-assets-deployed) Claims of goalpost-moving or "hopium" — the Doomer's Refrain — were acknowledged, but set against the argument that the movement is engaged in the most complex fifth-generation psychological and information war ever waged, in which much is necessarily obscured.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+Much of the movement's distress was attributed to what the author called the expectation game — a serpent that has bitten everyone, and one whose scars should be worn not as a mark of shame but as evidence of perceptive, engaged and discerning minds.1(https://badlands.substack.com/p/all-assets-deployed) Claims of goalpost-moving or "hopium" — the Doomer's Refrain — were acknowledged, but set against the argument that the movement is engaged in the most complex fifth-generation psychological and information war ever waged, in which much is necessarily obscured.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## Mandate and the reachable middle
 
-The article frames the movement's aim as restoration of the nation, which in turn is held to require the mandate of a great majority of fellow citizens — including those who must be dragged along kicking and screaming from what the author calls the liar's sleep.[[1]](https://badlands.substack.com/p/all-assets-deployed) This makes the awakening of the reachable middle a strategic requirement rather than an optional courtesy.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+The article frames the movement's aim as restoration of the nation, which in turn is held to require the mandate of a great majority of fellow citizens — including those who must be dragged along kicking and screaming from what the author calls the liar's sleep.1(https://badlands.substack.com/p/all-assets-deployed) This makes the awakening of the reachable middle a strategic requirement rather than an optional courtesy.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## See also
 

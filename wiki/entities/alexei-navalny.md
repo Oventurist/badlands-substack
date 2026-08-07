@@ -10,9 +10,9 @@ confidence: low
 
 # Alexei Navalny
 
-Alexei Navalny is invoked in "A Bright Red Line" as the figure around whom, in Western narratives, a supposedly pro-Western segment of the Russian population is said to rally.[[1]](https://badlands.substack.com/p/a-bright-red-line) The article dismisses this as "a complete myth," describing Navalny as a puppet and arguing that the idea of a Russian constituency enamored of Western hegemony is refuted by the internal assessment of [[william-burns|William Burns]].[[1]](https://badlands.substack.com/p/a-bright-red-line)
+Alexei Navalny is invoked in "A Bright Red Line" as the figure around whom, in Western narratives, a supposedly pro-Western segment of the Russian population is said to rally.1(https://badlands.substack.com/p/a-bright-red-line) The article dismisses this as "a complete myth," describing Navalny as a puppet and arguing that the idea of a Russian constituency enamored of Western hegemony is refuted by the internal assessment of [[william-burns|William Burns]].1(https://badlands.substack.com/p/a-bright-red-line)
 
-Burns reported that across more than two and a half years of conversations with key Russian players, "from knuckle-draggers in the dark recesses of the Kremlin to Putin's sharpest liberal critics," he had found no one who viewed Ukraine in [[nato|NATO]] as anything other than a direct challenge to Russian interests — evidence, Badlands argues, that the Russian people, though not always in complete agreement, are united against NATO encroachment.[[1]](https://badlands.substack.com/p/a-bright-red-line)
+Burns reported that across more than two and a half years of conversations with key Russian players, "from knuckle-draggers in the dark recesses of the Kremlin to Putin's sharpest liberal critics," he had found no one who viewed Ukraine in [[nato|NATO]] as anything other than a direct challenge to Russian interests — evidence, Badlands argues, that the Russian people, though not always in complete agreement, are united against NATO encroachment.1(https://badlands.substack.com/p/a-bright-red-line)
 
 ## Death and Ukrainian intelligence assessment
 

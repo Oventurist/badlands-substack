@@ -10,9 +10,9 @@ confidence: medium
 
 # Paul Warburg
 
-Paul Warburg was one of the seven participants in the secret 1910 meeting at the [[jekyll-island-club|Jekyll Island Club]] that produced the plan to transform the monetary system of the United States.[[1]](https://badlands.substack.com/p/1913)
+Paul Warburg was one of the seven participants in the secret 1910 meeting at the [[jekyll-island-club|Jekyll Island Club]] that produced the plan to transform the monetary system of the United States.1(https://badlands.substack.com/p/1913)
 
-The article identifies Warburg as an employee of Jacob Schiff who had family ties with the Rothschilds.[[1]](https://badlands.substack.com/p/1913) He was later singled out by name in the [[pujo-committee|Pujo Committee]]'s report on the banking trade, alongside Jacob H. Schiff, Felix M. Warburg, Frank E. Peabody, William Rockefeller, and [[benjamin-strong|Benjamin Strong Jr.]][[1]](https://badlands.substack.com/p/1913)
+The article identifies Warburg as an employee of Jacob Schiff who had family ties with the Rothschilds.1(https://badlands.substack.com/p/1913) He was later singled out by name in the [[pujo-committee|Pujo Committee]]'s report on the banking trade, alongside Jacob H. Schiff, Felix M. Warburg, Frank E. Peabody, William Rockefeller, and [[benjamin-strong|Benjamin Strong Jr.]]1(https://badlands.substack.com/p/1913)
 
 ## Jekyll Island, 1910
 

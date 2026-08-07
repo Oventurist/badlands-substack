@@ -10,19 +10,19 @@ confidence: medium
 
 # World Bank
 
-The **World Bank** is named in Badlands Media commentary as one of the two principal [[bretton-woods-system|Bretton Woods]] institutions established in the wake of the Second World War, alongside the [[imf|International Monetary Fund]].[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+The **World Bank** is named in Badlands Media commentary as one of the two principal [[bretton-woods-system|Bretton Woods]] institutions established in the wake of the Second World War, alongside the [[imf|International Monetary Fund]].1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Origins and intended purpose
 
-In [[matthew-ehret|Matthew Ehret]]'s account, the financial system agreed at Bretton Woods was assembled in two weeks and founded upon principles of banking that demanded fixed exchange rates in order to block unbounded speculation — a practice he describes as having been used as economic warfare against poor nations for centuries.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) The system was premised originally on the emission of long-term credit for large-scale projects, an effort to internationalise the New Deal in what was envisioned as an era of multipolar cooperation and win–win development.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+In [[matthew-ehret|Matthew Ehret]]'s account, the financial system agreed at Bretton Woods was assembled in two weeks and founded upon principles of banking that demanded fixed exchange rates in order to block unbounded speculation — a practice he describes as having been used as economic warfare against poor nations for centuries.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) The system was premised originally on the emission of long-term credit for large-scale projects, an effort to internationalise the New Deal in what was envisioned as an era of multipolar cooperation and win–win development.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Alleged post-war capture
 
-Ehret argues that the Bretton Woods institutions, including the World Bank, together with the United States government itself, were hijacked in the post-war years by deep-state operatives representing what he calls the worst oligarchical inclinations of humanity.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) Despite this, he maintains that the noble origins of these institutions should not be ignored, pointing to [[john-f-kennedy|John F. Kennedy]] — and, to a lesser but in his view relevant extent, [[donald-trump|Donald Trump]] — as figures who attempted to revive them.[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+Ehret argues that the Bretton Woods institutions, including the World Bank, together with the United States government itself, were hijacked in the post-war years by deep-state operatives representing what he calls the worst oligarchical inclinations of humanity.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation) Despite this, he maintains that the noble origins of these institutions should not be ignored, pointing to [[john-f-kennedy|John F. Kennedy]] — and, to a lesser but in his view relevant extent, [[donald-trump|Donald Trump]] — as figures who attempted to revive them.1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Contemporary contrast
 
-The essay contrasts these captured institutions with the productive financial architecture now emerging around China and its allies, including the [[belt-and-road-initiative|Belt and Road Initiative]], the [[eurasian-economic-union|Eurasian Economic Union]] and the proposed [[sco-development-bank|SCO Development Bank]].[[1]](https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
+The essay contrasts these captured institutions with the productive financial architecture now emerging around China and its allies, including the [[belt-and-road-initiative|Belt and Road Initiative]], the [[eurasian-economic-union|Eurasian Economic Union]] and the proposed [[sco-development-bank|SCO Development Bank]].1(https://badlands.substack.com/p/a-gateway-to-a-new-world-of-cooperation)
 
 ## Emerging market investment debate (2025)
 

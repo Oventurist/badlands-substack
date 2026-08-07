@@ -10,9 +10,9 @@ confidence: low
 
 # Viktor Pinchuk
 
-Viktor Pinchuk is a Ukrainian oligarch who emerged from the privatization and liberalization reforms applied to Ukraine and other Warsaw Pact countries in the years following the collapse of the Soviet system.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems) He is named alongside Petro Poroshenko, Rinat Akhmetov and [[mikhail-khodorkovsky|Mikhail Khodorkovsky]] among the Ukrainian figures of that "nouveau riche" class, and their Russian counterparts Oleg Deripaska, Boris Berezovsky, Mikhail Fridman and Roman Abramovich.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+Viktor Pinchuk is a Ukrainian oligarch who emerged from the privatization and liberalization reforms applied to Ukraine and other Warsaw Pact countries in the years following the collapse of the Soviet system.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems) He is named alongside Petro Poroshenko, Rinat Akhmetov and [[mikhail-khodorkovsky|Mikhail Khodorkovsky]] among the Ukrainian figures of that "nouveau riche" class, and their Russian counterparts Oleg Deripaska, Boris Berezovsky, Mikhail Fridman and Roman Abramovich.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 
-Pinchuk is among the high-level oligarchic contacts [[chrystia-freeland|Chrystia Freeland]] cultivated as, in [[matthew-ehret|Matthew Ehret]]'s phrase, "an asset of the global propaganda system"; he has been photographed with her.[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems) Many oligarchs of this milieu purchased houses in upmarket sections of London, a district that came to be known as "Moscow on Thames."[[1]](https://badlands.substack.com/p/a-re-alignment-of-world-systems)
+Pinchuk is among the high-level oligarchic contacts [[chrystia-freeland|Chrystia Freeland]] cultivated as, in [[matthew-ehret|Matthew Ehret]]'s phrase, "an asset of the global propaganda system"; he has been photographed with her.1(https://badlands.substack.com/p/a-re-alignment-of-world-systems) Many oligarchs of this milieu purchased houses in upmarket sections of London, a district that came to be known as "Moscow on Thames."1(https://badlands.substack.com/p/a-re-alignment-of-world-systems)
 
 ## Wealth ranking and Musk sanctions proposal (2025)
 

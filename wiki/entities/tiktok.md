@@ -10,17 +10,17 @@ confidence: medium
 
 # TikTok
 
-TikTok is described in Badlands Media commentary as a CCP-run platform whose algorithms are deliberately tuned to degrade its users.[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+TikTok is described in Badlands Media commentary as a CCP-run platform whose algorithms are deliberately tuned to degrade its users.1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
 
-[[erik-carlson|Erik Carlson]] writes that "we know CCP-run TikTok manipulates their algorithms so that intelligent things go to the bottom and stupid and degrading things go to the top, so more people see them," with the result that "stupidity and degradation are rewarded."[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+[[erik-carlson|Erik Carlson]] writes that "we know CCP-run TikTok manipulates their algorithms so that intelligent things go to the bottom and stupid and degrading things go to the top, so more people see them," with the result that "stupidity and degradation are rewarded."1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
 
-He describes the effect on users, and particularly young people, as a pursuit of likes, views, adoration and approval that they believe they need — without realising that every aspect of the equation is manipulated through [[artificial-intelligence-manipulation|artificial intelligence]].[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america) TikTok functions in the article as the clearest documented instance of a broader claim that social-media interactions people believe to be human are in substantial part AI-driven.[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+He describes the effect on users, and particularly young people, as a pursuit of likes, views, adoration and approval that they believe they need — without realising that every aspect of the equation is manipulated through [[artificial-intelligence-manipulation|artificial intelligence]].1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america) TikTok functions in the article as the clearest documented instance of a broader claim that social-media interactions people believe to be human are in substantial part AI-driven.1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
 
-Within the article's argument, this algorithmic degradation is a mechanism of the first stage of the [[communist-takeover-of-america|Communist takeover]] — the stripping away of American identity, values and morals before the economy is destroyed.[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+Within the article's argument, this algorithmic degradation is a mechanism of the first stage of the [[communist-takeover-of-america|Communist takeover]] — the stripping away of American identity, values and morals before the economy is destroyed.1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
 
 ## Proposed American buyers
 
-In "A New Hollywood," [[erik-carlson|Erik Carlson]] records that, at the same time he rolled out [[project-stargate|Project Stargate]], [[donald-trump|Donald Trump]] suggested that either [[elon-musk|Elon Musk]] or [[oracle|Oracle]] cofounder [[larry-ellison|Larry Ellison]] buy TikTok.[[2]](https://badlands.substack.com/p/a-new-hollywood) Carlson cites the suggestion as evidence that Ellison is a significant part of Trump's plans going forward.[[2]](https://badlands.substack.com/p/a-new-hollywood)
+In "A New Hollywood," [[erik-carlson|Erik Carlson]] records that, at the same time he rolled out [[project-stargate|Project Stargate]], [[donald-trump|Donald Trump]] suggested that either [[elon-musk|Elon Musk]] or [[oracle|Oracle]] cofounder [[larry-ellison|Larry Ellison]] buy TikTok.2(https://badlands.substack.com/p/a-new-hollywood) Carlson cites the suggestion as evidence that Ellison is a significant part of Trump's plans going forward.2(https://badlands.substack.com/p/a-new-hollywood)
 
 ## 2024 forced-divestiture legislation
 

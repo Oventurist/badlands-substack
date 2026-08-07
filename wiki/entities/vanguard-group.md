@@ -10,9 +10,9 @@ confidence: medium
 
 # The Vanguard Group
 
-The Vanguard Group is a major American asset manager named by Badlands Media among the institutional investors whose common shareholdings unify the mainstream media conglomerates.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The Vanguard Group is a major American asset manager named by Badlands Media among the institutional investors whose common shareholdings unify the mainstream media conglomerates.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
-Badlands argues that the apparent competition among the "Big Six" media companies is illusory because Vanguard, [[blackrock|BlackRock]], [[state-street|State Street]] and [[berkshire-hathaway|Berkshire Hathaway]] hold overlapping ownership stakes across all of them.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) The article further notes that representatives of these asset managers remain regular participants in elite policy forums such as the [[council-on-foreign-relations|Council on Foreign Relations]] and the [[world-economic-forum|World Economic Forum]], linking media ownership to the wider establishment policy network.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Badlands argues that the apparent competition among the "Big Six" media companies is illusory because Vanguard, [[blackrock|BlackRock]], [[state-street|State Street]] and [[berkshire-hathaway|Berkshire Hathaway]] hold overlapping ownership stakes across all of them.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) The article further notes that representatives of these asset managers remain regular participants in elite policy forums such as the [[council-on-foreign-relations|Council on Foreign Relations]] and the [[world-economic-forum|World Economic Forum]], linking media ownership to the wider establishment policy network.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Part of the old guard
 

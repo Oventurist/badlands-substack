@@ -10,9 +10,9 @@ confidence: medium
 
 # Project Stargate
 
-Project Stargate is the plan, rolled out by [[donald-trump|Donald Trump]], for the United States to invest $500 billion into artificial intelligence infrastructure in partnership with [[oracle|Oracle]], [[openai|OpenAI]] and [[softbank|SoftBank]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Project Stargate is the plan, rolled out by [[donald-trump|Donald Trump]], for the United States to invest $500 billion into artificial intelligence infrastructure in partnership with [[oracle|Oracle]], [[openai|OpenAI]] and [[softbank|SoftBank]].1(https://badlands.substack.com/p/a-new-hollywood)
 
-In "A New Hollywood," [[erik-carlson|Erik Carlson]] cites Stargate as evidence that Oracle cofounder [[larry-ellison|Larry Ellison]] is "a big part of Trump's plan going forward," noting that Trump simultaneously suggested Ellison or [[elon-musk|Elon Musk]] buy [[tiktok|TikTok]].[[1]](https://badlands.substack.com/p/a-new-hollywood) Carlson connects the AI buildout to Hollywood output, reading *Mission Impossible: Dead Reckoning* — in which the team must stop a powerful AI from falling into the wrong hands — as a signal that America is being told it must be the power wielding "the AI sword," and not its adversaries.[[1]](https://badlands.substack.com/p/a-new-hollywood) He argues that just as AI can be used for evil, it can also be used for good.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+In "A New Hollywood," [[erik-carlson|Erik Carlson]] cites Stargate as evidence that Oracle cofounder [[larry-ellison|Larry Ellison]] is "a big part of Trump's plan going forward," noting that Trump simultaneously suggested Ellison or [[elon-musk|Elon Musk]] buy [[tiktok|TikTok]].1(https://badlands.substack.com/p/a-new-hollywood) Carlson connects the AI buildout to Hollywood output, reading *Mission Impossible: Dead Reckoning* — in which the team must stop a powerful AI from falling into the wrong hands — as a signal that America is being told it must be the power wielding "the AI sword," and not its adversaries.1(https://badlands.substack.com/p/a-new-hollywood) He argues that just as AI can be used for evil, it can also be used for good.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Announcement and the Musk–Altman dispute (January 2025)
 

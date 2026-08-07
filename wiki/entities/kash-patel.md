@@ -10,11 +10,11 @@ confidence: medium
 
 # Kash Patel
 
-**Kash Patel** is a close ally of [[donald-trump|Donald Trump]] frequently cited within Badlands Media commentary as a source of advance signalling about Trump's intentions.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+**Kash Patel** is a close ally of [[donald-trump|Donald Trump]] frequently cited within Badlands Media commentary as a source of advance signalling about Trump's intentions.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## Role in the 2022 announcement
 
-Ahead of Trump's November 2022 candidacy announcement, Patel and other close allies projected that the announcement would "light the media world on fire."[[1]](https://badlands.substack.com/p/all-assets-deployed) Badlands commentary judged that it had done exactly that — though, in the author's reading, not because the announcement itself was unexpected, but because [[con-inc|Con Inc.]] and the "DeSantis over Trump" faction would seize on a demoralized MAGA base and attempt to widen hairline fractures into open division.[[1]](https://badlands.substack.com/p/all-assets-deployed)
+Ahead of Trump's November 2022 candidacy announcement, Patel and other close allies projected that the announcement would "light the media world on fire."1(https://badlands.substack.com/p/all-assets-deployed) Badlands commentary judged that it had done exactly that — though, in the author's reading, not because the announcement itself was unexpected, but because [[con-inc|Con Inc.]] and the "DeSantis over Trump" faction would seize on a demoralized MAGA base and attempt to widen hairline fractures into open division.1(https://badlands.substack.com/p/all-assets-deployed)
 
 ## Defamation lawsuit against The Atlantic (2026)
 

@@ -10,15 +10,15 @@ confidence: medium
 
 # CNN
 
-CNN is an American cable news network treated by Badlands Media as a core component of the [[centralized-media|centralized media]] and one of the outlets whose fortunes were temporarily revived, then abandoned, by the Trump era.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+CNN is an American cable news network treated by Badlands Media as a core component of the [[centralized-media|centralized media]] and one of the outlets whose fortunes were temporarily revived, then abandoned, by the Trump era.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## The Trump ratings cycle
 
-Badlands argues that [[donald-trump|Donald Trump]] "temporarily saved the cable TV punditry single handedly": once-disinterested liberals became obsessed with politics in the age of "the great tyrant," and flocked back to staples like CNN and [[msnbc|MSNBC]], both of which had been hemorrhaging viewers before Trump.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) The surge is described as "too little, too late" and, like all sugar highs, destined to wane.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Badlands argues that [[donald-trump|Donald Trump]] "temporarily saved the cable TV punditry single handedly": once-disinterested liberals became obsessed with politics in the age of "the great tyrant," and flocked back to staples like CNN and [[msnbc|MSNBC]], both of which had been hemorrhaging viewers before Trump.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) The surge is described as "too little, too late" and, like all sugar highs, destined to wane.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Editorial limits
 
-The article contends that "the corporate hacks at CNN" will not report on subjects covered by independent outlets such as [[the-grayzone|The Grayzone]] or [[consortium-news|Consortium News]], just as Fox News avoids the difficult topics discussed on [[badlands-media|Badlands Media]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) Although CNN and Fox appear to offer opposing perspectives, Badlands describes them as "two heads on the same wretched snake."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The article contends that "the corporate hacks at CNN" will not report on subjects covered by independent outlets such as [[the-grayzone|The Grayzone]] or [[consortium-news|Consortium News]], just as Fox News avoids the difficult topics discussed on [[badlands-media|Badlands Media]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm) Although CNN and Fox appear to offer opposing perspectives, Badlands describes them as "two heads on the same wretched snake."1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Reporting on Saudi nuclear cooperation (2026)
 

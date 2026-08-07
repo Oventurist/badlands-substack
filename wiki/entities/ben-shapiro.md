@@ -10,19 +10,19 @@ confidence: medium
 
 # Ben Shapiro
 
-Ben Shapiro is a prominent American conservative commentator and a co-founder of [[daily-wire|The Daily Wire]]. He is described by Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] as having been at the forefront of the culture war over campus [[safe-spaces|safe spaces]].[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+Ben Shapiro is a prominent American conservative commentator and a co-founder of [[daily-wire|The Daily Wire]]. He is described by Badlands Media contributor [[ryan-delarme|Ryan DeLarme]] as having been at the forefront of the culture war over campus [[safe-spaces|safe spaces]].1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Campus speech controversies
 
-When Shapiro appeared on college campuses he was met with demands that universities cancel his events so the campus could function as a safe space for anyone who disagreed with him.[[1]](https://badlands.substack.com/p/a-glaring-double-standard) He had at least five major speaking engagements canceled by universities between 2017 and 2019.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+When Shapiro appeared on college campuses he was met with demands that universities cancel his events so the campus could function as a safe space for anyone who disagreed with him.1(https://badlands.substack.com/p/a-glaring-double-standard) He had at least five major speaking engagements canceled by universities between 2017 and 2019.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Anti-cancel-culture advocacy
 
-In February 2021, Daily Wire writer Tim Pierce quoted Shapiro in a piece titled "Shapiro: Gina Carano Firing Part Of A Movement To 'Expel' Half Of America."[[1]](https://badlands.substack.com/p/a-glaring-double-standard) Shapiro discussed Disney's dismissal of actress Gina Carano — over an Instagram post comparing political hatred to the social conditions preceding the Holocaust — on his podcast, calling the firing "indicative of where we are in the culture" and "a terrible moment for American culture," and adding that the country was "in the middle of a mass social movement to expel half of the American population from the body politic."[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+In February 2021, Daily Wire writer Tim Pierce quoted Shapiro in a piece titled "Shapiro: Gina Carano Firing Part Of A Movement To 'Expel' Half Of America."1(https://badlands.substack.com/p/a-glaring-double-standard) Shapiro discussed Disney's dismissal of actress Gina Carano — over an Instagram post comparing political hatred to the social conditions preceding the Holocaust — on his podcast, calling the firing "indicative of where we are in the culture" and "a terrible moment for American culture," and adding that the country was "in the middle of a mass social movement to expel half of the American population from the body politic."1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Criticism
 
-DeLarme says he agrees with Shapiro's stated reasoning on safe spaces and [[cancel-culture|cancel culture]] but argues that Shapiro did not maintain those principles after October 7, 2023.[[1]](https://badlands.substack.com/p/a-glaring-double-standard) He names Shapiro alongside [[bari-weiss|Bari Weiss]] and [[dave-rubin|Dave Rubin]] as figures who once decried safe spaces and cancel culture but now cheer or tacitly support the silencing of Israel critics, concluding their commitment to free speech was conditional and tied to tribal loyalty rather than principle.[[1]](https://badlands.substack.com/p/a-glaring-double-standard) DeLarme also identifies [[eyal-yakoby|Eyal Yakoby]] as one of Shapiro's biggest amplifiers.[[1]](https://badlands.substack.com/p/a-glaring-double-standard)
+DeLarme says he agrees with Shapiro's stated reasoning on safe spaces and [[cancel-culture|cancel culture]] but argues that Shapiro did not maintain those principles after October 7, 2023.1(https://badlands.substack.com/p/a-glaring-double-standard) He names Shapiro alongside [[bari-weiss|Bari Weiss]] and [[dave-rubin|Dave Rubin]] as figures who once decried safe spaces and cancel culture but now cheer or tacitly support the silencing of Israel critics, concluding their commitment to free speech was conditional and tied to tribal loyalty rather than principle.1(https://badlands.substack.com/p/a-glaring-double-standard) DeLarme also identifies [[eyal-yakoby|Eyal Yakoby]] as one of Shapiro's biggest amplifiers.1(https://badlands.substack.com/p/a-glaring-double-standard)
 
 ## Opposition to the 2026 Iran deal
 

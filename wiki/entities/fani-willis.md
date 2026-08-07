@@ -10,21 +10,21 @@ confidence: medium
 
 # Fani Willis
 
-Fani Willis is the Fulton County, Georgia district attorney who obtained a sweeping state indictment against [[donald-trump|Donald Trump]] and co-defendants over efforts to contest the 2020 presidential election result in Georgia.[[1]](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
+Fani Willis is the Fulton County, Georgia district attorney who obtained a sweeping state indictment against [[donald-trump|Donald Trump]] and co-defendants over efforts to contest the 2020 presidential election result in Georgia.1(https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 
 ## The Fulton County indictment
 
-Willis's indictment contains 41 counts, and according to the article only a handful of those counts are not built on alleged "false statements" or on subsequent acts said to have arisen from those false statements — including the solicitation-of-violation-of-oath counts, which depend on the prior existence of the alleged falsehoods.[[1]](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
+Willis's indictment contains 41 counts, and according to the article only a handful of those counts are not built on alleged "false statements" or on subsequent acts said to have arisen from those false statements — including the solicitation-of-violation-of-oath counts, which depend on the prior existence of the alleged falsehoods.1(https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 
-Count 1 is a RICO charge that enumerates 161 separate "acts" said to demonstrate an organized criminal enterprise.[[1]](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in) The article characterizes a significant portion of those acts as ordinary conduct — tweets, or the sorts of conversations officials would naturally have if they were investigating [[2020-election-fraud-claims|election fraud]] — arguing that what renders them criminal in the indictment's telling is solely the presumption that they were undertaken fraudulently by people intending to overturn the election.[[1]](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
+Count 1 is a RICO charge that enumerates 161 separate "acts" said to demonstrate an organized criminal enterprise.1(https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in) The article characterizes a significant portion of those acts as ordinary conduct — tweets, or the sorts of conversations officials would naturally have if they were investigating [[2020-election-fraud-claims|election fraud]] — arguing that what renders them criminal in the indictment's telling is solely the presumption that they were undertaken fraudulently by people intending to overturn the election.1(https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 
 ## Legal critique
 
-Applying the elements-of-the-cause framework the article borrows from defamation law, the author argues that being wrong is not a crime: only knowing dishonesty would satisfy the charges.[[1]](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in) Because Trump has, in the author's assessment, never contradicted himself on the 2020 election, proving him a liar will be difficult.[[1]](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
+Applying the elements-of-the-cause framework the article borrows from defamation law, the author argues that being wrong is not a crime: only knowing dishonesty would satisfy the charges.1(https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in) Because Trump has, in the author's assessment, never contradicted himself on the 2020 election, proving him a liar will be difficult.1(https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 
 ## Speculation about motive
 
-Together with federal special counsel [[jack-smith|Jack Smith]], Willis is the subject of the article's central question: whether these prosecutions were "crafted to give Trump precisely the ammo he needs" by creating a courtroom in which suppressed election-fraud evidence must finally be heard.[[1]](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in) The author frames this as speculation rather than assertion, noting that the indictments also shift public optics in Trump's favor by making a billionaire into a mugshot-bearing target of what supporters see as a corrupt system.[[1]](https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
+Together with federal special counsel [[jack-smith|Jack Smith]], Willis is the subject of the article's central question: whether these prosecutions were "crafted to give Trump precisely the ammo he needs" by creating a courtroom in which suppressed election-fraud evidence must finally be heard.1(https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in) The author frames this as speculation rather than assertion, noting that the indictments also shift public optics in Trump's favor by making a billionaire into a mugshot-bearing target of what supporters see as a corrupt system.1(https://badlands.substack.com/p/are-jack-smith-and-fani-willis-in)
 
 ## Biden Justice Department grants
 

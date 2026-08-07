@@ -10,17 +10,17 @@ confidence: medium
 
 # Skydance Media
 
-Skydance Media is the American film and television production company run by [[david-ellison|David Ellison]], son of [[oracle|Oracle]] cofounder [[larry-ellison|Larry Ellison]].[[1]](https://badlands.substack.com/p/a-new-hollywood) In "A New Hollywood," [[erik-carlson|Erik Carlson]] identifies Skydance as the vehicle through which a Trump-aligned family will take control of [[paramount-global|Paramount Global]], and by extension [[cbs|CBS]] and [[showtime|Showtime]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Skydance Media is the American film and television production company run by [[david-ellison|David Ellison]], son of [[oracle|Oracle]] cofounder [[larry-ellison|Larry Ellison]].1(https://badlands.substack.com/p/a-new-hollywood) In "A New Hollywood," [[erik-carlson|Erik Carlson]] identifies Skydance as the vehicle through which a Trump-aligned family will take control of [[paramount-global|Paramount Global]], and by extension [[cbs|CBS]] and [[showtime|Showtime]].1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Productions
 
-Skydance produced *Top Gun: Maverick*, the *Mission Impossible* franchise, and *Jack Reacher* — a slate whose common theme, Carlson notes, is [[tom-cruise|Tom Cruise]].[[1]](https://badlands.substack.com/p/a-new-hollywood) In television it has produced *Reacher*, about an ex-military police major who uses his skills to solve crimes, and *Jack Ryan*, in which a [[cia|CIA]] analyst goes into the field to save America from foreign threats.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Skydance produced *Top Gun: Maverick*, the *Mission Impossible* franchise, and *Jack Reacher* — a slate whose common theme, Carlson notes, is [[tom-cruise|Tom Cruise]].1(https://badlands.substack.com/p/a-new-hollywood) In television it has produced *Reacher*, about an ex-military police major who uses his skills to solve crimes, and *Jack Ryan*, in which a [[cia|CIA]] analyst goes into the field to save America from foreign threats.1(https://badlands.substack.com/p/a-new-hollywood)
 
-Carlson highlights *Mission Impossible: Dead Reckoning*, released in summer 2023, whose plot involves saving the world from a powerful AI system that could be used to take over the world if it fell into the wrong hands. He observes that the film arrived roughly six months after the AI boom began with the release of ChatGPT in late 2022, and that production must have begun well before AI became a mainstream talking point — suggesting to him a deliberate warning about AI, or a message that America must be the power wielding "the AI sword."[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Carlson highlights *Mission Impossible: Dead Reckoning*, released in summer 2023, whose plot involves saving the world from a powerful AI system that could be used to take over the world if it fell into the wrong hands. He observes that the film arrived roughly six months after the AI boom began with the release of ChatGPT in late 2022, and that production must have begun well before AI became a mainstream talking point — suggesting to him a deliberate warning about AI, or a message that America must be the power wielding "the AI sword."1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Merger with Paramount
 
-The Paramount–Skydance merger is central to Carlson's argument that [[hollywood|Hollywood]] has already been infiltrated by [[donald-trump|Donald Trump]]'s allies, and to his reading of why Paramount has discussed settling Trump's $10 billion lawsuit against CBS rather than letting litigation jeopardize the deal.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+The Paramount–Skydance merger is central to Carlson's argument that [[hollywood|Hollywood]] has already been infiltrated by [[donald-trump|Donald Trump]]'s allies, and to his reading of why Paramount has discussed settling Trump's $10 billion lawsuit against CBS rather than letting litigation jeopardize the deal.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Paramount merger and CBS News
 

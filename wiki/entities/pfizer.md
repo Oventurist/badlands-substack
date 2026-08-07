@@ -10,13 +10,13 @@ confidence: medium
 
 # Pfizer
 
-**Pfizer** is an American pharmaceutical company that ranked among the five largest U.S. companies by market capitalization in 2000.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+**Pfizer** is an American pharmaceutical company that ranked among the five largest U.S. companies by market capitalization in 2000.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## Rise in 2000
 
-*America Has a CIA-Run Economy* attributes Pfizer's size at the turn of the millennium to two developments: pharmaceutical advertising being permitted on broadcast television beginning in 1997, and the public release of Viagra in 1998.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy) [[erik-carlson|Erik Carlson]] adds his general characterization of the industry — that Big Pharma pumps the public full of toxins and then sells drugs to fix what it caused.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+*America Has a CIA-Run Economy* attributes Pfizer's size at the turn of the millennium to two developments: pharmaceutical advertising being permitted on broadcast television beginning in 1997, and the public release of Viagra in 1998.1(https://badlands.substack.com/p/america-has-a-cia-run-economy) [[erik-carlson|Erik Carlson]] adds his general characterization of the industry — that Big Pharma pumps the public full of toxins and then sells drugs to fix what it caused.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
-Pfizer's presence in that year's top five is cited as evidence of how much more diversified the American corporate landscape was in 2000, when the leaders spanned energy, industrials, technology, pharmaceuticals and retail, compared with the all-AI-big-tech leadership of the [[sp-500-index|S&P 500 Index]] in 2025.[[1]](https://badlands.substack.com/p/america-has-a-cia-run-economy)
+Pfizer's presence in that year's top five is cited as evidence of how much more diversified the American corporate landscape was in 2000, when the leaders spanned energy, industrials, technology, pharmaceuticals and retail, compared with the all-AI-big-tech leadership of the [[sp-500-index|S&P 500 Index]] in 2025.1(https://badlands.substack.com/p/america-has-a-cia-run-economy)
 
 ## 2026 blocked safety studies
 

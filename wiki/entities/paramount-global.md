@@ -10,23 +10,23 @@ confidence: medium
 
 # Paramount Global
 
-Paramount Global is the American media conglomerate that owns [[cbs|CBS]], [[showtime|Showtime]] and the Paramount+ streaming service. In "A New Hollywood," [[erik-carlson|Erik Carlson]] identifies the company as the hub of what he reads as a pro-Trump realignment inside [[hollywood|Hollywood]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Paramount Global is the American media conglomerate that owns [[cbs|CBS]], [[showtime|Showtime]] and the Paramount+ streaming service. In "A New Hollywood," [[erik-carlson|Erik Carlson]] identifies the company as the hub of what he reads as a pro-Trump realignment inside [[hollywood|Hollywood]].1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Ownership and leadership
 
-Paramount Global is run by [[sheri-redstone|Sheri Redstone]], described by Carlson as a Trump ally, who took over from her father [[sumner-redstone|Sumner Redstone]] in 2016; Sumner, also a Trump ally, died in 2020.[[1]](https://badlands.substack.com/p/a-new-hollywood) The company is in the process of merging with, and will eventually be controlled by, [[skydance-media|Skydance Media]], run by [[david-ellison|David Ellison]], son of Oracle cofounder [[larry-ellison|Larry Ellison]].[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Paramount Global is run by [[sheri-redstone|Sheri Redstone]], described by Carlson as a Trump ally, who took over from her father [[sumner-redstone|Sumner Redstone]] in 2016; Sumner, also a Trump ally, died in 2020.1(https://badlands.substack.com/p/a-new-hollywood) The company is in the process of merging with, and will eventually be controlled by, [[skydance-media|Skydance Media]], run by [[david-ellison|David Ellison]], son of Oracle cofounder [[larry-ellison|Larry Ellison]].1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Valuation
 
-Carlson notes that Paramount Global is worth roughly $8 billion, having fluctuated between $20 and $40 billion in the seven years before Covid and spiking to $60 billion three years earlier when it launched its streaming service before immediately falling back.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Carlson notes that Paramount Global is worth roughly $8 billion, having fluctuated between $20 and $40 billion in the seven years before Covid and spiking to $60 billion three years earlier when it launched its streaming service before immediately falling back.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## The CBS lawsuit
 
-[[donald-trump|Donald Trump]] sued CBS for $10 billion over the edited [[60-minutes|60 Minutes]] interview with [[kamala-harris|Kamala Harris]], which he viewed as election tampering.[[1]](https://badlands.substack.com/p/a-new-hollywood) Carlson observes that Trump is suing for more than the parent company is worth, and that Paramount Global — which does not want anything to interfere with the Skydance merger — has recently discussed settling out of court despite critics initially calling the suit frivolous.[[1]](https://badlands.substack.com/p/a-new-hollywood) He raises the possibility that what would induce a settlement is control over the company.[[1]](https://badlands.substack.com/p/a-new-hollywood)
+[[donald-trump|Donald Trump]] sued CBS for $10 billion over the edited [[60-minutes|60 Minutes]] interview with [[kamala-harris|Kamala Harris]], which he viewed as election tampering.1(https://badlands.substack.com/p/a-new-hollywood) Carlson observes that Trump is suing for more than the parent company is worth, and that Paramount Global — which does not want anything to interfere with the Skydance merger — has recently discussed settling out of court despite critics initially calling the suit frivolous.1(https://badlands.substack.com/p/a-new-hollywood) He raises the possibility that what would induce a settlement is control over the company.1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Programming
 
-Carlson points to Paramount+ programming as evidence of a shift: [[lioness|Lioness]], the oil-field drama *Landman*, and Showtime's *The Agency*.[[1]](https://badlands.substack.com/p/a-new-hollywood) He remarks that even before the merger, Paramount+ "almost seems like a [[tom-cruise|Tom Cruise]] streaming app."[[1]](https://badlands.substack.com/p/a-new-hollywood)
+Carlson points to Paramount+ programming as evidence of a shift: [[lioness|Lioness]], the oil-field drama *Landman*, and Showtime's *The Agency*.1(https://badlands.substack.com/p/a-new-hollywood) He remarks that even before the merger, Paramount+ "almost seems like a [[tom-cruise|Tom Cruise]] streaming app."1(https://badlands.substack.com/p/a-new-hollywood)
 
 ## Action against ByteDance (2026)
 

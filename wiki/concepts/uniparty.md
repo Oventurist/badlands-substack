@@ -10,17 +10,17 @@ confidence: medium
 
 # Uniparty
 
-"Uniparty" is the term used in Badlands Media commentary for the contention that establishment Republicans and Democrats function in practice as a single governing bloc, differing in rhetoric but not in outcomes.[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+"Uniparty" is the term used in Badlands Media commentary for the contention that establishment Republicans and Democrats function in practice as a single governing bloc, differing in rhetoric but not in outcomes.1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
 
 ## The debt ceiling as proof
 
-[[erik-carlson|Erik Carlson]] invokes the concept directly in the context of the 2023 [[debt-ceiling-agreement-2023|debt limit agreement]], asking whether "more evidence of a 'Uniparty' need[s] to occur to wake more people up."[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america) The agreement — an increased debt limit with virtually no spending cuts — is the specific fact he treats as difficult to reconcile with genuine two-party opposition.[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+[[erik-carlson|Erik Carlson]] invokes the concept directly in the context of the 2023 [[debt-ceiling-agreement-2023|debt limit agreement]], asking whether "more evidence of a 'Uniparty' need[s] to occur to wake more people up."1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america) The agreement — an increased debt limit with virtually no spending cuts — is the specific fact he treats as difficult to reconcile with genuine two-party opposition.1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
 
-Carlson pairs the Uniparty frame with the possibility that [[kevin-mccarthy|Kevin McCarthy]]'s apparent capitulation to the Democrats was engineered to expose the RINOs and [[neoconservatives|Neocons]], noting that America First members had already secured rules making it easier to impeach the Speaker.[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america) On this reading the exposure of the Uniparty is not merely commentary but an objective that [[donald-trump|Donald Trump]] may be actively pursuing.[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+Carlson pairs the Uniparty frame with the possibility that [[kevin-mccarthy|Kevin McCarthy]]'s apparent capitulation to the Democrats was engineered to expose the RINOs and [[neoconservatives|Neocons]], noting that America First members had already secured rules making it easier to impeach the Speaker.1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america) On this reading the exposure of the Uniparty is not merely commentary but an objective that [[donald-trump|Donald Trump]] may be actively pursuing.1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
 
 ## Related usage
 
-The label "RINO" — Republican In Name Only — is used interchangeably in the article with Uniparty membership; Carlson's first instinct about McCarthy was that he was "just another weak Republican, maybe even a RINO."[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america) The same test is applied to [[ron-desantis|Ron DeSantis]], with the observation that whatever his motives, he is exposing the RINOs, Neocons and the [[deep-state|Deep State]].[[1]](https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
+The label "RINO" — Republican In Name Only — is used interchangeably in the article with Uniparty membership; Carlson's first instinct about McCarthy was that he was "just another weak Republican, maybe even a RINO."1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america) The same test is applied to [[ron-desantis|Ron DeSantis]], with the observation that whatever his motives, he is exposing the RINOs, Neocons and the [[deep-state|Deep State]].1(https://badlands.substack.com/p/a-communist-plot-to-take-over-america)
 
 ## Intra-party civil wars
 

@@ -10,15 +10,15 @@ confidence: medium
 
 # Los Angeles Times
 
-The Los Angeles Times is a major American daily newspaper, cited by Badlands Media as one of the clearest illustrations of the financial collapse of the legacy press.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The Los Angeles Times is a major American daily newspaper, cited by Badlands Media as one of the clearest illustrations of the financial collapse of the legacy press.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## 2024 layoffs
 
-In January 2024 the paper laid off 25% of what the article calls an "already-decimated newsroom" in a single day — 115 employees — only months after cutting 13% of its workforce.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) According to [[taylor-lorenz|Taylor Lorenz]], the round wiped out the paper's entire Washington DC bureau in an election year, eliminated essentially all of its sports coverage, killed the entire tech and business section, and removed breaking-news writers and social media editors.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+In January 2024 the paper laid off 25% of what the article calls an "already-decimated newsroom" in a single day — 115 employees — only months after cutting 13% of its workforce.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) According to [[taylor-lorenz|Taylor Lorenz]], the round wiped out the paper's entire Washington DC bureau in an election year, eliminated essentially all of its sports coverage, killed the entire tech and business section, and removed breaking-news writers and social media editors.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Significance in the Badlands account
 
-The Times is grouped with [[time-magazine|Time Magazine]], NBC News, [[sports-illustrated|Sports Illustrated]], National Geographic and Business Insider as widely recognized organizations that had either suffered significant workforce reductions or been pushed to the verge of extinction within the space of a few weeks.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) Badlands presents this cluster of failures as evidence that the [[centralized-media|centralized media]] model is terminal, and that the vacuum is being filled by [[citizen-journalism|citizen journalists]] in the [[decentralized-media|decentralized media]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The Times is grouped with [[time-magazine|Time Magazine]], NBC News, [[sports-illustrated|Sports Illustrated]], National Geographic and Business Insider as widely recognized organizations that had either suffered significant workforce reductions or been pushed to the verge of extinction within the space of a few weeks.1(https://badlands.substack.com/p/a-swan-song-for-the-msm) Badlands presents this cluster of failures as evidence that the [[centralized-media|centralized media]] model is terminal, and that the vacuum is being filled by [[citizen-journalism|citizen journalists]] in the [[decentralized-media|decentralized media]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## January 2024 layoffs
 

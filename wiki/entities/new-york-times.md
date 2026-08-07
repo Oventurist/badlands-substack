@@ -10,15 +10,15 @@ confidence: medium
 
 # The New York Times
 
-The New York Times is an American newspaper of record, described by Badlands Media as one of a group of "mainstream, historically spook-friendly outlets" alongside [[washington-post|The Washington Post]] and [[the-atlantic|The Atlantic]].[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The New York Times is an American newspaper of record, described by Badlands Media as one of a group of "mainstream, historically spook-friendly outlets" alongside [[washington-post|The Washington Post]] and [[the-atlantic|The Atlantic]].1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Hiring and orthodoxy
 
-Badlands argues that with corruption widespread in the West, the mainstream press cannot afford to employ journalists worthy of the title, because "effective journalists of integrity are a literal security risk for the security state."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm) Outlets such as the Times therefore tend to hire people already naturally inclined to support the narratives handed down from above — writers who "live and die by the modern liberal orthodoxy" and whose primary skillset is identifying and punishing internet users who deviate from it.[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+Badlands argues that with corruption widespread in the West, the mainstream press cannot afford to employ journalists worthy of the title, because "effective journalists of integrity are a literal security risk for the security state."1(https://badlands.substack.com/p/a-swan-song-for-the-msm) Outlets such as the Times therefore tend to hire people already naturally inclined to support the narratives handed down from above — writers who "live and die by the modern liberal orthodoxy" and whose primary skillset is identifying and punishing internet users who deviate from it.1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 ## Taylor Lorenz
 
-The article's principal example of this hiring pattern is [[taylor-lorenz|Taylor Lorenz]], a former New York Times and Washington Post writer who covered the social media beat and became known for what Badlands calls "tattletale journalism."[[1]](https://badlands.substack.com/p/a-swan-song-for-the-msm)
+The article's principal example of this hiring pattern is [[taylor-lorenz|Taylor Lorenz]], a former New York Times and Washington Post writer who covered the social media beat and became known for what Badlands calls "tattletale journalism."1(https://badlands.substack.com/p/a-swan-song-for-the-msm)
 
 
 ## Coverage of the fall of Assad
