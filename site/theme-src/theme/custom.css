@@ -67,3 +67,15 @@ button[aria-label="Search"] .key {
   border-bottom: 1px solid var(--vp-c-divider);
   padding-bottom: 14px;
 }
+
+/* 6. "On this page" outline — show full section titles (no ellipsis truncation) */
+/* VitePress default (.outline-link) uses nowrap + ellipsis, which clips long
+   entity-page section titles. Override to wrap onto multiple lines. */
+.VPDocAsideOutline .VPDocOutlineItem .outline-link {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+  line-height: 1.45;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
