@@ -1,3 +1,0 @@
-## Coverage of the Jack Daniel's DEI story (2024)
-
-ZeroHedge reported in August 2024 that Jack Daniel's parent company Brown-Forman Corp. had cut woke training ahead of an expose by commentator [[robby-starbuck|Robby Starbuck]], quoting his claim that "they must have been tipped off by us going through employee LinkedIn pages."[n] The outlet framed the story within its argument that "the toxic woke mind virus has infected corporate America, transforming companies into left-wing activists," and noted that Starbuck's crusade had already pushed Harley-Davidson Inc., Tractor Supply Co. and Deere & Co. to roll back [[diversity-equity-and-inclusion|DEI]] programs.[n]

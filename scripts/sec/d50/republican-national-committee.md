@@ -1,3 +1,0 @@
-## Arizona voting law emergency application (2024)
-
-The RNC filed an emergency request with the [[supreme-court-of-the-united-states|Supreme Court]] seeking to revive an Arizona law strengthening proof-of-citizenship requirements for voting, and on August 22, 2024 the justices partially granted it in a 5-4 vote, reinstating the requirement that officials reject state voter registration forms lacking proof of citizenship.[n] The Court denied the committee's other request.[n] RNC Chairman [[michael-whatley|Michael Whatley]] hailed the order on X as "a seismic win in the fight to stop non-citizens from voting - more to come!"[n]

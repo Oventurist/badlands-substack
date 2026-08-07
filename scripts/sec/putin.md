@@ -1,5 +1,0 @@
-## September 2023 comments on NATO expansion
-
-In September 2023, NATO Secretary General [[jens-stoltenberg|Jens Stoltenberg]] told the European Parliament's foreign affairs committee that Putin had declared in the autumn of 2021 and sent a draft treaty asking NATO to promise no further enlargement as a precondition for not invading Ukraine.[{n}] According to Stoltenberg, Putin also wanted NATO to remove military infrastructure from every ally that had joined since 1997 — effectively half the alliance across Central and Eastern Europe — a demand the alliance rejected as creating second-class membership.[{n}] Stoltenberg summarised the outcome by saying Putin "went to war to prevent NATO, more NATO, close to his borders."[{n}]
-
-The same month, NATO announced the [[steadfast-defender-exercise|Steadfast Defender]] exercise, a drill of more than 40,000 troops modelled on repelling a Russian-led coalition; commentary at [[badlands-media|Badlands Media]] by [[burning-bright|Burning Bright]] characterised it as a provocation aimed at Putin that he was unlikely to answer kinetically.[{n}]

@@ -1,3 +1,0 @@
-## Badlands commentary, August 2024
-
-In the August 23, 2024 Badlands News Brief, [[ghostofbasedpatrickhenry|GhostofBasedPatrickHenry]] referenced his previous day's take sharing videos of Russian military officers recounting the discovery of organ trafficking farms in which children were kept as livestock, presenting the claims as reinforcing [[burning-bright|Burning Bright]]'s "Righteous Russia" thesis.[n] He raised the material while questioning whether the [[department-of-justice|Department of Justice]]'s investigation of Americans tied to Russian state media would sweep in commentators who circulated such footage.[n]
