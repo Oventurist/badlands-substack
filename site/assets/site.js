@@ -72,8 +72,7 @@
             .map(function (i) {
               return (
                 '<a class="search-result" href="' + i.url + '">' +
-                '<span class="sr-title">' + escapeHtml(i.title) + "</span> " +
-                '<span class="sr-section">' + i.section + "</span></a>"
+                '<span class="sr-title">' + escapeHtml(i.title) + "</span></a>"
               );
             })
             .join("");

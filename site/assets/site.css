@@ -155,7 +155,6 @@ ol#references, .page ol { padding-left: 1.6em; }
 .search-result { display: block; padding: 9px 14px; border-bottom: 1px solid var(--border); }
 .search-result:last-child { border-bottom: none; }
 .search-result .sr-title { font-size: 14px; color: var(--text); }
-.search-result .sr-section { font-size: 11px; color: var(--text-2); text-transform: uppercase; letter-spacing: 0.04em; }
 .search-result:hover { background: var(--bg-mute); text-decoration: none; }
 .search-empty { padding: 12px 14px; color: var(--text-2); font-size: 13px; }
 
