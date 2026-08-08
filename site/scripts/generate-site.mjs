@@ -259,9 +259,6 @@ function pageTemplate({ title, bodyClass, body, browserMount }) {
 <body class="${bodyClass || ""}">
 <header class="site-header">
   <a class="brand" href="${BASE}">Badlands Wiki</a>
-  <nav class="site-nav">
-    <a href="${BASE}tags/">Tags</a>
-  </nav>
   <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
     <span class="theme-icon-light">☀</span><span class="theme-icon-dark">☾</span>
   </button>
