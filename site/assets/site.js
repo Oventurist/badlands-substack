@@ -19,6 +19,34 @@
       .catch(function (e) { console.error("index data load failed", e); });
   }
 
+  /* ---- relevance ranking for search ---- */
+  function searchScore(i, term) {
+    var t = i.title.toLowerCase();
+    if (t === term) return 1000;                              // exact title match
+    if (t.indexOf(term) === 0) return 800;                    // title starts with term
+    if (t.indexOf(" " + term) !== -1 || t.indexOf(term + " ") === 0) return 700; // whole word in title
+    if (t.indexOf(term) !== -1) return 500;                   // substring in title
+    if (i.tags) {
+      var tags = i.tags.map(function (x) { return x.toLowerCase(); });
+      if (tags.indexOf(term) !== -1) return 400;              // exact tag match
+      if (tags.some(function (x) { return x.indexOf(term) === 0; })) return 300; // tag prefix
+      if (tags.some(function (x) { return x.indexOf(term) !== -1; })) return 200; // tag substring
+    }
+    return 0;
+  }
+
+  function rankHits(d, term) {
+    return d
+      .map(function (i) { return { item: i, score: searchScore(i, term) }; })
+      .filter(function (r) { return r.score > 0; })
+      .sort(function (a, b) {
+        if (b.score !== a.score) return b.score - a.score;
+        if (a.item.title.length !== b.item.title.length) return a.item.title.length - b.item.title.length;
+        return a.item.title.localeCompare(b.item.title);
+      })
+      .map(function (r) { return r.item; });
+  }
+
   /* ---- home search ---- */
   function initSearch() {
     var input = document.getElementById("home-search");
@@ -33,12 +61,7 @@
       if (!q) { box.className = "home-search-results search-results"; box.innerHTML = ""; return; }
       t = setTimeout(function () {
         loadData(function (d) {
-          var hits = d
-            .filter(function (i) {
-              return i.title.toLowerCase().indexOf(q) !== -1 ||
-                (i.tags && i.tags.join(" ").toLowerCase().indexOf(q) !== -1);
-            })
-            .slice(0, 20);
+          var hits = rankHits(d, q).slice(0, 20);
           if (!hits.length) {
             box.className = "home-search-results search-results open";
             box.innerHTML = '<div class="search-empty">No matches for "' + escapeHtml(input.value) + '"</div>';
@@ -47,9 +70,11 @@
           box.className = "home-search-results search-results open";
           box.innerHTML = hits
             .map(function (i) {
+              var exact = i.title.toLowerCase() === q;
               return (
-                '<a class="search-result" href="' + i.url + '">' +
+                '<a class="search-result' + (exact ? " sr-exact" : "") + '" href="' + i.url + '">' +
                 '<span class="sr-title">' + escapeHtml(i.title) + "</span> " +
+                (exact ? '<span class="sr-exact-badge">Exact match</span> ' : "") +
                 '<span class="sr-section">' + i.section + "</span></a>"
               );
             })
@@ -229,18 +254,20 @@
         return;
       }
       loadData(function (d) {
-        var hits = d.filter(function (i) {
-          return i.title.toLowerCase().indexOf(term) !== -1 ||
-            (i.tags && i.tags.join(" ").toLowerCase().indexOf(term) !== -1);
-        });
+        var hits = rankHits(d, term);
         meta.textContent = hits.length + " result" + (hits.length === 1 ? "" : "s") + ' for "' + term + '"';
         if (!hits.length) {
           results.innerHTML = '<div class="browser-empty">No matching pages. Try another term.</div>';
           return;
         }
+        // show all matches, most relevant first
         results.innerHTML = '<ul class="browser-list">' + hits
           .map(function (i) {
-            return '<li class="browser-item"><a href="' + i.url + '">' + escapeHtml(i.title) + "</a></li>";
+            var exact = i.title.toLowerCase() === term;
+            return '<li class="browser-item' + (exact ? " bi-exact" : "") + '"><a href="' + i.url + '">' +
+              escapeHtml(i.title) + "</a>" +
+              (exact ? ' <span class="sr-exact-badge">Exact match</span>' : "") +
+              "</li>";
           })
           .join("") + "</ul>";
       });
