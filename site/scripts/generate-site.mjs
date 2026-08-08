@@ -260,11 +260,8 @@ function pageTemplate({ title, bodyClass, body, browserMount }) {
 <header class="site-header">
   <a class="brand" href="${BASE}">Badlands Wiki</a>
   <nav class="site-nav">
-    <a href="${BASE}entities/">Entities</a>
-    <a href="${BASE}concepts/">Concepts</a>
     <a href="${BASE}tags/">Tags</a>
   </nav>
-  <input id="nav-search" class="nav-search" type="search" placeholder="Search the wiki…" aria-label="Search">
 </header>
 <main class="page ${bodyClass || ""}">
 ${body}
@@ -362,16 +359,41 @@ async function main() {
   );
   console.log(`index-data.json: ${indexData.length} entries`);
 
-  // home
+  // home — search-centric hero + tag cloud
+  const tagCounts = {};
+  for (const d of indexData) {
+    for (const t of d.tags || []) tagCounts[t] = (tagCounts[t] || 0) + 1;
+  }
+  const topTags = Object.entries(tagCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 200);
+  const maxTag = topTags.length ? topTags[0][1] : 1;
+  const tagCloud = topTags
+    .map(([tag, n]) => {
+      const slug = slugifyTitle(tag);
+      const weight = 0.8 + (n / maxTag) * 0.9; // 0.8–1.7em
+      const safe = tag.replace(/"/g, "&quot;");
+      return `<a class="home-tag" href="${BASE}tags/?tag=${slug}" title="${n} pages" style="font-size:${weight.toFixed(2)}em">${safe}</a>`;
+    })
+    .join("");
+
   const home = pageTemplate({
     title: "Badlands Wiki",
-    body: `<h1>Badlands Wiki</h1>
-<p>A community-compiled knowledge base covering the people, institutions, concepts, and narratives of the Badlands Media corpus.</p>
-<ul>
-<li><strong>Entities</strong> (${indexData.filter((d) => d.section === "entities").length}): <a href="${BASE}entities/">browse all</a> — people, organizations, institutions</li>
-<li><strong>Concepts</strong> (${indexData.filter((d) => d.section === "concepts").length}): <a href="${BASE}concepts/">browse all</a> — ideas and narratives</li>
-</ul>
-<p>Use the search box above, or open <a href="${BASE}tags/">Tags</a> to browse by topic.</p>`,
+    bodyClass: "home-page",
+    body: `<section class="home-hero">
+  <h1>Badlands Wiki</h1>
+  <p class="home-sub">A community-compiled knowledge base on the people, institutions, and narratives of the Badlands Media corpus.</p>
+  <form class="home-search" role="search" onsubmit="return false">
+    <label class="visually-hidden" for="home-search">Search the wiki</label>
+    <input id="home-search" class="home-search-input" type="search" placeholder="Search ${indexData.length.toLocaleString()} pages…" aria-label="Search the wiki">
+    <div class="home-search-results search-results" id="home-search-results"></div>
+  </form>
+</section>
+<section class="home-tags">
+  <h2>Browse by tag</h2>
+  <div class="tag-cloud" role="list">${tagCloud}</div>
+  <p class="home-tags-more"><a href="${BASE}tags/">View all ${Object.keys(tagCounts).length.toLocaleString()} tags →</a></p>
+</section>`,
   });
   await fs.writeFile(path.join(DIST, "index.html"), home, "utf-8");
 
