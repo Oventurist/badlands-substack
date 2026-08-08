@@ -47,11 +47,11 @@
       .map(function (r) { return r.item; });
   }
 
-  /* ---- home search ---- */
+  /* ---- home/header search (live suggestions; Enter -> /search/) ---- */
   function initSearch() {
-    var input = document.getElementById("home-search");
+    var input = document.getElementById("home-search") || document.getElementById("header-search");
     if (!input) return;
-    var box = document.getElementById("home-search-results");
+    var box = document.getElementById("home-search-results") || document.getElementById("header-search-results");
     if (!box) return;
 
     var t;
@@ -70,11 +70,9 @@
           box.className = "home-search-results search-results open";
           box.innerHTML = hits
             .map(function (i) {
-              var exact = i.title.toLowerCase() === q;
               return (
-                '<a class="search-result' + (exact ? " sr-exact" : "") + '" href="' + i.url + '">' +
+                '<a class="search-result" href="' + i.url + '">' +
                 '<span class="sr-title">' + escapeHtml(i.title) + "</span> " +
-                (exact ? '<span class="sr-exact-badge">Exact match</span> ' : "") +
                 '<span class="sr-section">' + i.section + "</span></a>"
               );
             })
@@ -263,11 +261,7 @@
         // show all matches, most relevant first
         results.innerHTML = '<ul class="browser-list">' + hits
           .map(function (i) {
-            var exact = i.title.toLowerCase() === term;
-            return '<li class="browser-item' + (exact ? " bi-exact" : "") + '"><a href="' + i.url + '">' +
-              escapeHtml(i.title) + "</a>" +
-              (exact ? ' <span class="sr-exact-badge">Exact match</span>' : "") +
-              "</li>";
+            return '<li class="browser-item"><a href="' + i.url + '">' + escapeHtml(i.title) + "</a></li>";
           })
           .join("") + "</ul>";
       });

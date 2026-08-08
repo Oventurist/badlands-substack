@@ -248,6 +248,15 @@ function renderBody(markdown) {
 
 // ---- page template ---------------------------------------------------------
 function pageTemplate({ title, bodyClass, body, browserMount }) {
+  // header search bar on every page except the home page (which has its own hero)
+  const isHome = (bodyClass || "").indexOf("home-page") !== -1;
+  const headerSearch = isHome
+    ? ""
+    : `<form class="header-search" role="search" action="${BASE}search/" method="get">
+    <label class="visually-hidden" for="header-search">Search the wiki</label>
+    <input id="header-search" class="header-search-input" type="search" name="q" placeholder="Search…" aria-label="Search the wiki" autocomplete="off">
+    <div class="header-search-results search-results" id="header-search-results"></div>
+  </form>`;
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -259,6 +268,7 @@ function pageTemplate({ title, bodyClass, body, browserMount }) {
 <body class="${bodyClass || ""}">
 <header class="site-header">
   <a class="brand" href="${BASE}">Badlands Wiki</a>
+  ${headerSearch}
   <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
     <span class="theme-icon-light">☀</span><span class="theme-icon-dark">☾</span>
   </button>
