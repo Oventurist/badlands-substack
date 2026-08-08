@@ -195,6 +195,68 @@
     });
   }
 
+  /* ---- dark mode toggle (persisted, visible on all sizes) ---- */
+  function initTheme() {
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    var stored = null;
+    try { stored = localStorage.getItem("theme"); } catch (e) {}
+    if (stored === "dark" || (!stored && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+      document.documentElement.classList.add("dark");
+    }
+    btn.addEventListener("click", function () {
+      var now = document.documentElement.classList.toggle("dark");
+      try { localStorage.setItem("theme", now ? "dark" : "light"); } catch (e) {}
+    });
+  }
+
+  /* ---- /search/ results page: read ?q=, list all matches ---- */
+  function initSearchPage() {
+    var input = document.getElementById("search-page-input");
+    var meta = document.getElementById("search-meta");
+    var results = document.getElementById("search-results");
+    if (!input || !results) return;
+
+    var qp = new URLSearchParams(window.location.search);
+    var q = (qp.get("q") || "").trim();
+    if (q) input.value = q;
+
+    function render() {
+      var term = input.value.trim().toLowerCase();
+      if (!term) {
+        meta.textContent = "";
+        results.innerHTML = '<div class="browser-empty">Type a term and press Enter to see every matching page.</div>';
+        return;
+      }
+      loadData(function (d) {
+        var hits = d.filter(function (i) {
+          return i.title.toLowerCase().indexOf(term) !== -1 ||
+            (i.tags && i.tags.join(" ").toLowerCase().indexOf(term) !== -1);
+        });
+        meta.textContent = hits.length + " result" + (hits.length === 1 ? "" : "s") + ' for "' + term + '"';
+        if (!hits.length) {
+          results.innerHTML = '<div class="browser-empty">No matching pages. Try another term.</div>';
+          return;
+        }
+        results.innerHTML = '<ul class="browser-list">' + hits
+          .map(function (i) {
+            return '<li class="browser-item"><a href="' + i.url + '">' + escapeHtml(i.title) + "</a></li>";
+          })
+          .join("") + "</ul>";
+      });
+    }
+
+    input.addEventListener("input", function () {
+      // update the URL without reloading so the page is shareable
+      var url = BASE + "search/?q=" + encodeURIComponent(input.value.trim());
+      if (window.history && window.history.replaceState) window.history.replaceState(null, "", url);
+      render();
+    });
+    // re-render on Enter (covers form submission via GET too)
+    input.form && input.form.addEventListener("submit", function (e) { e.preventDefault(); render(); });
+    render();
+  }
+
   function escapeHtml(s) {
     return String(s).replace(/[&<>"']/g, function (c) {
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
@@ -202,7 +264,9 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
+    initTheme();
     initSearch();
+    initSearchPage();
     initBrowser();
   });
 })();

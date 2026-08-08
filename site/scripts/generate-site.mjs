@@ -262,6 +262,9 @@ function pageTemplate({ title, bodyClass, body, browserMount }) {
   <nav class="site-nav">
     <a href="${BASE}tags/">Tags</a>
   </nav>
+  <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+    <span class="theme-icon-light">☀</span><span class="theme-icon-dark">☾</span>
+  </button>
 </header>
 <main class="page ${bodyClass || ""}">
 ${body}
@@ -359,40 +362,19 @@ async function main() {
   );
   console.log(`index-data.json: ${indexData.length} entries`);
 
-  // home — search-centric hero + tag cloud
-  const tagCounts = {};
-  for (const d of indexData) {
-    for (const t of d.tags || []) tagCounts[t] = (tagCounts[t] || 0) + 1;
-  }
-  const topTags = Object.entries(tagCounts)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 200);
-  const maxTag = topTags.length ? topTags[0][1] : 1;
-  const tagCloud = topTags
-    .map(([tag, n]) => {
-      const slug = slugifyTitle(tag);
-      const weight = 0.8 + (n / maxTag) * 0.9; // 0.8–1.7em
-      const safe = tag.replace(/"/g, "&quot;");
-      return `<a class="home-tag" href="${BASE}tags/?tag=${slug}" title="${n} pages" style="font-size:${weight.toFixed(2)}em">${safe}</a>`;
-    })
-    .join("");
-
+  // home — search-centric hero (single search bar for everything)
   const home = pageTemplate({
     title: "Badlands Wiki",
     bodyClass: "home-page",
     body: `<section class="home-hero">
   <h1>Badlands Wiki</h1>
   <p class="home-sub">A community-compiled knowledge base on the people, institutions, and narratives of the Badlands Media corpus.</p>
-  <form class="home-search" role="search" onsubmit="return false">
+  <form class="home-search" role="search" action="${BASE}search/" method="get">
     <label class="visually-hidden" for="home-search">Search the wiki</label>
-    <input id="home-search" class="home-search-input" type="search" placeholder="Search ${indexData.length.toLocaleString()} pages…" aria-label="Search the wiki">
+    <input id="home-search" class="home-search-input" type="search" name="q" placeholder="Search ${indexData.length.toLocaleString()} pages…" aria-label="Search the wiki" autocomplete="off">
     <div class="home-search-results search-results" id="home-search-results"></div>
   </form>
-</section>
-<section class="home-tags">
-  <h2>Browse by tag</h2>
-  <div class="tag-cloud" role="list">${tagCloud}</div>
-  <p class="home-tags-more"><a href="${BASE}tags/">View all ${Object.keys(tagCounts).length.toLocaleString()} tags →</a></p>
+  <p class="home-hint">Press <strong>Enter</strong> to see all matching pages.</p>
 </section>`,
   });
   await fs.writeFile(path.join(DIST, "index.html"), home, "utf-8");
@@ -419,6 +401,20 @@ async function main() {
   });
   await fs.mkdir(path.join(DIST, "tags"), { recursive: true });
   await fs.writeFile(path.join(DIST, "tags", "index.html"), tagHtml, "utf-8");
+
+  // full search results page (reads ?q=, lists all matches on load)
+  const searchHtml = pageTemplate({
+    title: "Search",
+    bodyClass: "browser-page search-page",
+    body: `<h1>Search</h1>
+<form class="search-page-form" role="search" action="${BASE}search/" method="get">
+  <input id="search-page-input" class="home-search-input" type="search" name="q" placeholder="Search ${indexData.length.toLocaleString()} pages…" aria-label="Search the wiki" autocomplete="off">
+</form>
+<div class="browser-meta" id="search-meta"></div>
+<div class="browser-groups" id="search-results"></div>`,
+  });
+  await fs.mkdir(path.join(DIST, "search"), { recursive: true });
+  await fs.writeFile(path.join(DIST, "search", "index.html"), searchHtml, "utf-8");
 
   console.log(`done: ${indexData.filter((d) => d.section === "entities").length} entities, ${indexData.filter((d) => d.section === "concepts").length} concepts`);
 }
